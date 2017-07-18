@@ -19,5 +19,5 @@ if (isset($_POST['send']))
   mail($to,$email_subject,$email_body,$header);?>
   <center><h1>Cảm ơn bạn đã đăng ký với giáo viên <?php echo $chosen; ?></h1></center>
   <center><h3>Chúng tôi sẽ liên lạc lại với bạn sau 24h</h3></center>
-  <center><a href="http://hocgiday.vn/hoc-piano-123.php">Quay lại</a></center>
+  <center><a href="http://hocgiday.vn/hoc-piano-123.php" style="font-size: 130%">Tiếp tục tìm kiếm</a></center>
 <?php } ?>
