@@ -62,34 +62,18 @@ if (isset($_POST['yeucaugiaovien'])) {
 		<h3>Phần bắt buộc</h3>
 		<div class="form-group">
 			<label for="">Môn bạn muốn đăng ký: </label>
-			<?php if ($_SESSION['subject'] == 'guitar') { ?>
 			<span class="radio">
 				<label>
-					<input type="radio" name="subject" value="piano" required="required">
+					<input type="radio" name="subject" value="piano" id="chosen-piano" required="required">
 					Piano
 				</label>
 			</span>
 			<span class="radio">
 				<label>
-					<input type="radio" name="subject" value="guitar" checked="checked" required="required">
+					<input type="radio" name="subject" value="guitar" id="chosen-guitar" required="required">
 					Guitar
 				</label>
 			</span>
-			<?php } ?>
-			<?php if ($_SESSION['subject'] == 'piano') { ?>
-			<span class="radio">
-				<label>
-					<input type="radio" name="subject" value="piano" checked="checked" required="required">
-					Piano
-				</label>
-			</span>
-			<span class="radio">
-				<label>
-					<input type="radio" name="subject" value="guitar" required="required">
-					Guitar
-				</label>
-			</span>
-			<?php } ?>
 		</div>
 
 		<div class="form-group">
@@ -192,6 +176,20 @@ if (isset($_POST['yeucaugiaovien'])) {
 
 <!-- MY script -->
 <script src="dist/js/app.js" type="text/javascript" charset="utf-8"></script>
+
+<!-- Custom script -->
+<script type="text/javascript" charset="utf-8" async>
+	$(function(){
+		<?php if ($_SESSION['subject'] == 'guitar') {?>
+			$('#chosen-guitar').prop("checked",true);
+			$('#chosen-piano').prop("checked",false);
+		<?php } ?>
+		<?php if ($_SESSION['subject'] == 'piano') {?>
+			$('#chosen-piano').prop("checked",true);
+			$('#chosen-guitar').prop("checked",false);
+		<?php } ?>
+	});
+</script>
 
 </body>
 </html>
