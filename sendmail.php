@@ -10,12 +10,12 @@ if (isset($_POST['send']))
   $chosen = $_POST['teacher'];
   $subject = $_POST['subject'];
   $to = 'ndwuong@hocgiday.vn';
-  $email_subject = 'Thông tin người dùng'.$fullname;
+  $email_subject = 'Thông tin người dùng '.$fullname;
   $email_body = "Thông tin người dùng đăng ký: ".
     "<br>Tên: $fullname".
     "<br>Số điện thoại: $tel".
     "<br>Đăng ký học với giáo viên: $chosen".
-    "<br>Tại trang: 'Học ".$subject."'";
+    "<br>Tại trang: 'Học ".$subject." tại Hà Nội'";
   $header = "Content-type: text/html; charset=utf-8\r\n";
   $header .= "From: no-reply@customer.com";
   mail($to,$email_subject,$email_body,$header);
