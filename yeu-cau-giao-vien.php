@@ -1,3 +1,8 @@
+<?php session_start(); ?>
+<?php 
+if (isset($_POST['yeucaugiaovien'])) {
+	$_SESSION['subject'] = $_POST['subject-hidden'];
+}?>
 <!DOCTYPE html>
 <html lang="vi">
 <head>
@@ -52,11 +57,26 @@
 <body>
 
 <div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 col-xs-offset-3 col-sm-offset-3 col-md-offset-3 col-lg-offset-3 reg-box">
-	<form class="reg-form" action="reg.php" method="POST" role="form">
+	<form class="reg-form" action="register.php" method="POST" role="form">
 		<legend>Đăng ký học tại Học Gì Đây</legend>
 		<h3>Phần bắt buộc</h3>
 		<div class="form-group">
 			<label for="">Môn bạn muốn đăng ký: </label>
+			<?php if ($_SESSION['subject'] == 'guitar') { ?>
+			<span class="radio">
+				<label>
+					<input type="radio" name="subject" value="piano" required="required">
+					Piano
+				</label>
+			</span>
+			<span class="radio">
+				<label>
+					<input type="radio" name="subject" value="guitar" checked="checked" required="required">
+					Guitar
+				</label>
+			</span>
+			<?php } ?>
+			<?php if ($_SESSION['subject'] == 'piano') { ?>
 			<span class="radio">
 				<label>
 					<input type="radio" name="subject" value="piano" checked="checked" required="required">
@@ -68,7 +88,8 @@
 					<input type="radio" name="subject" value="guitar" required="required">
 					Guitar
 				</label>
-			</span>		
+			</span>
+			<?php } ?>
 		</div>
 
 		<div class="form-group">
@@ -77,27 +98,6 @@
 		<div class="form-group">
 			<input name="tel" type="number" class="form-control" placeholder="Số điện thoại liên lạc" required="required">
 		</div>
-<!-- 		<div class="form-group">
-			<label for="">Bạn đang sống ở: </label>
-			<div class="radio">
-				<label>
-					<input type="radio" name="city" value="Hà Nội" checked="checked">
-					Hà Nội
-				</label>
-			</div>
-			<div class="radio">
-				<label>
-					<input type="radio" name="city" value="Đà Nẵng" checked="checked">
-					Đà Nẵng
-				</label>
-			</div>
-			<div class="radio">
-				<label>
-					<input type="radio" name="city" value="TP. Hồ Chí Minh" checked="checked">
-					TP. Hồ Chí Minh
-				</label>
-			</div>
-		</div> -->
 		<hr>
 		<div class="optional">
 			<h3>Phần mở rộng</h3>

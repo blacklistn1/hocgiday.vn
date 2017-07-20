@@ -1,3 +1,5 @@
+<?php session_start(); ?>
+<?php $_SESSION['subject'] = ''; ?>
 <!DOCTYPE html>
 <html lang="vi">
 <head>
@@ -70,7 +72,10 @@
 			<span class="hgd-contact-number ">Giải đáp thắc mắc: 0944852366</span>
 		</div>
 		<div class="col-xs-3 col-sm-3 col-md-3 col-lg-3 col-xs-offset-1 col-sm-offset-2 yeucaugiaovien">
-			<a href="http://hocgiday.vn/yeu-cau-giao-vien.html" type="button" class="btn btn-warning yeucaugiaovien"><strong>Yêu cầu giáo viên</strong></a>
+			<form action="yeu-cau-giao-vien.php" method="POST" accept-charset="utf-8">
+				<input type="hidden" name="subject-hidden" value="piano">
+				<button type="submit" name="yeucaugiaovien" class="btn btn-warning yeucaugiaovien"><strong>Yêu cầu giáo viên</strong></button>
+			</form>
 		</div>
 	</div>
 </div>
@@ -4893,7 +4898,7 @@ Với 2 năm dạy tại nhà, những học viên của Ngô Mai Phương chủ
 					<h3 class="modal-title" id="tName"></h3> 
 				</div>
 				<div class="modal-body">
-					<form action="send.php" method="POST" role="form">
+					<form action="sendmail.php" method="POST" role="form">
 						<div class="form-group">
 							<input type="text" name="fullname" class="form-control mailing-info" placeholder="Tên đầy đủ của bạn" required="required">
 						</div>
@@ -4902,6 +4907,7 @@ Với 2 năm dạy tại nhà, những học viên của Ngô Mai Phương chủ
 						</div>
 						<div class="form-group">
 							<input type="hidden" name="teacher" id="chosen-teacher" class="form-control">
+							<input type="hidden" name="subject" value="piano">
 						</div>
 						<div class="modal-footer">
 							<button name="send" type="submit" class="btn btn-primary btn-submit">Gửi đi</button>
@@ -4920,12 +4926,12 @@ Với 2 năm dạy tại nhà, những học viên của Ngô Mai Phương chủ
 <!-- jQuery -->
 <script src="http://code.jquery.com/jquery-3.2.1.js"></script>
 <!-- JQuery UI -->
-<script src="http://hocgiday.vn/dist/js/jquery-ui.smoothness/jquery-ui.min.js" type="text/javascript" charset="utf-8"></script>	
+<script src="dist/js/jquery-ui.smoothness/jquery-ui.min.js" type="text/javascript" charset="utf-8"></script>	
 <!-- Bootstrap JavaScript -->
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
 
 <!-- MY script -->
-<script src="http://hocgiday.vn/dist/js/app.js" type="text/javascript" charset="utf-8"></script>
+<script src="dist/js/app.js" type="text/javascript" charset="utf-8"></script>
 
 </body>
 </html>
