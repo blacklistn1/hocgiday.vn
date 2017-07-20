@@ -36,6 +36,19 @@ $(document).ready(function() {
 			filterSystem(mi, mx);
 		}
 	});
+	$('#price-slider-reg').slider({
+		range: true,
+		min: 100,
+		max: 1000,
+		step: 10,
+		values: [100, 1000],
+		create: function() {
+			$("#slider-info *").val("100 000 - 1000 000");
+		},
+		slide: function (event, ui) {
+			$("#slider-info *").val(ui.values[0] + " 000 - " + ui.values[1] + " 000");
+		}
+	});	
 });
 
 function filterSystem(minPrice, maxPrice) {

@@ -15,10 +15,13 @@ h1, h2, h3, h4, h5, h6 {
   position: sticky;
   background-color: white;
   z-index: 2;
+
 }
+
 
 #contact {
   top: 0;
+  
 }
 
 .hgd-header {
@@ -317,12 +320,11 @@ input[type=checkbox]:checked + label::after {
 .wrapper {
   position: relative;
   height: 0;
-
 }
 
 .wrapper-iframe {
   padding-top: 56.25%;
-  margin-bottom: 30pt;
+  /* width: 90%; */
 }
 
 .wrapper-item {
