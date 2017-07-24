@@ -23,12 +23,12 @@
 	<link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet">
 
 	<!-- JQuery UI -->
-	<link rel="stylesheet" type="text/css" href="http://hocgiday.vn/dist/js/jquery-ui.smoothness/jquery-ui.css">
+	<link rel="stylesheet" type="text/css" href="dist/js/jquery-ui.smoothness/jquery-ui.css">
 	<!-- Google Fonts -->
 	<link href="https://fonts.googleapis.com/css?family=Montserrat|Open+Sans" rel="stylesheet">
 
 	<!-- MY style -->
-	<link rel="stylesheet" type="text/css" href="http://hocgiday.vn/dist/css/style.css">
+	<link rel="stylesheet" type="text/css" href="dist/css/style.css">
 
 	<style type="text/css" media="screen">
 
@@ -4924,7 +4924,11 @@ Với 2 năm dạy tại nhà, những học viên của Ngô Mai Phương chủ
 </div> <!-- End container -->
 
 <!-- jQuery -->
-<script src="http://code.jquery.com/jquery-3.2.1.js"></script>
+<script
+	src="https://code.jquery.com/jquery-3.2.1.js"
+	integrity="sha256-DZAnKJ/6XZ9si04Hgrsxu/8s717jcIzLy3oi35EouyE="
+	crossorigin="anonymous">
+</script>
 <!-- JQuery UI -->
 <script src="dist/js/jquery-ui.smoothness/jquery-ui.min.js" type="text/javascript" charset="utf-8"></script>	
 <!-- Bootstrap JavaScript -->

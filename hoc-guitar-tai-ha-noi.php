@@ -204,51 +204,51 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 					<h4>Lịch giảng dạy của giáo viên</h4>
 					<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
 						<table class="table table-bordered">
-      <thead>
-       <tr>
-        <th></th>
-        <th>T2</th>
-        <th>T3</th>
-        <th>T4</th>
-        <th>T5</th>
-        <th>T6</th>
-        <th>T7</th>
-        <th>CN</th>
-       </tr>
-      </thead>
-      <tbody>
-       <tr>
-        <th>Sáng</th>
-        <td class="busy"></td>
-        <td class="busy"></td>
-        <td class="busy"></td>
-        <td></td>
-        <td></td>
-        <td class="busy"></td>
-        <td></td>
-       </tr>
-       <tr>
-        <th>Chiều</th>
-        <td class="busy"></td>
-        <td class="busy"></td>
-        <td class="busy"></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-       </tr>
-       <tr>
-        <th>Tối</th>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-       </tr>
-      </tbody>
-     </table> 
+			<thead>
+			 <tr>
+				<th></th>
+				<th>T2</th>
+				<th>T3</th>
+				<th>T4</th>
+				<th>T5</th>
+				<th>T6</th>
+				<th>T7</th>
+				<th>CN</th>
+			 </tr>
+			</thead>
+			<tbody>
+			 <tr>
+				<th>Sáng</th>
+				<td class="busy"></td>
+				<td class="busy"></td>
+				<td class="busy"></td>
+				<td></td>
+				<td></td>
+				<td class="busy"></td>
+				<td></td>
+			 </tr>
+			 <tr>
+				<th>Chiều</th>
+				<td class="busy"></td>
+				<td class="busy"></td>
+				<td class="busy"></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+			 </tr>
+			 <tr>
+				<th>Tối</th>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+			 </tr>
+			</tbody>
+		 </table> 
  
 					<span class="legend"></span> : Những buổi giáo viên có thể giảng dạy 	
 					</div>
@@ -360,51 +360,51 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 					<h4>Lịch giảng dạy của giáo viên</h4>
 					<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
 						<table class="table table-bordered">
-      <thead>
-       <tr>
-        <th></th>
-        <th>T2</th>
-        <th>T3</th>
-        <th>T4</th>
-        <th>T5</th>
-        <th>T6</th>
-        <th>T7</th>
-        <th>CN</th>
-       </tr>
-      </thead>
-      <tbody>
-       <tr>
-        <th>Sáng</th>
-        <td class="busy"></td>
-        <td class="busy"></td>
-        <td class="busy"></td>
-        <td class="busy"></td>
-        <td class="busy"></td>
-        <td class="busy"></td>
-        <td class="busy"></td>
-       </tr>
-       <tr>
-        <th>Chiều</th>
-        <td class="busy"></td>
-        <td class="busy"></td>
-        <td></td>
-        <td class="busy"></td>
-        <td class="busy"></td>
-        <td class="busy"></td>
-        <td class="busy"></td>
-       </tr>
-       <tr>
-        <th>Tối</th>
-        <td class="busy"></td>
-        <td class="busy"></td>
-        <td></td>
-        <td class="busy"></td>
-        <td></td>
-        <td class="busy"></td>
-        <td class="busy"></td>
-       </tr>
-      </tbody>
-     </table>
+			<thead>
+			 <tr>
+				<th></th>
+				<th>T2</th>
+				<th>T3</th>
+				<th>T4</th>
+				<th>T5</th>
+				<th>T6</th>
+				<th>T7</th>
+				<th>CN</th>
+			 </tr>
+			</thead>
+			<tbody>
+			 <tr>
+				<th>Sáng</th>
+				<td class="busy"></td>
+				<td class="busy"></td>
+				<td class="busy"></td>
+				<td class="busy"></td>
+				<td class="busy"></td>
+				<td class="busy"></td>
+				<td class="busy"></td>
+			 </tr>
+			 <tr>
+				<th>Chiều</th>
+				<td class="busy"></td>
+				<td class="busy"></td>
+				<td></td>
+				<td class="busy"></td>
+				<td class="busy"></td>
+				<td class="busy"></td>
+				<td class="busy"></td>
+			 </tr>
+			 <tr>
+				<th>Tối</th>
+				<td class="busy"></td>
+				<td class="busy"></td>
+				<td></td>
+				<td class="busy"></td>
+				<td></td>
+				<td class="busy"></td>
+				<td class="busy"></td>
+			 </tr>
+			</tbody>
+		 </table>
  
  
 					<span class="legend"></span> : Những buổi giáo viên có thể giảng dạy 	
@@ -517,51 +517,51 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 					<h4>Lịch giảng dạy của giáo viên</h4>
 					<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
 						<table class="table table-bordered">
-      <thead>
-       <tr>
-        <th></th>
-        <th>T2</th>
-        <th>T3</th>
-        <th>T4</th>
-        <th>T5</th>
-        <th>T6</th>
-        <th>T7</th>
-        <th>CN</th>
-       </tr>
-      </thead>
-      <tbody>
-       <tr>
-        <th>Sáng</th>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td class="busy"></td>
-       </tr>
-       <tr>
-        <th>Chiều</th>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td class="busy"></td>
-       </tr>
-       <tr>
-        <th>Tối</th>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td class="busy"></td>
-       </tr>
-      </tbody>
-     </table>
+			<thead>
+			 <tr>
+				<th></th>
+				<th>T2</th>
+				<th>T3</th>
+				<th>T4</th>
+				<th>T5</th>
+				<th>T6</th>
+				<th>T7</th>
+				<th>CN</th>
+			 </tr>
+			</thead>
+			<tbody>
+			 <tr>
+				<th>Sáng</th>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td class="busy"></td>
+			 </tr>
+			 <tr>
+				<th>Chiều</th>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td class="busy"></td>
+			 </tr>
+			 <tr>
+				<th>Tối</th>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td class="busy"></td>
+			 </tr>
+			</tbody>
+		 </table>
  
  
 					<span class="legend"></span> : Những buổi giáo viên có thể giảng dạy 	
@@ -674,51 +674,51 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 					<h4>Lịch giảng dạy của giáo viên</h4>
 					<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
 						<table class="table table-bordered">
-      <thead>
-       <tr>
-        <th></th>
-        <th>T2</th>
-        <th>T3</th>
-        <th>T4</th>
-        <th>T5</th>
-        <th>T6</th>
-        <th>T7</th>
-        <th>CN</th>
-       </tr>
-      </thead>
-      <tbody>
-       <tr>
-        <th>Sáng</th>
-        <td class="busy"></td>
-        <td class="busy"></td>
-        <td class="busy"></td>
-        <td class="busy"></td>
-        <td class="busy"></td>
-        <td class="busy"></td>
-        <td class="busy"></td>
-       </tr>
-       <tr>
-        <th>Chiều</th>
-        <td class="busy"></td>
-        <td class="busy"></td>
-        <td class="busy"></td>
-        <td class="busy"></td>
-        <td class="busy"></td>
-        <td class="busy"></td>
-        <td class="busy"></td>
-       </tr>
-       <tr>
-        <th>Tối</th>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-       </tr>
-      </tbody>
-     </table> 
+			<thead>
+			 <tr>
+				<th></th>
+				<th>T2</th>
+				<th>T3</th>
+				<th>T4</th>
+				<th>T5</th>
+				<th>T6</th>
+				<th>T7</th>
+				<th>CN</th>
+			 </tr>
+			</thead>
+			<tbody>
+			 <tr>
+				<th>Sáng</th>
+				<td class="busy"></td>
+				<td class="busy"></td>
+				<td class="busy"></td>
+				<td class="busy"></td>
+				<td class="busy"></td>
+				<td class="busy"></td>
+				<td class="busy"></td>
+			 </tr>
+			 <tr>
+				<th>Chiều</th>
+				<td class="busy"></td>
+				<td class="busy"></td>
+				<td class="busy"></td>
+				<td class="busy"></td>
+				<td class="busy"></td>
+				<td class="busy"></td>
+				<td class="busy"></td>
+			 </tr>
+			 <tr>
+				<th>Tối</th>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+			 </tr>
+			</tbody>
+		 </table> 
  
 					<span class="legend"></span> : Những buổi giáo viên có thể giảng dạy 	
 					</div>
@@ -830,51 +830,51 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 					<h4>Lịch giảng dạy của giáo viên</h4>
 					<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
 						<table class="table table-bordered">
-      <thead>
-       <tr>
-        <th></th>
-        <th>T2</th>
-        <th>T3</th>
-        <th>T4</th>
-        <th>T5</th>
-        <th>T6</th>
-        <th>T7</th>
-        <th>CN</th>
-       </tr>
-      </thead>
-      <tbody>
-       <tr>
-        <th>Sáng</th>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-       </tr>
-       <tr>
-        <th>Chiều</th>
-        <td class="busy"></td>
-        <td class="busy"></td>
-        <td class="busy"></td>
-        <td class="busy"></td>
-        <td class="busy"></td>
-        <td class="busy"></td>
-        <td></td>
-       </tr>
-       <tr>
-        <th>Tối</th>
-        <td></td>
-        <td class="busy"></td>
-        <td></td>
-        <td class="busy"></td>
-        <td class="busy"></td>
-        <td></td>
-        <td></td>
-       </tr>
-      </tbody>
-     </table>
+			<thead>
+			 <tr>
+				<th></th>
+				<th>T2</th>
+				<th>T3</th>
+				<th>T4</th>
+				<th>T5</th>
+				<th>T6</th>
+				<th>T7</th>
+				<th>CN</th>
+			 </tr>
+			</thead>
+			<tbody>
+			 <tr>
+				<th>Sáng</th>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+			 </tr>
+			 <tr>
+				<th>Chiều</th>
+				<td class="busy"></td>
+				<td class="busy"></td>
+				<td class="busy"></td>
+				<td class="busy"></td>
+				<td class="busy"></td>
+				<td class="busy"></td>
+				<td></td>
+			 </tr>
+			 <tr>
+				<th>Tối</th>
+				<td></td>
+				<td class="busy"></td>
+				<td></td>
+				<td class="busy"></td>
+				<td class="busy"></td>
+				<td></td>
+				<td></td>
+			 </tr>
+			</tbody>
+		 </table>
  
  
  
@@ -988,51 +988,51 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 					<h4>Lịch giảng dạy của giáo viên</h4>
 					<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
 						<table class="table table-bordered">
-      <thead>
-       <tr>
-        <th></th>
-        <th>T2</th>
-        <th>T3</th>
-        <th>T4</th>
-        <th>T5</th>
-        <th>T6</th>
-        <th>T7</th>
-        <th>CN</th>
-       </tr>
-      </thead>
-      <tbody>
-       <tr>
-        <th>Sáng</th>
-        <td class="busy"></td>
-        <td class="busy"></td>
-        <td></td>
-        <td class="busy"></td>
-        <td></td>
-        <td></td>
-        <td></td>
-       </tr>
-       <tr>
-        <th>Chiều</th>
-        <td class="busy"></td>
-        <td class="busy"></td>
-        <td></td>
-        <td class="busy"></td>
-        <td></td>
-        <td class="busy"></td>
-        <td></td>
-       </tr>
-       <tr>
-        <th>Tối</th>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-       </tr>
-      </tbody>
-     </table>
+			<thead>
+			 <tr>
+				<th></th>
+				<th>T2</th>
+				<th>T3</th>
+				<th>T4</th>
+				<th>T5</th>
+				<th>T6</th>
+				<th>T7</th>
+				<th>CN</th>
+			 </tr>
+			</thead>
+			<tbody>
+			 <tr>
+				<th>Sáng</th>
+				<td class="busy"></td>
+				<td class="busy"></td>
+				<td></td>
+				<td class="busy"></td>
+				<td></td>
+				<td></td>
+				<td></td>
+			 </tr>
+			 <tr>
+				<th>Chiều</th>
+				<td class="busy"></td>
+				<td class="busy"></td>
+				<td></td>
+				<td class="busy"></td>
+				<td></td>
+				<td class="busy"></td>
+				<td></td>
+			 </tr>
+			 <tr>
+				<th>Tối</th>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+			 </tr>
+			</tbody>
+		 </table>
  
  
 					<span class="legend"></span> : Những buổi giáo viên có thể giảng dạy 	
@@ -1145,51 +1145,51 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 					<h4>Lịch giảng dạy của giáo viên</h4>
 					<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
 						<table class="table table-bordered">
-      <thead>
-       <tr>
-        <th></th>
-        <th>T2</th>
-        <th>T3</th>
-        <th>T4</th>
-        <th>T5</th>
-        <th>T6</th>
-        <th>T7</th>
-        <th>CN</th>
-       </tr>
-      </thead>
-      <tbody>
-       <tr>
-        <th>Sáng</th>
-        <td></td>
-        <td class="busy"></td>
-        <td class="busy"></td>
-        <td></td>
-        <td></td>
-        <td class="busy"></td>
-        <td></td>
-       </tr>
-       <tr>
-        <th>Chiều</th>
-        <td class="busy"></td>
-        <td></td>
-        <td></td>
-        <td class="busy"></td>
-        <td class="busy"></td>
-        <td></td>
-        <td></td>
-       </tr>
-       <tr>
-        <th>Tối</th>
-        <td></td>
-        <td></td>
-        <td class="busy"></td>
-        <td></td>
-        <td></td>
-        <td class="busy"></td>
-        <td class="busy"></td>
-       </tr>
-      </tbody>
-     </table>
+			<thead>
+			 <tr>
+				<th></th>
+				<th>T2</th>
+				<th>T3</th>
+				<th>T4</th>
+				<th>T5</th>
+				<th>T6</th>
+				<th>T7</th>
+				<th>CN</th>
+			 </tr>
+			</thead>
+			<tbody>
+			 <tr>
+				<th>Sáng</th>
+				<td></td>
+				<td class="busy"></td>
+				<td class="busy"></td>
+				<td></td>
+				<td></td>
+				<td class="busy"></td>
+				<td></td>
+			 </tr>
+			 <tr>
+				<th>Chiều</th>
+				<td class="busy"></td>
+				<td></td>
+				<td></td>
+				<td class="busy"></td>
+				<td class="busy"></td>
+				<td></td>
+				<td></td>
+			 </tr>
+			 <tr>
+				<th>Tối</th>
+				<td></td>
+				<td></td>
+				<td class="busy"></td>
+				<td></td>
+				<td></td>
+				<td class="busy"></td>
+				<td class="busy"></td>
+			 </tr>
+			</tbody>
+		 </table>
  
  
 					<span class="legend"></span> : Những buổi giáo viên có thể giảng dạy 	
@@ -1302,51 +1302,51 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 					<h4>Lịch giảng dạy của giáo viên</h4>
 					<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
 						<table class="table table-bordered">
-      <thead>
-       <tr>
-        <th></th>
-        <th>T2</th>
-        <th>T3</th>
-        <th>T4</th>
-        <th>T5</th>
-        <th>T6</th>
-        <th>T7</th>
-        <th>CN</th>
-       </tr>
-      </thead>
-      <tbody>
-       <tr>
-        <th>Sáng</th>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td class="busy"></td>
-        <td class="busy"></td>
-       </tr>
-       <tr>
-        <th>Chiều</th>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td class="busy"></td>
-        <td class="busy"></td>
-       </tr>
-       <tr>
-        <th>Tối</th>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-       </tr>
-      </tbody>
-     </table>
+			<thead>
+			 <tr>
+				<th></th>
+				<th>T2</th>
+				<th>T3</th>
+				<th>T4</th>
+				<th>T5</th>
+				<th>T6</th>
+				<th>T7</th>
+				<th>CN</th>
+			 </tr>
+			</thead>
+			<tbody>
+			 <tr>
+				<th>Sáng</th>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td class="busy"></td>
+				<td class="busy"></td>
+			 </tr>
+			 <tr>
+				<th>Chiều</th>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td class="busy"></td>
+				<td class="busy"></td>
+			 </tr>
+			 <tr>
+				<th>Tối</th>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+			 </tr>
+			</tbody>
+		 </table>
  
  
  
@@ -1460,51 +1460,51 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 					<h4>Lịch giảng dạy của giáo viên</h4>
 					<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
 						<table class="table table-bordered">
-      <thead>
-       <tr>
-        <th></th>
-        <th>T2</th>
-        <th>T3</th>
-        <th>T4</th>
-        <th>T5</th>
-        <th>T6</th>
-        <th>T7</th>
-        <th>CN</th>
-       </tr>
-      </thead>
-      <tbody>
-       <tr>
-        <th>Sáng</th>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td class="busy"></td>
-       </tr>
-       <tr>
-        <th>Chiều</th>
-        <td class="busy"></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td class="busy"></td>
-        <td></td>
-        <td class="busy"></td>
-       </tr>
-       <tr>
-        <th>Tối</th>
-        <td class="busy"></td>
-        <td class="busy"></td>
-        <td class="busy"></td>
-        <td class="busy"></td>
-        <td class="busy"></td>
-        <td></td>
-        <td class="busy"></td>
-       </tr>
-      </tbody>
-     </table>
+			<thead>
+			 <tr>
+				<th></th>
+				<th>T2</th>
+				<th>T3</th>
+				<th>T4</th>
+				<th>T5</th>
+				<th>T6</th>
+				<th>T7</th>
+				<th>CN</th>
+			 </tr>
+			</thead>
+			<tbody>
+			 <tr>
+				<th>Sáng</th>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td class="busy"></td>
+			 </tr>
+			 <tr>
+				<th>Chiều</th>
+				<td class="busy"></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td class="busy"></td>
+				<td></td>
+				<td class="busy"></td>
+			 </tr>
+			 <tr>
+				<th>Tối</th>
+				<td class="busy"></td>
+				<td class="busy"></td>
+				<td class="busy"></td>
+				<td class="busy"></td>
+				<td class="busy"></td>
+				<td></td>
+				<td class="busy"></td>
+			 </tr>
+			</tbody>
+		 </table>
  
  
 					<span class="legend"></span> : Những buổi giáo viên có thể giảng dạy 	
@@ -1617,51 +1617,51 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 					<h4>Lịch giảng dạy của giáo viên</h4>
 					<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
 						<table class="table table-bordered">
-      <thead>
-       <tr>
-        <th></th>
-        <th>T2</th>
-        <th>T3</th>
-        <th>T4</th>
-        <th>T5</th>
-        <th>T6</th>
-        <th>T7</th>
-        <th>CN</th>
-       </tr>
-      </thead>
-      <tbody>
-       <tr>
-        <th>Sáng</th>
-        <td class="busy"></td>
-        <td class="busy"></td>
-        <td class="busy"></td>
-        <td class="busy"></td>
-        <td class="busy"></td>
-        <td></td>
-        <td></td>
-       </tr>
-       <tr>
-        <th>Chiều</th>
-        <td></td>
-        <td class="busy"></td>
-        <td class="busy"></td>
-        <td></td>
-        <td class="busy"></td>
-        <td></td>
-        <td></td>
-       </tr>
-       <tr>
-        <th>Tối</th>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-       </tr>
-      </tbody>
-     </table>
+			<thead>
+			 <tr>
+				<th></th>
+				<th>T2</th>
+				<th>T3</th>
+				<th>T4</th>
+				<th>T5</th>
+				<th>T6</th>
+				<th>T7</th>
+				<th>CN</th>
+			 </tr>
+			</thead>
+			<tbody>
+			 <tr>
+				<th>Sáng</th>
+				<td class="busy"></td>
+				<td class="busy"></td>
+				<td class="busy"></td>
+				<td class="busy"></td>
+				<td class="busy"></td>
+				<td></td>
+				<td></td>
+			 </tr>
+			 <tr>
+				<th>Chiều</th>
+				<td></td>
+				<td class="busy"></td>
+				<td class="busy"></td>
+				<td></td>
+				<td class="busy"></td>
+				<td></td>
+				<td></td>
+			 </tr>
+			 <tr>
+				<th>Tối</th>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+			 </tr>
+			</tbody>
+		 </table>
  
  
 					<span class="legend"></span> : Những buổi giáo viên có thể giảng dạy 	
@@ -1776,51 +1776,51 @@ Tôi tin rằng xây dựng nền tảng lý thuyết cáng vững chắc thì n
 					<h4>Lịch giảng dạy của giáo viên</h4>
 					<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
 						<table class="table table-bordered">
-      <thead>
-       <tr>
-        <th></th>
-        <th>T2</th>
-        <th>T3</th>
-        <th>T4</th>
-        <th>T5</th>
-        <th>T6</th>
-        <th>T7</th>
-        <th>CN</th>
-       </tr>
-      </thead>
-      <tbody>
-       <tr>
-        <th>Sáng</th>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td class="busy"></td>
-        <td class="busy"></td>
-        <td class="busy"></td>
-        <td></td>
-       </tr>
-       <tr>
-        <th>Chiều</th>
-        <td class="busy"></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td class="busy"></td>
-        <td class="busy"></td>
-        <td></td>
-       </tr>
-       <tr>
-        <th>Tối</th>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-       </tr>
-      </tbody>
-     </table>
+			<thead>
+			 <tr>
+				<th></th>
+				<th>T2</th>
+				<th>T3</th>
+				<th>T4</th>
+				<th>T5</th>
+				<th>T6</th>
+				<th>T7</th>
+				<th>CN</th>
+			 </tr>
+			</thead>
+			<tbody>
+			 <tr>
+				<th>Sáng</th>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td class="busy"></td>
+				<td class="busy"></td>
+				<td class="busy"></td>
+				<td></td>
+			 </tr>
+			 <tr>
+				<th>Chiều</th>
+				<td class="busy"></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td class="busy"></td>
+				<td class="busy"></td>
+				<td></td>
+			 </tr>
+			 <tr>
+				<th>Tối</th>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+			 </tr>
+			</tbody>
+		 </table>
  
  
 					<span class="legend"></span> : Những buổi giáo viên có thể giảng dạy 	
@@ -1933,51 +1933,51 @@ Tôi tin rằng xây dựng nền tảng lý thuyết cáng vững chắc thì n
 					<h4>Lịch giảng dạy của giáo viên</h4>
 					<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
 						<table class="table table-bordered">
-      <thead>
-       <tr>
-        <th></th>
-        <th>T2</th>
-        <th>T3</th>
-        <th>T4</th>
-        <th>T5</th>
-        <th>T6</th>
-        <th>T7</th>
-        <th>CN</th>
-       </tr>
-      </thead>
-      <tbody>
-       <tr>
-        <th>Sáng</th>
-        <td></td>
-        <td class="busy"></td>
-        <td></td>
-        <td class="busy"></td>
-        <td class="busy"></td>
-        <td></td>
-        <td></td>
-       </tr>
-       <tr>
-        <th>Chiều</th>
-        <td></td>
-        <td class="busy"></td>
-        <td></td>
-        <td class="busy"></td>
-        <td class="busy"></td>
-        <td></td>
-        <td></td>
-       </tr>
-       <tr>
-        <th>Tối</th>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td class="busy"></td>
-        <td class="busy"></td>
-        <td class="busy"></td>
-        <td></td>
-       </tr>
-      </tbody>
-     </table>
+			<thead>
+			 <tr>
+				<th></th>
+				<th>T2</th>
+				<th>T3</th>
+				<th>T4</th>
+				<th>T5</th>
+				<th>T6</th>
+				<th>T7</th>
+				<th>CN</th>
+			 </tr>
+			</thead>
+			<tbody>
+			 <tr>
+				<th>Sáng</th>
+				<td></td>
+				<td class="busy"></td>
+				<td></td>
+				<td class="busy"></td>
+				<td class="busy"></td>
+				<td></td>
+				<td></td>
+			 </tr>
+			 <tr>
+				<th>Chiều</th>
+				<td></td>
+				<td class="busy"></td>
+				<td></td>
+				<td class="busy"></td>
+				<td class="busy"></td>
+				<td></td>
+				<td></td>
+			 </tr>
+			 <tr>
+				<th>Tối</th>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td class="busy"></td>
+				<td class="busy"></td>
+				<td class="busy"></td>
+				<td></td>
+			 </tr>
+			</tbody>
+		 </table>
  
  
 					<span class="legend"></span> : Những buổi giáo viên có thể giảng dạy 	
@@ -2090,51 +2090,51 @@ Tôi tin rằng xây dựng nền tảng lý thuyết cáng vững chắc thì n
 					<h4>Lịch giảng dạy của giáo viên</h4>
 					<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
 						<table class="table table-bordered">
-      <thead>
-       <tr>
-        <th></th>
-        <th>T2</th>
-        <th>T3</th>
-        <th>T4</th>
-        <th>T5</th>
-        <th>T6</th>
-        <th>T7</th>
-        <th>CN</th>
-       </tr>
-      </thead>
-      <tbody>
-       <tr>
-        <th>Sáng</th>
-        <td class="busy"></td>
-        <td class="busy"></td>
-        <td class="busy"></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-       </tr>
-       <tr>
-        <th>Chiều</th>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td class="busy"></td>
-        <td class="busy"></td>
-        <td></td>
-        <td class="busy"></td>
-       </tr>
-       <tr>
-        <th>Tối</th>
-        <td></td>
-        <td class="busy"></td>
-        <td></td>
-        <td class="busy"></td>
-        <td></td>
-        <td></td>
-        <td class="busy"></td>
-       </tr>
-      </tbody>
-     </table>
+			<thead>
+			 <tr>
+				<th></th>
+				<th>T2</th>
+				<th>T3</th>
+				<th>T4</th>
+				<th>T5</th>
+				<th>T6</th>
+				<th>T7</th>
+				<th>CN</th>
+			 </tr>
+			</thead>
+			<tbody>
+			 <tr>
+				<th>Sáng</th>
+				<td class="busy"></td>
+				<td class="busy"></td>
+				<td class="busy"></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+			 </tr>
+			 <tr>
+				<th>Chiều</th>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td class="busy"></td>
+				<td class="busy"></td>
+				<td></td>
+				<td class="busy"></td>
+			 </tr>
+			 <tr>
+				<th>Tối</th>
+				<td></td>
+				<td class="busy"></td>
+				<td></td>
+				<td class="busy"></td>
+				<td></td>
+				<td></td>
+				<td class="busy"></td>
+			 </tr>
+			</tbody>
+		 </table>
  
  
 					<span class="legend"></span> : Những buổi giáo viên có thể giảng dạy 	
@@ -2247,51 +2247,51 @@ Tôi tin rằng xây dựng nền tảng lý thuyết cáng vững chắc thì n
 					<h4>Lịch giảng dạy của giáo viên</h4>
 					<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
 						<table class="table table-bordered">
-      <thead>
-       <tr>
-        <th></th>
-        <th>T2</th>
-        <th>T3</th>
-        <th>T4</th>
-        <th>T5</th>
-        <th>T6</th>
-        <th>T7</th>
-        <th>CN</th>
-       </tr>
-      </thead>
-      <tbody>
-       <tr>
-        <th>Sáng</th>
-        <td></td>
-        <td class="busy"></td>
-        <td></td>
-        <td class="busy"></td>
-        <td class="busy"></td>
-        <td></td>
-        <td></td>
-       </tr>
-       <tr>
-        <th>Chiều</th>
-        <td class="busy"></td>
-        <td class="busy"></td>
-        <td class="busy"></td>
-        <td class="busy"></td>
-        <td class="busy"></td>
-        <td class="busy"></td>
-        <td></td>
-       </tr>
-       <tr>
-        <th>Tối</th>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td class="busy"></td>
-        <td class="busy"></td>
-        <td class="busy"></td>
-        <td></td>
-       </tr>
-      </tbody>
-     </table> 
+			<thead>
+			 <tr>
+				<th></th>
+				<th>T2</th>
+				<th>T3</th>
+				<th>T4</th>
+				<th>T5</th>
+				<th>T6</th>
+				<th>T7</th>
+				<th>CN</th>
+			 </tr>
+			</thead>
+			<tbody>
+			 <tr>
+				<th>Sáng</th>
+				<td></td>
+				<td class="busy"></td>
+				<td></td>
+				<td class="busy"></td>
+				<td class="busy"></td>
+				<td></td>
+				<td></td>
+			 </tr>
+			 <tr>
+				<th>Chiều</th>
+				<td class="busy"></td>
+				<td class="busy"></td>
+				<td class="busy"></td>
+				<td class="busy"></td>
+				<td class="busy"></td>
+				<td class="busy"></td>
+				<td></td>
+			 </tr>
+			 <tr>
+				<th>Tối</th>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td class="busy"></td>
+				<td class="busy"></td>
+				<td class="busy"></td>
+				<td></td>
+			 </tr>
+			</tbody>
+		 </table> 
  
 					<span class="legend"></span> : Những buổi giáo viên có thể giảng dạy 	
 					</div>
@@ -2403,51 +2403,51 @@ Tôi tin rằng xây dựng nền tảng lý thuyết cáng vững chắc thì n
 					<h4>Lịch giảng dạy của giáo viên</h4>
 					<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
 						<table class="table table-bordered">
-      <thead>
-       <tr>
-        <th></th>
-        <th>T2</th>
-        <th>T3</th>
-        <th>T4</th>
-        <th>T5</th>
-        <th>T6</th>
-        <th>T7</th>
-        <th>CN</th>
-       </tr>
-      </thead>
-      <tbody>
-       <tr>
-        <th>Sáng</th>
-        <td class="busy"></td>
-        <td class="busy"></td>
-        <td></td>
-        <td class="busy"></td>
-        <td class="busy"></td>
-        <td class="busy"></td>
-        <td></td>
-       </tr>
-       <tr>
-        <th>Chiều</th>
-        <td class="busy"></td>
-        <td class="busy"></td>
-        <td class="busy"></td>
-        <td class="busy"></td>
-        <td class="busy"></td>
-        <td class="busy"></td>
-        <td class="busy"></td>
-       </tr>
-       <tr>
-        <th>Tối</th>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-       </tr>
-      </tbody>
-     </table>
+			<thead>
+			 <tr>
+				<th></th>
+				<th>T2</th>
+				<th>T3</th>
+				<th>T4</th>
+				<th>T5</th>
+				<th>T6</th>
+				<th>T7</th>
+				<th>CN</th>
+			 </tr>
+			</thead>
+			<tbody>
+			 <tr>
+				<th>Sáng</th>
+				<td class="busy"></td>
+				<td class="busy"></td>
+				<td></td>
+				<td class="busy"></td>
+				<td class="busy"></td>
+				<td class="busy"></td>
+				<td></td>
+			 </tr>
+			 <tr>
+				<th>Chiều</th>
+				<td class="busy"></td>
+				<td class="busy"></td>
+				<td class="busy"></td>
+				<td class="busy"></td>
+				<td class="busy"></td>
+				<td class="busy"></td>
+				<td class="busy"></td>
+			 </tr>
+			 <tr>
+				<th>Tối</th>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+			 </tr>
+			</tbody>
+		 </table>
  
  
 					<span class="legend"></span> : Những buổi giáo viên có thể giảng dạy 	
@@ -2560,51 +2560,51 @@ Tôi tin rằng xây dựng nền tảng lý thuyết cáng vững chắc thì n
 					<h4>Lịch giảng dạy của giáo viên</h4>
 					<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
 						<table class="table table-bordered">
-      <thead>
-       <tr>
-        <th></th>
-        <th>T2</th>
-        <th>T3</th>
-        <th>T4</th>
-        <th>T5</th>
-        <th>T6</th>
-        <th>T7</th>
-        <th>CN</th>
-       </tr>
-      </thead>
-      <tbody>
-       <tr>
-        <th>Sáng</th>
-        <td class="busy"></td>
-        <td></td>
-        <td class="busy"></td>
-        <td></td>
-        <td class="busy"></td>
-        <td></td>
-        <td></td>
-       </tr>
-       <tr>
-        <th>Chiều</th>
-        <td class="busy"></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td class="busy"></td>
-        <td class="busy"></td>
-        <td class="busy"></td>
-       </tr>
-       <tr>
-        <th>Tối</th>
-        <td class="busy"></td>
-        <td class="busy"></td>
-        <td class="busy"></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td class="busy"></td>
-       </tr>
-      </tbody>
-     </table>
+			<thead>
+			 <tr>
+				<th></th>
+				<th>T2</th>
+				<th>T3</th>
+				<th>T4</th>
+				<th>T5</th>
+				<th>T6</th>
+				<th>T7</th>
+				<th>CN</th>
+			 </tr>
+			</thead>
+			<tbody>
+			 <tr>
+				<th>Sáng</th>
+				<td class="busy"></td>
+				<td></td>
+				<td class="busy"></td>
+				<td></td>
+				<td class="busy"></td>
+				<td></td>
+				<td></td>
+			 </tr>
+			 <tr>
+				<th>Chiều</th>
+				<td class="busy"></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td class="busy"></td>
+				<td class="busy"></td>
+				<td class="busy"></td>
+			 </tr>
+			 <tr>
+				<th>Tối</th>
+				<td class="busy"></td>
+				<td class="busy"></td>
+				<td class="busy"></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td class="busy"></td>
+			 </tr>
+			</tbody>
+		 </table>
  
  
  
@@ -2722,51 +2722,51 @@ Những học viên từng được Trần đạt dẫn dắt đa số tìm đ�
 					<h4>Lịch giảng dạy của giáo viên</h4>
 					<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
 						<table class="table table-bordered">
-      <thead>
-       <tr>
-        <th></th>
-        <th>T2</th>
-        <th>T3</th>
-        <th>T4</th>
-        <th>T5</th>
-        <th>T6</th>
-        <th>T7</th>
-        <th>CN</th>
-       </tr>
-      </thead>
-      <tbody>
-       <tr>
-        <th>Sáng</th>
-        <td class="busy"></td>
-        <td></td>
-        <td class="busy"></td>
-        <td></td>
-        <td class="busy"></td>
-        <td></td>
-        <td></td>
-       </tr>
-       <tr>
-        <th>Chiều</th>
-        <td class="busy"></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td class="busy"></td>
-        <td class="busy"></td>
-       </tr>
-       <tr>
-        <th>Tối</th>
-        <td class="busy"></td>
-        <td class="busy"></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td class="busy"></td>
-       </tr>
-      </tbody>
-     </table>
+			<thead>
+			 <tr>
+				<th></th>
+				<th>T2</th>
+				<th>T3</th>
+				<th>T4</th>
+				<th>T5</th>
+				<th>T6</th>
+				<th>T7</th>
+				<th>CN</th>
+			 </tr>
+			</thead>
+			<tbody>
+			 <tr>
+				<th>Sáng</th>
+				<td class="busy"></td>
+				<td></td>
+				<td class="busy"></td>
+				<td></td>
+				<td class="busy"></td>
+				<td></td>
+				<td></td>
+			 </tr>
+			 <tr>
+				<th>Chiều</th>
+				<td class="busy"></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td class="busy"></td>
+				<td class="busy"></td>
+			 </tr>
+			 <tr>
+				<th>Tối</th>
+				<td class="busy"></td>
+				<td class="busy"></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td class="busy"></td>
+			 </tr>
+			</tbody>
+		 </table>
  
  
  
@@ -2880,51 +2880,51 @@ Những học viên từng được Trần đạt dẫn dắt đa số tìm đ�
 					<h4>Lịch giảng dạy của giáo viên</h4>
 					<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
 						<table class="table table-bordered">
-      <thead>
-       <tr>
-        <th></th>
-        <th>T2</th>
-        <th>T3</th>
-        <th>T4</th>
-        <th>T5</th>
-        <th>T6</th>
-        <th>T7</th>
-        <th>CN</th>
-       </tr>
-      </thead>
-      <tbody>
-       <tr>
-        <th>Sáng</th>
-        <td></td>
-        <td class="busy"></td>
-        <td></td>
-        <td class="busy"></td>
-        <td class="busy"></td>
-        <td></td>
-        <td></td>
-       </tr>
-       <tr>
-        <th>Chiều</th>
-        <td></td>
-        <td class="busy"></td>
-        <td></td>
-        <td class="busy"></td>
-        <td class="busy"></td>
-        <td></td>
-        <td></td>
-       </tr>
-       <tr>
-        <th>Tối</th>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td class="busy"></td>
-        <td class="busy"></td>
-        <td class="busy"></td>
-        <td></td>
-       </tr>
-      </tbody>
-     </table>
+			<thead>
+			 <tr>
+				<th></th>
+				<th>T2</th>
+				<th>T3</th>
+				<th>T4</th>
+				<th>T5</th>
+				<th>T6</th>
+				<th>T7</th>
+				<th>CN</th>
+			 </tr>
+			</thead>
+			<tbody>
+			 <tr>
+				<th>Sáng</th>
+				<td></td>
+				<td class="busy"></td>
+				<td></td>
+				<td class="busy"></td>
+				<td class="busy"></td>
+				<td></td>
+				<td></td>
+			 </tr>
+			 <tr>
+				<th>Chiều</th>
+				<td></td>
+				<td class="busy"></td>
+				<td></td>
+				<td class="busy"></td>
+				<td class="busy"></td>
+				<td></td>
+				<td></td>
+			 </tr>
+			 <tr>
+				<th>Tối</th>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td class="busy"></td>
+				<td class="busy"></td>
+				<td class="busy"></td>
+				<td></td>
+			 </tr>
+			</tbody>
+		 </table>
  
  
  
@@ -3048,51 +3048,51 @@ Trở về Việt Nam, quyết định không đi theo những lối cũ truyề
 					<h4>Lịch giảng dạy của giáo viên</h4>
 					<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
 						<table class="table table-bordered">
-      <thead>
-       <tr>
-        <th></th>
-        <th>T2</th>
-        <th>T3</th>
-        <th>T4</th>
-        <th>T5</th>
-        <th>T6</th>
-        <th>T7</th>
-        <th>CN</th>
-       </tr>
-      </thead>
-      <tbody>
-       <tr>
-        <th>Sáng</th>
-        <td></td>
-        <td class="busy"></td>
-        <td class="busy"></td>
-        <td></td>
-        <td></td>
-        <td class="busy"></td>
-        <td></td>
-       </tr>
-       <tr>
-        <th>Chiều</th>
-        <td class="busy"></td>
-        <td></td>
-        <td></td>
-        <td class="busy"></td>
-        <td class="busy"></td>
-        <td></td>
-        <td></td>
-       </tr>
-       <tr>
-        <th>Tối</th>
-        <td></td>
-        <td></td>
-        <td class="busy"></td>
-        <td></td>
-        <td></td>
-        <td class="busy"></td>
-        <td class="busy"></td>
-       </tr>
-      </tbody>
-     </table>
+			<thead>
+			 <tr>
+				<th></th>
+				<th>T2</th>
+				<th>T3</th>
+				<th>T4</th>
+				<th>T5</th>
+				<th>T6</th>
+				<th>T7</th>
+				<th>CN</th>
+			 </tr>
+			</thead>
+			<tbody>
+			 <tr>
+				<th>Sáng</th>
+				<td></td>
+				<td class="busy"></td>
+				<td class="busy"></td>
+				<td></td>
+				<td></td>
+				<td class="busy"></td>
+				<td></td>
+			 </tr>
+			 <tr>
+				<th>Chiều</th>
+				<td class="busy"></td>
+				<td></td>
+				<td></td>
+				<td class="busy"></td>
+				<td class="busy"></td>
+				<td></td>
+				<td></td>
+			 </tr>
+			 <tr>
+				<th>Tối</th>
+				<td></td>
+				<td></td>
+				<td class="busy"></td>
+				<td></td>
+				<td></td>
+				<td class="busy"></td>
+				<td class="busy"></td>
+			 </tr>
+			</tbody>
+		 </table>
  
  
 					<span class="legend"></span> : Những buổi giáo viên có thể giảng dạy 	
@@ -3223,51 +3223,51 @@ Với tâm hồn của một người nghệ sĩ Kim Thảo luôn mang lại cho
 					<h4>Lịch giảng dạy của giáo viên</h4>
 					<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
 						<table class="table table-bordered">
-      <thead>
-       <tr>
-        <th></th>
-        <th>T2</th>
-        <th>T3</th>
-        <th>T4</th>
-        <th>T5</th>
-        <th>T6</th>
-        <th>T7</th>
-        <th>CN</th>
-       </tr>
-      </thead>
-      <tbody>
-       <tr>
-        <th>Sáng</th>
-        <td class="busy"></td>
-        <td class="busy"></td>
-        <td class="busy"></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-       </tr>
-       <tr>
-        <th>Chiều</th>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td class="busy"></td>
-        <td class="busy"></td>
-        <td></td>
-        <td class="busy"></td>
-       </tr>
-       <tr>
-        <th>Tối</th>
-        <td></td>
-        <td class="busy"></td>
-        <td></td>
-        <td class="busy"></td>
-        <td></td>
-        <td></td>
-        <td class="busy"></td>
-       </tr>
-      </tbody>
-     </table>
+			<thead>
+			 <tr>
+				<th></th>
+				<th>T2</th>
+				<th>T3</th>
+				<th>T4</th>
+				<th>T5</th>
+				<th>T6</th>
+				<th>T7</th>
+				<th>CN</th>
+			 </tr>
+			</thead>
+			<tbody>
+			 <tr>
+				<th>Sáng</th>
+				<td class="busy"></td>
+				<td class="busy"></td>
+				<td class="busy"></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+			 </tr>
+			 <tr>
+				<th>Chiều</th>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td class="busy"></td>
+				<td class="busy"></td>
+				<td></td>
+				<td class="busy"></td>
+			 </tr>
+			 <tr>
+				<th>Tối</th>
+				<td></td>
+				<td class="busy"></td>
+				<td></td>
+				<td class="busy"></td>
+				<td></td>
+				<td></td>
+				<td class="busy"></td>
+			 </tr>
+			</tbody>
+		 </table>
  
  
 					<span class="legend"></span> : Những buổi giáo viên có thể giảng dạy 	
@@ -3385,51 +3385,51 @@ Phương pháp học guitar lý thuyết&thực hành - Lê Đức Sơn
 					<h4>Lịch giảng dạy của giáo viên</h4>
 					<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
 						<table class="table table-bordered">
-      <thead>
-       <tr>
-        <th></th>
-        <th>T2</th>
-        <th>T3</th>
-        <th>T4</th>
-        <th>T5</th>
-        <th>T6</th>
-        <th>T7</th>
-        <th>CN</th>
-       </tr>
-      </thead>
-      <tbody>
-       <tr>
-        <th>Sáng</th>
-        <td></td>
-        <td class="busy"></td>
-        <td></td>
-        <td class="busy"></td>
-        <td class="busy"></td>
-        <td></td>
-        <td></td>
-       </tr>
-       <tr>
-        <th>Chiều</th>
-        <td></td>
-        <td class="busy"></td>
-        <td></td>
-        <td class="busy"></td>
-        <td class="busy"></td>
-        <td></td>
-        <td></td>
-       </tr>
-       <tr>
-        <th>Tối</th>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td class="busy"></td>
-        <td class="busy"></td>
-        <td class="busy"></td>
-        <td></td>
-       </tr>
-      </tbody>
-     </table>
+			<thead>
+			 <tr>
+				<th></th>
+				<th>T2</th>
+				<th>T3</th>
+				<th>T4</th>
+				<th>T5</th>
+				<th>T6</th>
+				<th>T7</th>
+				<th>CN</th>
+			 </tr>
+			</thead>
+			<tbody>
+			 <tr>
+				<th>Sáng</th>
+				<td></td>
+				<td class="busy"></td>
+				<td></td>
+				<td class="busy"></td>
+				<td class="busy"></td>
+				<td></td>
+				<td></td>
+			 </tr>
+			 <tr>
+				<th>Chiều</th>
+				<td></td>
+				<td class="busy"></td>
+				<td></td>
+				<td class="busy"></td>
+				<td class="busy"></td>
+				<td></td>
+				<td></td>
+			 </tr>
+			 <tr>
+				<th>Tối</th>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td class="busy"></td>
+				<td class="busy"></td>
+				<td class="busy"></td>
+				<td></td>
+			 </tr>
+			</tbody>
+		 </table>
  
  
  
@@ -3552,51 +3552,51 @@ Có thể nói, ở Lương Văn Tụy, tình yêu của thầy với những ph
 					<h4>Lịch giảng dạy của giáo viên</h4>
 					<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
 						<table class="table table-bordered">
-      <thead>
-       <tr>
-        <th></th>
-        <th>T2</th>
-        <th>T3</th>
-        <th>T4</th>
-        <th>T5</th>
-        <th>T6</th>
-        <th>T7</th>
-        <th>CN</th>
-       </tr>
-      </thead>
-      <tbody>
-       <tr>
-        <th>Sáng</th>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td class="busy"></td>
-        <td class="busy"></td>
-        <td class="busy"></td>
-        <td></td>
-       </tr>
-       <tr>
-        <th>Chiều</th>
-        <td class="busy"></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td class="busy"></td>
-        <td class="busy"></td>
-        <td></td>
-       </tr>
-       <tr>
-        <th>Tối</th>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-       </tr>
-      </tbody>
-     </table>
+			<thead>
+			 <tr>
+				<th></th>
+				<th>T2</th>
+				<th>T3</th>
+				<th>T4</th>
+				<th>T5</th>
+				<th>T6</th>
+				<th>T7</th>
+				<th>CN</th>
+			 </tr>
+			</thead>
+			<tbody>
+			 <tr>
+				<th>Sáng</th>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td class="busy"></td>
+				<td class="busy"></td>
+				<td class="busy"></td>
+				<td></td>
+			 </tr>
+			 <tr>
+				<th>Chiều</th>
+				<td class="busy"></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td class="busy"></td>
+				<td class="busy"></td>
+				<td></td>
+			 </tr>
+			 <tr>
+				<th>Tối</th>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+			 </tr>
+			</tbody>
+		 </table>
  
  
 					<span class="legend"></span> : Những buổi giáo viên có thể giảng dạy 	
@@ -3717,51 +3717,51 @@ Có thể nói, ở Hoàng Trung, tình yêu của thầy với những phím đ
 					<h4>Lịch giảng dạy của giáo viên</h4>
 					<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
 						<table class="table table-bordered">
-      <thead>
-       <tr>
-        <th></th>
-        <th>T2</th>
-        <th>T3</th>
-        <th>T4</th>
-        <th>T5</th>
-        <th>T6</th>
-        <th>T7</th>
-        <th>CN</th>
-       </tr>
-      </thead>
-      <tbody>
-       <tr>
-        <th>Sáng</th>
-        <td></td>
-        <td class="busy"></td>
-        <td class="busy"></td>
-        <td></td>
-        <td></td>
-        <td class="busy"></td>
-        <td></td>
-       </tr>
-       <tr>
-        <th>Chiều</th>
-        <td class="busy"></td>
-        <td></td>
-        <td></td>
-        <td class="busy"></td>
-        <td class="busy"></td>
-        <td></td>
-        <td></td>
-       </tr>
-       <tr>
-        <th>Tối</th>
-        <td></td>
-        <td></td>
-        <td class="busy"></td>
-        <td></td>
-        <td></td>
-        <td class="busy"></td>
-        <td class="busy"></td>
-       </tr>
-      </tbody>
-     </table>
+			<thead>
+			 <tr>
+				<th></th>
+				<th>T2</th>
+				<th>T3</th>
+				<th>T4</th>
+				<th>T5</th>
+				<th>T6</th>
+				<th>T7</th>
+				<th>CN</th>
+			 </tr>
+			</thead>
+			<tbody>
+			 <tr>
+				<th>Sáng</th>
+				<td></td>
+				<td class="busy"></td>
+				<td class="busy"></td>
+				<td></td>
+				<td></td>
+				<td class="busy"></td>
+				<td></td>
+			 </tr>
+			 <tr>
+				<th>Chiều</th>
+				<td class="busy"></td>
+				<td></td>
+				<td></td>
+				<td class="busy"></td>
+				<td class="busy"></td>
+				<td></td>
+				<td></td>
+			 </tr>
+			 <tr>
+				<th>Tối</th>
+				<td></td>
+				<td></td>
+				<td class="busy"></td>
+				<td></td>
+				<td></td>
+				<td class="busy"></td>
+				<td class="busy"></td>
+			 </tr>
+			</tbody>
+		 </table>
  
  
 					<span class="legend"></span> : Những buổi giáo viên có thể giảng dạy 	
@@ -3879,51 +3879,51 @@ Phương pháp học guitar lý thuyết&thực hành - Lê Đức Sơn
 					<h4>Lịch giảng dạy của giáo viên</h4>
 					<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
 						<table class="table table-bordered">
-      <thead>
-       <tr>
-        <th></th>
-        <th>T2</th>
-        <th>T3</th>
-        <th>T4</th>
-        <th>T5</th>
-        <th>T6</th>
-        <th>T7</th>
-        <th>CN</th>
-       </tr>
-      </thead>
-      <tbody>
-       <tr>
-        <th>Sáng</th>
-        <td class="busy"></td>
-        <td></td>
-        <td class="busy"></td>
-        <td></td>
-        <td class="busy"></td>
-        <td></td>
-        <td></td>
-       </tr>
-       <tr>
-        <th>Chiều</th>
-        <td class="busy"></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td class="busy"></td>
-        <td class="busy"></td>
-       </tr>
-       <tr>
-        <th>Tối</th>
-        <td class="busy"></td>
-        <td class="busy"></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td class="busy"></td>
-       </tr>
-      </tbody>
-     </table>
+			<thead>
+			 <tr>
+				<th></th>
+				<th>T2</th>
+				<th>T3</th>
+				<th>T4</th>
+				<th>T5</th>
+				<th>T6</th>
+				<th>T7</th>
+				<th>CN</th>
+			 </tr>
+			</thead>
+			<tbody>
+			 <tr>
+				<th>Sáng</th>
+				<td class="busy"></td>
+				<td></td>
+				<td class="busy"></td>
+				<td></td>
+				<td class="busy"></td>
+				<td></td>
+				<td></td>
+			 </tr>
+			 <tr>
+				<th>Chiều</th>
+				<td class="busy"></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td class="busy"></td>
+				<td class="busy"></td>
+			 </tr>
+			 <tr>
+				<th>Tối</th>
+				<td class="busy"></td>
+				<td class="busy"></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td class="busy"></td>
+			 </tr>
+			</tbody>
+		 </table>
  
  
  
@@ -4041,51 +4041,51 @@ Những học viên từng được Trần đạt dẫn dắt đa số tìm đ�
 					<h4>Lịch giảng dạy của giáo viên</h4>
 					<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
 						<table class="table table-bordered">
-      <thead>
-       <tr>
-        <th></th>
-        <th>T2</th>
-        <th>T3</th>
-        <th>T4</th>
-        <th>T5</th>
-        <th>T6</th>
-        <th>T7</th>
-        <th>CN</th>
-       </tr>
-      </thead>
-      <tbody>
-       <tr>
-        <th>Sáng</th>
-        <td class="busy"></td>
-        <td class="busy"></td>
-        <td class="busy"></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-       </tr>
-       <tr>
-        <th>Chiều</th>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td class="busy"></td>
-        <td class="busy"></td>
-        <td></td>
-        <td class="busy"></td>
-       </tr>
-       <tr>
-        <th>Tối</th>
-        <td></td>
-        <td class="busy"></td>
-        <td></td>
-        <td class="busy"></td>
-        <td></td>
-        <td></td>
-        <td class="busy"></td>
-       </tr>
-      </tbody>
-     </table>
+			<thead>
+			 <tr>
+				<th></th>
+				<th>T2</th>
+				<th>T3</th>
+				<th>T4</th>
+				<th>T5</th>
+				<th>T6</th>
+				<th>T7</th>
+				<th>CN</th>
+			 </tr>
+			</thead>
+			<tbody>
+			 <tr>
+				<th>Sáng</th>
+				<td class="busy"></td>
+				<td class="busy"></td>
+				<td class="busy"></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+			 </tr>
+			 <tr>
+				<th>Chiều</th>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td class="busy"></td>
+				<td class="busy"></td>
+				<td></td>
+				<td class="busy"></td>
+			 </tr>
+			 <tr>
+				<th>Tối</th>
+				<td></td>
+				<td class="busy"></td>
+				<td></td>
+				<td class="busy"></td>
+				<td></td>
+				<td></td>
+				<td class="busy"></td>
+			 </tr>
+			</tbody>
+		 </table>
  
  
 					<span class="legend"></span> : Những buổi giáo viên có thể giảng dạy 	
@@ -4202,51 +4202,51 @@ Hội viên hội nhạc sĩ Việt nam, năm 2013					</p>
 					<h4>Lịch giảng dạy của giáo viên</h4>
 					<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
 						<table class="table table-bordered">
-      <thead>
-       <tr>
-        <th></th>
-        <th>T2</th>
-        <th>T3</th>
-        <th>T4</th>
-        <th>T5</th>
-        <th>T6</th>
-        <th>T7</th>
-        <th>CN</th>
-       </tr>
-      </thead>
-      <tbody>
-       <tr>
-        <th>Sáng</th>
-        <td></td>
-        <td class="busy"></td>
-        <td class="busy"></td>
-        <td></td>
-        <td></td>
-        <td class="busy"></td>
-        <td></td>
-       </tr>
-       <tr>
-        <th>Chiều</th>
-        <td class="busy"></td>
-        <td></td>
-        <td></td>
-        <td class="busy"></td>
-        <td class="busy"></td>
-        <td></td>
-        <td></td>
-       </tr>
-       <tr>
-        <th>Tối</th>
-        <td></td>
-        <td></td>
-        <td class="busy"></td>
-        <td></td>
-        <td></td>
-        <td class="busy"></td>
-        <td class="busy"></td>
-       </tr>
-      </tbody>
-     </table>
+			<thead>
+			 <tr>
+				<th></th>
+				<th>T2</th>
+				<th>T3</th>
+				<th>T4</th>
+				<th>T5</th>
+				<th>T6</th>
+				<th>T7</th>
+				<th>CN</th>
+			 </tr>
+			</thead>
+			<tbody>
+			 <tr>
+				<th>Sáng</th>
+				<td></td>
+				<td class="busy"></td>
+				<td class="busy"></td>
+				<td></td>
+				<td></td>
+				<td class="busy"></td>
+				<td></td>
+			 </tr>
+			 <tr>
+				<th>Chiều</th>
+				<td class="busy"></td>
+				<td></td>
+				<td></td>
+				<td class="busy"></td>
+				<td class="busy"></td>
+				<td></td>
+				<td></td>
+			 </tr>
+			 <tr>
+				<th>Tối</th>
+				<td></td>
+				<td></td>
+				<td class="busy"></td>
+				<td></td>
+				<td></td>
+				<td class="busy"></td>
+				<td class="busy"></td>
+			 </tr>
+			</tbody>
+		 </table>
  
  
 					<span class="legend"></span> : Những buổi giáo viên có thể giảng dạy 	
@@ -4361,51 +4361,51 @@ Với học sinh học cổ nhạc cụ: các bạn sẽ được học về đ�
 					<h4>Lịch giảng dạy của giáo viên</h4>
 					<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
 						<table class="table table-bordered">
-      <thead>
-       <tr>
-        <th></th>
-        <th>T2</th>
-        <th>T3</th>
-        <th>T4</th>
-        <th>T5</th>
-        <th>T6</th>
-        <th>T7</th>
-        <th>CN</th>
-       </tr>
-      </thead>
-      <tbody>
-       <tr>
-        <th>Sáng</th>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td class="busy"></td>
-        <td class="busy"></td>
-        <td class="busy"></td>
-        <td></td>
-       </tr>
-       <tr>
-        <th>Chiều</th>
-        <td class="busy"></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td class="busy"></td>
-        <td class="busy"></td>
-        <td></td>
-       </tr>
-       <tr>
-        <th>Tối</th>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-       </tr>
-      </tbody>
-     </table>
+			<thead>
+			 <tr>
+				<th></th>
+				<th>T2</th>
+				<th>T3</th>
+				<th>T4</th>
+				<th>T5</th>
+				<th>T6</th>
+				<th>T7</th>
+				<th>CN</th>
+			 </tr>
+			</thead>
+			<tbody>
+			 <tr>
+				<th>Sáng</th>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td class="busy"></td>
+				<td class="busy"></td>
+				<td class="busy"></td>
+				<td></td>
+			 </tr>
+			 <tr>
+				<th>Chiều</th>
+				<td class="busy"></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td class="busy"></td>
+				<td class="busy"></td>
+				<td></td>
+			 </tr>
+			 <tr>
+				<th>Tối</th>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+			 </tr>
+			</tbody>
+		 </table>
  
  
 					<span class="legend"></span> : Những buổi giáo viên có thể giảng dạy 	
@@ -4519,51 +4519,51 @@ Với học sinh học cổ nhạc cụ: các bạn sẽ được học về đ�
 					<h4>Lịch giảng dạy của giáo viên</h4>
 					<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
 						<table class="table table-bordered">
-      <thead>
-       <tr>
-        <th></th>
-        <th>T2</th>
-        <th>T3</th>
-        <th>T4</th>
-        <th>T5</th>
-        <th>T6</th>
-        <th>T7</th>
-        <th>CN</th>
-       </tr>
-      </thead>
-      <tbody>
-       <tr>
-        <th>Sáng</th>
-        <td></td>
-        <td class="busy"></td>
-        <td></td>
-        <td class="busy"></td>
-        <td class="busy"></td>
-        <td></td>
-        <td></td>
-       </tr>
-       <tr>
-        <th>Chiều</th>
-        <td></td>
-        <td class="busy"></td>
-        <td></td>
-        <td class="busy"></td>
-        <td class="busy"></td>
-        <td></td>
-        <td></td>
-       </tr>
-       <tr>
-        <th>Tối</th>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td class="busy"></td>
-        <td class="busy"></td>
-        <td class="busy"></td>
-        <td></td>
-       </tr>
-      </tbody>
-     </table>
+			<thead>
+			 <tr>
+				<th></th>
+				<th>T2</th>
+				<th>T3</th>
+				<th>T4</th>
+				<th>T5</th>
+				<th>T6</th>
+				<th>T7</th>
+				<th>CN</th>
+			 </tr>
+			</thead>
+			<tbody>
+			 <tr>
+				<th>Sáng</th>
+				<td></td>
+				<td class="busy"></td>
+				<td></td>
+				<td class="busy"></td>
+				<td class="busy"></td>
+				<td></td>
+				<td></td>
+			 </tr>
+			 <tr>
+				<th>Chiều</th>
+				<td></td>
+				<td class="busy"></td>
+				<td></td>
+				<td class="busy"></td>
+				<td class="busy"></td>
+				<td></td>
+				<td></td>
+			 </tr>
+			 <tr>
+				<th>Tối</th>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td class="busy"></td>
+				<td class="busy"></td>
+				<td class="busy"></td>
+				<td></td>
+			 </tr>
+			</tbody>
+		 </table>
  
  
 					<span class="legend"></span> : Những buổi giáo viên có thể giảng dạy 	
@@ -4677,51 +4677,51 @@ Với học sinh học cổ nhạc cụ: các bạn sẽ được học về đ�
 					<h4>Lịch giảng dạy của giáo viên</h4>
 					<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
 						<table class="table table-bordered">
-      <thead>
-       <tr>
-        <th></th>
-        <th>T2</th>
-        <th>T3</th>
-        <th>T4</th>
-        <th>T5</th>
-        <th>T6</th>
-        <th>T7</th>
-        <th>CN</th>
-       </tr>
-      </thead>
-      <tbody>
-       <tr>
-        <th>Sáng</th>
-        <td class="busy"></td>
-        <td class="busy"></td>
-        <td class="busy"></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-       </tr>
-       <tr>
-        <th>Chiều</th>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td class="busy"></td>
-        <td class="busy"></td>
-        <td></td>
-        <td class="busy"></td>
-       </tr>
-       <tr>
-        <th>Tối</th>
-        <td></td>
-        <td class="busy"></td>
-        <td></td>
-        <td class="busy"></td>
-        <td></td>
-        <td></td>
-        <td class="busy"></td>
-       </tr>
-      </tbody>
-     </table>
+			<thead>
+			 <tr>
+				<th></th>
+				<th>T2</th>
+				<th>T3</th>
+				<th>T4</th>
+				<th>T5</th>
+				<th>T6</th>
+				<th>T7</th>
+				<th>CN</th>
+			 </tr>
+			</thead>
+			<tbody>
+			 <tr>
+				<th>Sáng</th>
+				<td class="busy"></td>
+				<td class="busy"></td>
+				<td class="busy"></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+			 </tr>
+			 <tr>
+				<th>Chiều</th>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td class="busy"></td>
+				<td class="busy"></td>
+				<td></td>
+				<td class="busy"></td>
+			 </tr>
+			 <tr>
+				<th>Tối</th>
+				<td></td>
+				<td class="busy"></td>
+				<td></td>
+				<td class="busy"></td>
+				<td></td>
+				<td></td>
+				<td class="busy"></td>
+			 </tr>
+			</tbody>
+		 </table>
  
  
 					<span class="legend"></span> : Những buổi giáo viên có thể giảng dạy 	
@@ -4835,51 +4835,51 @@ Với học sinh học cổ nhạc cụ: các bạn sẽ được học về đ�
 					<h4>Lịch giảng dạy của giáo viên</h4>
 					<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
 						<table class="table table-bordered">
-      <thead>
-       <tr>
-        <th></th>
-        <th>T2</th>
-        <th>T3</th>
-        <th>T4</th>
-        <th>T5</th>
-        <th>T6</th>
-        <th>T7</th>
-        <th>CN</th>
-       </tr>
-      </thead>
-      <tbody>
-       <tr>
-        <th>Sáng</th>
-        <td></td>
-        <td class="busy"></td>
-        <td></td>
-        <td class="busy"></td>
-        <td class="busy"></td>
-        <td></td>
-        <td></td>
-       </tr>
-       <tr>
-        <th>Chiều</th>
-        <td></td>
-        <td class="busy"></td>
-        <td></td>
-        <td class="busy"></td>
-        <td class="busy"></td>
-        <td></td>
-        <td></td>
-       </tr>
-       <tr>
-        <th>Tối</th>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td class="busy"></td>
-        <td class="busy"></td>
-        <td class="busy"></td>
-        <td></td>
-       </tr>
-      </tbody>
-     </table>
+			<thead>
+			 <tr>
+				<th></th>
+				<th>T2</th>
+				<th>T3</th>
+				<th>T4</th>
+				<th>T5</th>
+				<th>T6</th>
+				<th>T7</th>
+				<th>CN</th>
+			 </tr>
+			</thead>
+			<tbody>
+			 <tr>
+				<th>Sáng</th>
+				<td></td>
+				<td class="busy"></td>
+				<td></td>
+				<td class="busy"></td>
+				<td class="busy"></td>
+				<td></td>
+				<td></td>
+			 </tr>
+			 <tr>
+				<th>Chiều</th>
+				<td></td>
+				<td class="busy"></td>
+				<td></td>
+				<td class="busy"></td>
+				<td class="busy"></td>
+				<td></td>
+				<td></td>
+			 </tr>
+			 <tr>
+				<th>Tối</th>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td class="busy"></td>
+				<td class="busy"></td>
+				<td class="busy"></td>
+				<td></td>
+			 </tr>
+			</tbody>
+		 </table>
  
  
 					<span class="legend"></span> : Những buổi giáo viên có thể giảng dạy 	
@@ -4932,7 +4932,11 @@ Với học sinh học cổ nhạc cụ: các bạn sẽ được học về đ�
 
 
 <!-- jQuery -->
-<script src="http://code.jquery.com/jquery-3.2.1.js"></script>
+<script
+	src="https://code.jquery.com/jquery-3.2.1.js"
+	integrity="sha256-DZAnKJ/6XZ9si04Hgrsxu/8s717jcIzLy3oi35EouyE="
+	crossorigin="anonymous">
+</script>
 <!-- JQuery UI -->
 <script src="dist/js/jquery-ui.smoothness/jquery-ui.js" type="text/javascript" charset="utf-8"></script>	
 <!-- Bootstrap JavaScript -->
