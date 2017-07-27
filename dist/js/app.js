@@ -48,7 +48,7 @@ $(document).ready(function() {
 		slide: function (event, ui) {
 			$("#slider-info *").val(ui.values[0] + " 000 - " + ui.values[1] + " 000");
 		}
-	});	
+	});
 });
 
 function filterSystem(minPrice, maxPrice) {

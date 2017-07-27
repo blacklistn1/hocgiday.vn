@@ -69,7 +69,7 @@
 	<div class="row">
 		<div class="col-xs-4 col-sm-6 col-md-6 col-lg-6 col-md-offset-1 contact">
 			<i class="fa fa-phone fa-2x"></i>&nbsp;&nbsp;&nbsp;
-			<span class="hgd-heading-highlight">Giải đáp thắc mắc: 0944852366</span>
+			<span class="hgd-heading-highlight">Giải đáp thắc mắc: <a href="tel:0944852366">094 485 23 66</a></span>
 		</div>
 		<div class="col-xs-6 col-sm-5 col-md-4 col-lg-4 col-xs-offset-0 col-sm-offset-1  yeucaugiaovien">
 			<span class="hgd-heading-highlight-2">Chưa tìm thấy giáo viên phù hợp?<br></span>
@@ -4937,6 +4937,7 @@ Với 2 năm dạy tại nhà, những học viên của Ngô Mai Phương chủ
 
 <!-- MY script -->
 <script src="dist/js/app.js" type="text/javascript" charset="utf-8"></script>
+
 
 </body>
 </html>
