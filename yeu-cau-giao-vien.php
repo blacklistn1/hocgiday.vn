@@ -48,6 +48,7 @@ if (isset($_POST['yeucaugiaovien'])) {
 		}
 		.slider-amount {
 			font-weight: bold;
+			width: 50%;
 		}
 		.btn-reg {
 			background-color: #f87311;
@@ -138,7 +139,7 @@ if (isset($_POST['yeucaugiaovien'])) {
 					<input type="hidden" name="price-hidden" value="">
 				</div>
 			</div>
-			Yêu cầu về giáo viên:
+			<h4>Yêu cầu về giáo viên:</h4>
 			<div class="form-group">
 				<label for="gender">Giới tính: </label><br>
 				<div class="checkbox">

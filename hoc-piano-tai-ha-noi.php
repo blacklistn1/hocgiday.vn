@@ -9,11 +9,11 @@
 	<title>Tìm giáo viên Piano tại nhà hoặc tại lớp | Học Gì Đây?</title>
 
 	<!-- Google Tag Manager -->
-	<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+<!-- 	<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
 	new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
 	j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 	'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-	})(window,document,'script','dataLayer','GTM-KHS4KLP');</script>
+	})(window,document,'script','dataLayer','GTM-KHS4KLP');</script> -->
 	<!-- End Google Tag Manager -->
 
 	<!-- Font Awesome CDN -->
@@ -34,7 +34,7 @@
 
 	</style>
 	<!-- Hotjar Tracking Code for www.hocgiday.com/ -->
-	<script>
+<!-- 	<script>
 		(function(h,o,t,j,a,r){
 			h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
 			h._hjSettings={hjid:569211,hjsv:5};
@@ -43,11 +43,11 @@
 			r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
 			a.appendChild(r);
 		})(window,document,'//static.hotjar.com/c/hotjar-','.js?sv=');
-	</script>
+	</script> -->
 
 
 	<!-- Google Analytics Tracking Code for Piano -->
-	<script>
+<!-- 	<script>
 		(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
 		(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
 		m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
@@ -55,26 +55,26 @@
 
 		ga('create', 'UA-85357957-2', 'auto');
 		ga('send', 'pageview');
-	</script>
+	</script> -->
 		
 </head>
 <body>
 
 	<!-- Google Tag Manager (noscript) -->
-	<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KHS4KLP"
-	height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- 	<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KHS4KLP"
+	height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript> -->
 	<!-- End Google Tag Manager (noscript) -->
 
 <div class="container-fluid sticky" id="contact">
 	<div class="row">
-		<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 col-md-offset-1 contact">
+		<div class="col-xs-4 col-sm-6 col-md-6 col-lg-6 col-md-offset-1 contact">
 			<i class="fa fa-phone fa-2x"></i>&nbsp;&nbsp;&nbsp;
 			<span class="hgd-contact-number ">Giải đáp thắc mắc: 0944852366</span>
 		</div>
-		<div class="col-xs-3 col-sm-3 col-md-3 col-lg-3 col-xs-offset-1 col-sm-offset-2 yeucaugiaovien">
+		<div class="col-xs-3 col-sm-3 col-md-3 col-lg-3 col-xs-offset-0 col-sm-offset-1 col-md-offset-2 yeucaugiaovien">
 			<form action="yeu-cau-giao-vien.php" method="POST" accept-charset="utf-8">
 				<input type="hidden" name="subject-hidden" value="piano">
-				<button type="submit" name="yeucaugiaovien" class="btn btn-warning yeucaugiaovien"><strong>Yêu cầu giáo viên</strong></button>
+				<button type="submit" target="_blank" name="yeucaugiaovien" class="btn btn-danger yeucaugiaovien"><span class="yeucaugiaovien-text">Yêu cầu giáo viên</span></button>
 			</form>
 		</div>
 	</div>
@@ -119,7 +119,7 @@
 			<div class="d-flex align-self-stretch profile-column">
 				<div class="col-xs-4 col-sm-3 col-md-2 col-lg-2 hgd-profile-info ">
 					<h3 id="unit-price">Học phí</h3>
-					<p class="unit-price">500.000 VNĐ/h</p>
+					<p class="unit-price">500.000 đ/ 60 phút</p>
 					<h3 id="rating">Đánh Giá</h3>
 					<div class="rating-star-box">
 						<span><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i></span>
@@ -189,13 +189,13 @@ Tôi chuyên giảng dạy về dòng cổ điển, và phương pháp dạy c�
 						<p>Tại nhà</p>
 					</div>
 					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 text-right">
-						<p>500.000 VNĐ/h</p>
+						<p>500.000 đ/ 60 phút</p>
 					</div>
 					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
 						<p>Tại lớp</p>
 					</div>
 					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 text-right">
-						<p>400.000 VNĐ/h</p>
+						<p>400.000 đ/ 60 phút</p>
 					</div>
 				</div>
 				<div class="row">
@@ -277,7 +277,7 @@ Tôi chuyên giảng dạy về dòng cổ điển, và phương pháp dạy c�
 			<div class="d-flex align-self-stretch profile-column">
 				<div class="col-xs-4 col-sm-3 col-md-2 col-lg-2 hgd-profile-info ">
 					<h3 id="unit-price">Học phí</h3>
-					<p class="unit-price">300.000 VNĐ/h</p>
+					<p class="unit-price">300.000 đ/ 60 phút</p>
 					<h3 id="rating">Đánh Giá</h3>
 					<div class="rating-star-box">
 						<span><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i></span>
@@ -350,13 +350,13 @@ Hi vọng Việt Anh có cơ hội được hợp tác và được làm việc 
 						<p>Tại nhà</p>
 					</div>
 					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 text-right">
-						<p>300.000 VNĐ/h</p>
+						<p>300.000 đ/ 60 phút</p>
 					</div>
 					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
 						<p>Tại lớp</p>
 					</div>
 					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 text-right">
-						<p>250.000 VNĐ/h</p>
+						<p>250.000 đ/ 60 phút</p>
 					</div>
 				</div>
 				<div class="row">
@@ -438,7 +438,7 @@ Hi vọng Việt Anh có cơ hội được hợp tác và được làm việc 
 			<div class="d-flex align-self-stretch profile-column">
 				<div class="col-xs-4 col-sm-3 col-md-2 col-lg-2 hgd-profile-info ">
 					<h3 id="unit-price">Học phí</h3>
-					<p class="unit-price">250.000 VNĐ/h</p>
+					<p class="unit-price">250.000 đ/ 60 phút</p>
 					<h3 id="rating">Đánh Giá</h3>
 					<div class="rating-star-box">
 						<span><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i></span>
@@ -508,13 +508,13 @@ Mình là Trần Tùng năm nay 22 tuổi hiện đang là SV Năm 3 trường �
 						<p>Tại nhà</p>
 					</div>
 					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 text-right">
-						<p>250.000 VNĐ/h</p>
+						<p>250.000 đ/ 60 phút</p>
 					</div>
 					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
 						<p>Tại lớp</p>
 					</div>
 					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 text-right">
-						<p>200.000 VNĐ/h</p>
+						<p>200.000 đ/ 60 phút</p>
 					</div>
 				</div>
 				<div class="row">
@@ -596,7 +596,7 @@ Mình là Trần Tùng năm nay 22 tuổi hiện đang là SV Năm 3 trường �
 			<div class="d-flex align-self-stretch profile-column">
 				<div class="col-xs-4 col-sm-3 col-md-2 col-lg-2 hgd-profile-info ">
 					<h3 id="unit-price">Học phí</h3>
-					<p class="unit-price">180.000 VNĐ/h</p>
+					<p class="unit-price">180.000 đ/ 60 phút</p>
 					<h3 id="rating">Đánh Giá</h3>
 					<div class="rating-star-box">
 						<span><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star-o" aria-hidden="true"></i></span>
@@ -668,13 +668,13 @@ Rất hi vọng sẽ được làm việc với nhiều học sinh tại Học G
 						<p>Tại nhà</p>
 					</div>
 					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 text-right">
-						<p>180.000 VNĐ/h</p>
+						<p>180.000 đ/ 60 phút</p>
 					</div>
 					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
 						<p>Tại lớp</p>
 					</div>
 					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 text-right">
-						<p>150.000 VNĐ/h</p>
+						<p>150.000 đ/ 60 phút</p>
 					</div>
 				</div>
 				<div class="row">
@@ -757,7 +757,7 @@ Rất hi vọng sẽ được làm việc với nhiều học sinh tại Học G
 			<div class="d-flex align-self-stretch profile-column">
 				<div class="col-xs-4 col-sm-3 col-md-2 col-lg-2 hgd-profile-info ">
 					<h3 id="unit-price">Học phí</h3>
-					<p class="unit-price">250.000 VNĐ/h</p>
+					<p class="unit-price">250.000 đ/ 60 phút</p>
 					<h3 id="rating">Đánh Giá</h3>
 					<div class="rating-star-box">
 						<span><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i></span>
@@ -829,13 +829,13 @@ Mặc dù mình đang học ngành Sư Phạm âm nhạc, nhà trường dạy m
 						<p>Tại nhà</p>
 					</div>
 					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 text-right">
-						<p>250.000 VNĐ/h</p>
+						<p>250.000 đ/ 60 phút</p>
 					</div>
 					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
 						<p>Tại lớp</p>
 					</div>
 					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 text-right">
-						<p>200.000 VNĐ/h</p>
+						<p>200.000 đ/ 60 phút</p>
 					</div>
 				</div>
 				<div class="row">
@@ -917,7 +917,7 @@ Mặc dù mình đang học ngành Sư Phạm âm nhạc, nhà trường dạy m
 			<div class="d-flex align-self-stretch profile-column">
 				<div class="col-xs-4 col-sm-3 col-md-2 col-lg-2 hgd-profile-info ">
 					<h3 id="unit-price">Học phí</h3>
-					<p class="unit-price">450.000 VNĐ/h</p>
+					<p class="unit-price">450.000 đ/ 60 phút</p>
 					<h3 id="rating">Đánh Giá</h3>
 					<div class="rating-star-box">
 						<span><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star-o" aria-hidden="true"></i></span>
@@ -989,13 +989,13 @@ Mặc dù mình đang học ngành Sư Phạm âm nhạc, nhà trường dạy m
 						<p>Tại nhà</p>
 					</div>
 					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 text-right">
-						<p>450.000 VNĐ/h</p>
+						<p>450.000 đ/ 60 phút</p>
 					</div>
 					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
 						<p>Tại lớp</p>
 					</div>
 					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 text-right">
-						<p>360.000 VNĐ/h</p>
+						<p>360.000 đ/ 60 phút</p>
 					</div>
 				</div>
 				<div class="row">
@@ -1077,7 +1077,7 @@ Mặc dù mình đang học ngành Sư Phạm âm nhạc, nhà trường dạy m
 			<div class="d-flex align-self-stretch profile-column">
 				<div class="col-xs-4 col-sm-3 col-md-2 col-lg-2 hgd-profile-info ">
 					<h3 id="unit-price">Học phí</h3>
-					<p class="unit-price">200.000 VNĐ/h</p>
+					<p class="unit-price">200.000 đ/ 60 phút</p>
 					<h3 id="rating">Đánh Giá</h3>
 					<div class="rating-star-box">
 						<span><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star-o" aria-hidden="true"></i></span>
@@ -1148,13 +1148,13 @@ Mình có thể dạy các bạn từ trình độ cơ bản đến nâng cao. M
 						<p>Tại nhà</p>
 					</div>
 					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 text-right">
-						<p>200.000 VNĐ/h</p>
+						<p>200.000 đ/ 60 phút</p>
 					</div>
 					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
 						<p>Tại lớp</p>
 					</div>
 					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 text-right">
-						<p>200.000 VNĐ/h</p>
+						<p>200.000 đ/ 60 phút</p>
 					</div>
 				</div>
 				<div class="row">
@@ -1236,7 +1236,7 @@ Mình có thể dạy các bạn từ trình độ cơ bản đến nâng cao. M
 			<div class="d-flex align-self-stretch profile-column">
 				<div class="col-xs-4 col-sm-3 col-md-2 col-lg-2 hgd-profile-info ">
 					<h3 id="unit-price">Học phí</h3>
-					<p class="unit-price">300.000 VNĐ/h</p>
+					<p class="unit-price">300.000 đ/ 60 phút</p>
 					<h3 id="rating">Đánh Giá</h3>
 					<div class="rating-star-box">
 						<span><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star-o" aria-hidden="true"></i><i class="fa fa-star-o" aria-hidden="true"></i><i class="fa fa-star-o" aria-hidden="true"></i><i class="fa fa-star-o" aria-hidden="true"></i></span>
@@ -1309,13 +1309,13 @@ Phương pháp học guitar lý thuyết&thực hành - Lê Đức Sơn
 						<p>Tại nhà</p>
 					</div>
 					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 text-right">
-						<p>300.000 VNĐ/h</p>
+						<p>300.000 đ/ 60 phút</p>
 					</div>
 					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
 						<p>Tại lớp</p>
 					</div>
 					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 text-right">
-						<p>240.000 VNĐ/h</p>
+						<p>240.000 đ/ 60 phút</p>
 					</div>
 				</div>
 				<div class="row">
@@ -1397,7 +1397,7 @@ Phương pháp học guitar lý thuyết&thực hành - Lê Đức Sơn
 			<div class="d-flex align-self-stretch profile-column">
 				<div class="col-xs-4 col-sm-3 col-md-2 col-lg-2 hgd-profile-info ">
 					<h3 id="unit-price">Học phí</h3>
-					<p class="unit-price">200.000 VNĐ/h</p>
+					<p class="unit-price">200.000 đ/ 60 phút</p>
 					<h3 id="rating">Đánh Giá</h3>
 					<div class="rating-star-box">
 						<span><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i></span>
@@ -1468,13 +1468,13 @@ Các bài học của mình được thiết kế từ đơn giản đến nâng
 						<p>Tại nhà</p>
 					</div>
 					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 text-right">
-						<p>200.000 VNĐ/h</p>
+						<p>200.000 đ/ 60 phút</p>
 					</div>
 					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
 						<p>Tại lớp</p>
 					</div>
 					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 text-right">
-						<p>180.000 VNĐ/h</p>
+						<p>180.000 đ/ 60 phút</p>
 					</div>
 				</div>
 				<div class="row">
@@ -1634,7 +1634,7 @@ Về hoạt động nghệ thuật: “Thì anh đã có 14 năm kinh nghiệm b
 						<p>Tại lớp</p>
 					</div>
 					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 text-right">
-						<p>300.000 VNĐ/h</p>
+						<p>300.000 đ/ 60 phút</p>
 					</div>
 				</div>
 				<div class="row">
@@ -1716,7 +1716,7 @@ Về hoạt động nghệ thuật: “Thì anh đã có 14 năm kinh nghiệm b
 			<div class="d-flex align-self-stretch profile-column">
 				<div class="col-xs-4 col-sm-3 col-md-2 col-lg-2 hgd-profile-info ">
 					<h3 id="unit-price">Học phí</h3>
-					<p class="unit-price">250.000 VNĐ/h</p>
+					<p class="unit-price">250.000 đ/ 60 phút</p>
 					<h3 id="rating">Đánh Giá</h3>
 					<div class="rating-star-box">
 						<span><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i></span>
@@ -1788,13 +1788,13 @@ Với kinh nghiệm 8 năm giảng dậy, cho rất nhiều đối tượng và 
 						<p>Tại nhà</p>
 					</div>
 					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 text-right">
-						<p>250.000 VNĐ/h</p>
+						<p>250.000 đ/ 60 phút</p>
 					</div>
 					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
 						<p>Tại lớp</p>
 					</div>
 					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 text-right">
-						<p>200.000 VNĐ/h</p>
+						<p>200.000 đ/ 60 phút</p>
 					</div>
 				</div>
 				<div class="row">
@@ -1876,7 +1876,7 @@ Với kinh nghiệm 8 năm giảng dậy, cho rất nhiều đối tượng và 
 			<div class="d-flex align-self-stretch profile-column">
 				<div class="col-xs-4 col-sm-3 col-md-2 col-lg-2 hgd-profile-info ">
 					<h3 id="unit-price">Học phí</h3>
-					<p class="unit-price">200.000 VNĐ/h</p>
+					<p class="unit-price">200.000 đ/ 60 phút</p>
 					<h3 id="rating">Đánh Giá</h3>
 					<div class="rating-star-box">
 						<span><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star-o" aria-hidden="true"></i></span>
@@ -1946,13 +1946,13 @@ Mình thích chơi đàn piano từ nhỏ, nhưng đến cấp ba mới có kh�
 						<p>Tại nhà</p>
 					</div>
 					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 text-right">
-						<p>200.000 VNĐ/h</p>
+						<p>200.000 đ/ 60 phút</p>
 					</div>
 					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
 						<p>Tại lớp</p>
 					</div>
 					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 text-right">
-						<p>150.000 VNĐ/h</p>
+						<p>150.000 đ/ 60 phút</p>
 					</div>
 				</div>
 				<div class="row">
@@ -2034,7 +2034,7 @@ Mình thích chơi đàn piano từ nhỏ, nhưng đến cấp ba mới có kh�
 			<div class="d-flex align-self-stretch profile-column">
 				<div class="col-xs-4 col-sm-3 col-md-2 col-lg-2 hgd-profile-info ">
 					<h3 id="unit-price">Học phí</h3>
-					<p class="unit-price">220.000 VNĐ/h</p>
+					<p class="unit-price">220.000 đ/ 60 phút</p>
 					<h3 id="rating">Đánh Giá</h3>
 					<div class="rating-star-box">
 						<span><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star-o" aria-hidden="true"></i></span>
@@ -2105,13 +2105,13 @@ Hi vọng sẽ được gặp các bạn trong thời gian sớm nhất!
 						<p>Tại nhà</p>
 					</div>
 					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 text-right">
-						<p>220.000 VNĐ/h</p>
+						<p>220.000 đ/ 60 phút</p>
 					</div>
 					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
 						<p>Tại lớp</p>
 					</div>
 					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 text-right">
-						<p>180.000 VNĐ/h</p>
+						<p>180.000 đ/ 60 phút</p>
 					</div>
 				</div>
 				<div class="row">
@@ -2193,7 +2193,7 @@ Hi vọng sẽ được gặp các bạn trong thời gian sớm nhất!
 			<div class="d-flex align-self-stretch profile-column">
 				<div class="col-xs-4 col-sm-3 col-md-2 col-lg-2 hgd-profile-info ">
 					<h3 id="unit-price">Học phí</h3>
-					<p class="unit-price">500.000 VNĐ/h</p>
+					<p class="unit-price">500.000 đ/ 60 phút</p>
 					<h3 id="rating">Đánh Giá</h3>
 					<div class="rating-star-box">
 						<span><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star-o" aria-hidden="true"></i><i class="fa fa-star-o" aria-hidden="true"></i></span>
@@ -2263,13 +2263,13 @@ Phương pháp giảng dạy được xây dựng kĩ lưỡng của tôi dựa 
 						<p>Tại nhà</p>
 					</div>
 					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 text-right">
-						<p>500.000 VNĐ/h</p>
+						<p>500.000 đ/ 60 phút</p>
 					</div>
 					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
 						<p>Tại lớp</p>
 					</div>
 					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 text-right">
-						<p>400.000 VNĐ/h</p>
+						<p>400.000 đ/ 60 phút</p>
 					</div>
 				</div>
 				<div class="row">
@@ -2353,7 +2353,7 @@ Phương pháp giảng dạy được xây dựng kĩ lưỡng của tôi dựa 
 			<div class="d-flex align-self-stretch profile-column">
 				<div class="col-xs-4 col-sm-3 col-md-2 col-lg-2 hgd-profile-info ">
 					<h3 id="unit-price">Học phí</h3>
-					<p class="unit-price">200.000 VNĐ/h</p>
+					<p class="unit-price">200.000 đ/ 60 phút</p>
 					<h3 id="rating">Đánh Giá</h3>
 					<div class="rating-star-box">
 						<span><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star-o" aria-hidden="true"></i></span>
@@ -2424,7 +2424,7 @@ Rất mong sẽ có cơ hội được làm việc với các bạn!
 						<p>Tại nhà</p>
 					</div>
 					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 text-right">
-						<p>200.000 VNĐ/h</p>
+						<p>200.000 đ/ 60 phút</p>
 					</div>
 					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
 						<p>Tại lớp</p>
@@ -2512,7 +2512,7 @@ Rất mong sẽ có cơ hội được làm việc với các bạn!
 			<div class="d-flex align-self-stretch profile-column">
 				<div class="col-xs-4 col-sm-3 col-md-2 col-lg-2 hgd-profile-info ">
 					<h3 id="unit-price">Học phí</h3>
-					<p class="unit-price">200.000 VNĐ/h</p>
+					<p class="unit-price">200.000 đ/ 60 phút</p>
 					<h3 id="rating">Đánh Giá</h3>
 					<div class="rating-star-box">
 						<span><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i></span>
@@ -2583,13 +2583,13 @@ Cho dù bạn là người mới bắt đầu hay đã có kinh nghiệm, tôi s
 						<p>Tại nhà</p>
 					</div>
 					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 text-right">
-						<p>200.000 VNĐ/h</p>
+						<p>200.000 đ/ 60 phút</p>
 					</div>
 					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
 						<p>Tại lớp</p>
 					</div>
 					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 text-right">
-						<p>180.000 VNĐ/h</p>
+						<p>180.000 đ/ 60 phút</p>
 					</div>
 				</div>
 				<div class="row">
@@ -2671,7 +2671,7 @@ Cho dù bạn là người mới bắt đầu hay đã có kinh nghiệm, tôi s
 			<div class="d-flex align-self-stretch profile-column">
 				<div class="col-xs-4 col-sm-3 col-md-2 col-lg-2 hgd-profile-info ">
 					<h3 id="unit-price">Học phí</h3>
-					<p class="unit-price">450.000 VNĐ/h</p>
+					<p class="unit-price">450.000 đ/ 60 phút</p>
 					<h3 id="rating">Đánh Giá</h3>
 					<div class="rating-star-box">
 						<span><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star-o" aria-hidden="true"></i></span>
@@ -2743,13 +2743,13 @@ Những học viên từng được Hoàng Phương dẫn dắt đa số tìm đ
 						<p>Tại nhà</p>
 					</div>
 					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 text-right">
-						<p>450.000 VNĐ/h</p>
+						<p>450.000 đ/ 60 phút</p>
 					</div>
 					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
 						<p>Tại lớp</p>
 					</div>
 					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 text-right">
-						<p>360.000 VNĐ/h</p>
+						<p>360.000 đ/ 60 phút</p>
 					</div>
 				</div>
 				<div class="row">
@@ -2833,7 +2833,7 @@ Những học viên từng được Hoàng Phương dẫn dắt đa số tìm đ
 			<div class="d-flex align-self-stretch profile-column">
 				<div class="col-xs-4 col-sm-3 col-md-2 col-lg-2 hgd-profile-info ">
 					<h3 id="unit-price">Học phí</h3>
-					<p class="unit-price">280.000 VNĐ/h</p>
+					<p class="unit-price">280.000 đ/ 60 phút</p>
 					<h3 id="rating">Đánh Giá</h3>
 					<div class="rating-star-box">
 						<span><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star-o" aria-hidden="true"></i></span>
@@ -2905,13 +2905,13 @@ Học piano với mình các bạn sẽ không thấy sự áp lực mà chúng 
 						<p>Tại nhà</p>
 					</div>
 					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 text-right">
-						<p>280.000 VNĐ/h</p>
+						<p>280.000 đ/ 60 phút</p>
 					</div>
 					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
 						<p>Tại lớp</p>
 					</div>
 					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 text-right">
-						<p>224.000 VNĐ/h</p>
+						<p>224.000 đ/ 60 phút</p>
 					</div>
 				</div>
 				<div class="row">
@@ -2995,7 +2995,7 @@ Học piano với mình các bạn sẽ không thấy sự áp lực mà chúng 
 			<div class="d-flex align-self-stretch profile-column">
 				<div class="col-xs-4 col-sm-3 col-md-2 col-lg-2 hgd-profile-info ">
 					<h3 id="unit-price">Học phí</h3>
-					<p class="unit-price">300.000 VNĐ/h</p>
+					<p class="unit-price">300.000 đ/ 60 phút</p>
 					<h3 id="rating">Đánh Giá</h3>
 					<div class="rating-star-box">
 						<span><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star-o" aria-hidden="true"></i><i class="fa fa-star-o" aria-hidden="true"></i></span>
@@ -3064,13 +3064,13 @@ Tôi có thể cho bạn thấy những cách để trau dồi kỹ năng thông
 						<p>Tại nhà</p>
 					</div>
 					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 text-right">
-						<p>300.000 VNĐ/h</p>
+						<p>300.000 đ/ 60 phút</p>
 					</div>
 					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
 						<p>Tại lớp</p>
 					</div>
 					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 text-right">
-						<p>240.000 VNĐ/h</p>
+						<p>240.000 đ/ 60 phút</p>
 					</div>
 				</div>
 				<div class="row">
@@ -3154,7 +3154,7 @@ Tôi có thể cho bạn thấy những cách để trau dồi kỹ năng thông
 			<div class="d-flex align-self-stretch profile-column">
 				<div class="col-xs-4 col-sm-3 col-md-2 col-lg-2 hgd-profile-info ">
 					<h3 id="unit-price">Học phí</h3>
-					<p class="unit-price">250.000 VNĐ/h</p>
+					<p class="unit-price">250.000 đ/ 60 phút</p>
 					<h3 id="rating">Đánh Giá</h3>
 					<div class="rating-star-box">
 						<span><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i></span>
@@ -3224,7 +3224,7 @@ Mình là Vũ Văn Nam. Nhà soạn nhạc thiên tài người Đức Ludwig va
 						<p>Tại nhà</p>
 					</div>
 					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 text-right">
-						<p>250.000 VNĐ/h</p>
+						<p>250.000 đ/ 60 phút</p>
 					</div>
 					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
 						<p>Tại lớp</p>
@@ -3312,7 +3312,7 @@ Mình là Vũ Văn Nam. Nhà soạn nhạc thiên tài người Đức Ludwig va
 			<div class="d-flex align-self-stretch profile-column">
 				<div class="col-xs-4 col-sm-3 col-md-2 col-lg-2 hgd-profile-info ">
 					<h3 id="unit-price">Học phí</h3>
-					<p class="unit-price">300.000 VNĐ/h</p>
+					<p class="unit-price">300.000 đ/ 60 phút</p>
 					<h3 id="rating">Đánh Giá</h3>
 					<div class="rating-star-box">
 						<span><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star-o" aria-hidden="true"></i><i class="fa fa-star-o" aria-hidden="true"></i></span>
@@ -3381,13 +3381,13 @@ Mình là Vũ Văn Nam. Nhà soạn nhạc thiên tài người Đức Ludwig va
 						<p>Tại nhà</p>
 					</div>
 					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 text-right">
-						<p>300.000 VNĐ/h</p>
+						<p>300.000 đ/ 60 phút</p>
 					</div>
 					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
 						<p>Tại lớp</p>
 					</div>
 					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 text-right">
-						<p>240.000 VNĐ/h</p>
+						<p>240.000 đ/ 60 phút</p>
 					</div>
 				</div>
 				<div class="row">
@@ -3551,7 +3551,7 @@ Các phương pháp tập chủ đạo trong cách dạy của Hưng
 						<p>Tại lớp</p>
 					</div>
 					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 text-right">
-						<p>150.000 VNĐ/h</p>
+						<p>150.000 đ/ 60 phút</p>
 					</div>
 				</div>
 				<div class="row">
@@ -3633,7 +3633,7 @@ Các phương pháp tập chủ đạo trong cách dạy của Hưng
 			<div class="d-flex align-self-stretch profile-column">
 				<div class="col-xs-4 col-sm-3 col-md-2 col-lg-2 hgd-profile-info ">
 					<h3 id="unit-price">Học phí</h3>
-					<p class="unit-price">300.000 VNĐ/h</p>
+					<p class="unit-price">300.000 đ/ 60 phút</p>
 					<h3 id="rating">Đánh Giá</h3>
 					<div class="rating-star-box">
 						<span><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star-o" aria-hidden="true"></i><i class="fa fa-star-o" aria-hidden="true"></i></span>
@@ -3703,13 +3703,13 @@ Tôi thích làm việc với các học viên trẻ hơn ở trình độ bắt
 						<p>Tại nhà</p>
 					</div>
 					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 text-right">
-						<p>300.000 VNĐ/h</p>
+						<p>300.000 đ/ 60 phút</p>
 					</div>
 					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
 						<p>Tại lớp</p>
 					</div>
 					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 text-right">
-						<p>240.000 VNĐ/h</p>
+						<p>240.000 đ/ 60 phút</p>
 					</div>
 				</div>
 				<div class="row">
@@ -3792,7 +3792,7 @@ Tôi thích làm việc với các học viên trẻ hơn ở trình độ bắt
 			<div class="d-flex align-self-stretch profile-column">
 				<div class="col-xs-4 col-sm-3 col-md-2 col-lg-2 hgd-profile-info ">
 					<h3 id="unit-price">Học phí</h3>
-					<p class="unit-price">200.000 VNĐ/h</p>
+					<p class="unit-price">200.000 đ/ 60 phút</p>
 					<h3 id="rating">Đánh Giá</h3>
 					<div class="rating-star-box">
 						<span><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star-o" aria-hidden="true"></i></span>
@@ -3861,13 +3861,13 @@ Học sinh học piano với mình sẽ không chỉ học những bài hát mà
 						<p>Tại nhà</p>
 					</div>
 					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 text-right">
-						<p>200.000 VNĐ/h</p>
+						<p>200.000 đ/ 60 phút</p>
 					</div>
 					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
 						<p>Tại lớp</p>
 					</div>
 					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 text-right">
-						<p>160.000 VNĐ/h</p>
+						<p>160.000 đ/ 60 phút</p>
 					</div>
 				</div>
 				<div class="row">
@@ -3949,7 +3949,7 @@ Học sinh học piano với mình sẽ không chỉ học những bài hát mà
 			<div class="d-flex align-self-stretch profile-column">
 				<div class="col-xs-4 col-sm-3 col-md-2 col-lg-2 hgd-profile-info ">
 					<h3 id="unit-price">Học phí</h3>
-					<p class="unit-price">300.000 VNĐ/h</p>
+					<p class="unit-price">300.000 đ/ 60 phút</p>
 					<h3 id="rating">Đánh Giá</h3>
 					<div class="rating-star-box">
 						<span><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star-o" aria-hidden="true"></i><i class="fa fa-star-o" aria-hidden="true"></i></span>
@@ -4019,13 +4019,13 @@ Hãy gửi cho tôi một tin nhắn nếu bạn có bất kỳ câu hỏi nào 
 						<p>Tại nhà</p>
 					</div>
 					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 text-right">
-						<p>300.000 VNĐ/h</p>
+						<p>300.000 đ/ 60 phút</p>
 					</div>
 					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
 						<p>Tại lớp</p>
 					</div>
 					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 text-right">
-						<p>240.000 VNĐ/h</p>
+						<p>240.000 đ/ 60 phút</p>
 					</div>
 				</div>
 				<div class="row">
@@ -4109,7 +4109,7 @@ Hãy gửi cho tôi một tin nhắn nếu bạn có bất kỳ câu hỏi nào 
 			<div class="d-flex align-self-stretch profile-column">
 				<div class="col-xs-4 col-sm-3 col-md-2 col-lg-2 hgd-profile-info ">
 					<h3 id="unit-price">Học phí</h3>
-					<p class="unit-price">250.000 VNĐ/h</p>
+					<p class="unit-price">250.000 đ/ 60 phút</p>
 					<h3 id="rating">Đánh Giá</h3>
 					<div class="rating-star-box">
 						<span><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star-o" aria-hidden="true"></i></span>
@@ -4178,13 +4178,13 @@ Tôi tin rằng việc học nhạc là một trải nghiệm vui và thú vị.
 						<p>Tại nhà</p>
 					</div>
 					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 text-right">
-						<p>250.000 VNĐ/h</p>
+						<p>250.000 đ/ 60 phút</p>
 					</div>
 					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
 						<p>Tại lớp</p>
 					</div>
 					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 text-right">
-						<p>200.000 VNĐ/h</p>
+						<p>200.000 đ/ 60 phút</p>
 					</div>
 				</div>
 				<div class="row">
@@ -4268,7 +4268,7 @@ Tôi tin rằng việc học nhạc là một trải nghiệm vui và thú vị.
 			<div class="d-flex align-self-stretch profile-column">
 				<div class="col-xs-4 col-sm-3 col-md-2 col-lg-2 hgd-profile-info ">
 					<h3 id="unit-price">Học phí</h3>
-					<p class="unit-price">250.000 VNĐ/h</p>
+					<p class="unit-price">250.000 đ/ 60 phút</p>
 					<h3 id="rating">Đánh Giá</h3>
 					<div class="rating-star-box">
 						<span><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star-o" aria-hidden="true"></i><i class="fa fa-star-o" aria-hidden="true"></i></span>
@@ -4336,13 +4336,13 @@ Tôi tin rằng việc học nhạc là một trải nghiệm vui và thú vị.
 						<p>Tại nhà</p>
 					</div>
 					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 text-right">
-						<p>250.000 VNĐ/h</p>
+						<p>250.000 đ/ 60 phút</p>
 					</div>
 					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
 						<p>Tại lớp</p>
 					</div>
 					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 text-right">
-						<p>200.000 VNĐ/h</p>
+						<p>200.000 đ/ 60 phút</p>
 					</div>
 				</div>
 				<div class="row">
@@ -4426,7 +4426,7 @@ Tôi tin rằng việc học nhạc là một trải nghiệm vui và thú vị.
 			<div class="d-flex align-self-stretch profile-column">
 				<div class="col-xs-4 col-sm-3 col-md-2 col-lg-2 hgd-profile-info ">
 					<h3 id="unit-price">Học phí</h3>
-					<p class="unit-price">200.000 VNĐ/h</p>
+					<p class="unit-price">200.000 đ/ 60 phút</p>
 					<h3 id="rating">Đánh Giá</h3>
 					<div class="rating-star-box">
 						<span><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star-o" aria-hidden="true"></i><i class="fa fa-star-o" aria-hidden="true"></i><i class="fa fa-star-o" aria-hidden="true"></i></span>
@@ -4494,13 +4494,13 @@ Tôi tin rằng việc học nhạc là một trải nghiệm vui và thú vị.
 						<p>Tại nhà</p>
 					</div>
 					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 text-right">
-						<p>200.000 VNĐ/h</p>
+						<p>200.000 đ/ 60 phút</p>
 					</div>
 					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
 						<p>Tại lớp</p>
 					</div>
 					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 text-right">
-						<p>160.000 VNĐ/h</p>
+						<p>160.000 đ/ 60 phút</p>
 					</div>
 				</div>
 				<div class="row">
@@ -4583,7 +4583,7 @@ Tôi tin rằng việc học nhạc là một trải nghiệm vui và thú vị.
 			<div class="d-flex align-self-stretch profile-column">
 				<div class="col-xs-4 col-sm-3 col-md-2 col-lg-2 hgd-profile-info ">
 					<h3 id="unit-price">Học phí</h3>
-					<p class="unit-price">200.000 VNĐ/h</p>
+					<p class="unit-price">200.000 đ/ 60 phút</p>
 					<h3 id="rating">Đánh Giá</h3>
 					<div class="rating-star-box">
 						<span><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star-o" aria-hidden="true"></i><i class="fa fa-star-o" aria-hidden="true"></i><i class="fa fa-star-o" aria-hidden="true"></i></span>
@@ -4653,13 +4653,13 @@ Với 1 năm dạy tại nhà, những học viên của Tạ Thị Anh chủ y�
 						<p>Tại nhà</p>
 					</div>
 					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 text-right">
-						<p>200.000 VNĐ/h</p>
+						<p>200.000 đ/ 60 phút</p>
 					</div>
 					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
 						<p>Tại lớp</p>
 					</div>
 					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 text-right">
-						<p>160.000 VNĐ/h</p>
+						<p>160.000 đ/ 60 phút</p>
 					</div>
 				</div>
 				<div class="row">
@@ -4743,7 +4743,7 @@ Với 1 năm dạy tại nhà, những học viên của Tạ Thị Anh chủ y�
 			<div class="d-flex align-self-stretch profile-column">
 				<div class="col-xs-4 col-sm-3 col-md-2 col-lg-2 hgd-profile-info ">
 					<h3 id="unit-price">Học phí</h3>
-					<p class="unit-price">200.000 VNĐ/h</p>
+					<p class="unit-price">200.000 đ/ 60 phút</p>
 					<h3 id="rating">Đánh Giá</h3>
 					<div class="rating-star-box">
 						<span><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star-o" aria-hidden="true"></i><i class="fa fa-star-o" aria-hidden="true"></i></span>
@@ -4813,13 +4813,13 @@ Với 2 năm dạy tại nhà, những học viên của Ngô Mai Phương chủ
 						<p>Tại nhà</p>
 					</div>
 					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 text-right">
-						<p>200.000 VNĐ/h</p>
+						<p>200.000 đ/ 60 phút</p>
 					</div>
 					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
 						<p>Tại lớp</p>
 					</div>
 					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 text-right">
-						<p>160.000 VNĐ/h</p>
+						<p>160.000 đ/ 60 phút</p>
 					</div>
 				</div>
 				<div class="row">

@@ -1,0 +1,289 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Tìm giáo viên Guitar tại nhà hoặc tại lớp | Học Gì Đây?</title>
+
+	<!-- Font Awesome CDN -->
+	<script src="https://use.fontawesome.com/d5eddf6cb3.js"></script>
+
+	<!-- Bootstrap CSS -->
+	<link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet">
+	<!-- JQuery UI -->
+	<link rel="stylesheet" type="text/css" href="dist/js/jquery-ui.smoothness/jquery-ui.css">	
+
+	<!-- JQuery Mobile css -->
+	<link rel="stylesheet" type="text/css" href="dist/js/jquery.mobile.theme/hocgiday.css">
+	<link rel="stylesheet" type="text/css" href="dist/js/jquery.mobile.theme/jquery.mobile.icons.min.css">
+	<link rel="stylesheet" href="https://code.jquery.com/mobile/1.4.5/jquery.mobile.structure-1.4.5.min.css" />
+
+	<!-- Google Fonts -->
+	<link href="https://fonts.googleapis.com/css?family=Montserrat|Open+Sans" rel="stylesheet">
+	
+	<!-- MY Style -->
+	<link rel="stylesheet" type="text/css" href="dist/css/style.css">
+
+
+	<!-- jQuery -->
+	<script src="https://code.jquery.com/jquery-1.11.1.min.js"></script>
+	<!-- Bootstrap JavaScript -->
+	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+
+	<!-- JQuery Mobile -->
+	<script src="https://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.js"></script>
+
+	<!-- JQuery UI -->
+	<script src="dist/js/jquery-ui.smoothness/jquery-ui.js" type="text/javascript" charset="utf-8"></script>
+	<!-- MY script -->
+	<script src="dist/js/app.js" type="text/javascript" charset="utf-8"></script>
+
+</head>
+<body>
+
+<div class="container-fluid sticky" id="contact">
+	<div class="row">
+		<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 col-md-offset-1 contact">
+			<i class="fa fa-phone fa-2x"></i>&nbsp;&nbsp;&nbsp;
+			<span class="hgd-contact-number ">Giải đáp thắc mắc: 0944852366</span>
+		</div>
+		<div class="col-xs-3 col-sm-3 col-md-3 col-lg-3 col-xs-offset-1 col-sm-offset-2 yeucaugiaovien">
+			<form action="yeu-cau-giao-vien.php" method="POST" accept-charset="utf-8">
+				<input type="hidden" name="subject-hidden" value="guitar">
+				<button type="submit" name="yeucaugiaovien" class="btn btn-warning yeucaugiaovien"><strong>Yêu cầu giáo viên</strong></button>
+			</form>
+		</div>
+	</div>
+</div>
+
+<div class="container-fluid hgd-header">
+	<div class="text-center hgd-header">
+		<h1 id="h1">BẠN MUỐN HỌC GUITAR?</h1>
+		<h3 id="h3">LỰA CHỌN GIỮA HÀNG CHỤC GIÁO VIÊN GUITAR TẠI HÀ NỘI</h3>
+	</div>
+</div>
+
+
+<div data-role="page" data-theme="a">
+	<div data-role="content" data-theme="a">
+	<!-- Slider filter -->
+	<div data-role="rangeslider">
+		<label for="range-1a">Rangeslider:</label>
+		<input type="range" name="range-1a" id="range-1a" min="1" max="600" value="100" onchange="filterPrice()">
+		<label for="range-1b">Rangeslider:</label>
+		<input type="range" name="range-1b" id="range-1b" min="1" max="600" value="600" onchange="filterPrice()">
+	</div>
+	</div>
+</div>
+
+
+<div class="container hgd-container">
+
+	<!-- Profile row: Đinh Mạnh Hà-->
+	<!-- Profile box -->
+	<div class="container-fluid hgd-profile-box hanoi" data-price="120">
+		<div class="row hgd-profile ">
+			<div class="d-flex align-self-stretch profile-column">
+				<div class="col-xs-4 col-sm-3 col-md-2 col-lg-2 hgd-profile-info hgd-avatar">
+					<img class="img-circle img-responsive center-block hgd-profile-avatar" src="https://www.hocgiday.com/wp-content/uploads/2017/07/Ha-Dinh.jpg" alt="teacher">
+				</div>
+			</div>
+			<div class="d-flex align-self-stretch profile-column">
+				<div class="col-xs-4 col-sm-6 col-md-6 col-lg-6 hgd-profile-info ">
+				<h3 id="dinhmanhha">Đinh Mạnh Hà</h3>
+				<p>Địa chỉ: Chùa Bộc, quận Đống Đa</p>
+				</div>
+			</div>
+			<div class="d-flex align-self-stretch profile-column">
+				<div class="col-xs-4 col-sm-3 col-md-2 col-lg-2 hgd-profile-info ">
+					<h3 id="unit-price">Học phí</h3>
+					<p class="unit-price">120.000/60 phút</p>
+					<h3 id="rating">Đánh Giá</h3>
+					<div class="rating-star-box">
+						<span><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i></span>
+						<span class="num-of-rates">3</span>
+					</div>
+				</div>
+			</div>
+			<div class="d-flex align-self-stretch profile-column">
+				<div class="col-xs-12 col-sm-12 col-md-2 col-lg-2 hgd-read-more dinhmanhha">
+					<span class="read-more dinhmanhha">&gt;&gt; Tìm hiểu thêm</span>
+				</div>
+			</div>
+		</div> <!-- End Profile row -->
+
+		<!-- Profile Detail -->
+		<div class="row hgd-profile-detail">
+			<div class="row">
+				<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
+					<p><span class="t-heading">Cấp độ giảng dạy</span></p>
+				</div>
+				<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 text-right">
+					<p>Cơ bản</p>
+				</div>
+			</div>
+			<!-- Description -->
+			<div class="row">
+				<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+					<h4>Vài nét về giáo viên</h4>
+					<p>Mình bắt đầu tiếp xúc với âm nhạc khoảng cuối năm 2014, mình đã tốt nghiệp Đại học Phương Đông chuyên ngành Kiến Trúc tuy nhiên âm nhạc đã trở thành một phần không thể thiếu, nên mình đã quyết tâm theo đuổi âm nhạc. Mình bắt đầu giảng dạy từ 2016. Thần tượng âm nhạc của mình là Frank Sinatra, Paul Gilbert. Dòng nhạc ưa thích và theo đuổi: Rock, Metal, Pop. Phương pháp giảng dạy của mình sẽ phù hợp với từng học sinh khác nhau, từ đó mình sẽ đưa ra giáo trình phù hợp nhất. Ngoài ra mình còn đang là thành viên của ban nhạc School of rock. Mình cũng chơi bass và đã tham gia biểu diễn tại các quán cafe và nhiều sự kiện lớn nhỏ khác nhau như Rock Fest FPT, biểu diễn tại Bar +84,...
+					</p>
+				</div>
+			</div>
+
+			<!-- End description -->
+			<!-- Left column at md and lg -->
+			<div class="col-xs-12 col-sm-12 col-md-7 col-lg-7"> 
+				<div class="row">
+					<h4>Học vấn</h4>
+					<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">	
+						<p>Đang học hệ Trung Cấp Đại học văn hóa nghệ thuật quân đội</p>
+					</div>
+					
+				</div>
+				<div class="row">
+					<h4>Video</h4>
+					<div class="col-xs-12 col-sm-12 col-md-11 col-lg-11 wrapper wrapper-iframe">
+						<iframe class="wrapper-item wrapper-video" src="https://www.youtube.com/embed/wq_O0eTHqyk" frameborder="0" allowfullscreen></iframe>
+					</div>
+				</div>	
+			</div> <!-- End left column -->
+			
+			<!-- Right column at md and lg -->
+			<div class="col-xs-12 col-sm-12 col-md-5 col-lg-5"> 
+				
+				<div class="row">
+					<div class="col-xs-7 col-sm-7 col-md-7 col-lg-7">
+						<h4>Phạm vi đi lại</h4>
+					</div>
+					<div class="col-xs-5 col-sm-5 col-md-5 col-lg-5 text-right">
+						<p>5km</p>
+					</div>
+				</div>
+				<div class="row">
+					<h4>Học phí</h4>
+					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
+						<p>Tại nhà</p>
+					</div>
+					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 text-right">
+						<p>120.000/60 phút</p>
+					</div>
+					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
+						<p>Tại lớp</p>
+					</div>
+					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 text-right">
+						<p></p>
+					</div>
+				</div>
+				<div class="row">
+					<h4>Lịch giảng dạy của giáo viên</h4>
+					<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+						<table class="table table-bordered">
+			<thead>
+			 <tr>
+				<th></th>
+				<th>T2</th>
+				<th>T3</th>
+				<th>T4</th>
+				<th>T5</th>
+				<th>T6</th>
+				<th>T7</th>
+				<th>CN</th>
+			 </tr>
+			</thead>
+			<tbody>
+			 <tr>
+				<th>Sáng</th>
+				<td class="busy"></td>
+				<td class="busy"></td>
+				<td class="busy"></td>
+				<td></td>
+				<td></td>
+				<td class="busy"></td>
+				<td></td>
+			 </tr>
+			 <tr>
+				<th>Chiều</th>
+				<td class="busy"></td>
+				<td class="busy"></td>
+				<td class="busy"></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+			 </tr>
+			 <tr>
+				<th>Tối</th>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+			 </tr>
+			</tbody>
+		 </table> 
+ 
+					<span class="legend"></span> : Những buổi giáo viên có thể giảng dạy 	
+					</div>
+				</div>
+				<div class="row sign-up">
+					<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+						<button class="btn btn-info btn-lg btn-sign-up center-block dang-ky-ngay" data-toggle="modal" data-target="#myModal" rel="dinhmanhha">Đăng ký ngay</button>
+					</div>
+				</div>
+			</div>
+		</div> <!-- End Profile detail -->
+	</div> <!-- End Profile box --> 
+
+	<div class="container">
+		<!-- Modal -->
+		<div class="modal fade" id="myModal" role="dialog">
+			<div class="modal-dialog">		
+				<!-- Modal content-->
+				<div class="modal-content">
+					<div class="modal-header">					
+						<h3 class="modal-title" id="tName"></h3> 
+					</div>
+					<div class="modal-body">
+						<form action="sendmail.php" method="POST" role="form">
+							<div class="form-group">
+								<input type="text" name="fullname" class="form-control mailing-info" placeholder="Tên đầy đủ của bạn" required="required">
+							</div>
+							<div class="form-group">
+								<input type="text" name="tel" class="form-control mailing-info" placeholder="Số điện thoại" required="required">
+							</div>
+							<div class="form-group">
+								<input type="hidden" name="teacher" id="chosen-teacher" class="form-control">
+								<input type="hidden" name="subject" value="guitar">
+							</div>
+							<div class="modal-footer">
+								<button name="send" type="submit" class="btn btn-primary btn-submit">Gửi đi</button>
+							</div>
+						</form>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+
+
+<!-- MY script -->
+<script type="text/javascript" charset="utf-8" async>
+	function filterPrice() {
+	var min = $("#range-1a").val();
+	var max = $("#range-1b").val();		
+	$(".div-content").hide().filter(function() {
+		var amount = parseInt($(this).data("amount"), 10);
+		return amount >= min && amount <= max;
+	}).show();	
+}
+</script>
+
+
+
+</body>
+</html>

@@ -9,11 +9,11 @@
 	<title>Tìm giáo viên Guitar tại nhà hoặc tại lớp | Học Gì Đây?</title>
 	
 	<!-- Google Tag Manager -->
-	<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+<!-- 	<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
 	new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
 	j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 	'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-	})(window,document,'script','dataLayer','GTM-5SQR968');</script>
+	})(window,document,'script','dataLayer','GTM-5SQR968');</script> -->
 	<!-- End Google Tag Manager -->
 
 	<!-- Font Awesome CDN -->
@@ -33,7 +33,7 @@
 
 	</style>
 	<!-- Hotjar Tracking Code for https://hocgiday.com -->
-	<script>
+<!-- 	<script>
 		(function(h,o,t,j,a,r){
 			h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
 			h._hjSettings={hjid:569211,hjsv:5};
@@ -42,11 +42,11 @@
 			r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
 			a.appendChild(r);
 		})(window,document,'//static.hotjar.com/c/hotjar-','.js?sv=');
-	</script>
+	</script> -->
 
 
 	<!-- Google Analytics tracking code -->
-	<script>
+<!-- 	<script>
 		(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
 		(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
 		m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
@@ -55,26 +55,26 @@
 		ga('create', 'UA-85357957-3', 'auto');
 		ga('send', 'pageview');
 
-	</script>
+	</script> -->
 		
 </head>
 <body>
 
 <!-- Google Tag Manager (noscript) -->
-<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5SQR968"
-height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5SQR968"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript> -->
 <!-- End Google Tag Manager (noscript) -->
 
 <div class="container-fluid sticky" id="contact">
 	<div class="row">
-		<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 col-md-offset-1 contact">
+		<div class="col-xs-4 col-sm-6 col-md-6 col-lg-6 col-md-offset-1 contact">
 			<i class="fa fa-phone fa-2x"></i>&nbsp;&nbsp;&nbsp;
 			<span class="hgd-contact-number ">Giải đáp thắc mắc: 0944852366</span>
 		</div>
-		<div class="col-xs-3 col-sm-3 col-md-3 col-lg-3 col-xs-offset-1 col-sm-offset-2 yeucaugiaovien">
+		<div class="col-xs-3 col-sm-3 col-md-3 col-lg-3 col-xs-offset-0 col-sm-offset-1 col-md-offset-2 yeucaugiaovien">
 			<form action="yeu-cau-giao-vien.php" method="POST" accept-charset="utf-8">
 				<input type="hidden" name="subject-hidden" value="guitar">
-				<button type="submit" name="yeucaugiaovien" class="btn btn-warning yeucaugiaovien"><strong>Yêu cầu giáo viên</strong></button>
+				<button type="submit" target="_blank" name="yeucaugiaovien" class="btn btn-danger yeucaugiaovien"><span class="yeucaugiaovien-text">Yêu cầu giáo viên</span></button>
 			</form>
 		</div>
 	</div>
@@ -122,7 +122,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 			<div class="d-flex align-self-stretch profile-column">
 				<div class="col-xs-4 col-sm-3 col-md-2 col-lg-2 hgd-profile-info ">
 					<h3 id="unit-price">Học phí</h3>
-					<p class="unit-price">120.000/60 phút</p>
+					<p class="unit-price">120.000 đ/ 60 phút</p>
 					<h3 id="rating">Đánh Giá</h3>
 					<div class="rating-star-box">
 						<span><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i></span>
@@ -191,7 +191,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 						<p>Tại nhà</p>
 					</div>
 					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 text-right">
-						<p>120.000/60 phút</p>
+						<p>120.000 đ/ 60 phút</p>
 					</div>
 					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
 						<p>Tại lớp</p>
@@ -279,7 +279,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 			<div class="d-flex align-self-stretch profile-column">
 				<div class="col-xs-4 col-sm-3 col-md-2 col-lg-2 hgd-profile-info ">
 					<h3 id="unit-price">Học phí</h3>
-					<p class="unit-price">150.000/60 phút</p>
+					<p class="unit-price">150.000 đ/ 60 phút</p>
 					<h3 id="rating">Đánh Giá</h3>
 					<div class="rating-star-box">
 						<span><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i></span>
@@ -347,7 +347,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 						<p>Tại nhà</p>
 					</div>
 					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 text-right">
-						<p>150.000/60 phút</p>
+						<p>150.000 đ/ 60 phút</p>
 					</div>
 					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
 						<p>Tại lớp</p>
@@ -436,7 +436,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 			<div class="d-flex align-self-stretch profile-column">
 				<div class="col-xs-4 col-sm-3 col-md-2 col-lg-2 hgd-profile-info ">
 					<h3 id="unit-price">Học phí</h3>
-					<p class="unit-price">150.000/90 phút</p>
+					<p class="unit-price">150.000 đ/ 90 phút</p>
 					<h3 id="rating">Đánh Giá</h3>
 					<div class="rating-star-box">
 						<span><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i></span>
@@ -504,13 +504,13 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 						<p>Tại nhà</p>
 					</div>
 					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 text-right">
-						<p>150.000/90 phút</p>
+						<p>150.000 đ/ 90 phút</p>
 					</div>
 					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
 						<p>Tại lớp</p>
 					</div>
 					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 text-right">
-						<p>100.000/90 phút</p>
+						<p>100.000 đ/ 90 phút</p>
 					</div>
 				</div>
 				<div class="row">
@@ -593,7 +593,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 			<div class="d-flex align-self-stretch profile-column">
 				<div class="col-xs-4 col-sm-3 col-md-2 col-lg-2 hgd-profile-info ">
 					<h3 id="unit-price">Học phí</h3>
-					<p class="unit-price">220.000/60 phút</p>
+					<p class="unit-price">220.000 đ/ 60 phút</p>
 					<h3 id="rating">Đánh Giá</h3>
 					<div class="rating-star-box">
 						<span><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i></span>
@@ -661,13 +661,13 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 						<p>Tại nhà</p>
 					</div>
 					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 text-right">
-						<p>220.000/60 phút</p>
+						<p>220.000 đ/ 60 phút</p>
 					</div>
 					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
 						<p>Tại lớp</p>
 					</div>
 					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 text-right">
-						<p>180.000/60 phút</p>
+						<p>180.000 đ/ 60 phút</p>
 					</div>
 				</div>
 				<div class="row">
@@ -749,7 +749,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 			<div class="d-flex align-self-stretch profile-column">
 				<div class="col-xs-4 col-sm-3 col-md-2 col-lg-2 hgd-profile-info ">
 					<h3 id="unit-price">Học phí</h3>
-					<p class="unit-price">220.000/60 phút</p>
+					<p class="unit-price">220.000 đ/ 60 phút</p>
 					<h3 id="rating">Đánh Giá</h3>
 					<div class="rating-star-box">
 						<span><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i></span>
@@ -817,13 +817,13 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 						<p>Tại nhà</p>
 					</div>
 					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 text-right">
-						<p>220.000/60 phút</p>
+						<p>220.000 đ/ 60 phút</p>
 					</div>
 					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
 						<p>Tại lớp</p>
 					</div>
 					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 text-right">
-						<p>180.000/60 phút</p>
+						<p>180.000 đ/ 60 phút</p>
 					</div>
 				</div>
 				<div class="row">
@@ -907,7 +907,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 			<div class="d-flex align-self-stretch profile-column">
 				<div class="col-xs-4 col-sm-3 col-md-2 col-lg-2 hgd-profile-info ">
 					<h3 id="unit-price">Học phí</h3>
-					<p class="unit-price">220.000/60 phút</p>
+					<p class="unit-price">220.000 đ/ 60 phút</p>
 					<h3 id="rating">Đánh Giá</h3>
 					<div class="rating-star-box">
 						<span><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star-o" aria-hidden="true"></i></span>
@@ -975,7 +975,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 						<p>Tại nhà</p>
 					</div>
 					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 text-right">
-						<p>220.000/60 phút</p>
+						<p>220.000 đ/ 60 phút</p>
 					</div>
 					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
 						<p>Tại lớp</p>
@@ -1064,7 +1064,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 			<div class="d-flex align-self-stretch profile-column">
 				<div class="col-xs-4 col-sm-3 col-md-2 col-lg-2 hgd-profile-info ">
 					<h3 id="unit-price">Học phí</h3>
-					<p class="unit-price">220.000/90 phút</p>
+					<p class="unit-price">220.000 đ/ 90 phút</p>
 					<h3 id="rating">Đánh Giá</h3>
 					<div class="rating-star-box">
 						<span><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star-o" aria-hidden="true"></i></span>
@@ -1132,13 +1132,13 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 						<p>Tại nhà</p>
 					</div>
 					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 text-right">
-						<p>220.000/90 phút</p>
+						<p>220.000 đ/ 90 phút</p>
 					</div>
 					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
 						<p>Tại lớp</p>
 					</div>
 					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 text-right">
-						<p>220.000/90 phút</p>
+						<p>220.000 đ/ 90 phút</p>
 					</div>
 				</div>
 				<div class="row">
@@ -1221,7 +1221,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 			<div class="d-flex align-self-stretch profile-column">
 				<div class="col-xs-4 col-sm-3 col-md-2 col-lg-2 hgd-profile-info ">
 					<h3 id="unit-price">Học phí</h3>
-					<p class="unit-price">250.000/60 phút</p>
+					<p class="unit-price">250.000 đ/ 60 phút</p>
 					<h3 id="rating">Đánh Giá</h3>
 					<div class="rating-star-box">
 						<span><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i></span>
@@ -1289,13 +1289,13 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 						<p>Tại nhà</p>
 					</div>
 					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 text-right">
-						<p>250.000/60 phút</p>
+						<p>250.000 đ/ 60 phút</p>
 					</div>
 					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
 						<p>Tại lớp</p>
 					</div>
 					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 text-right">
-						<p>200.000/60 phút</p>
+						<p>200.000 đ/ 60 phút</p>
 					</div>
 				</div>
 				<div class="row">
@@ -1379,7 +1379,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 			<div class="d-flex align-self-stretch profile-column">
 				<div class="col-xs-4 col-sm-3 col-md-2 col-lg-2 hgd-profile-info ">
 					<h3 id="unit-price">Học phí</h3>
-					<p class="unit-price">250.000/90 phút</p>
+					<p class="unit-price">250.000 đ/ 90 phút</p>
 					<h3 id="rating">Đánh Giá</h3>
 					<div class="rating-star-box">
 						<span><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star-o" aria-hidden="true"></i></span>
@@ -1447,13 +1447,13 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 						<p>Tại nhà</p>
 					</div>
 					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 text-right">
-						<p>250.000/90 phút</p>
+						<p>250.000 đ/ 90 phút</p>
 					</div>
 					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
 						<p>Tại lớp</p>
 					</div>
 					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 text-right">
-						<p>200.000/90 phút</p>
+						<p>200.000 đ/ 90 phút</p>
 					</div>
 				</div>
 				<div class="row">
@@ -1536,7 +1536,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 			<div class="d-flex align-self-stretch profile-column">
 				<div class="col-xs-4 col-sm-3 col-md-2 col-lg-2 hgd-profile-info ">
 					<h3 id="unit-price">Học phí</h3>
-					<p class="unit-price">250.000/60 phút</p>
+					<p class="unit-price">250.000 đ/ 60 phút</p>
 					<h3 id="rating">Đánh Giá</h3>
 					<div class="rating-star-box">
 						<span><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star-o" aria-hidden="true"></i></span>
@@ -1604,13 +1604,13 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 						<p>Tại nhà</p>
 					</div>
 					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 text-right">
-						<p>250.000/60 phút</p>
+						<p>250.000 đ/ 60 phút</p>
 					</div>
 					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
 						<p>Tại lớp</p>
 					</div>
 					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 text-right">
-						<p>200.000/60 phút</p>
+						<p>200.000 đ/ 60 phút</p>
 					</div>
 				</div>
 				<div class="row">
@@ -1693,7 +1693,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 			<div class="d-flex align-self-stretch profile-column">
 				<div class="col-xs-4 col-sm-3 col-md-2 col-lg-2 hgd-profile-info ">
 					<h3 id="unit-price">Học phí</h3>
-					<p class="unit-price">250.000/90 phút</p>
+					<p class="unit-price">250.000 đ/ 90 phút</p>
 					<h3 id="rating">Đánh Giá</h3>
 					<div class="rating-star-box">
 						<span><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star-o" aria-hidden="true"></i></span>
@@ -1763,13 +1763,13 @@ Tôi tin rằng xây dựng nền tảng lý thuyết cáng vững chắc thì n
 						<p>Tại nhà</p>
 					</div>
 					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 text-right">
-						<p>250.000/90 phút</p>
+						<p>250.000 đ/ 90 phút</p>
 					</div>
 					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
 						<p>Tại lớp</p>
 					</div>
 					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 text-right">
-						<p>200.000/90 phút</p>
+						<p>200.000 đ/ 90 phút</p>
 					</div>
 				</div>
 				<div class="row">
@@ -1852,7 +1852,7 @@ Tôi tin rằng xây dựng nền tảng lý thuyết cáng vững chắc thì n
 			<div class="d-flex align-self-stretch profile-column">
 				<div class="col-xs-4 col-sm-3 col-md-2 col-lg-2 hgd-profile-info ">
 					<h3 id="unit-price">Học phí</h3>
-					<p class="unit-price">250.000/75 phút</p>
+					<p class="unit-price">250.000 đ/ 75 phút</p>
 					<h3 id="rating">Đánh Giá</h3>
 					<div class="rating-star-box">
 						<span><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star-o" aria-hidden="true"></i></span>
@@ -1920,13 +1920,13 @@ Tôi tin rằng xây dựng nền tảng lý thuyết cáng vững chắc thì n
 						<p>Tại nhà</p>
 					</div>
 					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 text-right">
-						<p>250.000/75 phút</p>
+						<p>250.000 đ/ 75 phút</p>
 					</div>
 					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
 						<p>Tại lớp</p>
 					</div>
 					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 text-right">
-						<p>150.000/75 phút</p>
+						<p>150.000 đ/ 75 phút</p>
 					</div>
 				</div>
 				<div class="row">
@@ -2009,7 +2009,7 @@ Tôi tin rằng xây dựng nền tảng lý thuyết cáng vững chắc thì n
 			<div class="d-flex align-self-stretch profile-column">
 				<div class="col-xs-4 col-sm-3 col-md-2 col-lg-2 hgd-profile-info ">
 					<h3 id="unit-price">Học phí</h3>
-					<p class="unit-price">250.000/90 phút</p>
+					<p class="unit-price">250.000 đ/ 90 phút</p>
 					<h3 id="rating">Đánh Giá</h3>
 					<div class="rating-star-box">
 						<span><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i></span>
@@ -2077,7 +2077,7 @@ Tôi tin rằng xây dựng nền tảng lý thuyết cáng vững chắc thì n
 						<p>Tại nhà</p>
 					</div>
 					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 text-right">
-						<p>250.000/90 phút</p>
+						<p>250.000 đ/ 90 phút</p>
 					</div>
 					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
 						<p>Tại lớp</p>
@@ -2166,7 +2166,7 @@ Tôi tin rằng xây dựng nền tảng lý thuyết cáng vững chắc thì n
 			<div class="d-flex align-self-stretch profile-column">
 				<div class="col-xs-4 col-sm-3 col-md-2 col-lg-2 hgd-profile-info ">
 					<h3 id="unit-price">Học phí</h3>
-					<p class="unit-price">300.000/90 phút</p>
+					<p class="unit-price">300.000 đ/ 90 phút</p>
 					<h3 id="rating">Đánh Giá</h3>
 					<div class="rating-star-box">
 						<span><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i></span>
@@ -2234,7 +2234,7 @@ Tôi tin rằng xây dựng nền tảng lý thuyết cáng vững chắc thì n
 						<p>Tại nhà</p>
 					</div>
 					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 text-right">
-						<p>300.000/90 phút</p>
+						<p>300.000 đ/ 90 phút</p>
 					</div>
 					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
 						<p>Tại lớp</p>
@@ -2322,7 +2322,7 @@ Tôi tin rằng xây dựng nền tảng lý thuyết cáng vững chắc thì n
 			<div class="d-flex align-self-stretch profile-column">
 				<div class="col-xs-4 col-sm-3 col-md-2 col-lg-2 hgd-profile-info ">
 					<h3 id="unit-price">Học phí</h3>
-					<p class="unit-price">300.000/60 phút</p>
+					<p class="unit-price">300.000 đ/ 60 phút</p>
 					<h3 id="rating">Đánh Giá</h3>
 					<div class="rating-star-box">
 						<span><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i></span>
@@ -2390,13 +2390,13 @@ Tôi tin rằng xây dựng nền tảng lý thuyết cáng vững chắc thì n
 						<p>Tại nhà</p>
 					</div>
 					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 text-right">
-						<p>300.000/60 phút</p>
+						<p>300.000 đ/ 60 phút</p>
 					</div>
 					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
 						<p>Tại lớp</p>
 					</div>
 					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 text-right">
-						<p>250.000/60 phút</p>
+						<p>250.000 đ/ 60 phút</p>
 					</div>
 				</div>
 				<div class="row">
@@ -2479,7 +2479,7 @@ Tôi tin rằng xây dựng nền tảng lý thuyết cáng vững chắc thì n
 			<div class="d-flex align-self-stretch profile-column">
 				<div class="col-xs-4 col-sm-3 col-md-2 col-lg-2 hgd-profile-info ">
 					<h3 id="unit-price">Học phí</h3>
-					<p class="unit-price">300.000/60 phút</p>
+					<p class="unit-price">300.000 đ/ 60 phút</p>
 					<h3 id="rating">Đánh Giá</h3>
 					<div class="rating-star-box">
 						<span><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i></span>
@@ -2547,13 +2547,13 @@ Tôi tin rằng xây dựng nền tảng lý thuyết cáng vững chắc thì n
 						<p>Tại nhà</p>
 					</div>
 					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 text-right">
-						<p>300.000/60 phút</p>
+						<p>300.000 đ/ 60 phút</p>
 					</div>
 					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
 						<p>Tại lớp</p>
 					</div>
 					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 text-right">
-						<p>300.000/60 phút</p>
+						<p>300.000 đ/ 60 phút</p>
 					</div>
 				</div>
 				<div class="row">

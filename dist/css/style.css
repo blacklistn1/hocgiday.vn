@@ -1,3 +1,7 @@
+/******** Học Gì Đây theme *******/
+/* Author: Nguyễn Đức Việt Vương */
+
+/******** General Settings *******/
 body {
   font-family: 'Open Sans', sans-serif;
 }
@@ -7,21 +11,36 @@ h1, h2, h3, h4, h5, h6 {
   font-family: 'Montserrat', sans-serif;
 }
 
+/******** Contact row CSS ********/
+
 .hgd-contact-number {
   font-size: 100%;
 }
 
+/* Sticky - applied to both contact row and slider row */
 .sticky {
   position: sticky;
   background-color: white;
   z-index: 2;
-
 }
-
+/* End sticky */
 
 #contact {
   top: 0;
-  
+  margin-bottom: 8pt;
+}
+
+.yeucaugiaovien-text {
+  font-size: 112.5%;
+  font-weight: bold;
+}
+
+.yeucaugiaovien-text:before {
+  content: '>> ';
+}
+
+.yeucaugiaovien-text:after {
+  content: ' <<';
 }
 
 .hgd-header {
@@ -40,7 +59,7 @@ h1, h2, h3, h4, h5, h6 {
 
 .slider-filter {
   padding: 16pt;
-  top: 36pt;
+  top: 50pt;
 }
 
 .slider-container {
@@ -52,7 +71,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .slider-amount {
-  width: 90pt;
+  width: 20%;
   font-weight: bold;
 }
 
@@ -74,7 +93,18 @@ h1, h2, h3, h4, h5, h6 {
     font-size: 114%;
     font-style: italic;
     line-height: 140%;
+  }
+  .slider-filter {
+    top: 66.4pt;
+  }  
+  .slider-amount {
+    width: 45%;
+  }
+}
 
+@media screen and (min-width: 375px) {
+  .slider-filter {
+    top: 51.2pt;
   }
 }
 
@@ -82,21 +112,18 @@ h1, h2, h3, h4, h5, h6 {
   .header-text {
     top: 10%;
   }
-
-  .hgd-contact-number {
-    font-size: 170%;
-  }
-
-  .slider-filter {
-    top: 50.5pt;
+  .slider-amount {
+    width: 38%;
   }
 }
-
 
 @media screen and (min-width: 768px) {
   .header-text {
     top: 19%;
   }
+  .hgd-contact-number {
+    font-size: 170%;
+  }  
   #h1 {
     font-size: 171%;
   }
@@ -111,8 +138,11 @@ h1, h2, h3, h4, h5, h6 {
   }
 
   .slider-filter {
-    top: 25pt;
+    top: 45.5pt;
   }
+  .slider-amount {
+    width: 20%;
+  }  
 }
 
 @media screen and (min-width: 1024px) {
@@ -124,6 +154,9 @@ h1, h2, h3, h4, h5, h6 {
   }
   #h3{
     font-size: 166.67%;
+  }
+  .slider-filter {
+    top: 27.5pt;
   }
 }
 
