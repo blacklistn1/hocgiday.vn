@@ -67,15 +67,14 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 <div class="container-fluid sticky" id="contact">
 	<div class="row">
-		<div class="col-xs-4 col-sm-6 col-md-6 col-lg-6 col-md-offset-1 contact">
+		<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 col-md-offset-1 contact">
 			<i class="fa fa-phone fa-2x"></i>&nbsp;&nbsp;&nbsp;
-			<span class="hgd-heading-highlight">Giải đáp thắc mắc: 0944852366</span>
+			<span class="hgd-contact-number ">Giải đáp thắc mắc: 0944852366</span>
 		</div>
-		<div class="col-xs-6 col-sm-5 col-md-4 col-lg-4 col-xs-offset-0 col-sm-offset-1  yeucaugiaovien">
-			<span class="hgd-heading-highlight-2">Chưa tìm thấy giáo viên phù hợp?<br></span>
-			<form action="yeu-cau-giao-vien.php" method="POST" accept-charset="utf-8" target="_blank">
+		<div class="col-xs-3 col-sm-3 col-md-3 col-lg-3 col-xs-offset-1 col-sm-offset-2 yeucaugiaovien">
+			<form action="yeu-cau-giao-vien.php" method="POST" accept-charset="utf-8">
 				<input type="hidden" name="subject-hidden" value="guitar">
-				<button type="submit" name="yeucaugiaovien" class="btn btn-danger yeucaugiaovien"><span class="yeucaugiaovien-text">Yêu cầu giáo viên</span></button>
+				<button type="submit" name="yeucaugiaovien" class="btn btn-warning yeucaugiaovien"><strong>Yêu cầu giáo viên</strong></button>
 			</form>
 		</div>
 	</div>
@@ -111,7 +110,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 		<div class="row hgd-profile ">
 			<div class="d-flex align-self-stretch profile-column">
 				<div class="col-xs-4 col-sm-3 col-md-2 col-lg-2 hgd-profile-info hgd-avatar">
-					<img class="img-circle img-responsive center-block hgd-profile-avatar" src="https://www.hocgiday.com/wp-content/uploads/2017/07/Ha-Dinh.jpg" alt="teacher">
+					<img class="img-circle img-responsive center-block hgd-profile-avatar" src="https://www.hocgiday.com/wp-content/uploads/2017/07/Ha-Dinh-2.jpg" alt="teacher">
 				</div>
 			</div>
 			<div class="d-flex align-self-stretch profile-column">
@@ -123,7 +122,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 			<div class="d-flex align-self-stretch profile-column">
 				<div class="col-xs-4 col-sm-3 col-md-2 col-lg-2 hgd-profile-info ">
 					<h3 id="unit-price">Học phí</h3>
-					<p class="unit-price">120.000 đ/ 60 phút</p>
+					<p class="unit-price">120.000/60 phút</p>
 					<h3 id="rating">Đánh Giá</h3>
 					<div class="rating-star-box">
 						<span><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i></span>
@@ -192,7 +191,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 						<p>Tại nhà</p>
 					</div>
 					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 text-right">
-						<p>120.000 đ/ 60 phút</p>
+						<p>120.000/60 phút</p>
 					</div>
 					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
 						<p>Tại lớp</p>
@@ -268,7 +267,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 		<div class="row hgd-profile ">
 			<div class="d-flex align-self-stretch profile-column">
 				<div class="col-xs-4 col-sm-3 col-md-2 col-lg-2 hgd-profile-info hgd-avatar">
-					<img class="img-circle img-responsive center-block hgd-profile-avatar" src="https://www.hocgiday.com/wp-content/uploads/2017/07/Tat-Dat.jpg" alt="teacher">
+					<img class="img-circle img-responsive center-block hgd-profile-avatar" src="https://www.hocgiday.com/wp-content/uploads/2017/07/Tat-Dat-2.jpg" alt="teacher">
 				</div>
 			</div>
 			<div class="d-flex align-self-stretch profile-column">
@@ -280,7 +279,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 			<div class="d-flex align-self-stretch profile-column">
 				<div class="col-xs-4 col-sm-3 col-md-2 col-lg-2 hgd-profile-info ">
 					<h3 id="unit-price">Học phí</h3>
-					<p class="unit-price">150.000 đ/ 60 phút</p>
+					<p class="unit-price">150.000/60 phút</p>
 					<h3 id="rating">Đánh Giá</h3>
 					<div class="rating-star-box">
 						<span><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i></span>
@@ -348,7 +347,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 						<p>Tại nhà</p>
 					</div>
 					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 text-right">
-						<p>150.000 đ/ 60 phút</p>
+						<p>150.000/60 phút</p>
 					</div>
 					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
 						<p>Tại lớp</p>
@@ -425,7 +424,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 		<div class="row hgd-profile ">
 			<div class="d-flex align-self-stretch profile-column">
 				<div class="col-xs-4 col-sm-3 col-md-2 col-lg-2 hgd-profile-info hgd-avatar">
-					<img class="img-circle img-responsive center-block hgd-profile-avatar" src="https://www.hocgiday.com/wp-content/uploads/2017/07/Thu-Phuong.jpg" alt="teacher">
+					<img class="img-circle img-responsive center-block hgd-profile-avatar" src="https://www.hocgiday.com/wp-content/uploads/2017/07/Thu-Phuong-2.jpg" alt="teacher">
 				</div>
 			</div>
 			<div class="d-flex align-self-stretch profile-column">
@@ -437,7 +436,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 			<div class="d-flex align-self-stretch profile-column">
 				<div class="col-xs-4 col-sm-3 col-md-2 col-lg-2 hgd-profile-info ">
 					<h3 id="unit-price">Học phí</h3>
-					<p class="unit-price">150.000 đ/ 90 phút</p>
+					<p class="unit-price">150.000/90 phút</p>
 					<h3 id="rating">Đánh Giá</h3>
 					<div class="rating-star-box">
 						<span><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i></span>
@@ -505,13 +504,13 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 						<p>Tại nhà</p>
 					</div>
 					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 text-right">
-						<p>150.000 đ/ 90 phút</p>
+						<p>150.000/90 phút</p>
 					</div>
 					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
 						<p>Tại lớp</p>
 					</div>
 					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 text-right">
-						<p>100.000 đ/ 90 phút</p>
+						<p>100.000/90 phút</p>
 					</div>
 				</div>
 				<div class="row">
@@ -582,7 +581,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 		<div class="row hgd-profile ">
 			<div class="d-flex align-self-stretch profile-column">
 				<div class="col-xs-4 col-sm-3 col-md-2 col-lg-2 hgd-profile-info hgd-avatar">
-					<img class="img-circle img-responsive center-block hgd-profile-avatar" src="https://www.hocgiday.com/wp-content/uploads/2017/07/Hai-Minh.jpg" alt="teacher">
+					<img class="img-circle img-responsive center-block hgd-profile-avatar" src="https://www.hocgiday.com/wp-content/uploads/2017/07/Hai-Minh-2.jpg" alt="teacher">
 				</div>
 			</div>
 			<div class="d-flex align-self-stretch profile-column">
@@ -594,7 +593,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 			<div class="d-flex align-self-stretch profile-column">
 				<div class="col-xs-4 col-sm-3 col-md-2 col-lg-2 hgd-profile-info ">
 					<h3 id="unit-price">Học phí</h3>
-					<p class="unit-price">220.000 đ/ 60 phút</p>
+					<p class="unit-price">220.000/60 phút</p>
 					<h3 id="rating">Đánh Giá</h3>
 					<div class="rating-star-box">
 						<span><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i></span>
@@ -662,13 +661,13 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 						<p>Tại nhà</p>
 					</div>
 					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 text-right">
-						<p>220.000 đ/ 60 phút</p>
+						<p>220.000/60 phút</p>
 					</div>
 					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
 						<p>Tại lớp</p>
 					</div>
 					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 text-right">
-						<p>180.000 đ/ 60 phút</p>
+						<p>180.000/60 phút</p>
 					</div>
 				</div>
 				<div class="row">
@@ -738,7 +737,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 		<div class="row hgd-profile ">
 			<div class="d-flex align-self-stretch profile-column">
 				<div class="col-xs-4 col-sm-3 col-md-2 col-lg-2 hgd-profile-info hgd-avatar">
-					<img class="img-circle img-responsive center-block hgd-profile-avatar" src="https://www.hocgiday.com/wp-content/uploads/2017/07/Vu-Hoang.jpg" alt="teacher">
+					<img class="img-circle img-responsive center-block hgd-profile-avatar" src="https://www.hocgiday.com/wp-content/uploads/2017/07/Vu-Hoang-2.jpg" alt="teacher">
 				</div>
 			</div>
 			<div class="d-flex align-self-stretch profile-column">
@@ -750,7 +749,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 			<div class="d-flex align-self-stretch profile-column">
 				<div class="col-xs-4 col-sm-3 col-md-2 col-lg-2 hgd-profile-info ">
 					<h3 id="unit-price">Học phí</h3>
-					<p class="unit-price">220.000 đ/ 60 phút</p>
+					<p class="unit-price">220.000/60 phút</p>
 					<h3 id="rating">Đánh Giá</h3>
 					<div class="rating-star-box">
 						<span><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i></span>
@@ -818,13 +817,13 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 						<p>Tại nhà</p>
 					</div>
 					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 text-right">
-						<p>220.000 đ/ 60 phút</p>
+						<p>220.000/60 phút</p>
 					</div>
 					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
 						<p>Tại lớp</p>
 					</div>
 					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 text-right">
-						<p>180.000 đ/ 60 phút</p>
+						<p>180.000/60 phút</p>
 					</div>
 				</div>
 				<div class="row">
@@ -896,7 +895,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 		<div class="row hgd-profile ">
 			<div class="d-flex align-self-stretch profile-column">
 				<div class="col-xs-4 col-sm-3 col-md-2 col-lg-2 hgd-profile-info hgd-avatar">
-					<img class="img-circle img-responsive center-block hgd-profile-avatar" src="https://www.hocgiday.com/wp-content/uploads/2017/07/Trung-Thanh.jpg" alt="teacher">
+					<img class="img-circle img-responsive center-block hgd-profile-avatar" src="https://www.hocgiday.com/wp-content/uploads/2017/07/Trung-Thanh-2.jpg" alt="teacher">
 				</div>
 			</div>
 			<div class="d-flex align-self-stretch profile-column">
@@ -908,7 +907,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 			<div class="d-flex align-self-stretch profile-column">
 				<div class="col-xs-4 col-sm-3 col-md-2 col-lg-2 hgd-profile-info ">
 					<h3 id="unit-price">Học phí</h3>
-					<p class="unit-price">220.000 đ/ 60 phút</p>
+					<p class="unit-price">220.000/60 phút</p>
 					<h3 id="rating">Đánh Giá</h3>
 					<div class="rating-star-box">
 						<span><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star-o" aria-hidden="true"></i></span>
@@ -976,7 +975,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 						<p>Tại nhà</p>
 					</div>
 					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 text-right">
-						<p>220.000 đ/ 60 phút</p>
+						<p>220.000/60 phút</p>
 					</div>
 					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
 						<p>Tại lớp</p>
@@ -1053,7 +1052,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 		<div class="row hgd-profile ">
 			<div class="d-flex align-self-stretch profile-column">
 				<div class="col-xs-4 col-sm-3 col-md-2 col-lg-2 hgd-profile-info hgd-avatar">
-					<img class="img-circle img-responsive center-block hgd-profile-avatar" src="https://www.hocgiday.com/wp-content/uploads/ultimatemember/5/profile_photo-190.jpg" alt="teacher">
+					<img class="img-circle img-responsive center-block hgd-profile-avatar" src="https://www.hocgiday.com/wp-content/uploads/2017/07/2-HN-DoDucNhan-2.jpg" alt="teacher">
 				</div>
 			</div>
 			<div class="d-flex align-self-stretch profile-column">
@@ -1065,7 +1064,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 			<div class="d-flex align-self-stretch profile-column">
 				<div class="col-xs-4 col-sm-3 col-md-2 col-lg-2 hgd-profile-info ">
 					<h3 id="unit-price">Học phí</h3>
-					<p class="unit-price">220.000 đ/ 90 phút</p>
+					<p class="unit-price">220.000/90 phút</p>
 					<h3 id="rating">Đánh Giá</h3>
 					<div class="rating-star-box">
 						<span><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star-o" aria-hidden="true"></i></span>
@@ -1133,13 +1132,13 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 						<p>Tại nhà</p>
 					</div>
 					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 text-right">
-						<p>220.000 đ/ 90 phút</p>
+						<p>220.000/90 phút</p>
 					</div>
 					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
 						<p>Tại lớp</p>
 					</div>
 					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 text-right">
-						<p>220.000 đ/ 90 phút</p>
+						<p>220.000/90 phút</p>
 					</div>
 				</div>
 				<div class="row">
@@ -1210,7 +1209,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 		<div class="row hgd-profile ">
 			<div class="d-flex align-self-stretch profile-column">
 				<div class="col-xs-4 col-sm-3 col-md-2 col-lg-2 hgd-profile-info hgd-avatar">
-					<img class="img-circle img-responsive center-block hgd-profile-avatar" src="https://www.hocgiday.com/wp-content/uploads/2017/07/Kinh-Anh.jpg" alt="teacher">
+					<img class="img-circle img-responsive center-block hgd-profile-avatar" src="https://www.hocgiday.com/wp-content/uploads/2017/07/Kinh-Anh-2.jpg" alt="teacher">
 				</div>
 			</div>
 			<div class="d-flex align-self-stretch profile-column">
@@ -1222,7 +1221,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 			<div class="d-flex align-self-stretch profile-column">
 				<div class="col-xs-4 col-sm-3 col-md-2 col-lg-2 hgd-profile-info ">
 					<h3 id="unit-price">Học phí</h3>
-					<p class="unit-price">250.000 đ/ 60 phút</p>
+					<p class="unit-price">250.000/60 phút</p>
 					<h3 id="rating">Đánh Giá</h3>
 					<div class="rating-star-box">
 						<span><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i></span>
@@ -1290,13 +1289,13 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 						<p>Tại nhà</p>
 					</div>
 					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 text-right">
-						<p>250.000 đ/ 60 phút</p>
+						<p>250.000/60 phút</p>
 					</div>
 					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
 						<p>Tại lớp</p>
 					</div>
 					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 text-right">
-						<p>200.000 đ/ 60 phút</p>
+						<p>200.000/60 phút</p>
 					</div>
 				</div>
 				<div class="row">
@@ -1368,7 +1367,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 		<div class="row hgd-profile ">
 			<div class="d-flex align-self-stretch profile-column">
 				<div class="col-xs-4 col-sm-3 col-md-2 col-lg-2 hgd-profile-info hgd-avatar">
-					<img class="img-circle img-responsive center-block hgd-profile-avatar" src="https://www.hocgiday.com/wp-content/uploads/2017/07/Anh-Duc.jpg" alt="teacher">
+					<img class="img-circle img-responsive center-block hgd-profile-avatar" src="https://www.hocgiday.com/wp-content/uploads/2017/07/Anh-Duc-2.jpg" alt="teacher">
 				</div>
 			</div>
 			<div class="d-flex align-self-stretch profile-column">
@@ -1380,7 +1379,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 			<div class="d-flex align-self-stretch profile-column">
 				<div class="col-xs-4 col-sm-3 col-md-2 col-lg-2 hgd-profile-info ">
 					<h3 id="unit-price">Học phí</h3>
-					<p class="unit-price">250.000 đ/ 90 phút</p>
+					<p class="unit-price">250.000/90 phút</p>
 					<h3 id="rating">Đánh Giá</h3>
 					<div class="rating-star-box">
 						<span><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star-o" aria-hidden="true"></i></span>
@@ -1448,13 +1447,13 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 						<p>Tại nhà</p>
 					</div>
 					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 text-right">
-						<p>250.000 đ/ 90 phút</p>
+						<p>250.000/90 phút</p>
 					</div>
 					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
 						<p>Tại lớp</p>
 					</div>
 					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 text-right">
-						<p>200.000 đ/ 90 phút</p>
+						<p>200.000/90 phút</p>
 					</div>
 				</div>
 				<div class="row">
@@ -1525,7 +1524,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 		<div class="row hgd-profile ">
 			<div class="d-flex align-self-stretch profile-column">
 				<div class="col-xs-4 col-sm-3 col-md-2 col-lg-2 hgd-profile-info hgd-avatar">
-					<img class="img-circle img-responsive center-block hgd-profile-avatar" src="https://www.hocgiday.com/wp-content/uploads/2017/07/Hai-Duc.jpg" alt="teacher">
+					<img class="img-circle img-responsive center-block hgd-profile-avatar" src="https://www.hocgiday.com/wp-content/uploads/2017/07/Hai-Duc-2.jpg" alt="teacher">
 				</div>
 			</div>
 			<div class="d-flex align-self-stretch profile-column">
@@ -1537,7 +1536,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 			<div class="d-flex align-self-stretch profile-column">
 				<div class="col-xs-4 col-sm-3 col-md-2 col-lg-2 hgd-profile-info ">
 					<h3 id="unit-price">Học phí</h3>
-					<p class="unit-price">250.000 đ/ 60 phút</p>
+					<p class="unit-price">250.000/60 phút</p>
 					<h3 id="rating">Đánh Giá</h3>
 					<div class="rating-star-box">
 						<span><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star-o" aria-hidden="true"></i></span>
@@ -1605,13 +1604,13 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 						<p>Tại nhà</p>
 					</div>
 					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 text-right">
-						<p>250.000 đ/ 60 phút</p>
+						<p>250.000/60 phút</p>
 					</div>
 					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
 						<p>Tại lớp</p>
 					</div>
 					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 text-right">
-						<p>200.000 đ/ 60 phút</p>
+						<p>200.000/60 phút</p>
 					</div>
 				</div>
 				<div class="row">
@@ -1682,7 +1681,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 		<div class="row hgd-profile ">
 			<div class="d-flex align-self-stretch profile-column">
 				<div class="col-xs-4 col-sm-3 col-md-2 col-lg-2 hgd-profile-info hgd-avatar">
-					<img class="img-circle img-responsive center-block hgd-profile-avatar" src="https://www.hocgiday.com/wp-content/uploads/2017/07/Vu-Anh.jpg" alt="teacher">
+					<img class="img-circle img-responsive center-block hgd-profile-avatar" src="https://www.hocgiday.com/wp-content/uploads/2017/07/Vu-Anh-2.jpg" alt="teacher">
 				</div>
 			</div>
 			<div class="d-flex align-self-stretch profile-column">
@@ -1694,7 +1693,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 			<div class="d-flex align-self-stretch profile-column">
 				<div class="col-xs-4 col-sm-3 col-md-2 col-lg-2 hgd-profile-info ">
 					<h3 id="unit-price">Học phí</h3>
-					<p class="unit-price">250.000 đ/ 90 phút</p>
+					<p class="unit-price">250.000/90 phút</p>
 					<h3 id="rating">Đánh Giá</h3>
 					<div class="rating-star-box">
 						<span><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star-o" aria-hidden="true"></i></span>
@@ -1764,13 +1763,13 @@ Tôi tin rằng xây dựng nền tảng lý thuyết cáng vững chắc thì n
 						<p>Tại nhà</p>
 					</div>
 					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 text-right">
-						<p>250.000 đ/ 90 phút</p>
+						<p>250.000/90 phút</p>
 					</div>
 					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
 						<p>Tại lớp</p>
 					</div>
 					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 text-right">
-						<p>200.000 đ/ 90 phút</p>
+						<p>200.000/90 phút</p>
 					</div>
 				</div>
 				<div class="row">
@@ -1841,7 +1840,7 @@ Tôi tin rằng xây dựng nền tảng lý thuyết cáng vững chắc thì n
 		<div class="row hgd-profile ">
 			<div class="d-flex align-self-stretch profile-column">
 				<div class="col-xs-4 col-sm-3 col-md-2 col-lg-2 hgd-profile-info hgd-avatar">
-					<img class="img-circle img-responsive center-block hgd-profile-avatar" src="https://www.hocgiday.com/wp-content/uploads/2017/07/Hai-Dang.jpg" alt="teacher">
+					<img class="img-circle img-responsive center-block hgd-profile-avatar" src="https://www.hocgiday.com/wp-content/uploads/2017/07/Hai-Dang-2.jpg" alt="teacher">
 				</div>
 			</div>
 			<div class="d-flex align-self-stretch profile-column">
@@ -1853,7 +1852,7 @@ Tôi tin rằng xây dựng nền tảng lý thuyết cáng vững chắc thì n
 			<div class="d-flex align-self-stretch profile-column">
 				<div class="col-xs-4 col-sm-3 col-md-2 col-lg-2 hgd-profile-info ">
 					<h3 id="unit-price">Học phí</h3>
-					<p class="unit-price">250.000 đ/ 75 phút</p>
+					<p class="unit-price">250.000/75 phút</p>
 					<h3 id="rating">Đánh Giá</h3>
 					<div class="rating-star-box">
 						<span><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star-o" aria-hidden="true"></i></span>
@@ -1921,13 +1920,13 @@ Tôi tin rằng xây dựng nền tảng lý thuyết cáng vững chắc thì n
 						<p>Tại nhà</p>
 					</div>
 					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 text-right">
-						<p>250.000 đ/ 75 phút</p>
+						<p>250.000/75 phút</p>
 					</div>
 					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
 						<p>Tại lớp</p>
 					</div>
 					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 text-right">
-						<p>150.000 đ/ 75 phút</p>
+						<p>150.000/75 phút</p>
 					</div>
 				</div>
 				<div class="row">
@@ -2010,7 +2009,7 @@ Tôi tin rằng xây dựng nền tảng lý thuyết cáng vững chắc thì n
 			<div class="d-flex align-self-stretch profile-column">
 				<div class="col-xs-4 col-sm-3 col-md-2 col-lg-2 hgd-profile-info ">
 					<h3 id="unit-price">Học phí</h3>
-					<p class="unit-price">250.000 đ/ 90 phút</p>
+					<p class="unit-price">250.000/90 phút</p>
 					<h3 id="rating">Đánh Giá</h3>
 					<div class="rating-star-box">
 						<span><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i></span>
@@ -2078,7 +2077,7 @@ Tôi tin rằng xây dựng nền tảng lý thuyết cáng vững chắc thì n
 						<p>Tại nhà</p>
 					</div>
 					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 text-right">
-						<p>250.000 đ/ 90 phút</p>
+						<p>250.000/90 phút</p>
 					</div>
 					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
 						<p>Tại lớp</p>
@@ -2155,7 +2154,7 @@ Tôi tin rằng xây dựng nền tảng lý thuyết cáng vững chắc thì n
 		<div class="row hgd-profile ">
 			<div class="d-flex align-self-stretch profile-column">
 				<div class="col-xs-4 col-sm-3 col-md-2 col-lg-2 hgd-profile-info hgd-avatar">
-					<img class="img-circle img-responsive center-block hgd-profile-avatar" src="https://www.hocgiday.com/wp-content/uploads/2017/07/Ly-hai.jpg" alt="teacher">
+					<img class="img-circle img-responsive center-block hgd-profile-avatar" src="https://www.hocgiday.com/wp-content/uploads/2017/07/Ly-hai-2.jpg" alt="teacher">
 				</div>
 			</div>
 			<div class="d-flex align-self-stretch profile-column">
@@ -2167,7 +2166,7 @@ Tôi tin rằng xây dựng nền tảng lý thuyết cáng vững chắc thì n
 			<div class="d-flex align-self-stretch profile-column">
 				<div class="col-xs-4 col-sm-3 col-md-2 col-lg-2 hgd-profile-info ">
 					<h3 id="unit-price">Học phí</h3>
-					<p class="unit-price">300.000 đ/ 90 phút</p>
+					<p class="unit-price">300.000/90 phút</p>
 					<h3 id="rating">Đánh Giá</h3>
 					<div class="rating-star-box">
 						<span><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i></span>
@@ -2235,7 +2234,7 @@ Tôi tin rằng xây dựng nền tảng lý thuyết cáng vững chắc thì n
 						<p>Tại nhà</p>
 					</div>
 					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 text-right">
-						<p>300.000 đ/ 90 phút</p>
+						<p>300.000/90 phút</p>
 					</div>
 					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
 						<p>Tại lớp</p>
@@ -2311,7 +2310,7 @@ Tôi tin rằng xây dựng nền tảng lý thuyết cáng vững chắc thì n
 		<div class="row hgd-profile ">
 			<div class="d-flex align-self-stretch profile-column">
 				<div class="col-xs-4 col-sm-3 col-md-2 col-lg-2 hgd-profile-info hgd-avatar">
-					<img class="img-circle img-responsive center-block hgd-profile-avatar" src="https://www.hocgiday.com/wp-content/uploads/2017/07/Thuy-Trang.jpg" alt="teacher">
+					<img class="img-circle img-responsive center-block hgd-profile-avatar" src="https://www.hocgiday.com/wp-content/uploads/2017/07/Thuy-Trang-2.jpg" alt="teacher">
 				</div>
 			</div>
 			<div class="d-flex align-self-stretch profile-column">
@@ -2323,7 +2322,7 @@ Tôi tin rằng xây dựng nền tảng lý thuyết cáng vững chắc thì n
 			<div class="d-flex align-self-stretch profile-column">
 				<div class="col-xs-4 col-sm-3 col-md-2 col-lg-2 hgd-profile-info ">
 					<h3 id="unit-price">Học phí</h3>
-					<p class="unit-price">300.000 đ/ 60 phút</p>
+					<p class="unit-price">300.000/60 phút</p>
 					<h3 id="rating">Đánh Giá</h3>
 					<div class="rating-star-box">
 						<span><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i></span>
@@ -2391,13 +2390,13 @@ Tôi tin rằng xây dựng nền tảng lý thuyết cáng vững chắc thì n
 						<p>Tại nhà</p>
 					</div>
 					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 text-right">
-						<p>300.000 đ/ 60 phút</p>
+						<p>300.000/60 phút</p>
 					</div>
 					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
 						<p>Tại lớp</p>
 					</div>
 					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 text-right">
-						<p>250.000 đ/ 60 phút</p>
+						<p>250.000/60 phút</p>
 					</div>
 				</div>
 				<div class="row">
@@ -2468,7 +2467,7 @@ Tôi tin rằng xây dựng nền tảng lý thuyết cáng vững chắc thì n
 		<div class="row hgd-profile ">
 			<div class="d-flex align-self-stretch profile-column">
 				<div class="col-xs-4 col-sm-3 col-md-2 col-lg-2 hgd-profile-info hgd-avatar">
-					<img class="img-circle img-responsive center-block hgd-profile-avatar" src="https://www.hocgiday.com/wp-content/uploads/2017/07/Trong-Ha.jpg" alt="teacher">
+					<img class="img-circle img-responsive center-block hgd-profile-avatar" src="https://www.hocgiday.com/wp-content/uploads/2017/07/Trong-Ha-2.jpg" alt="teacher">
 				</div>
 			</div>
 			<div class="d-flex align-self-stretch profile-column">
@@ -2480,7 +2479,7 @@ Tôi tin rằng xây dựng nền tảng lý thuyết cáng vững chắc thì n
 			<div class="d-flex align-self-stretch profile-column">
 				<div class="col-xs-4 col-sm-3 col-md-2 col-lg-2 hgd-profile-info ">
 					<h3 id="unit-price">Học phí</h3>
-					<p class="unit-price">300.000 đ/ 60 phút</p>
+					<p class="unit-price">300.000/60 phút</p>
 					<h3 id="rating">Đánh Giá</h3>
 					<div class="rating-star-box">
 						<span><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i></span>
@@ -2548,13 +2547,13 @@ Tôi tin rằng xây dựng nền tảng lý thuyết cáng vững chắc thì n
 						<p>Tại nhà</p>
 					</div>
 					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 text-right">
-						<p>300.000 đ/ 60 phút</p>
+						<p>300.000/60 phút</p>
 					</div>
 					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
 						<p>Tại lớp</p>
 					</div>
 					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 text-right">
-						<p>300.000 đ/ 60 phút</p>
+						<p>300.000/60 phút</p>
 					</div>
 				</div>
 				<div class="row">
@@ -2626,7 +2625,7 @@ Tôi tin rằng xây dựng nền tảng lý thuyết cáng vững chắc thì n
 		<div class="row hgd-profile ">
 			<div class="d-flex align-self-stretch profile-column">
 				<div class="col-xs-4 col-sm-3 col-md-2 col-lg-2 hgd-profile-info hgd-avatar">
-					<img class="img-circle img-responsive center-block hgd-profile-avatar" src="https://www.hocgiday.com/wp-content/uploads/2017/06/3-HN-NgoTuanTu.jpg" alt="teacher">
+					<img class="img-circle img-responsive center-block hgd-profile-avatar" src="https://www.hocgiday.com/wp-content/uploads/2017/07/3-HN-NgoTuanTu-2.jpg" alt="teacher">
 				</div>
 			</div>
 			<div class="d-flex align-self-stretch profile-column">
@@ -2782,171 +2781,13 @@ Những học viên từng được Trần đạt dẫn dắt đa số tìm đ�
 			</div>
 		</div> <!-- End Profile detail -->
 	</div> <!-- End Profile box --> 
-	<!-- Profile row: Đỗ Đức Nhàn-->
-	<!-- Profile box -->
-	<div class="container-fluid hgd-profile-box hanoi" data-price="150">
-		<div class="row hgd-profile ">
-			<div class="d-flex align-self-stretch profile-column">
-				<div class="col-xs-4 col-sm-3 col-md-2 col-lg-2 hgd-profile-info hgd-avatar">
-					<img class="img-circle img-responsive center-block hgd-profile-avatar" src="https://www.hocgiday.com/wp-content/uploads/2017/06/2-HN-DoDucNhan.jpg" alt="teacher">
-				</div>
-			</div>
-			<div class="d-flex align-self-stretch profile-column">
-				<div class="col-xs-4 col-sm-6 col-md-6 col-lg-6 hgd-profile-info ">
-				<h3 id="doducnhan">Đỗ Đức Nhàn</h3>
-				<p>Địa chỉ: Nguyễn Trãi, Khương Trung, Thanh Xuân, Hà Nội</p>
-				</div>
-			</div>
-			<div class="d-flex align-self-stretch profile-column">
-				<div class="col-xs-4 col-sm-3 col-md-2 col-lg-2 hgd-profile-info ">
-					<h3 id="unit-price">Học phí</h3>
-					<p class="unit-price">150.000 VNĐ/60 phút</p>
-					<h3 id="rating">Đánh Giá</h3>
-					<div class="rating-star-box">
-						<span><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i></span>
-						<span class="num-of-rates">10</span>
-					</div>
-				</div>
-			</div>
-			<div class="d-flex align-self-stretch profile-column">
-				<div class="col-xs-12 col-sm-12 col-md-2 col-lg-2 hgd-read-more doducnhan">
-					<span class="read-more doducnhan">&gt;&gt; Tìm hiểu thêm</span>
-				</div>
-			</div>
-		</div> <!-- End Profile row -->
-
-		<!-- Profile Detail -->
-		<div class="row hgd-profile-detail">
-			<div class="row">
-				<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
-					<p><span class="t-heading">Cấp độ giảng dạy</span></p>
-				</div>
-				<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 text-right">
-					<p>Cơ bản, Nâng cao</p>
-				</div>
-			</div>
-			<!-- Description -->
-			<div class="row">
-				<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
-					<h4>Vài nét về giáo viên</h4>
-					<p>Thật ra nếu như bạn thích, và chăm chỉ thì đàn guitar hay các loại nhạc cụ cũng không quá thách thức với bất cứ ai. Mình tin là giờ học nhạc sẽ khác và thú vị hơn nhiều so với học văn hóa. Đặc biệt là với những bạn nhỏ tuổi thì học nhạc là cách khá hữu hiệu giúp các em bớt căng thẳng với việc học trên lớp. Mình nhận thấy các em bộc lộ khá nhiều, rất dễ thương, khác so với bình thường. Chúng ta sẽ làm việc trên tinh thần thoải mái nhất có thể. Mong rằng mình có thể là người đem đến nhiều điều thú vị, và cùng đồng hành với các bạn. Chúc các bạn thành công, và hẹn gặp lại!					</p>
-				</div>
-			</div>
-
-			<!-- End description -->
-			<!-- Left column at md and lg -->
-			<div class="col-xs-12 col-sm-12 col-md-7 col-lg-7"> 
-				<div class="row">
-					<h4>Học vấn</h4>
-					<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">	
-						<p>Tốt nghiệp Đại học Sư phạm Nghệ thuật Trung ương</p>
-					</div>
-					
-				</div>
-				<div class="row">
-					<h4>Video</h4>
-					<div class="col-xs-12 col-sm-12 col-md-11 col-lg-11 wrapper wrapper-iframe">
-						<iframe class="wrapper-item wrapper-video" src="" frameborder="0" allowfullscreen></iframe>
-					</div>
-				</div>	
-			</div> <!-- End left column -->
-			
-			<!-- Right column at md and lg -->
-			<div class="col-xs-12 col-sm-12 col-md-5 col-lg-5"> 
-				
-				<div class="row">
-					<div class="col-xs-7 col-sm-7 col-md-7 col-lg-7">
-						<h4>Phạm vi đi lại</h4>
-					</div>
-					<div class="col-xs-5 col-sm-5 col-md-5 col-lg-5 text-right">
-						<p>5km</p>
-					</div>
-				</div>
-				<div class="row">
-					<h4>Học phí</h4>
-					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
-						<p>Tại nhà</p>
-					</div>
-					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 text-right">
-						<p>150.000 VNĐ/60 phút</p>
-					</div>
-					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
-						<p>Tại lớp</p>
-					</div>
-					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 text-right">
-						<p>150.000 VNĐ/60 phút</p>
-					</div>
-				</div>
-				<div class="row">
-					<h4>Lịch giảng dạy của giáo viên</h4>
-					<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
-						<table class="table table-bordered">
-			<thead>
-			 <tr>
-				<th></th>
-				<th>T2</th>
-				<th>T3</th>
-				<th>T4</th>
-				<th>T5</th>
-				<th>T6</th>
-				<th>T7</th>
-				<th>CN</th>
-			 </tr>
-			</thead>
-			<tbody>
-			 <tr>
-				<th>Sáng</th>
-				<td></td>
-				<td class="busy"></td>
-				<td></td>
-				<td class="busy"></td>
-				<td class="busy"></td>
-				<td></td>
-				<td></td>
-			 </tr>
-			 <tr>
-				<th>Chiều</th>
-				<td></td>
-				<td class="busy"></td>
-				<td></td>
-				<td class="busy"></td>
-				<td class="busy"></td>
-				<td></td>
-				<td></td>
-			 </tr>
-			 <tr>
-				<th>Tối</th>
-				<td></td>
-				<td></td>
-				<td></td>
-				<td class="busy"></td>
-				<td class="busy"></td>
-				<td class="busy"></td>
-				<td></td>
-			 </tr>
-			</tbody>
-		 </table>
- 
- 
- 
-					<span class="legend"></span> : Những buổi giáo viên có thể giảng dạy 	
-					</div>
-				</div>
-				<div class="row sign-up">
-					<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
-						<button class="btn btn-info btn-lg btn-sign-up center-block dang-ky-ngay" data-toggle="modal" data-target="#myModal" rel="doducnhan">Đăng ký ngay</button>
-					</div>
-				</div>
-			</div>
-		</div> <!-- End Profile detail -->
-	</div> <!-- End Profile box --> 
 	<!-- Profile row: Hà Thị Xuân-->
 	<!-- Profile box -->
 	<div class="container-fluid hgd-profile-box hanoi" data-price="150">
 		<div class="row hgd-profile ">
 			<div class="d-flex align-self-stretch profile-column">
 				<div class="col-xs-4 col-sm-3 col-md-2 col-lg-2 hgd-profile-info hgd-avatar">
-					<img class="img-circle img-responsive center-block hgd-profile-avatar" src="https://www.hocgiday.com/wp-content/uploads/2017/06/4-HN-Nguyen-Thi-Tho.jpg" alt="teacher">
+					<img class="img-circle img-responsive center-block hgd-profile-avatar" src="https://www.hocgiday.com/wp-content/uploads/2017/07/4-HN-Nguyen-Thi-Tho-2.jpg" alt="teacher">
 				</div>
 			</div>
 			<div class="d-flex align-self-stretch profile-column">
@@ -3113,7 +2954,7 @@ Trở về Việt Nam, quyết định không đi theo những lối cũ truyề
 		<div class="row hgd-profile ">
 			<div class="d-flex align-self-stretch profile-column">
 				<div class="col-xs-4 col-sm-3 col-md-2 col-lg-2 hgd-profile-info hgd-avatar">
-					<img class="img-circle img-responsive center-block hgd-profile-avatar" src="https://www.hocgiday.com/wp-content/uploads/2017/06/7-HN-PhuongThiHue.jpg" alt="teacher">
+					<img class="img-circle img-responsive center-block hgd-profile-avatar" src="https://www.hocgiday.com/wp-content/uploads/2017/07/7-HN-PhuongThiHue-2.jpg" alt="teacher">
 				</div>
 			</div>
 			<div class="d-flex align-self-stretch profile-column">
@@ -3288,7 +3129,7 @@ Với tâm hồn của một người nghệ sĩ Kim Thảo luôn mang lại cho
 		<div class="row hgd-profile ">
 			<div class="d-flex align-self-stretch profile-column">
 				<div class="col-xs-4 col-sm-3 col-md-2 col-lg-2 hgd-profile-info hgd-avatar">
-					<img class="img-circle img-responsive center-block hgd-profile-avatar" src="https://www.hocgiday.com/wp-content/uploads/2017/06/5-HN-TranThanhTrung.jpg" alt="teacher">
+					<img class="img-circle img-responsive center-block hgd-profile-avatar" src="https://www.hocgiday.com/wp-content/uploads/2017/07/5-HN-TranThanhTrung-2.jpg" alt="teacher">
 				</div>
 			</div>
 			<div class="d-flex align-self-stretch profile-column">
@@ -3451,7 +3292,7 @@ Phương pháp học guitar lý thuyết&thực hành - Lê Đức Sơn
 		<div class="row hgd-profile ">
 			<div class="d-flex align-self-stretch profile-column">
 				<div class="col-xs-4 col-sm-3 col-md-2 col-lg-2 hgd-profile-info hgd-avatar">
-					<img class="img-circle img-responsive center-block hgd-profile-avatar" src="https://www.hocgiday.com/wp-content/uploads/2017/06/6-HN-LuongVanTuy.jpg" alt="teacher">
+					<img class="img-circle img-responsive center-block hgd-profile-avatar" src="https://www.hocgiday.com/wp-content/uploads/2017/07/6-HN-LuongVanTuy-2.jpg" alt="teacher">
 				</div>
 			</div>
 			<div class="d-flex align-self-stretch profile-column">
@@ -3617,7 +3458,7 @@ Có thể nói, ở Lương Văn Tụy, tình yêu của thầy với những ph
 		<div class="row hgd-profile ">
 			<div class="d-flex align-self-stretch profile-column">
 				<div class="col-xs-4 col-sm-3 col-md-2 col-lg-2 hgd-profile-info hgd-avatar">
-					<img class="img-circle img-responsive center-block hgd-profile-avatar" src="https://www.hocgiday.com/wp-content/uploads/2017/06/13-HN-HoangTrung.jpg" alt="teacher">
+					<img class="img-circle img-responsive center-block hgd-profile-avatar" src="https://www.hocgiday.com/wp-content/uploads/2017/07/13-HN-HoangTrung-2.jpg" alt="teacher">
 				</div>
 			</div>
 			<div class="d-flex align-self-stretch profile-column">
@@ -3782,7 +3623,7 @@ Có thể nói, ở Hoàng Trung, tình yêu của thầy với những phím đ
 		<div class="row hgd-profile ">
 			<div class="d-flex align-self-stretch profile-column">
 				<div class="col-xs-4 col-sm-3 col-md-2 col-lg-2 hgd-profile-info hgd-avatar">
-					<img class="img-circle img-responsive center-block hgd-profile-avatar" src="https://www.hocgiday.com/wp-content/uploads/2017/06/DN-8-Hoang-Thai-Hoa.jpg" alt="teacher">
+					<img class="img-circle img-responsive center-block hgd-profile-avatar" src="https://www.hocgiday.com/wp-content/uploads/2017/07/DN-8-Hoang-Thai-Hoa-2.jpg" alt="teacher">
 				</div>
 			</div>
 			<div class="d-flex align-self-stretch profile-column">
@@ -3945,7 +3786,7 @@ Phương pháp học guitar lý thuyết&thực hành - Lê Đức Sơn
 		<div class="row hgd-profile ">
 			<div class="d-flex align-self-stretch profile-column">
 				<div class="col-xs-4 col-sm-3 col-md-2 col-lg-2 hgd-profile-info hgd-avatar">
-					<img class="img-circle img-responsive center-block hgd-profile-avatar" src="https://www.hocgiday.com/wp-content/uploads/2017/06/14-SG-TrinhTanSang.jpg" alt="teacher">
+					<img class="img-circle img-responsive center-block hgd-profile-avatar" src="https://www.hocgiday.com/wp-content/uploads/2017/07/14-SG-TrinhTanSang-2.jpg" alt="teacher">
 				</div>
 			</div>
 			<div class="d-flex align-self-stretch profile-column">
@@ -4106,7 +3947,7 @@ Những học viên từng được Trần đạt dẫn dắt đa số tìm đ�
 		<div class="row hgd-profile ">
 			<div class="d-flex align-self-stretch profile-column">
 				<div class="col-xs-4 col-sm-3 col-md-2 col-lg-2 hgd-profile-info hgd-avatar">
-					<img class="img-circle img-responsive center-block hgd-profile-avatar" src="https://www.hocgiday.com/wp-content/uploads/2017/06/34-HN-ChuongQuocBao.jpg" alt="teacher">
+					<img class="img-circle img-responsive center-block hgd-profile-avatar" src="https://www.hocgiday.com/wp-content/uploads/2017/07/34-HN-ChuongQuocBao-2.jpg" alt="teacher">
 				</div>
 			</div>
 			<div class="d-flex align-self-stretch profile-column">
@@ -4267,7 +4108,7 @@ Hội viên hội nhạc sĩ Việt nam, năm 2013					</p>
 		<div class="row hgd-profile ">
 			<div class="d-flex align-self-stretch profile-column">
 				<div class="col-xs-4 col-sm-3 col-md-2 col-lg-2 hgd-profile-info hgd-avatar">
-					<img class="img-circle img-responsive center-block hgd-profile-avatar" src="https://www.hocgiday.com/wp-content/uploads/2017/06/11-HN-BuiQuangViet.jpg" alt="teacher">
+					<img class="img-circle img-responsive center-block hgd-profile-avatar" src="https://www.hocgiday.com/wp-content/uploads/2017/07/11-HN-BuiQuangViet-2.jpg" alt="teacher">
 				</div>
 			</div>
 			<div class="d-flex align-self-stretch profile-column">
@@ -4584,7 +4425,7 @@ Với học sinh học cổ nhạc cụ: các bạn sẽ được học về đ�
 		<div class="row hgd-profile ">
 			<div class="d-flex align-self-stretch profile-column">
 				<div class="col-xs-4 col-sm-3 col-md-2 col-lg-2 hgd-profile-info hgd-avatar">
-					<img class="img-circle img-responsive center-block hgd-profile-avatar" src="https://www.hocgiday.com/wp-content/uploads/2017/06/13-HN-VuNam.jpg" alt="teacher">
+					<img class="img-circle img-responsive center-block hgd-profile-avatar" src="https://www.hocgiday.com/wp-content/uploads/2017/07/13-HN-VuNam-2.jpg" alt="teacher">
 				</div>
 			</div>
 			<div class="d-flex align-self-stretch profile-column">
@@ -4742,7 +4583,7 @@ Với học sinh học cổ nhạc cụ: các bạn sẽ được học về đ�
 		<div class="row hgd-profile ">
 			<div class="d-flex align-self-stretch profile-column">
 				<div class="col-xs-4 col-sm-3 col-md-2 col-lg-2 hgd-profile-info hgd-avatar">
-					<img class="img-circle img-responsive center-block hgd-profile-avatar" src="https://www.hocgiday.com/wp-content/uploads/2017/06/20-SG-NgoQuangDao.jpg" alt="teacher">
+					<img class="img-circle img-responsive center-block hgd-profile-avatar" src="https://www.hocgiday.com/wp-content/uploads/2017/07/20-SG-NgoQuangDao-2.jpg" alt="teacher">
 				</div>
 			</div>
 			<div class="d-flex align-self-stretch profile-column">

@@ -6,14 +6,14 @@
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<title>Tìm giáo viên Guitar tại nhà hoặc tại lớp | Học Gì Đây?</title>
-	
+	<title>Tìm giáo viên Piano tại nhà hoặc tại lớp | Học Gì Đây?</title>
+
 	<!-- Google Tag Manager -->
 	<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
 	new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
 	j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 	'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-	})(window,document,'script','dataLayer','GTM-5SQR968');</script>
+	})(window,document,'script','dataLayer','GTM-KHS4KLP');</script>
 	<!-- End Google Tag Manager -->
 
 	<!-- Font Awesome CDN -->
@@ -24,15 +24,16 @@
 
 	<!-- JQuery UI -->
 	<link rel="stylesheet" type="text/css" href="dist/js/jquery-ui.smoothness/jquery-ui.css">
-
 	<!-- Google Fonts -->
 	<link href="https://fonts.googleapis.com/css?family=Montserrat|Open+Sans" rel="stylesheet">
+
+	<!-- MY style -->
 	<link rel="stylesheet" type="text/css" href="dist/css/style.css">
 
 	<style type="text/css" media="screen">
 
 	</style>
-	<!-- Hotjar Tracking Code for https://hocgiday.com -->
+	<!-- Hotjar Tracking Code for www.hocgiday.com/ -->
 	<script>
 		(function(h,o,t,j,a,r){
 			h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
@@ -45,50 +46,46 @@
 	</script>
 
 
-	<!-- Google Analytics tracking code -->
+	<!-- Google Analytics Tracking Code for Piano -->
 	<script>
 		(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
 		(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
 		m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
 		})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
 
-		ga('create', 'UA-85357957-3', 'auto');
+		ga('create', 'UA-85357957-2', 'auto');
 		ga('send', 'pageview');
-
 	</script>
 		
 </head>
 <body>
 
-<!-- Google Tag Manager (noscript) -->
-<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5SQR968"
-height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-<!-- End Google Tag Manager (noscript) -->
+	<!-- Google Tag Manager (noscript) -->
+	<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KHS4KLP"
+	height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+	<!-- End Google Tag Manager (noscript) -->
 
 <div class="container-fluid sticky" id="contact">
 	<div class="row">
-		<div class="col-xs-4 col-sm-6 col-md-6 col-lg-6 col-md-offset-1 contact">
+		<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 col-md-offset-1 contact">
 			<i class="fa fa-phone fa-2x"></i>&nbsp;&nbsp;&nbsp;
-			<span class="hgd-heading-highlight">Giải đáp thắc mắc: 0944852366</span>
+			<span class="hgd-contact-number ">Giải đáp thắc mắc: 0944852366</span>
 		</div>
-		<div class="col-xs-6 col-sm-5 col-md-4 col-lg-4 col-xs-offset-0 col-sm-offset-1  yeucaugiaovien">
-			<span class="hgd-heading-highlight-2">Chưa tìm thấy giáo viên phù hợp?<br></span>
-			<form action="yeu-cau-giao-vien.php" method="POST" accept-charset="utf-8" target="_blank">
-				<input type="hidden" name="subject-hidden" value="guitar">
-				<button type="submit" name="yeucaugiaovien" class="btn btn-danger yeucaugiaovien"><span class="yeucaugiaovien-text">Yêu cầu giáo viên</span></button>
+		<div class="col-xs-3 col-sm-3 col-md-3 col-lg-3 col-xs-offset-1 col-sm-offset-2 yeucaugiaovien">
+			<form action="yeu-cau-giao-vien.php" method="POST" accept-charset="utf-8">
+				<input type="hidden" name="subject-hidden" value="piano">
+				<button type="submit" name="yeucaugiaovien" class="btn btn-warning yeucaugiaovien"><strong>Yêu cầu giáo viên</strong></button>
 			</form>
 		</div>
 	</div>
 </div>
 
-<div class="container-fluid hgd-header">
+<div class="container-fluid hgd-header ">
 	<div class="text-center hgd-header">
-		<h1 id="h1">BẠN MUỐN HỌC GUITAR?</h1>
-		<h3 id="h3">LỰA CHỌN GIỮA HÀNG CHỤC GIÁO VIÊN GUITAR TẠI HÀ NỘI</h3>
+		<h1 id="h1">BẠN MUỐN HỌC PIANO?</h1>
+		<h3 id="h3">LỰA CHỌN GIỮA HÀNG CHỤC GIÁO VIÊN PIANO TẠI HÀ NỘI</h3>
 	</div>
 </div>
-
-
 
 <!-- Slider filter -->
 <div class="container-fluid slider-filter sticky">
@@ -101,39 +98,38 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 	</div>
 </div>
 
-
-<!-- Profile List -->
+<!-- Profile list -->
 <div class="container hgd-container">
 
-	<!-- Profile row: Đinh Mạnh Hà-->
+	<!-- Profile row: Lê Trung Nam-->
 	<!-- Profile box -->
-	<div class="container-fluid hgd-profile-box hanoi" data-price="120">
+	<div class="container-fluid hgd-profile-box hanoi" data-price="500">
 		<div class="row hgd-profile ">
 			<div class="d-flex align-self-stretch profile-column">
 				<div class="col-xs-4 col-sm-3 col-md-2 col-lg-2 hgd-profile-info hgd-avatar">
-					<img class="img-circle img-responsive center-block hgd-profile-avatar" src="https://www.hocgiday.com/wp-content/uploads/2017/07/Ha-Dinh.jpg" alt="teacher">
+					<img class="img-circle img-responsive center-block hgd-profile-avatar" src="https://www.hocgiday.com/wp-content/uploads/2017/07/profile_photo-190-3-2.jpg" alt="teacher">
 				</div>
 			</div>
 			<div class="d-flex align-self-stretch profile-column">
 				<div class="col-xs-4 col-sm-6 col-md-6 col-lg-6 hgd-profile-info ">
-				<h3 id="dinhmanhha">Đinh Mạnh Hà</h3>
-				<p>Địa chỉ: Chùa Bộc, quận Đống Đa</p>
+				<h3 id="letrungnam">Lê Trung Nam</h3>
+				<p>Địa chỉ: ngõ 127 Lạc Long Quân, Tây Hồ, thành phố Hà Nội</p>
 				</div>
 			</div>
 			<div class="d-flex align-self-stretch profile-column">
 				<div class="col-xs-4 col-sm-3 col-md-2 col-lg-2 hgd-profile-info ">
 					<h3 id="unit-price">Học phí</h3>
-					<p class="unit-price">120.000 đ/ 60 phút</p>
+					<p class="unit-price">500.000 VNĐ/h</p>
 					<h3 id="rating">Đánh Giá</h3>
 					<div class="rating-star-box">
 						<span><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i></span>
-						<span class="num-of-rates">3</span>
+						<span class="num-of-rates">9</span>
 					</div>
 				</div>
 			</div>
 			<div class="d-flex align-self-stretch profile-column">
-				<div class="col-xs-12 col-sm-12 col-md-2 col-lg-2 hgd-read-more dinhmanhha">
-					<span class="read-more dinhmanhha">&gt;&gt; Tìm hiểu thêm</span>
+				<div class="col-xs-12 col-sm-12 col-md-2 col-lg-2 hgd-read-more letrungnam">
+					<span class="read-more letrungnam">&gt;&gt; Tìm hiểu thêm</span>
 				</div>
 			</div>
 		</div> <!-- End Profile row -->
@@ -145,14 +141,15 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 					<p><span class="t-heading">Cấp độ giảng dạy</span></p>
 				</div>
 				<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 text-right">
-					<p>Cơ bản</p>
+					<p>Cơ bản - Nâng cao - Chuyên sâu</p>
 				</div>
 			</div>
 			<!-- Description -->
 			<div class="row">
 				<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
 					<h4>Vài nét về giáo viên</h4>
-					<p>Mình bắt đầu tiếp xúc với âm nhạc khoảng cuối năm 2014, mình đã tốt nghiệp Đại học Phương Đông chuyên ngành Kiến Trúc tuy nhiên âm nhạc đã trở thành một phần không thể thiếu, nên mình đã quyết tâm theo đuổi âm nhạc. Mình bắt đầu giảng dạy từ 2016. Thần tượng âm nhạc của mình là Frank Sinatra, Paul Gilbert. Dòng nhạc ưa thích và theo đuổi: Rock, Metal, Pop. Phương pháp giảng dạy của mình sẽ phù hợp với từng học sinh khác nhau, từ đó mình sẽ đưa ra giáo trình phù hợp nhất. Ngoài ra mình còn đang là thành viên của ban nhạc School of rock. Mình cũng chơi bass và đã tham gia biểu diễn tại các quán cafe và nhiều sự kiện lớn nhỏ khác nhau như Rock Fest FPT, biểu diễn tại Bar +84,...
+					<p>Tôi là Lê Nam, hiện tại giảng dạy Piano cho nhiều học sinh tại nhà. Với nền tảng kiến thức vững chắc và học vị cao về bộ môn Piano (thạc sĩ Piano tại Học viện Âm nhạc Quốc gia Việt Nam), tôi chắc chắn có thể đem lại cho các bạn học sinh những trải nghiệm tuyệt vời với cây đàn Piano. Bởi vì khi ngồi xuống và chơi một cây Piano, bạn phải dồn cả tâm hồn vào nó, để từng lần cây búa gõ vào dây đàn vang ra âm thanh, là một lần bạn rung động.
+Tôi chuyên giảng dạy về dòng cổ điển, và phương pháp dạy của tôi sẽ định hướng cho các bạn có thể tiến rất xa trên con đường học tập Piano sau này. Vì vậy tôi có thể luyện thi vào các trường nhạc cho các bạn học sinh định hướng học Piano lâu dài và chuyên nghiệp.
 					</p>
 				</div>
 			</div>
@@ -163,798 +160,14 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 				<div class="row">
 					<h4>Học vấn</h4>
 					<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">	
-						<p>Đang học hệ Trung Cấp Đại học văn hóa nghệ thuật quân đội</p>
+						<p>Tốt nghiệp thạc sĩ Học viện âm nhạc quốc gia năm 2015</p>
 					</div>
 					
 				</div>
 				<div class="row">
 					<h4>Video</h4>
 					<div class="col-xs-12 col-sm-12 col-md-11 col-lg-11 wrapper wrapper-iframe">
-						<iframe class="wrapper-item wrapper-video" src="https://www.youtube.com/embed/wq_O0eTHqyk" frameborder="0" allowfullscreen></iframe>
-					</div>
-				</div>	
-			</div> <!-- End left column -->
-			
-			<!-- Right column at md and lg -->
-			<div class="col-xs-12 col-sm-12 col-md-5 col-lg-5"> 
-				
-				<div class="row">
-					<div class="col-xs-7 col-sm-7 col-md-7 col-lg-7">
-						<h4>Phạm vi đi lại</h4>
-					</div>
-					<div class="col-xs-5 col-sm-5 col-md-5 col-lg-5 text-right">
-						<p>5km</p>
-					</div>
-				</div>
-				<div class="row">
-					<h4>Học phí</h4>
-					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
-						<p>Tại nhà</p>
-					</div>
-					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 text-right">
-						<p>120.000 đ/ 60 phút</p>
-					</div>
-					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
-						<p>Tại lớp</p>
-					</div>
-					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 text-right">
-						<p></p>
-					</div>
-				</div>
-				<div class="row">
-					<h4>Lịch giảng dạy của giáo viên</h4>
-					<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
-						<table class="table table-bordered">
-			<thead>
-			 <tr>
-				<th></th>
-				<th>T2</th>
-				<th>T3</th>
-				<th>T4</th>
-				<th>T5</th>
-				<th>T6</th>
-				<th>T7</th>
-				<th>CN</th>
-			 </tr>
-			</thead>
-			<tbody>
-			 <tr>
-				<th>Sáng</th>
-				<td class="busy"></td>
-				<td class="busy"></td>
-				<td class="busy"></td>
-				<td></td>
-				<td></td>
-				<td class="busy"></td>
-				<td></td>
-			 </tr>
-			 <tr>
-				<th>Chiều</th>
-				<td class="busy"></td>
-				<td class="busy"></td>
-				<td class="busy"></td>
-				<td></td>
-				<td></td>
-				<td></td>
-				<td></td>
-			 </tr>
-			 <tr>
-				<th>Tối</th>
-				<td></td>
-				<td></td>
-				<td></td>
-				<td></td>
-				<td></td>
-				<td></td>
-				<td></td>
-			 </tr>
-			</tbody>
-		 </table> 
- 
-					<span class="legend"></span> : Những buổi giáo viên có thể giảng dạy 	
-					</div>
-				</div>
-				<div class="row sign-up">
-					<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
-						<button class="btn btn-info btn-lg btn-sign-up center-block dang-ky-ngay" data-toggle="modal" data-target="#myModal" rel="dinhmanhha">Đăng ký ngay</button>
-					</div>
-				</div>
-			</div>
-		</div> <!-- End Profile detail -->
-	</div> <!-- End Profile box --> 
-	<!-- Profile row: Hoàng Tất Đạt-->
-	<!-- Profile box -->
-	<div class="container-fluid hgd-profile-box hanoi" data-price="150">
-		<div class="row hgd-profile ">
-			<div class="d-flex align-self-stretch profile-column">
-				<div class="col-xs-4 col-sm-3 col-md-2 col-lg-2 hgd-profile-info hgd-avatar">
-					<img class="img-circle img-responsive center-block hgd-profile-avatar" src="https://www.hocgiday.com/wp-content/uploads/2017/07/Tat-Dat.jpg" alt="teacher">
-				</div>
-			</div>
-			<div class="d-flex align-self-stretch profile-column">
-				<div class="col-xs-4 col-sm-6 col-md-6 col-lg-6 hgd-profile-info ">
-				<h3 id="hoangtatdat">Hoàng Tất Đạt</h3>
-				<p>Địa chỉ: Tam Trinh, quận Hoàng Mai</p>
-				</div>
-			</div>
-			<div class="d-flex align-self-stretch profile-column">
-				<div class="col-xs-4 col-sm-3 col-md-2 col-lg-2 hgd-profile-info ">
-					<h3 id="unit-price">Học phí</h3>
-					<p class="unit-price">150.000 đ/ 60 phút</p>
-					<h3 id="rating">Đánh Giá</h3>
-					<div class="rating-star-box">
-						<span><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i></span>
-						<span class="num-of-rates">10</span>
-					</div>
-				</div>
-			</div>
-			<div class="d-flex align-self-stretch profile-column">
-				<div class="col-xs-12 col-sm-12 col-md-2 col-lg-2 hgd-read-more hoangtatdat">
-					<span class="read-more hoangtatdat">&gt;&gt; Tìm hiểu thêm</span>
-				</div>
-			</div>
-		</div> <!-- End Profile row -->
-
-		<!-- Profile Detail -->
-		<div class="row hgd-profile-detail">
-			<div class="row">
-				<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
-					<p><span class="t-heading">Cấp độ giảng dạy</span></p>
-				</div>
-				<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 text-right">
-					<p>Cơ bản</p>
-				</div>
-			</div>
-			<!-- Description -->
-			<div class="row">
-				<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
-					<h4>Vài nét về giáo viên</h4>
-					<p>Mình là Đạt. Nói về khoảng thời gian mình bắt đầu thực sự thích nhạc thì chắc là từ cấp 3. Mình chịu ảnh hưởng rất nhiều của ban nhạc Bức Tường. Vì vậy mình thi vào trường xây dựng. Và hiện tại cũng là chủ nhiệm clb Guitar Đại học xây dựng. Mình bắt đầu giảng dạy khoảng 2 năm trước, tức là khoảng năm 2 đại học. Dòng nhạc sở trường của mình có lẽ là Pop, Rock, Metal. Thần tượng thì chắc chắn là ban nhạc The wall rồi, và đặc biệt là anh Trần Tuấn Hùng. Mình rất thích những câu guitar và phong cách biểu diễn của anh. Ngoài ra, mình cũng nghe nhạc của My Chemical Romance, Slipknot,… Trong quá trình giảng dạy, mình sẽ cố gắng truyền đạt một cách dễ hiểu nhất để sau khi không có giáo viên học sinh có thể tự học được một cách dễ dàng. . Đến với lớp học của mình, học sinh chỉ cần chuẩn bị đàn và tâm trạng tốt. Mình ngoài công việc hiện tại là chủ nhiệm clb Guitar Xây dựng, mình còn là bassist của ban nhạc Silencer và cũng tham gia biểu diễn ở các quán café khá nhiều. Sở trường của mình là đệm hát.					</p>
-				</div>
-			</div>
-
-			<!-- End description -->
-			<!-- Left column at md and lg -->
-			<div class="col-xs-12 col-sm-12 col-md-7 col-lg-7"> 
-				<div class="row">
-					<h4>Học vấn</h4>
-					<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">	
-						<p></p>
-					</div>
-					
-				</div>
-				<div class="row">
-					<h4>Video</h4>
-					<div class="col-xs-12 col-sm-12 col-md-11 col-lg-11 wrapper wrapper-iframe">
-						<iframe class="wrapper-item wrapper-video" src="https://www.youtube.com/embed/NZ9GU6svtOI" frameborder="0" allowfullscreen></iframe>
-					</div>
-				</div>	
-			</div> <!-- End left column -->
-			
-			<!-- Right column at md and lg -->
-			<div class="col-xs-12 col-sm-12 col-md-5 col-lg-5"> 
-				
-				<div class="row">
-					<div class="col-xs-7 col-sm-7 col-md-7 col-lg-7">
-						<h4>Phạm vi đi lại</h4>
-					</div>
-					<div class="col-xs-5 col-sm-5 col-md-5 col-lg-5 text-right">
-						<p>5km</p>
-					</div>
-				</div>
-				<div class="row">
-					<h4>Học phí</h4>
-					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
-						<p>Tại nhà</p>
-					</div>
-					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 text-right">
-						<p>150.000 đ/ 60 phút</p>
-					</div>
-					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
-						<p>Tại lớp</p>
-					</div>
-					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 text-right">
-						<p></p>
-					</div>
-				</div>
-				<div class="row">
-					<h4>Lịch giảng dạy của giáo viên</h4>
-					<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
-						<table class="table table-bordered">
-			<thead>
-			 <tr>
-				<th></th>
-				<th>T2</th>
-				<th>T3</th>
-				<th>T4</th>
-				<th>T5</th>
-				<th>T6</th>
-				<th>T7</th>
-				<th>CN</th>
-			 </tr>
-			</thead>
-			<tbody>
-			 <tr>
-				<th>Sáng</th>
-				<td class="busy"></td>
-				<td class="busy"></td>
-				<td class="busy"></td>
-				<td class="busy"></td>
-				<td class="busy"></td>
-				<td class="busy"></td>
-				<td class="busy"></td>
-			 </tr>
-			 <tr>
-				<th>Chiều</th>
-				<td class="busy"></td>
-				<td class="busy"></td>
-				<td></td>
-				<td class="busy"></td>
-				<td class="busy"></td>
-				<td class="busy"></td>
-				<td class="busy"></td>
-			 </tr>
-			 <tr>
-				<th>Tối</th>
-				<td class="busy"></td>
-				<td class="busy"></td>
-				<td></td>
-				<td class="busy"></td>
-				<td></td>
-				<td class="busy"></td>
-				<td class="busy"></td>
-			 </tr>
-			</tbody>
-		 </table>
- 
- 
-					<span class="legend"></span> : Những buổi giáo viên có thể giảng dạy 	
-					</div>
-				</div>
-				<div class="row sign-up">
-					<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
-						<button class="btn btn-info btn-lg btn-sign-up center-block dang-ky-ngay" data-toggle="modal" data-target="#myModal" rel="hoangtatdat">Đăng ký ngay</button>
-					</div>
-				</div>
-			</div>
-		</div> <!-- End Profile detail -->
-	</div> <!-- End Profile box --> 
-	<!-- Profile row: Phan Thi Thu Phương-->
-	<!-- Profile box -->
-	<div class="container-fluid hgd-profile-box hanoi" data-price="150">
-		<div class="row hgd-profile ">
-			<div class="d-flex align-self-stretch profile-column">
-				<div class="col-xs-4 col-sm-3 col-md-2 col-lg-2 hgd-profile-info hgd-avatar">
-					<img class="img-circle img-responsive center-block hgd-profile-avatar" src="https://www.hocgiday.com/wp-content/uploads/2017/07/Thu-Phuong.jpg" alt="teacher">
-				</div>
-			</div>
-			<div class="d-flex align-self-stretch profile-column">
-				<div class="col-xs-4 col-sm-6 col-md-6 col-lg-6 hgd-profile-info ">
-				<h3 id="phanthithuphuong">Phan Thi Thu Phương</h3>
-				<p>Địa chỉ: Thượng Thanh, quận Long Biên</p>
-				</div>
-			</div>
-			<div class="d-flex align-self-stretch profile-column">
-				<div class="col-xs-4 col-sm-3 col-md-2 col-lg-2 hgd-profile-info ">
-					<h3 id="unit-price">Học phí</h3>
-					<p class="unit-price">150.000 đ/ 90 phút</p>
-					<h3 id="rating">Đánh Giá</h3>
-					<div class="rating-star-box">
-						<span><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i></span>
-						<span class="num-of-rates">4</span>
-					</div>
-				</div>
-			</div>
-			<div class="d-flex align-self-stretch profile-column">
-				<div class="col-xs-12 col-sm-12 col-md-2 col-lg-2 hgd-read-more phanthithuphuong">
-					<span class="read-more phanthithuphuong">&gt;&gt; Tìm hiểu thêm</span>
-				</div>
-			</div>
-		</div> <!-- End Profile row -->
-
-		<!-- Profile Detail -->
-		<div class="row hgd-profile-detail">
-			<div class="row">
-				<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
-					<p><span class="t-heading">Cấp độ giảng dạy</span></p>
-				</div>
-				<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 text-right">
-					<p>Cơ bản</p>
-				</div>
-			</div>
-			<!-- Description -->
-			<div class="row">
-				<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
-					<h4>Vài nét về giáo viên</h4>
-					<p>Chào các bạn học sinh của hocgiday.com. Mình là Phan Phương, bạn bè vẫn hay gọi là Phương Phan hay “cô giáo Phương Phan”. Mình tiếp xúc với âm nhạc từ khá sớm, đó là khoảng cấp 2, nhưng mình mới thực sự chơi đàn được 4 năm. Mình không học qua trường lớp nào, nhưng mình có theo học 1 năm tại S.O.R. Sau một khoảng thời gian cảm thấy tự tin với kiến thức, mình bắt đầu việc giảng dạy, đến nay đã khoảng 2 năm. Thần tượng âm nhạc của mình là Neil Zaza, MCR,… Mình yêu cầu với mỗi học sinh khá đơn giản là đàn và thái độ tự giác luyện tập. Thành tích của mình là 3 show của School Of Rock, 2 chương trình The Avengers, các chương trình nhỏ ở trường, câu lạc bộ và vài show nhỏ khác.					</p>
-				</div>
-			</div>
-
-			<!-- End description -->
-			<!-- Left column at md and lg -->
-			<div class="col-xs-12 col-sm-12 col-md-7 col-lg-7"> 
-				<div class="row">
-					<h4>Học vấn</h4>
-					<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">	
-						<p></p>
-					</div>
-					
-				</div>
-				<div class="row">
-					<h4>Video</h4>
-					<div class="col-xs-12 col-sm-12 col-md-11 col-lg-11 wrapper wrapper-iframe">
-						<iframe class="wrapper-item wrapper-video" src="https://www.youtube.com/embed/A5icBJpMyzc" frameborder="0" allowfullscreen></iframe>
-					</div>
-				</div>	
-			</div> <!-- End left column -->
-			
-			<!-- Right column at md and lg -->
-			<div class="col-xs-12 col-sm-12 col-md-5 col-lg-5"> 
-				
-				<div class="row">
-					<div class="col-xs-7 col-sm-7 col-md-7 col-lg-7">
-						<h4>Phạm vi đi lại</h4>
-					</div>
-					<div class="col-xs-5 col-sm-5 col-md-5 col-lg-5 text-right">
-						<p>3km</p>
-					</div>
-				</div>
-				<div class="row">
-					<h4>Học phí</h4>
-					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
-						<p>Tại nhà</p>
-					</div>
-					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 text-right">
-						<p>150.000 đ/ 90 phút</p>
-					</div>
-					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
-						<p>Tại lớp</p>
-					</div>
-					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 text-right">
-						<p>100.000 đ/ 90 phút</p>
-					</div>
-				</div>
-				<div class="row">
-					<h4>Lịch giảng dạy của giáo viên</h4>
-					<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
-						<table class="table table-bordered">
-			<thead>
-			 <tr>
-				<th></th>
-				<th>T2</th>
-				<th>T3</th>
-				<th>T4</th>
-				<th>T5</th>
-				<th>T6</th>
-				<th>T7</th>
-				<th>CN</th>
-			 </tr>
-			</thead>
-			<tbody>
-			 <tr>
-				<th>Sáng</th>
-				<td></td>
-				<td></td>
-				<td></td>
-				<td></td>
-				<td></td>
-				<td></td>
-				<td class="busy"></td>
-			 </tr>
-			 <tr>
-				<th>Chiều</th>
-				<td></td>
-				<td></td>
-				<td></td>
-				<td></td>
-				<td></td>
-				<td></td>
-				<td class="busy"></td>
-			 </tr>
-			 <tr>
-				<th>Tối</th>
-				<td></td>
-				<td></td>
-				<td></td>
-				<td></td>
-				<td></td>
-				<td></td>
-				<td class="busy"></td>
-			 </tr>
-			</tbody>
-		 </table>
- 
- 
-					<span class="legend"></span> : Những buổi giáo viên có thể giảng dạy 	
-					</div>
-				</div>
-				<div class="row sign-up">
-					<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
-						<button class="btn btn-info btn-lg btn-sign-up center-block dang-ky-ngay" data-toggle="modal" data-target="#myModal" rel="phanthithuphuong">Đăng ký ngay</button>
-					</div>
-				</div>
-			</div>
-		</div> <!-- End Profile detail -->
-	</div> <!-- End Profile box --> 
-	<!-- Profile row: Nguyễn Hải Minh-->
-	<!-- Profile box -->
-	<div class="container-fluid hgd-profile-box hanoi" data-price="220">
-		<div class="row hgd-profile ">
-			<div class="d-flex align-self-stretch profile-column">
-				<div class="col-xs-4 col-sm-3 col-md-2 col-lg-2 hgd-profile-info hgd-avatar">
-					<img class="img-circle img-responsive center-block hgd-profile-avatar" src="https://www.hocgiday.com/wp-content/uploads/2017/07/Hai-Minh.jpg" alt="teacher">
-				</div>
-			</div>
-			<div class="d-flex align-self-stretch profile-column">
-				<div class="col-xs-4 col-sm-6 col-md-6 col-lg-6 hgd-profile-info ">
-				<h3 id="nguyenhaiminh">Nguyễn Hải Minh</h3>
-				<p>Địa chỉ: Lò Đúc, quận Hai Bà Trưng</p>
-				</div>
-			</div>
-			<div class="d-flex align-self-stretch profile-column">
-				<div class="col-xs-4 col-sm-3 col-md-2 col-lg-2 hgd-profile-info ">
-					<h3 id="unit-price">Học phí</h3>
-					<p class="unit-price">220.000 đ/ 60 phút</p>
-					<h3 id="rating">Đánh Giá</h3>
-					<div class="rating-star-box">
-						<span><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i></span>
-						<span class="num-of-rates">7</span>
-					</div>
-				</div>
-			</div>
-			<div class="d-flex align-self-stretch profile-column">
-				<div class="col-xs-12 col-sm-12 col-md-2 col-lg-2 hgd-read-more nguyenhaiminh">
-					<span class="read-more nguyenhaiminh">&gt;&gt; Tìm hiểu thêm</span>
-				</div>
-			</div>
-		</div> <!-- End Profile row -->
-
-		<!-- Profile Detail -->
-		<div class="row hgd-profile-detail">
-			<div class="row">
-				<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
-					<p><span class="t-heading">Cấp độ giảng dạy</span></p>
-				</div>
-				<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 text-right">
-					<p>Cơ bản, Nâng cao, Chuyên sâu</p>
-				</div>
-			</div>
-			<!-- Description -->
-			<div class="row">
-				<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
-					<h4>Vài nét về giáo viên</h4>
-					<p>Mình là Minh, mọi người hay gọi là Minh Tốc. Mình Bắt đầu tiếp xúc với âm nhạc từ khá sớm, và tự tìm hiểu và học guitar đến nay đã gần 10 năm, rất tự tin về chuyên môn của bản thân, có thể dạy được đa dạng trình  độ từ cơ bản đến nâng cao và chuyên sâu. Mình vừa tốt nghiệp Cao đẳng nghệ thuật Hà Nội hệ trung cấp. Hiện đang học hệ đại học nhạc viện. Mình bắt đầu giảng dạy từ năm 2015. Dòng nhạc của mình là Jazz, Pop, Country, Blue, Rock, Metal,… Còn thần tượng thì có thể kể tới rất nhiều đó là Gurthie Govan, Dream Theater. Trong giờ học, mình muốn học sinh nghiêm túc và cần chuẩn bị đàn trước khi tới lớp. Nói về những hoạt động cá nhân, hiện mình thành viên ban nhạc Maybug và Sweepy, và mình đã có nhiều kinh nghiệm trong làm việc với VTV và công việc Studio, và việc sáng tác âm nhạc,…					</p>
-				</div>
-			</div>
-
-			<!-- End description -->
-			<!-- Left column at md and lg -->
-			<div class="col-xs-12 col-sm-12 col-md-7 col-lg-7"> 
-				<div class="row">
-					<h4>Học vấn</h4>
-					<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">	
-						<p>Đã tốt nghiệp hệ Trung Cấp Cao đẳng nghệ thuật Hà Nội</p>
-					</div>
-					
-				</div>
-				<div class="row">
-					<h4>Video</h4>
-					<div class="col-xs-12 col-sm-12 col-md-11 col-lg-11 wrapper wrapper-iframe">
-						<iframe class="wrapper-item wrapper-video" src="https://www.youtube.com/embed/7b6QyJf324s" frameborder="0" allowfullscreen></iframe>
-					</div>
-				</div>	
-			</div> <!-- End left column -->
-			
-			<!-- Right column at md and lg -->
-			<div class="col-xs-12 col-sm-12 col-md-5 col-lg-5"> 
-				
-				<div class="row">
-					<div class="col-xs-7 col-sm-7 col-md-7 col-lg-7">
-						<h4>Phạm vi đi lại</h4>
-					</div>
-					<div class="col-xs-5 col-sm-5 col-md-5 col-lg-5 text-right">
-						<p>5km</p>
-					</div>
-				</div>
-				<div class="row">
-					<h4>Học phí</h4>
-					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
-						<p>Tại nhà</p>
-					</div>
-					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 text-right">
-						<p>220.000 đ/ 60 phút</p>
-					</div>
-					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
-						<p>Tại lớp</p>
-					</div>
-					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 text-right">
-						<p>180.000 đ/ 60 phút</p>
-					</div>
-				</div>
-				<div class="row">
-					<h4>Lịch giảng dạy của giáo viên</h4>
-					<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
-						<table class="table table-bordered">
-			<thead>
-			 <tr>
-				<th></th>
-				<th>T2</th>
-				<th>T3</th>
-				<th>T4</th>
-				<th>T5</th>
-				<th>T6</th>
-				<th>T7</th>
-				<th>CN</th>
-			 </tr>
-			</thead>
-			<tbody>
-			 <tr>
-				<th>Sáng</th>
-				<td class="busy"></td>
-				<td class="busy"></td>
-				<td class="busy"></td>
-				<td class="busy"></td>
-				<td class="busy"></td>
-				<td class="busy"></td>
-				<td class="busy"></td>
-			 </tr>
-			 <tr>
-				<th>Chiều</th>
-				<td class="busy"></td>
-				<td class="busy"></td>
-				<td class="busy"></td>
-				<td class="busy"></td>
-				<td class="busy"></td>
-				<td class="busy"></td>
-				<td class="busy"></td>
-			 </tr>
-			 <tr>
-				<th>Tối</th>
-				<td></td>
-				<td></td>
-				<td></td>
-				<td></td>
-				<td></td>
-				<td></td>
-				<td></td>
-			 </tr>
-			</tbody>
-		 </table> 
- 
-					<span class="legend"></span> : Những buổi giáo viên có thể giảng dạy 	
-					</div>
-				</div>
-				<div class="row sign-up">
-					<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
-						<button class="btn btn-info btn-lg btn-sign-up center-block dang-ky-ngay" data-toggle="modal" data-target="#myModal" rel="nguyenhaiminh">Đăng ký ngay</button>
-					</div>
-				</div>
-			</div>
-		</div> <!-- End Profile detail -->
-	</div> <!-- End Profile box --> 
-	<!-- Profile row: Vũ Hoàng-->
-	<!-- Profile box -->
-	<div class="container-fluid hgd-profile-box hanoi" data-price="220">
-		<div class="row hgd-profile ">
-			<div class="d-flex align-self-stretch profile-column">
-				<div class="col-xs-4 col-sm-3 col-md-2 col-lg-2 hgd-profile-info hgd-avatar">
-					<img class="img-circle img-responsive center-block hgd-profile-avatar" src="https://www.hocgiday.com/wp-content/uploads/2017/07/Vu-Hoang.jpg" alt="teacher">
-				</div>
-			</div>
-			<div class="d-flex align-self-stretch profile-column">
-				<div class="col-xs-4 col-sm-6 col-md-6 col-lg-6 hgd-profile-info ">
-				<h3 id="vuhoang">Vũ Hoàng</h3>
-				<p>Địa chỉ: Thái Hà, quận Đống Đa</p>
-				</div>
-			</div>
-			<div class="d-flex align-self-stretch profile-column">
-				<div class="col-xs-4 col-sm-3 col-md-2 col-lg-2 hgd-profile-info ">
-					<h3 id="unit-price">Học phí</h3>
-					<p class="unit-price">220.000 đ/ 60 phút</p>
-					<h3 id="rating">Đánh Giá</h3>
-					<div class="rating-star-box">
-						<span><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i></span>
-						<span class="num-of-rates">3</span>
-					</div>
-				</div>
-			</div>
-			<div class="d-flex align-self-stretch profile-column">
-				<div class="col-xs-12 col-sm-12 col-md-2 col-lg-2 hgd-read-more vuhoang">
-					<span class="read-more vuhoang">&gt;&gt; Tìm hiểu thêm</span>
-				</div>
-			</div>
-		</div> <!-- End Profile row -->
-
-		<!-- Profile Detail -->
-		<div class="row hgd-profile-detail">
-			<div class="row">
-				<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
-					<p><span class="t-heading">Cấp độ giảng dạy</span></p>
-				</div>
-				<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 text-right">
-					<p>Cơ bản, Nâng cao</p>
-				</div>
-			</div>
-			<!-- Description -->
-			<div class="row">
-				<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
-					<h4>Vài nét về giáo viên</h4>
-					<p>Nick name của mình là Hoang Vu. Sở trường của mình là FingerStyle và đệm hát nâng cao. Thần tượng của mình là Tommy Emmanuel . Còn nói về dòng nhạc thì mình thích nhiều, kể cả EDM, nhưng hiện tại mình đang chơi có thể kể tới đó là Pop, Country, Blue,… Hoạt đọng thì nhiều lắm, mình tham gia biểu diễn nghệ thuật khá nhiều, có thể kể tới đó là Thành viên ban nhạc country Sweepy, chuyên gia hòa âm phối khí tại Katana Records. Đẫ đánh nhạc tại nhiều quán cafe và biểu diễn nhiều sự kiện lớn nhỏ như Moonsoon Streetshow Festival…. Đến với lớp học của mình, mình sẽ dạy các bạn từ cơ bản đến nâng cao và tư duy đệm hát dùng hòa âm đúng cách.					</p>
-				</div>
-			</div>
-
-			<!-- End description -->
-			<!-- Left column at md and lg -->
-			<div class="col-xs-12 col-sm-12 col-md-7 col-lg-7"> 
-				<div class="row">
-					<h4>Học vấn</h4>
-					<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">	
-						<p>Đang học hệ Trung Cấp Đại học văn hóa nghệ thuật quân đội</p>
-					</div>
-					
-				</div>
-				<div class="row">
-					<h4>Video</h4>
-					<div class="col-xs-12 col-sm-12 col-md-11 col-lg-11 wrapper wrapper-iframe">
-						<iframe class="wrapper-item wrapper-video" src="https://www.youtube.com/embed/KzXEQhttYfk" frameborder="0" allowfullscreen></iframe>
-					</div>
-				</div>	
-			</div> <!-- End left column -->
-			
-			<!-- Right column at md and lg -->
-			<div class="col-xs-12 col-sm-12 col-md-5 col-lg-5"> 
-				
-				<div class="row">
-					<div class="col-xs-7 col-sm-7 col-md-7 col-lg-7">
-						<h4>Phạm vi đi lại</h4>
-					</div>
-					<div class="col-xs-5 col-sm-5 col-md-5 col-lg-5 text-right">
-						<p>8km</p>
-					</div>
-				</div>
-				<div class="row">
-					<h4>Học phí</h4>
-					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
-						<p>Tại nhà</p>
-					</div>
-					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 text-right">
-						<p>220.000 đ/ 60 phút</p>
-					</div>
-					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
-						<p>Tại lớp</p>
-					</div>
-					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 text-right">
-						<p>180.000 đ/ 60 phút</p>
-					</div>
-				</div>
-				<div class="row">
-					<h4>Lịch giảng dạy của giáo viên</h4>
-					<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
-						<table class="table table-bordered">
-			<thead>
-			 <tr>
-				<th></th>
-				<th>T2</th>
-				<th>T3</th>
-				<th>T4</th>
-				<th>T5</th>
-				<th>T6</th>
-				<th>T7</th>
-				<th>CN</th>
-			 </tr>
-			</thead>
-			<tbody>
-			 <tr>
-				<th>Sáng</th>
-				<td></td>
-				<td></td>
-				<td></td>
-				<td></td>
-				<td></td>
-				<td></td>
-				<td></td>
-			 </tr>
-			 <tr>
-				<th>Chiều</th>
-				<td class="busy"></td>
-				<td class="busy"></td>
-				<td class="busy"></td>
-				<td class="busy"></td>
-				<td class="busy"></td>
-				<td class="busy"></td>
-				<td></td>
-			 </tr>
-			 <tr>
-				<th>Tối</th>
-				<td></td>
-				<td class="busy"></td>
-				<td></td>
-				<td class="busy"></td>
-				<td class="busy"></td>
-				<td></td>
-				<td></td>
-			 </tr>
-			</tbody>
-		 </table>
- 
- 
- 
-					<span class="legend"></span> : Những buổi giáo viên có thể giảng dạy 	
-					</div>
-				</div>
-				<div class="row sign-up">
-					<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
-						<button class="btn btn-info btn-lg btn-sign-up center-block dang-ky-ngay" data-toggle="modal" data-target="#myModal" rel="vuhoang">Đăng ký ngay</button>
-					</div>
-				</div>
-			</div>
-		</div> <!-- End Profile detail -->
-	</div> <!-- End Profile box --> 
-	<!-- Profile row: Nguyễn Trung Thành-->
-	<!-- Profile box -->
-	<div class="container-fluid hgd-profile-box hanoi" data-price="220">
-		<div class="row hgd-profile ">
-			<div class="d-flex align-self-stretch profile-column">
-				<div class="col-xs-4 col-sm-3 col-md-2 col-lg-2 hgd-profile-info hgd-avatar">
-					<img class="img-circle img-responsive center-block hgd-profile-avatar" src="https://www.hocgiday.com/wp-content/uploads/2017/07/Trung-Thanh.jpg" alt="teacher">
-				</div>
-			</div>
-			<div class="d-flex align-self-stretch profile-column">
-				<div class="col-xs-4 col-sm-6 col-md-6 col-lg-6 hgd-profile-info ">
-				<h3 id="nguyentrungthanh">Nguyễn Trung Thành</h3>
-				<p>Địa chỉ: Trần Khát Chân, quận Hai Bà Trưng</p>
-				</div>
-			</div>
-			<div class="d-flex align-self-stretch profile-column">
-				<div class="col-xs-4 col-sm-3 col-md-2 col-lg-2 hgd-profile-info ">
-					<h3 id="unit-price">Học phí</h3>
-					<p class="unit-price">220.000 đ/ 60 phút</p>
-					<h3 id="rating">Đánh Giá</h3>
-					<div class="rating-star-box">
-						<span><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star-o" aria-hidden="true"></i></span>
-						<span class="num-of-rates">2</span>
-					</div>
-				</div>
-			</div>
-			<div class="d-flex align-self-stretch profile-column">
-				<div class="col-xs-12 col-sm-12 col-md-2 col-lg-2 hgd-read-more nguyentrungthanh">
-					<span class="read-more nguyentrungthanh">&gt;&gt; Tìm hiểu thêm</span>
-				</div>
-			</div>
-		</div> <!-- End Profile row -->
-
-		<!-- Profile Detail -->
-		<div class="row hgd-profile-detail">
-			<div class="row">
-				<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
-					<p><span class="t-heading">Cấp độ giảng dạy</span></p>
-				</div>
-				<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 text-right">
-					<p>Cơ bản, Nâng cao</p>
-				</div>
-			</div>
-			<!-- Description -->
-			<div class="row">
-				<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
-					<h4>Vài nét về giáo viên</h4>
-					<p>Mình là Trung Thành. Hiện nay mình là nhóm trưởng của Vodka band!, mình cùng band đạt giải nhất trong chương trình TALENT STAR 2015, mình cũng đã cùng VodKa band được ban tổ chức VTV cuộc thi SV 2016 hỗ trợ chơi nhạc cho chương trình. Được cùng làm chương trình của vtv ý nghĩa điều ước thứ 7 số 88 về âm nhạc. Nói về quá trình mình tiếp xúc với âm nhạc thì dài lắm, đó quả là một quyết định bước ngoặt cuộc đời mình. Sau khi tốt nghiệp ĐH xây dựng, mình quyết định thi vào Cao đẳng nghệ thuật Hà Nội để theo đuổi âm nhạc. Và cho đến giờ mình vẫn coi đó là một quyết định đúng đắn. Kinh nghiệm thì mình đã dạy tại nhiều trung tâm, và có lớp riêng, tuy nhiên mình rất hài lòng về cách làm việc của hocgiday.com. Dòng nhạc sở trường là Pop và đệm hát. Đến với lớp học của mình, mình sẽ chỉ cho các bạn cách để đệm hát tốt và nâng cao chúng lên để phát triển tư duy.					</p>
-				</div>
-			</div>
-
-			<!-- End description -->
-			<!-- Left column at md and lg -->
-			<div class="col-xs-12 col-sm-12 col-md-7 col-lg-7"> 
-				<div class="row">
-					<h4>Học vấn</h4>
-					<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">	
-						<p>Đang học hệ Trung cấp Cao đẳng nghệ thuật Hà Nội</p>
-					</div>
-					
-				</div>
-				<div class="row">
-					<h4>Video</h4>
-					<div class="col-xs-12 col-sm-12 col-md-11 col-lg-11 wrapper wrapper-iframe">
-						<iframe class="wrapper-item wrapper-video" src="https://www.youtube.com/embed/LfHtWQ0ZlUo" frameborder="0" allowfullscreen></iframe>
+						<iframe class="wrapper-item wrapper-video" src="https://www.youtube.com/embed/I49Jfh5vIaI" frameborder="0" allowfullscreen></iframe>
 					</div>
 				</div>	
 			</div> <!-- End left column -->
@@ -976,13 +189,13 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 						<p>Tại nhà</p>
 					</div>
 					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 text-right">
-						<p>220.000 đ/ 60 phút</p>
+						<p>500.000 VNĐ/h</p>
 					</div>
 					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
 						<p>Tại lớp</p>
 					</div>
 					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 text-right">
-						<p></p>
+						<p>400.000 VNĐ/h</p>
 					</div>
 				</div>
 				<div class="row">
@@ -1006,7 +219,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 				<th>Sáng</th>
 				<td class="busy"></td>
 				<td class="busy"></td>
-				<td></td>
+				<td class="busy"></td>
 				<td class="busy"></td>
 				<td></td>
 				<td></td>
@@ -1016,66 +229,226 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 				<th>Chiều</th>
 				<td class="busy"></td>
 				<td class="busy"></td>
-				<td></td>
+				<td class="busy"></td>
 				<td class="busy"></td>
 				<td></td>
-				<td class="busy"></td>
+				<td></td>
 				<td></td>
 			 </tr>
 			 <tr>
 				<th>Tối</th>
-				<td></td>
-				<td></td>
-				<td></td>
-				<td></td>
+				<td class="busy"></td>
+				<td class="busy"></td>
+				<td class="busy"></td>
+				<td class="busy"></td>
 				<td></td>
 				<td></td>
 				<td></td>
 			 </tr>
 			</tbody>
-		 </table>
- 
+		 </table> 
  
 					<span class="legend"></span> : Những buổi giáo viên có thể giảng dạy 	
 					</div>
 				</div>
 				<div class="row sign-up">
 					<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
-						<button class="btn btn-info btn-lg btn-sign-up center-block dang-ky-ngay" data-toggle="modal" data-target="#myModal" rel="nguyentrungthanh">Đăng ký ngay</button>
+						<button class="btn btn-info btn-lg btn-sign-up center-block dang-ky-ngay" data-toggle="modal" data-target="#myModal" rel="letrungnam">Đăng ký ngay</button>
 					</div>
 				</div>
 			</div>
 		</div> <!-- End Profile detail -->
 	</div> <!-- End Profile box --> 
-	<!-- Profile row: Đỗ Đức Nhàn-->
+	<!-- Profile row: Nguyễn Việt Anh-->
 	<!-- Profile box -->
-	<div class="container-fluid hgd-profile-box hanoi" data-price="220">
+	<div class="container-fluid hgd-profile-box hanoi" data-price="300">
 		<div class="row hgd-profile ">
 			<div class="d-flex align-self-stretch profile-column">
 				<div class="col-xs-4 col-sm-3 col-md-2 col-lg-2 hgd-profile-info hgd-avatar">
-					<img class="img-circle img-responsive center-block hgd-profile-avatar" src="https://www.hocgiday.com/wp-content/uploads/ultimatemember/5/profile_photo-190.jpg" alt="teacher">
+					<img class="img-circle img-responsive center-block hgd-profile-avatar" src="https://www.hocgiday.com/wp-content/uploads/2017/07/profile_photo-190-2-1.jpg" alt="teacher">
 				</div>
 			</div>
 			<div class="d-flex align-self-stretch profile-column">
 				<div class="col-xs-4 col-sm-6 col-md-6 col-lg-6 hgd-profile-info ">
-				<h3 id="doducnhan">Đỗ Đức Nhàn</h3>
-				<p>Địa chỉ: Nguyễn Trãi, quận Thanh Xuân</p>
+				<h3 id="nguyenvietanh">Nguyễn Việt Anh</h3>
+				<p>Địa chỉ: ngõ 130 Đốc Ngữ, Ba Đình, thành phố Hà Nội</p>
 				</div>
 			</div>
 			<div class="d-flex align-self-stretch profile-column">
 				<div class="col-xs-4 col-sm-3 col-md-2 col-lg-2 hgd-profile-info ">
 					<h3 id="unit-price">Học phí</h3>
-					<p class="unit-price">220.000 đ/ 90 phút</p>
+					<p class="unit-price">300.000 VNĐ/h</p>
 					<h3 id="rating">Đánh Giá</h3>
 					<div class="rating-star-box">
-						<span><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star-o" aria-hidden="true"></i></span>
-						<span class="num-of-rates">7</span>
+						<span><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i></span>
+						<span class="num-of-rates">6</span>
 					</div>
 				</div>
 			</div>
 			<div class="d-flex align-self-stretch profile-column">
-				<div class="col-xs-12 col-sm-12 col-md-2 col-lg-2 hgd-read-more doducnhan">
-					<span class="read-more doducnhan">&gt;&gt; Tìm hiểu thêm</span>
+				<div class="col-xs-12 col-sm-12 col-md-2 col-lg-2 hgd-read-more nguyenvietanh">
+					<span class="read-more nguyenvietanh">&gt;&gt; Tìm hiểu thêm</span>
+				</div>
+			</div>
+		</div> <!-- End Profile row -->
+
+		<!-- Profile Detail -->
+		<div class="row hgd-profile-detail">
+			<div class="row">
+				<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
+					<p><span class="t-heading">Cấp độ giảng dạy</span></p>
+				</div>
+				<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 text-right">
+					<p>Cơ bản - Nâng cao</p>
+				</div>
+			</div>
+			<!-- Description -->
+			<div class="row">
+				<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+					<h4>Vài nét về giáo viên</h4>
+					<p>Chào các quý phụ huynh và các bạn học viên từ https://hocgiday.com/ mình là Nguyễn Việt Anh - giảng viên piano tốt nghiệp loại Giỏi Trường Cao đẳng Nghệ thuật Hà Nội khoa Nhạc Nhẹ với thế mạnh sở trường của mình là cổ điển, hòa tấu, ngoài ra là đệm hát, cover... do từ nhỏ mình đã có khoảng thời gian 4 năm học organ và cho tới giờ vẫn thường xuyên là nhạc công tại các quán cafe và khách sạn lớn của Hà Nội.
+Mình tiếp xúc với âm nhạc từ năm 6 tuổi và bắt đầu làm quen với cây đàn piano từ năm 10 tuổi. Trong âm nhạc hàn lâm thì người ảnh hưởng và truyền nhiều đam mê nhiều nhất tới mình khi học cây đàn này là Beethoven do chủ yếu trong suốt quãng thời gian đi học mình rất hay chơi các tác phẩm của ông.
+Mình đã và đang cộng tác và là giáo viên chính cho khá nhiều các trung tâm âm nhạc lớn nhỏ uy tín tại Hà Nội từ quãng thời gian còn là sinh viên do đó mình có khả năng giảng dạy được khá nhiều những giáo trình đa dạng khác nhau từ cơ bản đến nâng cao: John Thompson (Mỹ). methode rose, cho đến những giáo trình trong các trường âm nhạc đào tạo chính qui đồng thời đã được training những phương pháp sư phạm và giáo trình từ Kawaii Music (JPN) và đang theo học thi lấy chứng chỉ âm nhạc quốc tế LCM (London College of Music) với mục đích đối tượng học sinh hướng đến là trẻ nhỏ (5t trở lên) và tất nhiên cả người lớn với phương pháp dạy học khác nhau mình hoàn toàn tự tin với chuyên môn và kĩ năng sư phạm đã tích lũy được đến thời điểm này!
+Khi dạy học sinh mình chú trọng nhiều hơn đến những kĩ năng cơ bản nhất từ ngón tay, thế tay, dáng ngồi sau đó mới đi vào trình bày bản nhạc và nguyên tắc hơn vẫn là : Sự luyện tập của học sinh ở nhà rất quan trọng tới tiến độ học và sự tiến bộ theo thời gian của học sinh đó và thầy giáo chỉ là người dẫn dắt và sửa và góp ý cho các bạn mỗi buổi tới lớp. Trong mỗi tiết dạy , mình khá hiền và hòa đồng với học sinh với mục đích cho học sinh có được sự thoải mái nhất khi học nghệ thuật tuy nhiên vẫn phải có những nguyên tắc và khuôn khổ nhất định để có được những tiết học chất lượng.
+Hi vọng Việt Anh có cơ hội được hợp tác và được làm việc cùng các quý phụ huynh và các bạn học viên. Xin cảm ơn!
+					</p>
+				</div>
+			</div>
+
+			<!-- End description -->
+			<!-- Left column at md and lg -->
+			<div class="col-xs-12 col-sm-12 col-md-7 col-lg-7"> 
+				<div class="row">
+					<h4>Học vấn</h4>
+					<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">	
+						<p>Tốt nghiệp Cao Đẳng Nghệ thuật Hà Nội năm 2016</p>
+					</div>
+					
+				</div>
+				<div class="row">
+					<h4>Video</h4>
+					<div class="col-xs-12 col-sm-12 col-md-11 col-lg-11 wrapper wrapper-iframe">
+						<iframe class="wrapper-item wrapper-video" src="https://www.youtube.com/embed/QqSc2ZeQ09I" frameborder="0" allowfullscreen></iframe>
+					</div>
+				</div>	
+			</div> <!-- End left column -->
+			
+			<!-- Right column at md and lg -->
+			<div class="col-xs-12 col-sm-12 col-md-5 col-lg-5"> 
+				
+				<div class="row">
+					<div class="col-xs-7 col-sm-7 col-md-7 col-lg-7">
+						<h4>Phạm vi đi lại</h4>
+					</div>
+					<div class="col-xs-5 col-sm-5 col-md-5 col-lg-5 text-right">
+						<p>5km</p>
+					</div>
+				</div>
+				<div class="row">
+					<h4>Học phí</h4>
+					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
+						<p>Tại nhà</p>
+					</div>
+					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 text-right">
+						<p>300.000 VNĐ/h</p>
+					</div>
+					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
+						<p>Tại lớp</p>
+					</div>
+					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 text-right">
+						<p>250.000 VNĐ/h</p>
+					</div>
+				</div>
+				<div class="row">
+					<h4>Lịch giảng dạy của giáo viên</h4>
+					<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+						<table class="table table-bordered">
+			<thead>
+			 <tr>
+				<th></th>
+				<th>T2</th>
+				<th>T3</th>
+				<th>T4</th>
+				<th>T5</th>
+				<th>T6</th>
+				<th>T7</th>
+				<th>CN</th>
+			 </tr>
+			</thead>
+			<tbody>
+			 <tr>
+				<th>Sáng</th>
+				<td class="busy"></td>
+				<td class="busy"></td>
+				<td class="busy"></td>
+				<td class="busy"></td>
+				<td class="busy"></td>
+				<td></td>
+				<td></td>
+			 </tr>
+			 <tr>
+				<th>Chiều</th>
+				<td class="busy"></td>
+				<td class="busy"></td>
+				<td class="busy"></td>
+				<td class="busy"></td>
+				<td class="busy"></td>
+				<td class="busy"></td>
+				<td class="busy"></td>
+			 </tr>
+			 <tr>
+				<th>Tối</th>
+				<td class="busy"></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td class="busy"></td>
+				<td></td>
+				<td></td>
+			 </tr>
+			</tbody>
+		 </table> 
+ 
+					<span class="legend"></span> : Những buổi giáo viên có thể giảng dạy 	
+					</div>
+				</div>
+				<div class="row sign-up">
+					<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+						<button class="btn btn-info btn-lg btn-sign-up center-block dang-ky-ngay" data-toggle="modal" data-target="#myModal" rel="nguyenvietanh">Đăng ký ngay</button>
+					</div>
+				</div>
+			</div>
+		</div> <!-- End Profile detail -->
+	</div> <!-- End Profile box --> 
+	<!-- Profile row: Trần Tùng-->
+	<!-- Profile box -->
+	<div class="container-fluid hgd-profile-box hanoi" data-price="250">
+		<div class="row hgd-profile ">
+			<div class="d-flex align-self-stretch profile-column">
+				<div class="col-xs-4 col-sm-3 col-md-2 col-lg-2 hgd-profile-info hgd-avatar">
+					<img class="img-circle img-responsive center-block hgd-profile-avatar" src="https://www.hocgiday.com/wp-content/uploads/2017/07/19-HN-TranTung-2.jpg" alt="teacher">
+				</div>
+			</div>
+			<div class="d-flex align-self-stretch profile-column">
+				<div class="col-xs-4 col-sm-6 col-md-6 col-lg-6 hgd-profile-info ">
+				<h3 id="trantung">Trần Tùng</h3>
+				<p>Địa chỉ: Triều Khúc, Thanh Xuân, Hà Nội</p>
+				</div>
+			</div>
+			<div class="d-flex align-self-stretch profile-column">
+				<div class="col-xs-4 col-sm-3 col-md-2 col-lg-2 hgd-profile-info ">
+					<h3 id="unit-price">Học phí</h3>
+					<p class="unit-price">250.000 VNĐ/h</p>
+					<h3 id="rating">Đánh Giá</h3>
+					<div class="rating-star-box">
+						<span><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i></span>
+						<span class="num-of-rates">8</span>
+					</div>
+				</div>
+			</div>
+			<div class="d-flex align-self-stretch profile-column">
+				<div class="col-xs-12 col-sm-12 col-md-2 col-lg-2 hgd-read-more trantung">
+					<span class="read-more trantung">&gt;&gt; Tìm hiểu thêm</span>
 				</div>
 			</div>
 		</div> <!-- End Profile row -->
@@ -1094,7 +467,9 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 			<div class="row">
 				<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
 					<h4>Vài nét về giáo viên</h4>
-					<p>Chào các bạn! Khi đã đọc đến những dòng này thì chắc giữa chúng ta cũng đã có một ấn tượng nào đó. Profile bên trên khá là cơ bản, những điều mình chia sẻ sau đây giúp cho các bạn dễ dàng hơn khi quyết định chúng ta có gặp nhau và làm việc với nhau hay không nhé! Trong khoảng 2 năm, mình đã từng dạy khá là nhiều bạn học sinh. Các bạn đến với môn học, đến với nhạc cụ với nhiều lí do khác nhau, nhưng phần lớn đến từ sở thích cá nhân. Có những bạn thích và rất có năng khiếu, học khá nhanh và tiếp thu rất tốt. Đương nhiên các bạn ấy sẽ nhanh chóng chơi được nhạc cụ mình học và có thể tự đệm hát hay đệm đàn cho người khác hát. Những trường hợp khác, qua nhiều lần tiếp xúc mình cũng đã đưa ra được phương pháp hợp lý giúp các bạn cơ bản nắm được các quy tắc và hiểu một phần cách chơi nhạc cụ. Mình cũng đã soạn được giáo trình guitar cơ bản cho riêng việc giảng dạy của bản thân, và đang áp dụng nó trong khi dạy cho học sinh. Chỉ là cơ bản thôi nhé, chúng ta học từ cơ bản, mà đối với nhạc cụ đặc biệt là guitar thì phần cơ bản đã chiếm rất nhiều rồi. Tùy từng độ tuổi và năng khiếu mà hiệu quả học sẽ khác nhau. Trên hết còn do nỗ lực và sự chăm chỉ đến từ phía người học. Mình khá là cố chấp trong việc không công nhận học sinh lười học, và chân thành khuyên các bạn, trước khi học một thứ gì đó hãy xác định mình sẽ chăm chỉ, với những gì đòi hỏi năng khiếu thì sự chăm chỉ ấy phải gấp vài chục lần bình thường. Cũng không quá nặng nề như ôn thi đâu, nhưng chăm chỉ là cần thiết nhé. Thật ra nếu như bạn thích, và chăm chỉ thì đàn guitar hay các loại nhạc cụ cũng không quá thách thức với bất cứ ai. Mình tin là giờ học nhạc sẽ khác và thú vị hơn nhiều so với học văn hóa. Đặc biệt là với những bạn nhỏ tuổi thì học nhạc là cách khá hữu hiệu giúp các em bớt căng thẳng với việc học trên lớp. Mình nhận thấy các em bộc lộ khá nhiều, rất dễ thương, khác so với bình thường. Chúng ta sẽ làm việc trên tinh thần thoải mái nhất có thể. Mong rằng mình có thể là người đem đến nhiều điều thú vị, và cùng đồng hành với các bạn. Chúng ta đến với âm nhạc không phải để biểu diễn, để thể hiện điều gì to tát, âm nhạc là để mọi người vui vẻ và thể hiện cảm xúc dễ dàng hơn. Chúc các bạn thành công, và hẹn gặp lại!					</p>
+					<p>Xin chào các bạn!
+Mình là Trần Tùng năm nay 22 tuổi hiện đang là SV Năm 3 trường ĐH Sư Phạm Nghệ Thuật TƯ( NUAE) . Với nhiều kinh nghiệm tham gia nhiều chương trình nghệ thuật lớn nhỏ như : Khát Vọng Trẻ 8 . Hiến Dâng Cho Tổ quốc,… Cùng nhiều hoạt động khác liên quan đến âm nhạc cùng với đó là sự đào tạo bài bản về kỹ năng sư phạm tại trường NỦAE nên mình tham gia giảng dạy và gia sư piano , organ , từ cơ bản cho đến nâng cao ,đệm hát piano Tại nhiều trung tâm âm nhạc. Rất mong được cùng các bạn làm quen, học tập và phát triển với bộ môn piano nói riêng và các môn âm nhạc nói chung này.
+					</p>
 				</div>
 			</div>
 
@@ -1104,486 +479,14 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 				<div class="row">
 					<h4>Học vấn</h4>
 					<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">	
-						<p>Đang học hệ Đại học Đại học Sư phạm nghệ thuật Trung ương</p>
+						<p>Sinh viên năm 4 Đại học SƯ phạm nghệ thuật trung ương</p>
 					</div>
 					
 				</div>
 				<div class="row">
 					<h4>Video</h4>
 					<div class="col-xs-12 col-sm-12 col-md-11 col-lg-11 wrapper wrapper-iframe">
-						<iframe class="wrapper-item wrapper-video" src="https://www.youtube.com/embed/7_5-ZlF7pNQ" frameborder="0" allowfullscreen></iframe>
-					</div>
-				</div>	
-			</div> <!-- End left column -->
-			
-			<!-- Right column at md and lg -->
-			<div class="col-xs-12 col-sm-12 col-md-5 col-lg-5"> 
-				
-				<div class="row">
-					<div class="col-xs-7 col-sm-7 col-md-7 col-lg-7">
-						<h4>Phạm vi đi lại</h4>
-					</div>
-					<div class="col-xs-5 col-sm-5 col-md-5 col-lg-5 text-right">
-						<p>5km</p>
-					</div>
-				</div>
-				<div class="row">
-					<h4>Học phí</h4>
-					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
-						<p>Tại nhà</p>
-					</div>
-					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 text-right">
-						<p>220.000 đ/ 90 phút</p>
-					</div>
-					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
-						<p>Tại lớp</p>
-					</div>
-					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 text-right">
-						<p>220.000 đ/ 90 phút</p>
-					</div>
-				</div>
-				<div class="row">
-					<h4>Lịch giảng dạy của giáo viên</h4>
-					<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
-						<table class="table table-bordered">
-			<thead>
-			 <tr>
-				<th></th>
-				<th>T2</th>
-				<th>T3</th>
-				<th>T4</th>
-				<th>T5</th>
-				<th>T6</th>
-				<th>T7</th>
-				<th>CN</th>
-			 </tr>
-			</thead>
-			<tbody>
-			 <tr>
-				<th>Sáng</th>
-				<td></td>
-				<td class="busy"></td>
-				<td class="busy"></td>
-				<td></td>
-				<td></td>
-				<td class="busy"></td>
-				<td></td>
-			 </tr>
-			 <tr>
-				<th>Chiều</th>
-				<td class="busy"></td>
-				<td></td>
-				<td></td>
-				<td class="busy"></td>
-				<td class="busy"></td>
-				<td></td>
-				<td></td>
-			 </tr>
-			 <tr>
-				<th>Tối</th>
-				<td></td>
-				<td></td>
-				<td class="busy"></td>
-				<td></td>
-				<td></td>
-				<td class="busy"></td>
-				<td class="busy"></td>
-			 </tr>
-			</tbody>
-		 </table>
- 
- 
-					<span class="legend"></span> : Những buổi giáo viên có thể giảng dạy 	
-					</div>
-				</div>
-				<div class="row sign-up">
-					<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
-						<button class="btn btn-info btn-lg btn-sign-up center-block dang-ky-ngay" data-toggle="modal" data-target="#myModal" rel="doducnhan">Đăng ký ngay</button>
-					</div>
-				</div>
-			</div>
-		</div> <!-- End Profile detail -->
-	</div> <!-- End Profile box --> 
-	<!-- Profile row: Lê Kinh Anh-->
-	<!-- Profile box -->
-	<div class="container-fluid hgd-profile-box hanoi" data-price="250">
-		<div class="row hgd-profile ">
-			<div class="d-flex align-self-stretch profile-column">
-				<div class="col-xs-4 col-sm-3 col-md-2 col-lg-2 hgd-profile-info hgd-avatar">
-					<img class="img-circle img-responsive center-block hgd-profile-avatar" src="https://www.hocgiday.com/wp-content/uploads/2017/07/Kinh-Anh.jpg" alt="teacher">
-				</div>
-			</div>
-			<div class="d-flex align-self-stretch profile-column">
-				<div class="col-xs-4 col-sm-6 col-md-6 col-lg-6 hgd-profile-info ">
-				<h3 id="lekinhanh">Lê Kinh Anh</h3>
-				<p>Địa chỉ: Lý Nam Đế, quận Hoàn Kiếm</p>
-				</div>
-			</div>
-			<div class="d-flex align-self-stretch profile-column">
-				<div class="col-xs-4 col-sm-3 col-md-2 col-lg-2 hgd-profile-info ">
-					<h3 id="unit-price">Học phí</h3>
-					<p class="unit-price">250.000 đ/ 60 phút</p>
-					<h3 id="rating">Đánh Giá</h3>
-					<div class="rating-star-box">
-						<span><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i></span>
-						<span class="num-of-rates">12</span>
-					</div>
-				</div>
-			</div>
-			<div class="d-flex align-self-stretch profile-column">
-				<div class="col-xs-12 col-sm-12 col-md-2 col-lg-2 hgd-read-more lekinhanh">
-					<span class="read-more lekinhanh">&gt;&gt; Tìm hiểu thêm</span>
-				</div>
-			</div>
-		</div> <!-- End Profile row -->
-
-		<!-- Profile Detail -->
-		<div class="row hgd-profile-detail">
-			<div class="row">
-				<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
-					<p><span class="t-heading">Cấp độ giảng dạy</span></p>
-				</div>
-				<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 text-right">
-					<p>Cơ bản, Nâng cao</p>
-				</div>
-			</div>
-			<!-- Description -->
-			<div class="row">
-				<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
-					<h4>Vài nét về giáo viên</h4>
-					<p>Chào các bạn, mình là Lê Kinh Anh. Tâm sự chút, thì trước khi theo nhạc chuyên nghiệp, mình đã tốt nghiệp Đại Học Ngoại Thương. Nhưng mình đã lựa chọn âm nhạc là con đường mình sẽ đi. Với âm nhạc mình đã được tiếp xúc từ bé, tuy nhiên phải đến khi theo học S.O.R, mình mới thực sự nghiêm túc về âm nhạc và quyết tâm theo đuổi nó. Dòng nhạc yêu thích của mình phải kể đến là Metal. Metal đã đưa mình đến với âm nhạc. Tuy nhiên sau đó, mình có tìm hiểu và có thêm nhiều lựa chọn khác nữa, có thể kể tới là Jazz và Blue. Thần tượng thì có Eric Johnson, John Petrucci. Phương châm trong giảng dạy của mình thì :”Mình cho rằng đối với bất kể mục đích nào của học sinh thì đều cần có thái độ nghiêm túc đối với việc học. Mình nghĩ chỉ cần kiên trì và chăm chỉ là 2 yếu tố quan trọng sẽ gắn với phương pháp giảng dạy của mình”.Về các hoạt động thì mình đã tham gia 3 show của S.O.R và hiện đang biểu diễn tại bar +84, buctuong 1995 story,... và nhiều sự kiện lớn nhỏ khác.					</p>
-				</div>
-			</div>
-
-			<!-- End description -->
-			<!-- Left column at md and lg -->
-			<div class="col-xs-12 col-sm-12 col-md-7 col-lg-7"> 
-				<div class="row">
-					<h4>Học vấn</h4>
-					<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">	
-						<p>Đang học hệ Trung Cấp Đại học văn hóa nghệ thuật quân đội</p>
-					</div>
-					
-				</div>
-				<div class="row">
-					<h4>Video</h4>
-					<div class="col-xs-12 col-sm-12 col-md-11 col-lg-11 wrapper wrapper-iframe">
-						<iframe class="wrapper-item wrapper-video" src="https://www.youtube.com/embed/B_tXNg6BfUE" frameborder="0" allowfullscreen></iframe>
-					</div>
-				</div>	
-			</div> <!-- End left column -->
-			
-			<!-- Right column at md and lg -->
-			<div class="col-xs-12 col-sm-12 col-md-5 col-lg-5"> 
-				
-				<div class="row">
-					<div class="col-xs-7 col-sm-7 col-md-7 col-lg-7">
-						<h4>Phạm vi đi lại</h4>
-					</div>
-					<div class="col-xs-5 col-sm-5 col-md-5 col-lg-5 text-right">
-						<p>5km</p>
-					</div>
-				</div>
-				<div class="row">
-					<h4>Học phí</h4>
-					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
-						<p>Tại nhà</p>
-					</div>
-					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 text-right">
-						<p>250.000 đ/ 60 phút</p>
-					</div>
-					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
-						<p>Tại lớp</p>
-					</div>
-					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 text-right">
-						<p>200.000 đ/ 60 phút</p>
-					</div>
-				</div>
-				<div class="row">
-					<h4>Lịch giảng dạy của giáo viên</h4>
-					<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
-						<table class="table table-bordered">
-			<thead>
-			 <tr>
-				<th></th>
-				<th>T2</th>
-				<th>T3</th>
-				<th>T4</th>
-				<th>T5</th>
-				<th>T6</th>
-				<th>T7</th>
-				<th>CN</th>
-			 </tr>
-			</thead>
-			<tbody>
-			 <tr>
-				<th>Sáng</th>
-				<td></td>
-				<td></td>
-				<td></td>
-				<td></td>
-				<td></td>
-				<td class="busy"></td>
-				<td class="busy"></td>
-			 </tr>
-			 <tr>
-				<th>Chiều</th>
-				<td></td>
-				<td></td>
-				<td></td>
-				<td></td>
-				<td></td>
-				<td class="busy"></td>
-				<td class="busy"></td>
-			 </tr>
-			 <tr>
-				<th>Tối</th>
-				<td></td>
-				<td></td>
-				<td></td>
-				<td></td>
-				<td></td>
-				<td></td>
-				<td></td>
-			 </tr>
-			</tbody>
-		 </table>
- 
- 
- 
-					<span class="legend"></span> : Những buổi giáo viên có thể giảng dạy 	
-					</div>
-				</div>
-				<div class="row sign-up">
-					<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
-						<button class="btn btn-info btn-lg btn-sign-up center-block dang-ky-ngay" data-toggle="modal" data-target="#myModal" rel="lekinhanh">Đăng ký ngay</button>
-					</div>
-				</div>
-			</div>
-		</div> <!-- End Profile detail -->
-	</div> <!-- End Profile box --> 
-	<!-- Profile row: Nguyễn Anh Đức-->
-	<!-- Profile box -->
-	<div class="container-fluid hgd-profile-box hanoi" data-price="250">
-		<div class="row hgd-profile ">
-			<div class="d-flex align-self-stretch profile-column">
-				<div class="col-xs-4 col-sm-3 col-md-2 col-lg-2 hgd-profile-info hgd-avatar">
-					<img class="img-circle img-responsive center-block hgd-profile-avatar" src="https://www.hocgiday.com/wp-content/uploads/2017/07/Anh-Duc.jpg" alt="teacher">
-				</div>
-			</div>
-			<div class="d-flex align-self-stretch profile-column">
-				<div class="col-xs-4 col-sm-6 col-md-6 col-lg-6 hgd-profile-info ">
-				<h3 id="nguyenanhduc">Nguyễn Anh Đức</h3>
-				<p>Địa chỉ: Hồ Văn Quán, quận Hà Đông</p>
-				</div>
-			</div>
-			<div class="d-flex align-self-stretch profile-column">
-				<div class="col-xs-4 col-sm-3 col-md-2 col-lg-2 hgd-profile-info ">
-					<h3 id="unit-price">Học phí</h3>
-					<p class="unit-price">250.000 đ/ 90 phút</p>
-					<h3 id="rating">Đánh Giá</h3>
-					<div class="rating-star-box">
-						<span><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star-o" aria-hidden="true"></i></span>
-						<span class="num-of-rates">5</span>
-					</div>
-				</div>
-			</div>
-			<div class="d-flex align-self-stretch profile-column">
-				<div class="col-xs-12 col-sm-12 col-md-2 col-lg-2 hgd-read-more nguyenanhduc">
-					<span class="read-more nguyenanhduc">&gt;&gt; Tìm hiểu thêm</span>
-				</div>
-			</div>
-		</div> <!-- End Profile row -->
-
-		<!-- Profile Detail -->
-		<div class="row hgd-profile-detail">
-			<div class="row">
-				<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
-					<p><span class="t-heading">Cấp độ giảng dạy</span></p>
-				</div>
-				<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 text-right">
-					<p>Cơ bản, Nâng cao</p>
-				</div>
-			</div>
-			<!-- Description -->
-			<div class="row">
-				<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
-					<h4>Vài nét về giáo viên</h4>
-					<p>					</p>
-				</div>
-			</div>
-
-			<!-- End description -->
-			<!-- Left column at md and lg -->
-			<div class="col-xs-12 col-sm-12 col-md-7 col-lg-7"> 
-				<div class="row">
-					<h4>Học vấn</h4>
-					<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">	
-						<p></p>
-					</div>
-					
-				</div>
-				<div class="row">
-					<h4>Video</h4>
-					<div class="col-xs-12 col-sm-12 col-md-11 col-lg-11 wrapper wrapper-iframe">
-						<iframe class="wrapper-item wrapper-video" src="https://www.youtube.com/embed/rlkLt-I1YJg" frameborder="0" allowfullscreen></iframe>
-					</div>
-				</div>	
-			</div> <!-- End left column -->
-			
-			<!-- Right column at md and lg -->
-			<div class="col-xs-12 col-sm-12 col-md-5 col-lg-5"> 
-				
-				<div class="row">
-					<div class="col-xs-7 col-sm-7 col-md-7 col-lg-7">
-						<h4>Phạm vi đi lại</h4>
-					</div>
-					<div class="col-xs-5 col-sm-5 col-md-5 col-lg-5 text-right">
-						<p>10km</p>
-					</div>
-				</div>
-				<div class="row">
-					<h4>Học phí</h4>
-					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
-						<p>Tại nhà</p>
-					</div>
-					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 text-right">
-						<p>250.000 đ/ 90 phút</p>
-					</div>
-					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
-						<p>Tại lớp</p>
-					</div>
-					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 text-right">
-						<p>200.000 đ/ 90 phút</p>
-					</div>
-				</div>
-				<div class="row">
-					<h4>Lịch giảng dạy của giáo viên</h4>
-					<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
-						<table class="table table-bordered">
-			<thead>
-			 <tr>
-				<th></th>
-				<th>T2</th>
-				<th>T3</th>
-				<th>T4</th>
-				<th>T5</th>
-				<th>T6</th>
-				<th>T7</th>
-				<th>CN</th>
-			 </tr>
-			</thead>
-			<tbody>
-			 <tr>
-				<th>Sáng</th>
-				<td></td>
-				<td></td>
-				<td></td>
-				<td></td>
-				<td></td>
-				<td></td>
-				<td class="busy"></td>
-			 </tr>
-			 <tr>
-				<th>Chiều</th>
-				<td class="busy"></td>
-				<td></td>
-				<td></td>
-				<td></td>
-				<td class="busy"></td>
-				<td></td>
-				<td class="busy"></td>
-			 </tr>
-			 <tr>
-				<th>Tối</th>
-				<td class="busy"></td>
-				<td class="busy"></td>
-				<td class="busy"></td>
-				<td class="busy"></td>
-				<td class="busy"></td>
-				<td></td>
-				<td class="busy"></td>
-			 </tr>
-			</tbody>
-		 </table>
- 
- 
-					<span class="legend"></span> : Những buổi giáo viên có thể giảng dạy 	
-					</div>
-				</div>
-				<div class="row sign-up">
-					<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
-						<button class="btn btn-info btn-lg btn-sign-up center-block dang-ky-ngay" data-toggle="modal" data-target="#myModal" rel="nguyenanhduc">Đăng ký ngay</button>
-					</div>
-				</div>
-			</div>
-		</div> <!-- End Profile detail -->
-	</div> <!-- End Profile box --> 
-	<!-- Profile row: Nguyễn Hải Đức-->
-	<!-- Profile box -->
-	<div class="container-fluid hgd-profile-box hanoi" data-price="250">
-		<div class="row hgd-profile ">
-			<div class="d-flex align-self-stretch profile-column">
-				<div class="col-xs-4 col-sm-3 col-md-2 col-lg-2 hgd-profile-info hgd-avatar">
-					<img class="img-circle img-responsive center-block hgd-profile-avatar" src="https://www.hocgiday.com/wp-content/uploads/2017/07/Hai-Duc.jpg" alt="teacher">
-				</div>
-			</div>
-			<div class="d-flex align-self-stretch profile-column">
-				<div class="col-xs-4 col-sm-6 col-md-6 col-lg-6 hgd-profile-info ">
-				<h3 id="nguyenhaiduc">Nguyễn Hải Đức</h3>
-				<p>Địa chỉ: Xuân Thủy, quận Cầu Giấy</p>
-				</div>
-			</div>
-			<div class="d-flex align-self-stretch profile-column">
-				<div class="col-xs-4 col-sm-3 col-md-2 col-lg-2 hgd-profile-info ">
-					<h3 id="unit-price">Học phí</h3>
-					<p class="unit-price">250.000 đ/ 60 phút</p>
-					<h3 id="rating">Đánh Giá</h3>
-					<div class="rating-star-box">
-						<span><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star-o" aria-hidden="true"></i></span>
-						<span class="num-of-rates">9</span>
-					</div>
-				</div>
-			</div>
-			<div class="d-flex align-self-stretch profile-column">
-				<div class="col-xs-12 col-sm-12 col-md-2 col-lg-2 hgd-read-more nguyenhaiduc">
-					<span class="read-more nguyenhaiduc">&gt;&gt; Tìm hiểu thêm</span>
-				</div>
-			</div>
-		</div> <!-- End Profile row -->
-
-		<!-- Profile Detail -->
-		<div class="row hgd-profile-detail">
-			<div class="row">
-				<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
-					<p><span class="t-heading">Cấp độ giảng dạy</span></p>
-				</div>
-				<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 text-right">
-					<p>Cơ bản, Nâng cao</p>
-				</div>
-			</div>
-			<!-- Description -->
-			<div class="row">
-				<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
-					<h4>Vài nét về giáo viên</h4>
-					<p>					</p>
-				</div>
-			</div>
-
-			<!-- End description -->
-			<!-- Left column at md and lg -->
-			<div class="col-xs-12 col-sm-12 col-md-7 col-lg-7"> 
-				<div class="row">
-					<h4>Học vấn</h4>
-					<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">	
-						<p>Đang học hệ Trung Cấp Đại học văn hóa nghệ thuật quân đội</p>
-					</div>
-					
-				</div>
-				<div class="row">
-					<h4>Video</h4>
-					<div class="col-xs-12 col-sm-12 col-md-11 col-lg-11 wrapper wrapper-iframe">
-						<iframe class="wrapper-item wrapper-video" src="https://www.youtube.com/embed/uDJ5UyUOiXQ" frameborder="0" allowfullscreen></iframe>
+						<iframe class="wrapper-item wrapper-video" src="https://www.youtube.com/embed/HMy1JV9ecp8" frameborder="0" allowfullscreen></iframe>
 					</div>
 				</div>	
 			</div> <!-- End left column -->
@@ -1605,13 +508,13 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 						<p>Tại nhà</p>
 					</div>
 					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 text-right">
-						<p>250.000 đ/ 60 phút</p>
+						<p>250.000 VNĐ/h</p>
 					</div>
 					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
 						<p>Tại lớp</p>
 					</div>
 					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 text-right">
-						<p>200.000 đ/ 60 phút</p>
+						<p>200.000 VNĐ/h</p>
 					</div>
 				</div>
 				<div class="row">
@@ -1637,64 +540,63 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 				<td class="busy"></td>
 				<td class="busy"></td>
 				<td class="busy"></td>
+				<td></td>
 				<td class="busy"></td>
-				<td></td>
-				<td></td>
+				<td class="busy"></td>
 			 </tr>
 			 <tr>
 				<th>Chiều</th>
-				<td></td>
 				<td class="busy"></td>
 				<td class="busy"></td>
-				<td></td>
 				<td class="busy"></td>
-				<td></td>
-				<td></td>
+				<td class="busy"></td>
+				<td class="busy"></td>
+				<td class="busy"></td>
+				<td class="busy"></td>
 			 </tr>
 			 <tr>
 				<th>Tối</th>
 				<td></td>
 				<td></td>
 				<td></td>
+				<td class="busy"></td>
 				<td></td>
-				<td></td>
-				<td></td>
+				<td class="busy"></td>
 				<td></td>
 			 </tr>
 			</tbody>
-		 </table>
- 
+		 </table> 
  
 					<span class="legend"></span> : Những buổi giáo viên có thể giảng dạy 	
 					</div>
 				</div>
 				<div class="row sign-up">
 					<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
-						<button class="btn btn-info btn-lg btn-sign-up center-block dang-ky-ngay" data-toggle="modal" data-target="#myModal" rel="nguyenhaiduc">Đăng ký ngay</button>
+						<button class="btn btn-info btn-lg btn-sign-up center-block dang-ky-ngay" data-toggle="modal" data-target="#myModal" rel="trantung">Đăng ký ngay</button>
 					</div>
 				</div>
 			</div>
 		</div> <!-- End Profile detail -->
 	</div> <!-- End Profile box --> 
-	<!-- Profile row: Vũ Anh-->
+	<!-- Profile row: Nguyễn Đức Thành-->
 	<!-- Profile box -->
-	<div class="container-fluid hgd-profile-box hanoi" data-price="250">
+	<div class="container-fluid hgd-profile-box hanoi" data-price="180">
 		<div class="row hgd-profile ">
 			<div class="d-flex align-self-stretch profile-column">
 				<div class="col-xs-4 col-sm-3 col-md-2 col-lg-2 hgd-profile-info hgd-avatar">
-					<img class="img-circle img-responsive center-block hgd-profile-avatar" src="https://www.hocgiday.com/wp-content/uploads/2017/07/Vu-Anh.jpg" alt="teacher">
+					<img class="img-circle img-responsive center-block hgd-profile-avatar" src="https://www.hocgiday.com/wp-content/uploads/2017/07/Duc-Thanh-2.jpg" alt="teacher">
 				</div>
 			</div>
 			<div class="d-flex align-self-stretch profile-column">
 				<div class="col-xs-4 col-sm-6 col-md-6 col-lg-6 hgd-profile-info ">
-				<h3 id="vuanh">Vũ Anh</h3>
-				<p>Địa chỉ: Thạch Bàn, quận Long Biên</p>
+				<h3 id="nguyenducthanh">Nguyễn Đức Thành</h3>
+				<p>Địa chỉ: Triều Khúc, Thanh Xuân, Hà Nội</p>
 				</div>
 			</div>
 			<div class="d-flex align-self-stretch profile-column">
 				<div class="col-xs-4 col-sm-3 col-md-2 col-lg-2 hgd-profile-info ">
 					<h3 id="unit-price">Học phí</h3>
-					<p class="unit-price">250.000 đ/ 90 phút</p>
+					<p class="unit-price">180.000 VNĐ/h</p>
 					<h3 id="rating">Đánh Giá</h3>
 					<div class="rating-star-box">
 						<span><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star-o" aria-hidden="true"></i></span>
@@ -1703,8 +605,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 				</div>
 			</div>
 			<div class="d-flex align-self-stretch profile-column">
-				<div class="col-xs-12 col-sm-12 col-md-2 col-lg-2 hgd-read-more vuanh">
-					<span class="read-more vuanh">&gt;&gt; Tìm hiểu thêm</span>
+				<div class="col-xs-12 col-sm-12 col-md-2 col-lg-2 hgd-read-more nguyenducthanh">
+					<span class="read-more nguyenducthanh">&gt;&gt; Tìm hiểu thêm</span>
 				</div>
 			</div>
 		</div> <!-- End Profile row -->
@@ -1723,9 +625,11 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 			<div class="row">
 				<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
 					<h4>Vài nét về giáo viên</h4>
-					<p>Xin chào! Tôi là Vũ Anh, nhưng bạn bè tôi thường gọi tôi là Vũ, nên các bạn cũng gọi tôi như vậy cho thoải mái nhé. Trước đây tôi có theo học cả Đại học Văn hóa Hà Nội và Đại học Sư phạm Nghệ thuật Trung ương, tuy nhiên cả 2 trường đều không đem lại cho tôi những cảm hứng tôi mong muốn khi chơi guitar. Chỉ đến khi thực sự tiếp xúc với môi trường âm nhạc chuyên nghiệp của Học viện âm nhạc Quốc gia, tôi mới cảm thấy niềm hứng khởi âm nhạc lớn đến vậy. Và quá trình lựa chọn các cơ sở theo học của tôi cũng kết thúc từ đó, khi tôi chỉ học nhạc tại Học viện Âm nhạc quốc gia. Có lẽ tôi tìm ra được con đường của mình lâu hơn người khác.
-Cũng chính vì tôi đã mất nhiều thời gian như vậy để tìm ra được âm thanh đúng nhất, tôi có thể rút ngắn quá trình của bạn để xác định được tiếng đàn của mình. Âm hanh chính là âm nhạc tự nhiên nhất trong cuộc sống, và bạn sẽ chỉ yêu âm nhạc khi bạn yêu từng âm thanh của cuộc sống quanh mình. Có thể là tiếng rao của người đi rong, tiếng lách cách của ly cafe buổi sớm,  hay tiếng lộp bộp mưa rơi trên mái hiên một chiều hè. Bạn sẽ được học theo từng bước cơ bản nhất, và bắt đầu khởi nguồn từ những điều tự nhiên nhất như vậy đó.
-Tôi tin rằng xây dựng nền tảng lý thuyết cáng vững chắc thì người ta càng có thể tiến xa trên con đường âm nhạc. Vì vậy tôi sẽ đào tạo các bạn sâu về cơ bản trong âm thanh và âm nhạc, và từ đó bạn có thể tự tìm ra con đường phù hợp với mình chứ không phải theo khuôn phép nào cả. Tuy nhiên tôi cũng có thể tùy chỉnh đewẻ phù hợp với ntuwnfg người, và điều chỉnh đểviệc học đàn đúng với nhu cầu của bạn nhất, bằng việc giảm độ sâu trong lý thuyết cơ bản của bạn đi.					</p>
+					<p>Mình tên là Nguyễn Đức Thành, sinh năm 1996, hiện đang là sinh viên năm 3 trường ĐH Sư phạm nghệ thuật Trung ương. Mình có thể dạy 2 môn là Thanh nhạc và Piano.
+Thần tượng yêu thích của mình là Bằng Kiều.Mình đã tiếp xúc âm nhạc chính quy được 4 năm. Dù đang học và theo dòng nhạc chính thống nhưng mình rất yêu thích dòng nhạc thứ hai là nhạc nhẹ, trữ tình.
+Về hoạt động nghệ thuật: Mình đã đạt giải ba dòng nhạc nhẹ tiếng hát sông Thương năm 2017 và đang lọt vào chung khảo liên hoan tiếng hát truyền hình Bắc Ninh 2017.
+Rất hi vọng sẽ được làm việc với nhiều học sinh tại Học Gì Đây?
+					</p>
 				</div>
 			</div>
 
@@ -1735,14 +639,14 @@ Tôi tin rằng xây dựng nền tảng lý thuyết cáng vững chắc thì n
 				<div class="row">
 					<h4>Học vấn</h4>
 					<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">	
-						<p>Đang học hệ Trung cấp Học viện âm nhạc quốc gia</p>
+						<p>Sinh viên năm 3 Đại học Sư phạm nghệ thuật trung ương</p>
 					</div>
 					
 				</div>
 				<div class="row">
 					<h4>Video</h4>
 					<div class="col-xs-12 col-sm-12 col-md-11 col-lg-11 wrapper wrapper-iframe">
-						<iframe class="wrapper-item wrapper-video" src="https://www.youtube.com/embed/-EO-pXkv8w0" frameborder="0" allowfullscreen></iframe>
+						<iframe class="wrapper-item wrapper-video" src="https://www.youtube.com/embed/yFPGkkPcP4U" frameborder="0" allowfullscreen></iframe>
 					</div>
 				</div>	
 			</div> <!-- End left column -->
@@ -1764,13 +668,13 @@ Tôi tin rằng xây dựng nền tảng lý thuyết cáng vững chắc thì n
 						<p>Tại nhà</p>
 					</div>
 					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 text-right">
-						<p>250.000 đ/ 90 phút</p>
+						<p>180.000 VNĐ/h</p>
 					</div>
 					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
 						<p>Tại lớp</p>
 					</div>
 					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 text-right">
-						<p>200.000 đ/ 90 phút</p>
+						<p>150.000 VNĐ/h</p>
 					</div>
 				</div>
 				<div class="row">
@@ -1792,78 +696,78 @@ Tôi tin rằng xây dựng nền tảng lý thuyết cáng vững chắc thì n
 			<tbody>
 			 <tr>
 				<th>Sáng</th>
-				<td></td>
-				<td></td>
-				<td></td>
 				<td class="busy"></td>
 				<td class="busy"></td>
 				<td class="busy"></td>
-				<td></td>
+				<td class="busy"></td>
+				<td class="busy"></td>
+				<td class="busy"></td>
+				<td class="busy"></td>
 			 </tr>
 			 <tr>
 				<th>Chiều</th>
 				<td class="busy"></td>
-				<td></td>
-				<td></td>
-				<td></td>
 				<td class="busy"></td>
 				<td class="busy"></td>
-				<td></td>
+				<td class="busy"></td>
+				<td class="busy"></td>
+				<td class="busy"></td>
+				<td class="busy"></td>
 			 </tr>
 			 <tr>
 				<th>Tối</th>
-				<td></td>
-				<td></td>
-				<td></td>
-				<td></td>
-				<td></td>
-				<td></td>
-				<td></td>
+				<td class="busy"></td>
+				<td class="busy"></td>
+				<td class="busy"></td>
+				<td class="busy"></td>
+				<td class="busy"></td>
+				<td class="busy"></td>
+				<td class="busy"></td>
 			 </tr>
 			</tbody>
 		 </table>
- 
+	
  
 					<span class="legend"></span> : Những buổi giáo viên có thể giảng dạy 	
 					</div>
 				</div>
 				<div class="row sign-up">
 					<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
-						<button class="btn btn-info btn-lg btn-sign-up center-block dang-ky-ngay" data-toggle="modal" data-target="#myModal" rel="vuanh">Đăng ký ngay</button>
+						<button class="btn btn-info btn-lg btn-sign-up center-block dang-ky-ngay" data-toggle="modal" data-target="#myModal" rel="nguyenducthanh">Đăng ký ngay</button>
 					</div>
 				</div>
 			</div>
 		</div> <!-- End Profile detail -->
 	</div> <!-- End Profile box --> 
-	<!-- Profile row: Lâm Hải Đăng-->
+	<!-- Profile row: Đinh Thị Kim Anh-->
 	<!-- Profile box -->
 	<div class="container-fluid hgd-profile-box hanoi" data-price="250">
 		<div class="row hgd-profile ">
 			<div class="d-flex align-self-stretch profile-column">
 				<div class="col-xs-4 col-sm-3 col-md-2 col-lg-2 hgd-profile-info hgd-avatar">
-					<img class="img-circle img-responsive center-block hgd-profile-avatar" src="https://www.hocgiday.com/wp-content/uploads/2017/07/Hai-Dang.jpg" alt="teacher">
+					<img class="img-circle img-responsive center-block hgd-profile-avatar" src="https://www.hocgiday.com/wp-content/uploads/2017/07/Kim-Anh-2.jpg" alt="teacher">
 				</div>
 			</div>
 			<div class="d-flex align-self-stretch profile-column">
 				<div class="col-xs-4 col-sm-6 col-md-6 col-lg-6 hgd-profile-info ">
-				<h3 id="lamhaidang">Lâm Hải Đăng</h3>
-				<p>Địa chỉ: Đức Giang, quận Long Biên</p>
+				<h3 id="dinhthikimanh">Đinh Thị Kim Anh</h3>
+				<p>Địa chỉ: Tây Sơn, Đống Đa, thành phố Hà Nội</p>
 				</div>
 			</div>
 			<div class="d-flex align-self-stretch profile-column">
 				<div class="col-xs-4 col-sm-3 col-md-2 col-lg-2 hgd-profile-info ">
 					<h3 id="unit-price">Học phí</h3>
-					<p class="unit-price">250.000 đ/ 75 phút</p>
+					<p class="unit-price">250.000 VNĐ/h</p>
 					<h3 id="rating">Đánh Giá</h3>
 					<div class="rating-star-box">
-						<span><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star-o" aria-hidden="true"></i></span>
-						<span class="num-of-rates">6</span>
+						<span><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i></span>
+						<span class="num-of-rates">2</span>
 					</div>
 				</div>
 			</div>
 			<div class="d-flex align-self-stretch profile-column">
-				<div class="col-xs-12 col-sm-12 col-md-2 col-lg-2 hgd-read-more lamhaidang">
-					<span class="read-more lamhaidang">&gt;&gt; Tìm hiểu thêm</span>
+				<div class="col-xs-12 col-sm-12 col-md-2 col-lg-2 hgd-read-more dinhthikimanh">
+					<span class="read-more dinhthikimanh">&gt;&gt; Tìm hiểu thêm</span>
 				</div>
 			</div>
 		</div> <!-- End Profile row -->
@@ -1875,14 +779,18 @@ Tôi tin rằng xây dựng nền tảng lý thuyết cáng vững chắc thì n
 					<p><span class="t-heading">Cấp độ giảng dạy</span></p>
 				</div>
 				<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 text-right">
-					<p>Cơ bản</p>
+					<p>Cơ bản - Nâng cao</p>
 				</div>
 			</div>
 			<!-- Description -->
 			<div class="row">
 				<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
 					<h4>Vài nét về giáo viên</h4>
-					<p>					</p>
+					<p>Chào tất cả mọi người! Mình là Kim Anh, rất vui được gặp gỡ mọi người trên Website Hocgiday.com. Có lẽ là điều khiến mình gần gũi mọi người hơn chính là qua con đường âm nhạc. Rất vui được chia sẻ với mọi người là mình rất yêu bộ môn Piano - Piano giúp cho mình cảm nhận được ý nghĩa cuộc sống. Những lúc buồn có thể đánh lên những giai điệu rất nhẹ nhàng, hoặc lúc vui thì cây đàn cũng chia sẻ được những nhộn nhịp và thoải mái trong cuộc sống hơn. Hay những lúc cảm thấy bâng khuâng, nhớ nhung một ai đó, những giai điệu của bài Thư gửi Elise - Beethoven lại được cất lên trong căn phòng nhỏ của mình
+Thần tượng âm nhạc của mình là Richard Clayderman, đây là tác giả mình nghe rất nhiều trong ngày, trước khi đi ngủ hoặc mỗi sáng thức dậy. Nó giúp cho tinh thần của mình phấn chấn hơn và làm việc hiệu quả hơn. Điều hạnh phúc lớn nhất trên con đường giảng dạy âm nhạc của mình chính là truyền đạt được trọn vẹn những gì mình cảm nhận được cho học sinh, giúp học sinh khám phá được thêm một tầng cảm xúc mới trong các tác phẩm kinh điển.
+Trong mỗi một giờ học, học sinh sẽ được học trong một không khí vui vẻ thoải mái, giống như một buổi chia sẻ, bày tỏ cảm xúc giữa mình và học sinh. Đặc biệt là mình rất yêu thích các bạn nhỏ, vì các bạn như một tờ giấy trắng. Có những bạn hơi khó gần, có những bạn lại ít nói ít cười, hay ngại ngùng, nhưng sau khi qua một số buổi học, bằng nụ cười của những bản thân mình, nhưng hơn cả là nụ cười của âm nhạc đã giúp các bạn đó cởi mở hơn với mọi người xung quanh.
+Mặc dù mình đang học ngành Sư Phạm âm nhạc, nhà trường dạy mình cách làm một cô giáo, nhưng mình nghĩ rằng, nếu chỉ cầm sách và đến trường thôi thì sẽ không hoàn thiện được người giáo viên bên trong mình. Mà chính các bạn sẽ là người dạy mình cách để trở thành một người giáo viên hoàn thiện nhất. Vì vậy hãy cho mình cơ hội giúp bạn khám phá một thế giới âm nhạc, mới lạ, nhẹ nhàng và nhiều điều thú vị nhé!
+					</p>
 				</div>
 			</div>
 
@@ -1892,14 +800,14 @@ Tôi tin rằng xây dựng nền tảng lý thuyết cáng vững chắc thì n
 				<div class="row">
 					<h4>Học vấn</h4>
 					<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">	
-						<p>Đang học hệ Đại học Học viện âm nhạc quốc gia</p>
+						<p>Sinh viên năm 4 Đại học sư phạm nghệ thuật trung ương năm 2015</p>
 					</div>
 					
 				</div>
 				<div class="row">
 					<h4>Video</h4>
 					<div class="col-xs-12 col-sm-12 col-md-11 col-lg-11 wrapper wrapper-iframe">
-						<iframe class="wrapper-item wrapper-video" src="https://www.youtube.com/embed/WTbslVcfxz0" frameborder="0" allowfullscreen></iframe>
+						<iframe class="wrapper-item wrapper-video" src="https://www.youtube.com/embed/30LhkFO_aDU" frameborder="0" allowfullscreen></iframe>
 					</div>
 				</div>	
 			</div> <!-- End left column -->
@@ -1921,170 +829,13 @@ Tôi tin rằng xây dựng nền tảng lý thuyết cáng vững chắc thì n
 						<p>Tại nhà</p>
 					</div>
 					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 text-right">
-						<p>250.000 đ/ 75 phút</p>
+						<p>250.000 VNĐ/h</p>
 					</div>
 					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
 						<p>Tại lớp</p>
 					</div>
 					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 text-right">
-						<p>150.000 đ/ 75 phút</p>
-					</div>
-				</div>
-				<div class="row">
-					<h4>Lịch giảng dạy của giáo viên</h4>
-					<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
-						<table class="table table-bordered">
-			<thead>
-			 <tr>
-				<th></th>
-				<th>T2</th>
-				<th>T3</th>
-				<th>T4</th>
-				<th>T5</th>
-				<th>T6</th>
-				<th>T7</th>
-				<th>CN</th>
-			 </tr>
-			</thead>
-			<tbody>
-			 <tr>
-				<th>Sáng</th>
-				<td></td>
-				<td class="busy"></td>
-				<td></td>
-				<td class="busy"></td>
-				<td class="busy"></td>
-				<td></td>
-				<td></td>
-			 </tr>
-			 <tr>
-				<th>Chiều</th>
-				<td></td>
-				<td class="busy"></td>
-				<td></td>
-				<td class="busy"></td>
-				<td class="busy"></td>
-				<td></td>
-				<td></td>
-			 </tr>
-			 <tr>
-				<th>Tối</th>
-				<td></td>
-				<td></td>
-				<td></td>
-				<td class="busy"></td>
-				<td class="busy"></td>
-				<td class="busy"></td>
-				<td></td>
-			 </tr>
-			</tbody>
-		 </table>
- 
- 
-					<span class="legend"></span> : Những buổi giáo viên có thể giảng dạy 	
-					</div>
-				</div>
-				<div class="row sign-up">
-					<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
-						<button class="btn btn-info btn-lg btn-sign-up center-block dang-ky-ngay" data-toggle="modal" data-target="#myModal" rel="lamhaidang">Đăng ký ngay</button>
-					</div>
-				</div>
-			</div>
-		</div> <!-- End Profile detail -->
-	</div> <!-- End Profile box --> 
-	<!-- Profile row: Phạm Huy Tùng-->
-	<!-- Profile box -->
-	<div class="container-fluid hgd-profile-box hanoi" data-price="250">
-		<div class="row hgd-profile ">
-			<div class="d-flex align-self-stretch profile-column">
-				<div class="col-xs-4 col-sm-3 col-md-2 col-lg-2 hgd-profile-info hgd-avatar">
-					<img class="img-circle img-responsive center-block hgd-profile-avatar" src="https://www.hocgiday.com/wp-content/uploads/ultimatemember/63/profile_photo-190.jpg" alt="teacher">
-				</div>
-			</div>
-			<div class="d-flex align-self-stretch profile-column">
-				<div class="col-xs-4 col-sm-6 col-md-6 col-lg-6 hgd-profile-info ">
-				<h3 id="phamhuytung">Phạm Huy Tùng</h3>
-				<p>Địa chỉ: Thanh Xuân, quận Long Biên</p>
-				</div>
-			</div>
-			<div class="d-flex align-self-stretch profile-column">
-				<div class="col-xs-4 col-sm-3 col-md-2 col-lg-2 hgd-profile-info ">
-					<h3 id="unit-price">Học phí</h3>
-					<p class="unit-price">250.000 đ/ 90 phút</p>
-					<h3 id="rating">Đánh Giá</h3>
-					<div class="rating-star-box">
-						<span><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i></span>
-						<span class="num-of-rates">7</span>
-					</div>
-				</div>
-			</div>
-			<div class="d-flex align-self-stretch profile-column">
-				<div class="col-xs-12 col-sm-12 col-md-2 col-lg-2 hgd-read-more phamhuytung">
-					<span class="read-more phamhuytung">&gt;&gt; Tìm hiểu thêm</span>
-				</div>
-			</div>
-		</div> <!-- End Profile row -->
-
-		<!-- Profile Detail -->
-		<div class="row hgd-profile-detail">
-			<div class="row">
-				<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
-					<p><span class="t-heading">Cấp độ giảng dạy</span></p>
-				</div>
-				<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 text-right">
-					<p>Cơ bản</p>
-				</div>
-			</div>
-			<!-- Description -->
-			<div class="row">
-				<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
-					<h4>Vài nét về giáo viên</h4>
-					<p>Xin chào các bạn ! Mình là Tùng ! Guitar là một nhạc cụ rất đặc biệt, với những kĩ thuật độc đáo, một cây đàn Guitar có thể tạo ra rất nhiều màu sắc, nhiều giai điệu. Cộng với sự nhỏ gọn, có thể mang đi mọi phương, Guitar đang dần được phổ biến trong xã hội Việt Nam, như một công cụ hữu ích cho mọi lứa tuổi, nhất là các bạn trẻ, giao lưu, học hỏi và thỏa mãn đam mê.Với vốn kiến thức tích cóp từ những lần "thực chiến", mình sẽ giúp các bạn có thể đạt được mục tiêu của mình khi chơi guitar một cách sớm nhất, cho dù bạn muốn chơi thể loại gì : Fingerstyle, Đệm hát,..Mình không muốn làm thầy của bạn, mình chỉ muốn giúp bạn tìm được hướng đi cho mình khi làm quen với chiếc đàn Guitar quen thuộc, bắt đầu từ những bài học căn bản nhất, những kĩ thuật căn bản nhất. Độ khó sẽ dần tăng lên, cũng như bạn sẽ thấy được thành quả của mình xuất hiện một cách đều đặn hơn. Mong sớm được gặp các bạn !					</p>
-				</div>
-			</div>
-
-			<!-- End description -->
-			<!-- Left column at md and lg -->
-			<div class="col-xs-12 col-sm-12 col-md-7 col-lg-7"> 
-				<div class="row">
-					<h4>Học vấn</h4>
-					<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">	
-						<p></p>
-					</div>
-					
-				</div>
-				<div class="row">
-					<h4>Video</h4>
-					<div class="col-xs-12 col-sm-12 col-md-11 col-lg-11 wrapper wrapper-iframe">
-						<iframe class="wrapper-item wrapper-video" src="https://www.youtube.com/embed/FHljVW1os4E" frameborder="0" allowfullscreen></iframe>
-					</div>
-				</div>	
-			</div> <!-- End left column -->
-			
-			<!-- Right column at md and lg -->
-			<div class="col-xs-12 col-sm-12 col-md-5 col-lg-5"> 
-				
-				<div class="row">
-					<div class="col-xs-7 col-sm-7 col-md-7 col-lg-7">
-						<h4>Phạm vi đi lại</h4>
-					</div>
-					<div class="col-xs-5 col-sm-5 col-md-5 col-lg-5 text-right">
-						<p>5km</p>
-					</div>
-				</div>
-				<div class="row">
-					<h4>Học phí</h4>
-					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
-						<p>Tại nhà</p>
-					</div>
-					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 text-right">
-						<p>250.000 đ/ 90 phút</p>
-					</div>
-					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
-						<p>Tại lớp</p>
-					</div>
-					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 text-right">
-						<p></p>
+						<p>200.000 VNĐ/h</p>
 					</div>
 				</div>
 				<div class="row">
@@ -2109,163 +860,6 @@ Tôi tin rằng xây dựng nền tảng lý thuyết cáng vững chắc thì n
 				<td class="busy"></td>
 				<td class="busy"></td>
 				<td class="busy"></td>
-				<td></td>
-				<td></td>
-				<td></td>
-				<td></td>
-			 </tr>
-			 <tr>
-				<th>Chiều</th>
-				<td></td>
-				<td></td>
-				<td></td>
-				<td class="busy"></td>
-				<td class="busy"></td>
-				<td></td>
-				<td class="busy"></td>
-			 </tr>
-			 <tr>
-				<th>Tối</th>
-				<td></td>
-				<td class="busy"></td>
-				<td></td>
-				<td class="busy"></td>
-				<td></td>
-				<td></td>
-				<td class="busy"></td>
-			 </tr>
-			</tbody>
-		 </table>
- 
- 
-					<span class="legend"></span> : Những buổi giáo viên có thể giảng dạy 	
-					</div>
-				</div>
-				<div class="row sign-up">
-					<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
-						<button class="btn btn-info btn-lg btn-sign-up center-block dang-ky-ngay" data-toggle="modal" data-target="#myModal" rel="phamhuytung">Đăng ký ngay</button>
-					</div>
-				</div>
-			</div>
-		</div> <!-- End Profile detail -->
-	</div> <!-- End Profile box --> 
-	<!-- Profile row: Lý Trọng Hải-->
-	<!-- Profile box -->
-	<div class="container-fluid hgd-profile-box hanoi" data-price="300">
-		<div class="row hgd-profile ">
-			<div class="d-flex align-self-stretch profile-column">
-				<div class="col-xs-4 col-sm-3 col-md-2 col-lg-2 hgd-profile-info hgd-avatar">
-					<img class="img-circle img-responsive center-block hgd-profile-avatar" src="https://www.hocgiday.com/wp-content/uploads/2017/07/Ly-hai.jpg" alt="teacher">
-				</div>
-			</div>
-			<div class="d-flex align-self-stretch profile-column">
-				<div class="col-xs-4 col-sm-6 col-md-6 col-lg-6 hgd-profile-info ">
-				<h3 id="phamduy">Lý Trọng Hải</h3>
-				<p>Địa chỉ: Hoa Lâm, quận Long Biên</p>
-				</div>
-			</div>
-			<div class="d-flex align-self-stretch profile-column">
-				<div class="col-xs-4 col-sm-3 col-md-2 col-lg-2 hgd-profile-info ">
-					<h3 id="unit-price">Học phí</h3>
-					<p class="unit-price">300.000 đ/ 90 phút</p>
-					<h3 id="rating">Đánh Giá</h3>
-					<div class="rating-star-box">
-						<span><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i></span>
-						<span class="num-of-rates">13</span>
-					</div>
-				</div>
-			</div>
-			<div class="d-flex align-self-stretch profile-column">
-				<div class="col-xs-12 col-sm-12 col-md-2 col-lg-2 hgd-read-more phamduy">
-					<span class="read-more phamduy">&gt;&gt; Tìm hiểu thêm</span>
-				</div>
-			</div>
-		</div> <!-- End Profile row -->
-
-		<!-- Profile Detail -->
-		<div class="row hgd-profile-detail">
-			<div class="row">
-				<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
-					<p><span class="t-heading">Cấp độ giảng dạy</span></p>
-				</div>
-				<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 text-right">
-					<p>Cơ bản, Nâng cao</p>
-				</div>
-			</div>
-			<!-- Description -->
-			<div class="row">
-				<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
-					<h4>Vài nét về giáo viên</h4>
-					<p>Anh em trong nghề vẫn thường gọi là Hải Dớ. Mình đã bắt đầu tập nhạc từ năm lớp 6, và bắt đầu nghiện đàn điện từ năm lớp 11. Thần tượng yêu thích của mình là Gurthie Govan. Dòng nhạc ưa thích là Pop, rock, jazz. Mình bắt đầu giảng dạy từ năm 2016, phương châm của mình là luôn bắt đầu từ những thứ đơn giản trước. Đến với lớp học của mình, mình sẽ dạy cho các bạn những món đòn kĩ thuật của đàn guitar và đặc biệt là guitar điện. Mình tự tin với phương pháp và trình độ chuyên môn của mình, sẽ giúp các bạn đạt được thành công dù mục tiêu của bạn là gì khi tiếp xúc với âm nhạc.					</p>
-				</div>
-			</div>
-
-			<!-- End description -->
-			<!-- Left column at md and lg -->
-			<div class="col-xs-12 col-sm-12 col-md-7 col-lg-7"> 
-				<div class="row">
-					<h4>Học vấn</h4>
-					<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">	
-						<p>Đã tốt nghiệp hệ Trung cấp Đại học văn hóa nghệ thuật quân đội</p>
-					</div>
-					
-				</div>
-				<div class="row">
-					<h4>Video</h4>
-					<div class="col-xs-12 col-sm-12 col-md-11 col-lg-11 wrapper wrapper-iframe">
-						<iframe class="wrapper-item wrapper-video" src="https://www.youtube.com/embed/AJ7VgLVyvbQ" frameborder="0" allowfullscreen></iframe>
-					</div>
-				</div>	
-			</div> <!-- End left column -->
-			
-			<!-- Right column at md and lg -->
-			<div class="col-xs-12 col-sm-12 col-md-5 col-lg-5"> 
-				
-				<div class="row">
-					<div class="col-xs-7 col-sm-7 col-md-7 col-lg-7">
-						<h4>Phạm vi đi lại</h4>
-					</div>
-					<div class="col-xs-5 col-sm-5 col-md-5 col-lg-5 text-right">
-						<p>3km</p>
-					</div>
-				</div>
-				<div class="row">
-					<h4>Học phí</h4>
-					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
-						<p>Tại nhà</p>
-					</div>
-					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 text-right">
-						<p>300.000 đ/ 90 phút</p>
-					</div>
-					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
-						<p>Tại lớp</p>
-					</div>
-					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 text-right">
-						<p></p>
-					</div>
-				</div>
-				<div class="row">
-					<h4>Lịch giảng dạy của giáo viên</h4>
-					<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
-						<table class="table table-bordered">
-			<thead>
-			 <tr>
-				<th></th>
-				<th>T2</th>
-				<th>T3</th>
-				<th>T4</th>
-				<th>T5</th>
-				<th>T6</th>
-				<th>T7</th>
-				<th>CN</th>
-			 </tr>
-			</thead>
-			<tbody>
-			 <tr>
-				<th>Sáng</th>
-				<td></td>
-				<td class="busy"></td>
-				<td></td>
 				<td class="busy"></td>
 				<td class="busy"></td>
 				<td></td>
@@ -2274,21 +868,21 @@ Tôi tin rằng xây dựng nền tảng lý thuyết cáng vững chắc thì n
 			 <tr>
 				<th>Chiều</th>
 				<td class="busy"></td>
+				<td></td>
 				<td class="busy"></td>
+				<td></td>
 				<td class="busy"></td>
-				<td class="busy"></td>
-				<td class="busy"></td>
-				<td class="busy"></td>
+				<td></td>
 				<td></td>
 			 </tr>
 			 <tr>
 				<th>Tối</th>
 				<td></td>
 				<td></td>
+				<td class="busy"></td>
 				<td></td>
-				<td class="busy"></td>
-				<td class="busy"></td>
-				<td class="busy"></td>
+				<td></td>
+				<td></td>
 				<td></td>
 			 </tr>
 			</tbody>
@@ -2299,41 +893,1000 @@ Tôi tin rằng xây dựng nền tảng lý thuyết cáng vững chắc thì n
 				</div>
 				<div class="row sign-up">
 					<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
-						<button class="btn btn-info btn-lg btn-sign-up center-block dang-ky-ngay" data-toggle="modal" data-target="#myModal" rel="phamduy">Đăng ký ngay</button>
+						<button class="btn btn-info btn-lg btn-sign-up center-block dang-ky-ngay" data-toggle="modal" data-target="#myModal" rel="dinhthikimanh">Đăng ký ngay</button>
 					</div>
 				</div>
 			</div>
 		</div> <!-- End Profile detail -->
 	</div> <!-- End Profile box --> 
-	<!-- Profile row: Trịnh Thị Thùy Trang-->
+	<!-- Profile row: Tạ Trang Dung-->
 	<!-- Profile box -->
-	<div class="container-fluid hgd-profile-box hanoi" data-price="300">
+	<div class="container-fluid hgd-profile-box hanoi" data-price="450">
 		<div class="row hgd-profile ">
 			<div class="d-flex align-self-stretch profile-column">
 				<div class="col-xs-4 col-sm-3 col-md-2 col-lg-2 hgd-profile-info hgd-avatar">
-					<img class="img-circle img-responsive center-block hgd-profile-avatar" src="https://www.hocgiday.com/wp-content/uploads/2017/07/Thuy-Trang.jpg" alt="teacher">
+					<img class="img-circle img-responsive center-block hgd-profile-avatar" src="https://www.hocgiday.com/wp-content/uploads/2017/07/Trang-Dung-2.jpg" alt="teacher">
 				</div>
 			</div>
 			<div class="d-flex align-self-stretch profile-column">
 				<div class="col-xs-4 col-sm-6 col-md-6 col-lg-6 hgd-profile-info ">
-				<h3 id="trinhthithuytrang">Trịnh Thị Thùy Trang</h3>
-				<p>Địa chỉ: Nguyễn Quý Đức, quận Thanh Xuân</p>
+				<h3 id="tatrangdung">Tạ Trang Dung</h3>
+				<p>Địa chỉ: ngõ 204D Đội Cấn, Ba Đình, thành phố Hà Nội</p>
 				</div>
 			</div>
 			<div class="d-flex align-self-stretch profile-column">
 				<div class="col-xs-4 col-sm-3 col-md-2 col-lg-2 hgd-profile-info ">
 					<h3 id="unit-price">Học phí</h3>
-					<p class="unit-price">300.000 đ/ 60 phút</p>
+					<p class="unit-price">450.000 VNĐ/h</p>
 					<h3 id="rating">Đánh Giá</h3>
 					<div class="rating-star-box">
-						<span><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i></span>
-						<span class="num-of-rates">5</span>
+						<span><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star-o" aria-hidden="true"></i></span>
+						<span class="num-of-rates">9</span>
 					</div>
 				</div>
 			</div>
 			<div class="d-flex align-self-stretch profile-column">
-				<div class="col-xs-12 col-sm-12 col-md-2 col-lg-2 hgd-read-more trinhthithuytrang">
-					<span class="read-more trinhthithuytrang">&gt;&gt; Tìm hiểu thêm</span>
+				<div class="col-xs-12 col-sm-12 col-md-2 col-lg-2 hgd-read-more tatrangdung">
+					<span class="read-more tatrangdung">&gt;&gt; Tìm hiểu thêm</span>
+				</div>
+			</div>
+		</div> <!-- End Profile row -->
+
+		<!-- Profile Detail -->
+		<div class="row hgd-profile-detail">
+			<div class="row">
+				<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
+					<p><span class="t-heading">Cấp độ giảng dạy</span></p>
+				</div>
+				<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 text-right">
+					<p>Cơ bản - Nâng cao</p>
+				</div>
+			</div>
+			<!-- Description -->
+			<div class="row">
+				<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+					<h4>Vài nét về giáo viên</h4>
+					<p>Chào tất cả mọi người! Mình là Tạ Trang Dung, rất vui được gặp gỡ mọi người trên Website Hocgiday.com. Có lẽ là điều khiến mình gần gũi mọi người hơn chính là qua con đường âm nhạc. Rất vui được chia sẻ với mọi người là mình rất yêu bộ môn Piano - Piano giúp cho mình cảm nhận được ý nghĩa cuộc sống. Những lúc buồn có thể đánh lên những giai điệu rất nhẹ nhàng, hoặc lúc vui thì cây đàn cũng chia sẻ được những nhộn nhịp và thoải mái trong cuộc sống hơn. Hay những lúc cảm thấy bâng khuâng, nhớ nhung một ai đó, những giai điệu của bài Thư gửi Elise - Beethoven lại được cất lên trong căn phòng nhỏ của mình
+Thần tượng âm nhạc của mình là Richard Clayderman, đây là tác giả mình nghe rất nhiều trong ngày, trước khi đi ngủ hoặc mỗi sáng thức dậy. Nó giúp cho tinh thần của mình phấn chấn hơn và làm việc hiệu quả hơn. Điều hạnh phúc lớn nhất trên con đường giảng dạy âm nhạc của mình chính là truyền đạt được trọn vẹn những gì mình cảm nhận được cho học sinh, giúp học sinh khám phá được thêm một tầng cảm xúc mới trong các tác phẩm kinh điển.
+Trong mỗi một giờ học, học sinh sẽ được học trong một không khí vui vẻ thoải mái, giống như một buổi chia sẻ, bày tỏ cảm xúc giữa mình và học sinh. Đặc biệt là mình rất yêu thích các bạn nhỏ, vì các bạn như một tờ giấy trắng. Có những bạn hơi khó gần, có những bạn lại ít nói ít cười, hay ngại ngùng, nhưng sau khi qua một số buổi học, bằng nụ cười của những bản thân mình, nhưng hơn cả là nụ cười của âm nhạc đã giúp các bạn đó cởi mở hơn với mọi người xung quanh.
+Mặc dù mình đang học ngành Sư Phạm âm nhạc, nhà trường dạy mình cách làm một cô giáo, nhưng mình nghĩ rằng, nếu chỉ cầm sách và đến trường thôi thì sẽ không hoàn thiện được người giáo viên bên trong mình. Mà chính các bạn sẽ là người dạy mình cách để trở thành một người giáo viên hoàn thiện nhất. Vì vậy hãy cho mình cơ hội giúp bạn khám phá một thế giới âm nhạc, mới lạ, nhẹ nhàng và nhiều điều thú vị nhé!
+					</p>
+				</div>
+			</div>
+
+			<!-- End description -->
+			<!-- Left column at md and lg -->
+			<div class="col-xs-12 col-sm-12 col-md-7 col-lg-7"> 
+				<div class="row">
+					<h4>Học vấn</h4>
+					<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">	
+						<p>Tốt nghiệp Trung cấp Học viện âm nhạc quốc gia 2015</p>
+					</div>
+					
+				</div>
+				<div class="row">
+					<h4>Video</h4>
+					<div class="col-xs-12 col-sm-12 col-md-11 col-lg-11 wrapper wrapper-iframe">
+						<iframe class="wrapper-item wrapper-video" src="https://www.youtube.com/embed/40Qpz3irCvQ" frameborder="0" allowfullscreen></iframe>
+					</div>
+				</div>	
+			</div> <!-- End left column -->
+			
+			<!-- Right column at md and lg -->
+			<div class="col-xs-12 col-sm-12 col-md-5 col-lg-5"> 
+				
+				<div class="row">
+					<div class="col-xs-7 col-sm-7 col-md-7 col-lg-7">
+						<h4>Phạm vi đi lại</h4>
+					</div>
+					<div class="col-xs-5 col-sm-5 col-md-5 col-lg-5 text-right">
+						<p>5km</p>
+					</div>
+				</div>
+				<div class="row">
+					<h4>Học phí</h4>
+					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
+						<p>Tại nhà</p>
+					</div>
+					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 text-right">
+						<p>450.000 VNĐ/h</p>
+					</div>
+					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
+						<p>Tại lớp</p>
+					</div>
+					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 text-right">
+						<p>360.000 VNĐ/h</p>
+					</div>
+				</div>
+				<div class="row">
+					<h4>Lịch giảng dạy của giáo viên</h4>
+					<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+						<table class="table table-bordered">
+			<thead>
+			 <tr>
+				<th></th>
+				<th>T2</th>
+				<th>T3</th>
+				<th>T4</th>
+				<th>T5</th>
+				<th>T6</th>
+				<th>T7</th>
+				<th>CN</th>
+			 </tr>
+			</thead>
+			<tbody>
+			 <tr>
+				<th>Sáng</th>
+				<td class="busy"></td>
+				<td class="busy"></td>
+				<td class="busy"></td>
+				<td class="busy"></td>
+				<td class="busy"></td>
+				<td></td>
+				<td></td>
+			 </tr>
+			 <tr>
+				<th>Chiều</th>
+				<td class="busy"></td>
+				<td class="busy"></td>
+				<td class="busy"></td>
+				<td class="busy"></td>
+				<td class="busy"></td>
+				<td></td>
+				<td></td>
+			 </tr>
+			 <tr>
+				<th>Tối</th>
+				<td class="busy"></td>
+				<td class="busy"></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+			 </tr>
+			</tbody>
+		 </table> 
+ 
+					<span class="legend"></span> : Những buổi giáo viên có thể giảng dạy 	
+					</div>
+				</div>
+				<div class="row sign-up">
+					<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+						<button class="btn btn-info btn-lg btn-sign-up center-block dang-ky-ngay" data-toggle="modal" data-target="#myModal" rel="tatrangdung">Đăng ký ngay</button>
+					</div>
+				</div>
+			</div>
+		</div> <!-- End Profile detail -->
+	</div> <!-- End Profile box --> 
+	<!-- Profile row: Hoàng Thị Thảo-->
+	<!-- Profile box -->
+	<div class="container-fluid hgd-profile-box hanoi" data-price="200">
+		<div class="row hgd-profile ">
+			<div class="d-flex align-self-stretch profile-column">
+				<div class="col-xs-4 col-sm-3 col-md-2 col-lg-2 hgd-profile-info hgd-avatar">
+					<img class="img-circle img-responsive center-block hgd-profile-avatar" src="https://www.hocgiday.com/wp-content/uploads/2017/07/Hoang-Thi-Thao-2.jpg" alt="teacher">
+				</div>
+			</div>
+			<div class="d-flex align-self-stretch profile-column">
+				<div class="col-xs-4 col-sm-6 col-md-6 col-lg-6 hgd-profile-info ">
+				<h3 id="hoangthithao">Hoàng Thị Thảo</h3>
+				<p>Địa chỉ: ngõ 332 Nguyễn Trãi, Thanh Xuân, Hà Nội</p>
+				</div>
+			</div>
+			<div class="d-flex align-self-stretch profile-column">
+				<div class="col-xs-4 col-sm-3 col-md-2 col-lg-2 hgd-profile-info ">
+					<h3 id="unit-price">Học phí</h3>
+					<p class="unit-price">200.000 VNĐ/h</p>
+					<h3 id="rating">Đánh Giá</h3>
+					<div class="rating-star-box">
+						<span><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star-o" aria-hidden="true"></i></span>
+						<span class="num-of-rates">10</span>
+					</div>
+				</div>
+			</div>
+			<div class="d-flex align-self-stretch profile-column">
+				<div class="col-xs-12 col-sm-12 col-md-2 col-lg-2 hgd-read-more hoangthithao">
+					<span class="read-more hoangthithao">&gt;&gt; Tìm hiểu thêm</span>
+				</div>
+			</div>
+		</div> <!-- End Profile row -->
+
+		<!-- Profile Detail -->
+		<div class="row hgd-profile-detail">
+			<div class="row">
+				<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
+					<p><span class="t-heading">Cấp độ giảng dạy</span></p>
+				</div>
+				<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 text-right">
+					<p>Cơ bản - Nâng cao</p>
+				</div>
+			</div>
+			<!-- Description -->
+			<div class="row">
+				<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+					<h4>Vài nét về giáo viên</h4>
+					<p>Chào các bạn, mình là Hoàng Thị Thảo. Mình tiếp xúc với Piano từ nhỏ. Dòng nhạc ưa thích của mình là nhạc nhẹ và nhạc thính phòng. 
+Hiện mình đang theo học tại trường Đại học Sư phạm nghệ thuật trung ương và sẽ tốt nghiệp năm nay. Mình có thể dạy 2 môn Piano và Thanh nhạc.
+Mình có thể dạy các bạn từ trình độ cơ bản đến nâng cao. Mình sẽ dạy lý thuyết song song thực hành luôn trong mỗi buổi dạy, mỗi buổi sẽ thêm một chút để bạn dần mở rộng ra khả năng của mình.
+					</p>
+				</div>
+			</div>
+
+			<!-- End description -->
+			<!-- Left column at md and lg -->
+			<div class="col-xs-12 col-sm-12 col-md-7 col-lg-7"> 
+				<div class="row">
+					<h4>Học vấn</h4>
+					<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">	
+						<p>Sinh viên năm 4 Đại học Sư phạm nghệ thuật trung ương</p>
+					</div>
+					
+				</div>
+				<div class="row">
+					<h4>Video</h4>
+					<div class="col-xs-12 col-sm-12 col-md-11 col-lg-11 wrapper wrapper-iframe">
+						<iframe class="wrapper-item wrapper-video" src="https://www.youtube.com/embed/AuxB9SadFm8" frameborder="0" allowfullscreen></iframe>
+					</div>
+				</div>	
+			</div> <!-- End left column -->
+			
+			<!-- Right column at md and lg -->
+			<div class="col-xs-12 col-sm-12 col-md-5 col-lg-5"> 
+				
+				<div class="row">
+					<div class="col-xs-7 col-sm-7 col-md-7 col-lg-7">
+						<h4>Phạm vi đi lại</h4>
+					</div>
+					<div class="col-xs-5 col-sm-5 col-md-5 col-lg-5 text-right">
+						<p>4km</p>
+					</div>
+				</div>
+				<div class="row">
+					<h4>Học phí</h4>
+					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
+						<p>Tại nhà</p>
+					</div>
+					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 text-right">
+						<p>200.000 VNĐ/h</p>
+					</div>
+					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
+						<p>Tại lớp</p>
+					</div>
+					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 text-right">
+						<p>200.000 VNĐ/h</p>
+					</div>
+				</div>
+				<div class="row">
+					<h4>Lịch giảng dạy của giáo viên</h4>
+					<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+						<table class="table table-bordered">
+			<thead>
+			 <tr>
+				<th></th>
+				<th>T2</th>
+				<th>T3</th>
+				<th>T4</th>
+				<th>T5</th>
+				<th>T6</th>
+				<th>T7</th>
+				<th>CN</th>
+			 </tr>
+			</thead>
+			<tbody>
+			 <tr>
+				<th>Sáng</th>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td class="busy"></td>
+				<td class="busy"></td>
+			 </tr>
+			 <tr>
+				<th>Chiều</th>
+				<td></td>
+				<td></td>
+				<td class="busy"></td>
+				<td></td>
+				<td class="busy"></td>
+				<td class="busy"></td>
+				<td class="busy"></td>
+			 </tr>
+			 <tr>
+				<th>Tối</th>
+				<td></td>
+				<td></td>
+				<td class="busy"></td>
+				<td></td>
+				<td class="busy"></td>
+				<td class="busy"></td>
+				<td class="busy"></td>
+			 </tr>
+			</tbody>
+		 </table> 
+ 
+					<span class="legend"></span> : Những buổi giáo viên có thể giảng dạy 	
+					</div>
+				</div>
+				<div class="row sign-up">
+					<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+						<button class="btn btn-info btn-lg btn-sign-up center-block dang-ky-ngay" data-toggle="modal" data-target="#myModal" rel="hoangthithao">Đăng ký ngay</button>
+					</div>
+				</div>
+			</div>
+		</div> <!-- End Profile detail -->
+	</div> <!-- End Profile box --> 
+	<!-- Profile row: Bùi Việt-->
+	<!-- Profile box -->
+	<div class="container-fluid hgd-profile-box hanoi" data-price="300">
+		<div class="row hgd-profile ">
+			<div class="d-flex align-self-stretch profile-column">
+				<div class="col-xs-4 col-sm-3 col-md-2 col-lg-2 hgd-profile-info hgd-avatar">
+					<img class="img-circle img-responsive center-block hgd-profile-avatar" src="https://www.hocgiday.com/wp-content/uploads/2017/07/1-HN-BuiViet-2.jpg" alt="teacher">
+				</div>
+			</div>
+			<div class="d-flex align-self-stretch profile-column">
+				<div class="col-xs-4 col-sm-6 col-md-6 col-lg-6 hgd-profile-info ">
+				<h3 id="buiviet">Bùi Việt</h3>
+				<p>Địa chỉ: Định Công Hạ, Hoàng Mai, Hà Nội</p>
+				</div>
+			</div>
+			<div class="d-flex align-self-stretch profile-column">
+				<div class="col-xs-4 col-sm-3 col-md-2 col-lg-2 hgd-profile-info ">
+					<h3 id="unit-price">Học phí</h3>
+					<p class="unit-price">300.000 VNĐ/h</p>
+					<h3 id="rating">Đánh Giá</h3>
+					<div class="rating-star-box">
+						<span><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star-o" aria-hidden="true"></i><i class="fa fa-star-o" aria-hidden="true"></i><i class="fa fa-star-o" aria-hidden="true"></i><i class="fa fa-star-o" aria-hidden="true"></i></span>
+						<span class="num-of-rates">2</span>
+					</div>
+				</div>
+			</div>
+			<div class="d-flex align-self-stretch profile-column">
+				<div class="col-xs-12 col-sm-12 col-md-2 col-lg-2 hgd-read-more buiviet">
+					<span class="read-more buiviet">&gt;&gt; Tìm hiểu thêm</span>
+				</div>
+			</div>
+		</div> <!-- End Profile row -->
+
+		<!-- Profile Detail -->
+		<div class="row hgd-profile-detail">
+			<div class="row">
+				<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
+					<p><span class="t-heading">Cấp độ giảng dạy</span></p>
+				</div>
+				<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 text-right">
+					<p>Cơ bản - Nâng cao</p>
+				</div>
+			</div>
+			<!-- Description -->
+			<div class="row">
+				<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+					<h4>Vài nét về giáo viên</h4>
+					<p>Chào các bạn, mình tiếp xúc với Guitar từ 2008, Piano và thanh nhạc từ 2010. Dòng nhạc ưa thích của mình là nhạc nhẹ và nhạc thính phòng. Mình sẽ dạy các bạn từ trình độ cơ bản, hoặc từ những gì bạn đã biết. Mình sẽ dạy lý thuyết song song với thực hành luôn trong mỗi buổi dạy, mỗi buổi thêm một chút để bạn dần mở rộng khả năng của mình. 
+Với học sinh học nhạc cổ điển: các bạn sẽ được học cách đọc nốt nhạc, đọc tiết tấu, học qua các bài tập luyện ngón để giúp ngón vững hơn và âm thanh được tròn trịa, tiếp xúc luôn với các tác phẩm từ mức dễ đến khó. Với học sinh học đệm hát các nhạc cụ: cấu tạo hợp âm, các gam, các giọng, các âm hình đệm cơ bản, và nâng cao với những học sinh có khả năng. Với học sinh học thanh nhạc: bạn sẽ được học về kiểm soát hơi thở, đặt vị trí âm thanh, xử lý bài, tiết chế cảm xúc, áp dụng vào bài hát. 
+Các giáo trình có thể được sử dụng trong quá trình giảng dạy: 
+Method Rose - Ernest Van de Velde
+Phương pháp học guitar lý thuyết&thực hành - Lê Đức Sơn
+					</p>
+				</div>
+			</div>
+
+			<!-- End description -->
+			<!-- Left column at md and lg -->
+			<div class="col-xs-12 col-sm-12 col-md-7 col-lg-7"> 
+				<div class="row">
+					<h4>Học vấn</h4>
+					<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">	
+						<p>Tốt nghiệp Đại học sư phạm nghệ thuật trung ương</p>
+					</div>
+					
+				</div>
+				<div class="row">
+					<h4>Video</h4>
+					<div class="col-xs-12 col-sm-12 col-md-11 col-lg-11 wrapper wrapper-iframe">
+						<iframe class="wrapper-item wrapper-video" src="https://www.youtube.com/embed/JIB0x3lv1pk" frameborder="0" allowfullscreen></iframe>
+					</div>
+				</div>	
+			</div> <!-- End left column -->
+			
+			<!-- Right column at md and lg -->
+			<div class="col-xs-12 col-sm-12 col-md-5 col-lg-5"> 
+				
+				<div class="row">
+					<div class="col-xs-7 col-sm-7 col-md-7 col-lg-7">
+						<h4>Phạm vi đi lại</h4>
+					</div>
+					<div class="col-xs-5 col-sm-5 col-md-5 col-lg-5 text-right">
+						<p>5km</p>
+					</div>
+				</div>
+				<div class="row">
+					<h4>Học phí</h4>
+					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
+						<p>Tại nhà</p>
+					</div>
+					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 text-right">
+						<p>300.000 VNĐ/h</p>
+					</div>
+					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
+						<p>Tại lớp</p>
+					</div>
+					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 text-right">
+						<p>240.000 VNĐ/h</p>
+					</div>
+				</div>
+				<div class="row">
+					<h4>Lịch giảng dạy của giáo viên</h4>
+					<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+						<table class="table table-bordered">
+			<thead>
+			 <tr>
+				<th></th>
+				<th>T2</th>
+				<th>T3</th>
+				<th>T4</th>
+				<th>T5</th>
+				<th>T6</th>
+				<th>T7</th>
+				<th>CN</th>
+			 </tr>
+			</thead>
+			<tbody>
+			 <tr>
+				<th>Sáng</th>
+				<td></td>
+				<td class="busy"></td>
+				<td class="busy"></td>
+				<td></td>
+				<td class="busy"></td>
+				<td class="busy"></td>
+				<td class="busy"></td>
+			 </tr>
+			 <tr>
+				<th>Chiều</th>
+				<td></td>
+				<td></td>
+				<td class="busy"></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+			 </tr>
+			 <tr>
+				<th>Tối</th>
+				<td></td>
+				<td></td>
+				<td class="busy"></td>
+				<td class="busy"></td>
+				<td></td>
+				<td></td>
+				<td></td>
+			 </tr>
+			</tbody>
+		 </table> 
+ 
+					<span class="legend"></span> : Những buổi giáo viên có thể giảng dạy 	
+					</div>
+				</div>
+				<div class="row sign-up">
+					<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+						<button class="btn btn-info btn-lg btn-sign-up center-block dang-ky-ngay" data-toggle="modal" data-target="#myModal" rel="buiviet">Đăng ký ngay</button>
+					</div>
+				</div>
+			</div>
+		</div> <!-- End Profile detail -->
+	</div> <!-- End Profile box --> 
+	<!-- Profile row: Phùng Kim Ngọc-->
+	<!-- Profile box -->
+	<div class="container-fluid hgd-profile-box hanoi" data-price="200">
+		<div class="row hgd-profile ">
+			<div class="d-flex align-self-stretch profile-column">
+				<div class="col-xs-4 col-sm-3 col-md-2 col-lg-2 hgd-profile-info hgd-avatar">
+					<img class="img-circle img-responsive center-block hgd-profile-avatar" src="https://www.hocgiday.com/wp-content/uploads/2017/07/Kim-Ngoc-2.jpg" alt="teacher">
+				</div>
+			</div>
+			<div class="d-flex align-self-stretch profile-column">
+				<div class="col-xs-4 col-sm-6 col-md-6 col-lg-6 hgd-profile-info ">
+				<h3 id="phungkimngoc">Phùng Kim Ngọc</h3>
+				<p>Địa chỉ: Cầu Giấy, Hà Nội</p>
+				</div>
+			</div>
+			<div class="d-flex align-self-stretch profile-column">
+				<div class="col-xs-4 col-sm-3 col-md-2 col-lg-2 hgd-profile-info ">
+					<h3 id="unit-price">Học phí</h3>
+					<p class="unit-price">200.000 VNĐ/h</p>
+					<h3 id="rating">Đánh Giá</h3>
+					<div class="rating-star-box">
+						<span><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i></span>
+						<span class="num-of-rates">4</span>
+					</div>
+				</div>
+			</div>
+			<div class="d-flex align-self-stretch profile-column">
+				<div class="col-xs-12 col-sm-12 col-md-2 col-lg-2 hgd-read-more phungkimngoc">
+					<span class="read-more phungkimngoc">&gt;&gt; Tìm hiểu thêm</span>
+				</div>
+			</div>
+		</div> <!-- End Profile row -->
+
+		<!-- Profile Detail -->
+		<div class="row hgd-profile-detail">
+			<div class="row">
+				<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
+					<p><span class="t-heading">Cấp độ giảng dạy</span></p>
+				</div>
+				<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 text-right">
+					<p>Cơ bản - Nâng cao</p>
+				</div>
+			</div>
+			<!-- Description -->
+			<div class="row">
+				<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+					<h4>Vài nét về giáo viên</h4>
+					<p>Chào các bạn, mình là Phùng Kim Ngọc. Mình có thể giảng dạy đàn piano hoặc organ ở nhà mình hoặc ngay tại nhà học viên. 
+Mình bắt đầu chơi Piano từ khi bước vào cổng trường cấp 3, và đã bắt đầu đi dạy từ năm nhất đại học. Mình yêu thích các bản nhạc của Yiruma và J. S. Bach. Dòng nhạc sở trường mà mình hay chơi là nhạc cổ điển và pop.
+Các bài học của mình được thiết kế từ đơn giản đến nâng cao. Học sinh học tại nhà sẽ cần chuẩn bị một cây đàn organ hoặc guitar điện. Với những bạn đến học tại studio của mình thì đã có sẵn cây piano điện. Rất vui được làm việc với các bạn!
+					</p>
+				</div>
+			</div>
+
+			<!-- End description -->
+			<!-- Left column at md and lg -->
+			<div class="col-xs-12 col-sm-12 col-md-7 col-lg-7"> 
+				<div class="row">
+					<h4>Học vấn</h4>
+					<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">	
+						<p>Sinh viên Đại học Văn hóa nghệ thuật quân đội</p>
+					</div>
+					
+				</div>
+				<div class="row">
+					<h4>Video</h4>
+					<div class="col-xs-12 col-sm-12 col-md-11 col-lg-11 wrapper wrapper-iframe">
+						<iframe class="wrapper-item wrapper-video" src="https://www.youtube.com/embed/mz1PS1LMpm4" frameborder="0" allowfullscreen></iframe>
+					</div>
+				</div>	
+			</div> <!-- End left column -->
+			
+			<!-- Right column at md and lg -->
+			<div class="col-xs-12 col-sm-12 col-md-5 col-lg-5"> 
+				
+				<div class="row">
+					<div class="col-xs-7 col-sm-7 col-md-7 col-lg-7">
+						<h4>Phạm vi đi lại</h4>
+					</div>
+					<div class="col-xs-5 col-sm-5 col-md-5 col-lg-5 text-right">
+						<p>8km</p>
+					</div>
+				</div>
+				<div class="row">
+					<h4>Học phí</h4>
+					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
+						<p>Tại nhà</p>
+					</div>
+					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 text-right">
+						<p>200.000 VNĐ/h</p>
+					</div>
+					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
+						<p>Tại lớp</p>
+					</div>
+					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 text-right">
+						<p>180.000 VNĐ/h</p>
+					</div>
+				</div>
+				<div class="row">
+					<h4>Lịch giảng dạy của giáo viên</h4>
+					<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+						<table class="table table-bordered">
+			<thead>
+			 <tr>
+				<th></th>
+				<th>T2</th>
+				<th>T3</th>
+				<th>T4</th>
+				<th>T5</th>
+				<th>T6</th>
+				<th>T7</th>
+				<th>CN</th>
+			 </tr>
+			</thead>
+			<tbody>
+			 <tr>
+				<th>Sáng</th>
+				<td class="busy"></td>
+				<td class="busy"></td>
+				<td></td>
+				<td class="busy"></td>
+				<td class="busy"></td>
+				<td class="busy"></td>
+				<td></td>
+			 </tr>
+			 <tr>
+				<th>Chiều</th>
+				<td class="busy"></td>
+				<td class="busy"></td>
+				<td class="busy"></td>
+				<td class="busy"></td>
+				<td class="busy"></td>
+				<td class="busy"></td>
+				<td class="busy"></td>
+			 </tr>
+			 <tr>
+				<th>Tối</th>
+				<td></td>
+				<td class="busy"></td>
+				<td class="busy"></td>
+				<td class="busy"></td>
+				<td class="busy"></td>
+				<td class="busy"></td>
+				<td class="busy"></td>
+			 </tr>
+			</tbody>
+		 </table> 
+ 
+					<span class="legend"></span> : Những buổi giáo viên có thể giảng dạy 	
+					</div>
+				</div>
+				<div class="row sign-up">
+					<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+						<button class="btn btn-info btn-lg btn-sign-up center-block dang-ky-ngay" data-toggle="modal" data-target="#myModal" rel="phungkimngoc">Đăng ký ngay</button>
+					</div>
+				</div>
+			</div>
+		</div> <!-- End Profile detail -->
+	</div> <!-- End Profile box --> 
+	<!-- Profile row: Nguyễn Việt Hùng-->
+	<!-- Profile box -->
+	<div class="container-fluid hgd-profile-box hanoi" data-price="">
+		<div class="row hgd-profile ">
+			<div class="d-flex align-self-stretch profile-column">
+				<div class="col-xs-4 col-sm-3 col-md-2 col-lg-2 hgd-profile-info hgd-avatar">
+					<img class="img-circle img-responsive center-block hgd-profile-avatar" src="https://www.hocgiday.com/wp-content/uploads/2017/07/Viet-Hung-1-2.jpg" alt="teacher">
+				</div>
+			</div>
+			<div class="d-flex align-self-stretch profile-column">
+				<div class="col-xs-4 col-sm-6 col-md-6 col-lg-6 hgd-profile-info ">
+				<h3 id="nguyenviethung">Nguyễn Việt Hùng</h3>
+				<p>Địa chỉ: Thái Hà, Đống Đa, thành phố Hà Nội</p>
+				</div>
+			</div>
+			<div class="d-flex align-self-stretch profile-column">
+				<div class="col-xs-4 col-sm-3 col-md-2 col-lg-2 hgd-profile-info ">
+					<h3 id="unit-price">Học phí</h3>
+					<p class="unit-price"></p>
+					<h3 id="rating">Đánh Giá</h3>
+					<div class="rating-star-box">
+						<span><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i></span>
+						<span class="num-of-rates">3</span>
+					</div>
+				</div>
+			</div>
+			<div class="d-flex align-self-stretch profile-column">
+				<div class="col-xs-12 col-sm-12 col-md-2 col-lg-2 hgd-read-more nguyenviethung">
+					<span class="read-more nguyenviethung">&gt;&gt; Tìm hiểu thêm</span>
+				</div>
+			</div>
+		</div> <!-- End Profile row -->
+
+		<!-- Profile Detail -->
+		<div class="row hgd-profile-detail">
+			<div class="row">
+				<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
+					<p><span class="t-heading">Cấp độ giảng dạy</span></p>
+				</div>
+				<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 text-right">
+					<p>Cơ bản - Nâng cao</p>
+				</div>
+			</div>
+			<!-- Description -->
+			<div class="row">
+				<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+					<h4>Vài nét về giáo viên</h4>
+					<p>Phỏng vấn với Học Gì Đây?: “Nếu là tiếp xúc thì là từ năm 3 tuổi em ạ.Hồi đó nhà làm karaoke nên anh biết hát từ trc khi biết đọc chữ =)) Anh bắt đầu đi dạy từ năm 2012. Thần tượng âm nhạc của anh là Paul Mauriat, Yanni, Michael Jackson, Cori Henry, Jacob Coller. Anh thích các thể loại pop, jazz, và cả blues nữa”.
+Phương pháp giảng dạy của anh là: “Truyền đạt các phương pháp học để học sinh có khả năng tự học và tiến bộ sau khoá học mà không cần có giáo viên hướng dẫn. Trước khi bắt đầu khoá học, học sinh cần tự trả lời được 3 câu hỏi (vì đến lớp thầy sẽ hỏi): học để làm gì (cho vui, học để thi vào trường nhạc, để trở thành producer, hay do tò mò muốn thử?), số tiền định đầu tư cho việc học là bao nhiêu (ngoài tiền học). Ví dụ: mua đàn, tự tìm mua tài liệu, sau khoá học thì có học thêm những người thầy giỏi hơn nữa không? v.v..., số thời gian tối thiểu chắc chắn dành cho việc tập nhạc mỗi ngày là bao nhiêu lâu?”.
+Kinh nghiệm giảng dạy của anh: “Nếu các bạn không định mua đàn trước khi đi học mà chỉ muốn học xem thế nào rồi mới quyết định mua hay không mua, thì không nên đi học, vì điều đấy chứng tỏ các bạn hoặc không thực sự thích học, hoặc điều kiện tiền bạc chưa thực sự dư dả. Học nhạc vốn là công cuộc tốn kém, nên hãy chắc chắn là túi tiền của mình không bị quá tải”.
+Về hoạt động nghệ thuật: “Thì anh đã có 14 năm kinh nghiệm biểu diễn các kiểu sân khấu khác nhau, từ hình thức đệm hát phong trào, chơi band nhạc, phối khí, ghi âm, sản xuất. Hiện tại đang là trùm cuối của Katana Records, nhưng vẫn muốn đi dạy đàn thêm, để nếu có gặp được bạn học sinh nào tiềm năng thì tuyển mộ vào Katana Records làm việc”.
+					</p>
+				</div>
+			</div>
+
+			<!-- End description -->
+			<!-- Left column at md and lg -->
+			<div class="col-xs-12 col-sm-12 col-md-7 col-lg-7"> 
+				<div class="row">
+					<h4>Học vấn</h4>
+					<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">	
+						<p></p>
+					</div>
+					
+				</div>
+				<div class="row">
+					<h4>Video</h4>
+					<div class="col-xs-12 col-sm-12 col-md-11 col-lg-11 wrapper wrapper-iframe">
+						<iframe class="wrapper-item wrapper-video" src="https://www.youtube.com/embed/pV4znnNh250" frameborder="0" allowfullscreen></iframe>
+					</div>
+				</div>	
+			</div> <!-- End left column -->
+			
+			<!-- Right column at md and lg -->
+			<div class="col-xs-12 col-sm-12 col-md-5 col-lg-5"> 
+				
+				<div class="row">
+					<div class="col-xs-7 col-sm-7 col-md-7 col-lg-7">
+						<h4>Phạm vi đi lại</h4>
+					</div>
+					<div class="col-xs-5 col-sm-5 col-md-5 col-lg-5 text-right">
+						<p>0km</p>
+					</div>
+				</div>
+				<div class="row">
+					<h4>Học phí</h4>
+					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
+						<p>Tại nhà</p>
+					</div>
+					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 text-right">
+						<p></p>
+					</div>
+					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
+						<p>Tại lớp</p>
+					</div>
+					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 text-right">
+						<p>300.000 VNĐ/h</p>
+					</div>
+				</div>
+				<div class="row">
+					<h4>Lịch giảng dạy của giáo viên</h4>
+					<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+						<table class="table table-bordered">
+			<thead>
+			 <tr>
+				<th></th>
+				<th>T2</th>
+				<th>T3</th>
+				<th>T4</th>
+				<th>T5</th>
+				<th>T6</th>
+				<th>T7</th>
+				<th>CN</th>
+			 </tr>
+			</thead>
+			<tbody>
+			 <tr>
+				<th>Sáng</th>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+			 </tr>
+			 <tr>
+				<th>Chiều</th>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+			 </tr>
+			 <tr>
+				<th>Tối</th>
+				<td class="busy"></td>
+				<td></td>
+				<td></td>
+				<td class="busy"></td>
+				<td class="busy"></td>
+				<td></td>
+				<td></td>
+			 </tr>
+			</tbody>
+		 </table> 
+ 
+					<span class="legend"></span> : Những buổi giáo viên có thể giảng dạy 	
+					</div>
+				</div>
+				<div class="row sign-up">
+					<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+						<button class="btn btn-info btn-lg btn-sign-up center-block dang-ky-ngay" data-toggle="modal" data-target="#myModal" rel="nguyenviethung">Đăng ký ngay</button>
+					</div>
+				</div>
+			</div>
+		</div> <!-- End Profile detail -->
+	</div> <!-- End Profile box --> 
+	<!-- Profile row: Lê Hương-->
+	<!-- Profile box -->
+	<div class="container-fluid hgd-profile-box hanoi" data-price="250">
+		<div class="row hgd-profile ">
+			<div class="d-flex align-self-stretch profile-column">
+				<div class="col-xs-4 col-sm-3 col-md-2 col-lg-2 hgd-profile-info hgd-avatar">
+					<img class="img-circle img-responsive center-block hgd-profile-avatar" src="https://www.hocgiday.com/wp-content/uploads/2017/07/18-HN-LeHuong-2.jpg" alt="teacher">
+				</div>
+			</div>
+			<div class="d-flex align-self-stretch profile-column">
+				<div class="col-xs-4 col-sm-6 col-md-6 col-lg-6 hgd-profile-info ">
+				<h3 id="lehuong">Lê Hương</h3>
+				<p>Địa chỉ: Nguyễn Khuyến, Hà Đông, Hà Nội</p>
+				</div>
+			</div>
+			<div class="d-flex align-self-stretch profile-column">
+				<div class="col-xs-4 col-sm-3 col-md-2 col-lg-2 hgd-profile-info ">
+					<h3 id="unit-price">Học phí</h3>
+					<p class="unit-price">250.000 VNĐ/h</p>
+					<h3 id="rating">Đánh Giá</h3>
+					<div class="rating-star-box">
+						<span><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i></span>
+						<span class="num-of-rates">15</span>
+					</div>
+				</div>
+			</div>
+			<div class="d-flex align-self-stretch profile-column">
+				<div class="col-xs-12 col-sm-12 col-md-2 col-lg-2 hgd-read-more lehuong">
+					<span class="read-more lehuong">&gt;&gt; Tìm hiểu thêm</span>
+				</div>
+			</div>
+		</div> <!-- End Profile row -->
+
+		<!-- Profile Detail -->
+		<div class="row hgd-profile-detail">
+			<div class="row">
+				<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
+					<p><span class="t-heading">Cấp độ giảng dạy</span></p>
+				</div>
+				<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 text-right">
+					<p>Cơ bản - Nâng cao - Chuyên sâu</p>
+				</div>
+			</div>
+			<!-- Description -->
+			<div class="row">
+				<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+					<h4>Vài nét về giáo viên</h4>
+					<p>Chào các quý phụ huynh và các bạn học viên từ http://hocgiday.com/ tôi là Lê Hương, rất vui được giao lưu học hỏi và làm quen với tất cả các bạn trong Học gì đây. Có lẽ không cần phải nói nữa các bạn cũng đã biết về tác dụng của âm nhạc trong đời sống tinh thần của con người.
+Là một giáo viên piano và organ, tôi rất mong có thể truyền cảm hứng cũng như giúp các bạn tiếp cận với bộ môn piano và organ. Nhạc sĩ yêu thích của tôi là Beethoven, với những bản Piano bất hủ, sống mãi qua các thời đại, và tôi cũng bị ảnh hưởng rất nhiều bởi nhạc sĩ lỗi lạc này.
+Phương châm dậy học của tôi là: bằng cấp quan trọng nhưng k phải là tất cả. Cái quan trọng là trong quá trình học các bạn tiếp thu được gì, có gì thay đổi. Tôi không dám chắc có thể giúp bạn trở thành thiên tài. Nhưng tôi đảm bảo sau khi học 10 buổi các bạn sẽ thấy sự thay đổi về cách nhìn nhận bộ môn Piano. Có khả năng tập chung cao, dễ dàng áp dụng sang các bộ môn khác vì Piano là tổng hòa các giác quan, khả năng tập chung cao và rèn luyện tính kiên trì.
+Với kinh nghiệm 8 năm giảng dậy, cho rất nhiều đối tượng và mọi lứa tuổi rất mong được hợp tác và hướng dẫn các bạn tiếp cận với bộ môn nghệ thuật quý tộc này. Thân chào các bạn học viên tương lai và quý phụ huynh tại Học Gì Đây?.
+					</p>
+				</div>
+			</div>
+
+			<!-- End description -->
+			<!-- Left column at md and lg -->
+			<div class="col-xs-12 col-sm-12 col-md-7 col-lg-7"> 
+				<div class="row">
+					<h4>Học vấn</h4>
+					<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">	
+						<p>Tốt nghiệp Đại học sư phạm nghệ thuật trung ương</p>
+					</div>
+					
+				</div>
+				<div class="row">
+					<h4>Video</h4>
+					<div class="col-xs-12 col-sm-12 col-md-11 col-lg-11 wrapper wrapper-iframe">
+						<iframe class="wrapper-item wrapper-video" src="https://www.youtube.com/embed/qanjBGdsVu8" frameborder="0" allowfullscreen></iframe>
+					</div>
+				</div>	
+			</div> <!-- End left column -->
+			
+			<!-- Right column at md and lg -->
+			<div class="col-xs-12 col-sm-12 col-md-5 col-lg-5"> 
+				
+				<div class="row">
+					<div class="col-xs-7 col-sm-7 col-md-7 col-lg-7">
+						<h4>Phạm vi đi lại</h4>
+					</div>
+					<div class="col-xs-5 col-sm-5 col-md-5 col-lg-5 text-right">
+						<p>10km</p>
+					</div>
+				</div>
+				<div class="row">
+					<h4>Học phí</h4>
+					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
+						<p>Tại nhà</p>
+					</div>
+					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 text-right">
+						<p>250.000 VNĐ/h</p>
+					</div>
+					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
+						<p>Tại lớp</p>
+					</div>
+					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 text-right">
+						<p>200.000 VNĐ/h</p>
+					</div>
+				</div>
+				<div class="row">
+					<h4>Lịch giảng dạy của giáo viên</h4>
+					<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+						<table class="table table-bordered">
+			<thead>
+			 <tr>
+				<th></th>
+				<th>T2</th>
+				<th>T3</th>
+				<th>T4</th>
+				<th>T5</th>
+				<th>T6</th>
+				<th>T7</th>
+				<th>CN</th>
+			 </tr>
+			</thead>
+			<tbody>
+			 <tr>
+				<th>Sáng</th>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td class="busy"></td>
+				<td class="busy"></td>
+				<td class="busy"></td>
+				<td></td>
+			 </tr>
+			 <tr>
+				<th>Chiều</th>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td class="busy"></td>
+				<td class="busy"></td>
+				<td></td>
+				<td></td>
+			 </tr>
+			 <tr>
+				<th>Tối</th>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td class="busy"></td>
+				<td class="busy"></td>
+				<td></td>
+				<td></td>
+			 </tr>
+			</tbody>
+		 </table> 
+ 
+					<span class="legend"></span> : Những buổi giáo viên có thể giảng dạy 	
+					</div>
+				</div>
+				<div class="row sign-up">
+					<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+						<button class="btn btn-info btn-lg btn-sign-up center-block dang-ky-ngay" data-toggle="modal" data-target="#myModal" rel="lehuong">Đăng ký ngay</button>
+					</div>
+				</div>
+			</div>
+		</div> <!-- End Profile detail -->
+	</div> <!-- End Profile box --> 
+	<!-- Profile row: Dương Thị Tâm-->
+	<!-- Profile box -->
+	<div class="container-fluid hgd-profile-box hanoi" data-price="200">
+		<div class="row hgd-profile ">
+			<div class="d-flex align-self-stretch profile-column">
+				<div class="col-xs-4 col-sm-3 col-md-2 col-lg-2 hgd-profile-info hgd-avatar">
+					<img class="img-circle img-responsive center-block hgd-profile-avatar" src="https://www.hocgiday.com/wp-content/uploads/2017/07/Tam-2.jpg" alt="teacher">
+				</div>
+			</div>
+			<div class="d-flex align-self-stretch profile-column">
+				<div class="col-xs-4 col-sm-6 col-md-6 col-lg-6 hgd-profile-info ">
+				<h3 id="duongthitam">Dương Thị Tâm</h3>
+				<p>Địa chỉ: ngõ 139 Yên Xá, Thanh Trì, Hà Đông, Hà Nội</p>
+				</div>
+			</div>
+			<div class="d-flex align-self-stretch profile-column">
+				<div class="col-xs-4 col-sm-3 col-md-2 col-lg-2 hgd-profile-info ">
+					<h3 id="unit-price">Học phí</h3>
+					<p class="unit-price">200.000 VNĐ/h</p>
+					<h3 id="rating">Đánh Giá</h3>
+					<div class="rating-star-box">
+						<span><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star-o" aria-hidden="true"></i></span>
+						<span class="num-of-rates">2</span>
+					</div>
+				</div>
+			</div>
+			<div class="d-flex align-self-stretch profile-column">
+				<div class="col-xs-12 col-sm-12 col-md-2 col-lg-2 hgd-read-more duongthitam">
+					<span class="read-more duongthitam">&gt;&gt; Tìm hiểu thêm</span>
 				</div>
 			</div>
 		</div> <!-- End Profile row -->
@@ -2352,7 +1905,9 @@ Tôi tin rằng xây dựng nền tảng lý thuyết cáng vững chắc thì n
 			<div class="row">
 				<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
 					<h4>Vài nét về giáo viên</h4>
-					<p>Mình là Thùy Trang. Hiện tại mình đang theo học trường Học viện báo chí tuyên truyền, tuy nhiên, mình đang theo học ngành 2 là về guitar. Thực sự  mình rất yêu thích tiếng đàn guitar, và muốn theo đuổi âm nhạc trong tương lai. Đến với lớp học của Trang, Trang sẽ tùy vào tùy từng trình độ của học sinh mà đưa ra giáo trình phù hợp nhất cho người đó. Cô giáo hiền lành dễ thương nhưng trong việc học thì cực kì nghiêm khắc nghen. Mình thích nhiều thể loại nhạc lắm, nhưng chắc là fan trung thành nhất trong nhạc pop rồi. Rất vui được làm việc với những học sinh của hocgiday.com!					</p>
+					<p>Kiên trì và đam mê! Đó là kim chỉ nam trong lớp học nhạc của mình. Những thứ bắt đầu bằng sự tò mò dần trở thành đam mê và nỗi ám ảnh. Và giấc mơ lớn nhất của mình là truyền giảng niềm đam mê đó lại cho người khác!
+Mình thích chơi đàn piano từ nhỏ, nhưng đến cấp ba mới có khả năng đi học piano.
+ Mình luôn tìm kiếm những cách mới và thú vị để dạy piano. Điểm mạnh của mình bao gồm sự kiên nhẫn, hài hước và đồng cảm với người khác. Bạn muốn học được gì từ Piano? Vào cuối buổi học nếu mình có thể chia sẻ một phần tình yêu âm nhạc cho bạn, nó sẽ mang lại cho mình niềm vui thật sự.					</p>
 				</div>
 			</div>
 
@@ -2362,14 +1917,14 @@ Tôi tin rằng xây dựng nền tảng lý thuyết cáng vững chắc thì n
 				<div class="row">
 					<h4>Học vấn</h4>
 					<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">	
-						<p></p>
+						<p>Tốt nghiệp Đại học sư phạm nghệ thuật trung ương</p>
 					</div>
 					
 				</div>
 				<div class="row">
 					<h4>Video</h4>
 					<div class="col-xs-12 col-sm-12 col-md-11 col-lg-11 wrapper wrapper-iframe">
-						<iframe class="wrapper-item wrapper-video" src="https://www.youtube.com/embed/v8A4pfTCMus" frameborder="0" allowfullscreen></iframe>
+						<iframe class="wrapper-item wrapper-video" src="https://www.youtube.com/embed/sPjg_Z9gZxg" frameborder="0" allowfullscreen></iframe>
 					</div>
 				</div>	
 			</div> <!-- End left column -->
@@ -2391,833 +1946,13 @@ Tôi tin rằng xây dựng nền tảng lý thuyết cáng vững chắc thì n
 						<p>Tại nhà</p>
 					</div>
 					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 text-right">
-						<p>300.000 đ/ 60 phút</p>
+						<p>200.000 VNĐ/h</p>
 					</div>
 					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
 						<p>Tại lớp</p>
 					</div>
 					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 text-right">
-						<p>250.000 đ/ 60 phút</p>
-					</div>
-				</div>
-				<div class="row">
-					<h4>Lịch giảng dạy của giáo viên</h4>
-					<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
-						<table class="table table-bordered">
-			<thead>
-			 <tr>
-				<th></th>
-				<th>T2</th>
-				<th>T3</th>
-				<th>T4</th>
-				<th>T5</th>
-				<th>T6</th>
-				<th>T7</th>
-				<th>CN</th>
-			 </tr>
-			</thead>
-			<tbody>
-			 <tr>
-				<th>Sáng</th>
-				<td class="busy"></td>
-				<td class="busy"></td>
-				<td></td>
-				<td class="busy"></td>
-				<td class="busy"></td>
-				<td class="busy"></td>
-				<td></td>
-			 </tr>
-			 <tr>
-				<th>Chiều</th>
-				<td class="busy"></td>
-				<td class="busy"></td>
-				<td class="busy"></td>
-				<td class="busy"></td>
-				<td class="busy"></td>
-				<td class="busy"></td>
-				<td class="busy"></td>
-			 </tr>
-			 <tr>
-				<th>Tối</th>
-				<td></td>
-				<td></td>
-				<td></td>
-				<td></td>
-				<td></td>
-				<td></td>
-				<td></td>
-			 </tr>
-			</tbody>
-		 </table>
- 
- 
-					<span class="legend"></span> : Những buổi giáo viên có thể giảng dạy 	
-					</div>
-				</div>
-				<div class="row sign-up">
-					<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
-						<button class="btn btn-info btn-lg btn-sign-up center-block dang-ky-ngay" data-toggle="modal" data-target="#myModal" rel="trinhthithuytrang">Đăng ký ngay</button>
-					</div>
-				</div>
-			</div>
-		</div> <!-- End Profile detail -->
-	</div> <!-- End Profile box --> 
-	<!-- Profile row: Hồ Trọng Hà-->
-	<!-- Profile box -->
-	<div class="container-fluid hgd-profile-box hanoi" data-price="300">
-		<div class="row hgd-profile ">
-			<div class="d-flex align-self-stretch profile-column">
-				<div class="col-xs-4 col-sm-3 col-md-2 col-lg-2 hgd-profile-info hgd-avatar">
-					<img class="img-circle img-responsive center-block hgd-profile-avatar" src="https://www.hocgiday.com/wp-content/uploads/2017/07/Trong-Ha.jpg" alt="teacher">
-				</div>
-			</div>
-			<div class="d-flex align-self-stretch profile-column">
-				<div class="col-xs-4 col-sm-6 col-md-6 col-lg-6 hgd-profile-info ">
-				<h3 id="hotrongha">Hồ Trọng Hà</h3>
-				<p>Địa chỉ: đường Cốm Vòng, quận Cầu Giấy</p>
-				</div>
-			</div>
-			<div class="d-flex align-self-stretch profile-column">
-				<div class="col-xs-4 col-sm-3 col-md-2 col-lg-2 hgd-profile-info ">
-					<h3 id="unit-price">Học phí</h3>
-					<p class="unit-price">300.000 đ/ 60 phút</p>
-					<h3 id="rating">Đánh Giá</h3>
-					<div class="rating-star-box">
-						<span><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i></span>
-						<span class="num-of-rates">4</span>
-					</div>
-				</div>
-			</div>
-			<div class="d-flex align-self-stretch profile-column">
-				<div class="col-xs-12 col-sm-12 col-md-2 col-lg-2 hgd-read-more hotrongha">
-					<span class="read-more hotrongha">&gt;&gt; Tìm hiểu thêm</span>
-				</div>
-			</div>
-		</div> <!-- End Profile row -->
-
-		<!-- Profile Detail -->
-		<div class="row hgd-profile-detail">
-			<div class="row">
-				<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
-					<p><span class="t-heading">Cấp độ giảng dạy</span></p>
-				</div>
-				<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 text-right">
-					<p>Cơ bản, Nâng cao, Chuyên sâu</p>
-				</div>
-			</div>
-			<!-- Description -->
-			<div class="row">
-				<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
-					<h4>Vài nét về giáo viên</h4>
-					<p>Tiếp xúc với âm nhạc từ khá sớm khoảng năm 2010, mình đã tốt nghiệp đại học luật. Trong thời gian đó, mình thấy âm nhạc là thứ phù hợp với mình và sự nghiệp của mình. Còn việc giảng dạy thì khoảng từ năm 2012. Mình đã sáng lập ra lớp đào tạo âm nhạc School of Rock hay còn gọi là S.O.R. Thần tượng của mình thì nhiều lắm, vì mình chơi đa dạng thể loại từ Jazz, Rock, Metal,… Thế nên thần tượng có thể kể tới là Joe Satriani, Andy James,… Hoạt động thì mình đã có 1 studio riêng và là người sáng lập ban nhạc SOR, diễn tại nhiêu quán café khác nhau như Bar +84,… ngoài ra mình còn là thành viên Guitar lead của ban nhạc Cát. Đến với lớp học của mình, các bạn sẽ được giảng dạy theo cách riêng của mình, phù hợp với mỗi bạn. Mình rất thoải mái trong mọi vấn đề, nhưng riêng việc học mình yêu cầu các bạn nghiêm túc. Rất vui được làm việc với các bạn học sinh của hocgiday.com					</p>
-				</div>
-			</div>
-
-			<!-- End description -->
-			<!-- Left column at md and lg -->
-			<div class="col-xs-12 col-sm-12 col-md-7 col-lg-7"> 
-				<div class="row">
-					<h4>Học vấn</h4>
-					<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">	
-						<p>Đã tốt nghiệp hệ Trung cấp Đại học văn hóa nghệ thuật quân đội</p>
-					</div>
-					
-				</div>
-				<div class="row">
-					<h4>Video</h4>
-					<div class="col-xs-12 col-sm-12 col-md-11 col-lg-11 wrapper wrapper-iframe">
-						<iframe class="wrapper-item wrapper-video" src="https://www.youtube.com/embed/8v4wg9_ym2M" frameborder="0" allowfullscreen></iframe>
-					</div>
-				</div>	
-			</div> <!-- End left column -->
-			
-			<!-- Right column at md and lg -->
-			<div class="col-xs-12 col-sm-12 col-md-5 col-lg-5"> 
-				
-				<div class="row">
-					<div class="col-xs-7 col-sm-7 col-md-7 col-lg-7">
-						<h4>Phạm vi đi lại</h4>
-					</div>
-					<div class="col-xs-5 col-sm-5 col-md-5 col-lg-5 text-right">
-						<p>0km</p>
-					</div>
-				</div>
-				<div class="row">
-					<h4>Học phí</h4>
-					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
-						<p>Tại nhà</p>
-					</div>
-					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 text-right">
-						<p>300.000 đ/ 60 phút</p>
-					</div>
-					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
-						<p>Tại lớp</p>
-					</div>
-					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 text-right">
-						<p>300.000 đ/ 60 phút</p>
-					</div>
-				</div>
-				<div class="row">
-					<h4>Lịch giảng dạy của giáo viên</h4>
-					<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
-						<table class="table table-bordered">
-			<thead>
-			 <tr>
-				<th></th>
-				<th>T2</th>
-				<th>T3</th>
-				<th>T4</th>
-				<th>T5</th>
-				<th>T6</th>
-				<th>T7</th>
-				<th>CN</th>
-			 </tr>
-			</thead>
-			<tbody>
-			 <tr>
-				<th>Sáng</th>
-				<td class="busy"></td>
-				<td></td>
-				<td class="busy"></td>
-				<td></td>
-				<td class="busy"></td>
-				<td></td>
-				<td></td>
-			 </tr>
-			 <tr>
-				<th>Chiều</th>
-				<td class="busy"></td>
-				<td></td>
-				<td></td>
-				<td></td>
-				<td class="busy"></td>
-				<td class="busy"></td>
-				<td class="busy"></td>
-			 </tr>
-			 <tr>
-				<th>Tối</th>
-				<td class="busy"></td>
-				<td class="busy"></td>
-				<td class="busy"></td>
-				<td></td>
-				<td></td>
-				<td></td>
-				<td class="busy"></td>
-			 </tr>
-			</tbody>
-		 </table>
- 
- 
- 
-					<span class="legend"></span> : Những buổi giáo viên có thể giảng dạy 	
-					</div>
-				</div>
-				<div class="row sign-up">
-					<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
-						<button class="btn btn-info btn-lg btn-sign-up center-block dang-ky-ngay" data-toggle="modal" data-target="#myModal" rel="hotrongha">Đăng ký ngay</button>
-					</div>
-				</div>
-			</div>
-		</div> <!-- End Profile detail -->
-	</div> <!-- End Profile box --> 
-	<!-- Profile row: Vương Trí Thiên-->
-	<!-- Profile box -->
-	<div class="container-fluid hgd-profile-box hanoi" data-price="180">
-		<div class="row hgd-profile ">
-			<div class="d-flex align-self-stretch profile-column">
-				<div class="col-xs-4 col-sm-3 col-md-2 col-lg-2 hgd-profile-info hgd-avatar">
-					<img class="img-circle img-responsive center-block hgd-profile-avatar" src="https://www.hocgiday.com/wp-content/uploads/2017/06/3-HN-NgoTuanTu.jpg" alt="teacher">
-				</div>
-			</div>
-			<div class="d-flex align-self-stretch profile-column">
-				<div class="col-xs-4 col-sm-6 col-md-6 col-lg-6 hgd-profile-info ">
-				<h3 id="vuongtrithien">Vương Trí Thiên</h3>
-				<p>Địa chỉ: 8 ngõ 31 Lương Ngọc Quyến, Văn Quán, Hà Đông, Hà Nội</p>
-				</div>
-			</div>
-			<div class="d-flex align-self-stretch profile-column">
-				<div class="col-xs-4 col-sm-3 col-md-2 col-lg-2 hgd-profile-info ">
-					<h3 id="unit-price">Học phí</h3>
-					<p class="unit-price">180.000 VNĐ/60 phút</p>
-					<h3 id="rating">Đánh Giá</h3>
-					<div class="rating-star-box">
-						<span><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star-o" aria-hidden="true"></i></span>
-						<span class="num-of-rates">3</span>
-					</div>
-				</div>
-			</div>
-			<div class="d-flex align-self-stretch profile-column">
-				<div class="col-xs-12 col-sm-12 col-md-2 col-lg-2 hgd-read-more vuongtrithien">
-					<span class="read-more vuongtrithien">&gt;&gt; Tìm hiểu thêm</span>
-				</div>
-			</div>
-		</div> <!-- End Profile row -->
-
-		<!-- Profile Detail -->
-		<div class="row hgd-profile-detail">
-			<div class="row">
-				<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
-					<p><span class="t-heading">Cấp độ giảng dạy</span></p>
-				</div>
-				<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 text-right">
-					<p>Cơ bản</p>
-				</div>
-			</div>
-			<!-- Description -->
-			<div class="row">
-				<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
-					<h4>Vài nét về giáo viên</h4>
-					<p>Giống như một nghệ sỹ lãng du, từ ngoại hình đến phong cách trình diễn, ở Thiên luôn toát lên một chất vị riêng có rất đặc biệt. Một con người có vẻ bề ngoài đơn giản nhưng tài năng lại không hề giản đơn chút nào. Tốt nghiệp Học viện âm nhạc Quốc gia 2008 và Đại học Văn Hóa nghệ thuật trung ương 2013, Trí Thiên đã trải qua một quá trình đào tạo và rèn luyện hết sức chuyên nghiệp và bài bản từ một trong những trường nghệ thuật lớn nhất cả nước. Tài năng giống như một viên ngọc thô, nếu cứ để mãi trong tự nhiên, bào mòn bởi gió cát, sẽ không thể trở nên long lanh và tinh tế được. Nhưng nếu qua tay những người thợ chuyên nghiệp, nó sẽ trở nên vô cùng giá trị.
-Hơn nữa, bắt đầu sự nghiệp âm nhạc nghệ thuật từ mãi những năm 2000-2001, Trí Thiên gắn bó với những phím đàn như một người bạn đồng hành thân thiết, trải qua rất nhiều những sự kiện, tích lũy vô vàn những trải nghiệm bản thân. Cùng với hơn 2 năm kinh nghiệm giảng dạy bộ môn chuyên ngành, thầy cũng có được một số vốn kỹ năng sư phạm tốt để truyền tải kiến thức và cảm hứng cho các học viên.
-Trong thời gian hoạt động nghệ thuật lâu dài của mình, Trần đạt từng là thành viên cốt cán của band nhạc New Song đình đám một thời. Ngoài ra, thầy cũng thường xuyên nhận được những lời mời biểu diễn tại những Nhà hàng, Khách sạn lớn, Rạp xiếc Trung ương, Triển lãm Giảng Võ, các chương trình, sự kiện trong Sài Gòn và nhiều tỉnh khác…
-Những học viên từng được Trần đạt dẫn dắt đa số tìm đến Piano như một niềm đam mê sẵn có, thầy giáo cũng chia sẻ thầy rất thích giảng dạy những học sinh như vậy, không gượng ép, không khô cứng, cả thầy và trò cùng hòa hợp chia sẻ một sở thích chung.
-					</p>
-				</div>
-			</div>
-
-			<!-- End description -->
-			<!-- Left column at md and lg -->
-			<div class="col-xs-12 col-sm-12 col-md-7 col-lg-7"> 
-				<div class="row">
-					<h4>Học vấn</h4>
-					<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">	
-						<p>Sinh viên năm 3 Đại học Sư phạm Nghệ thuật Trưng ương</p>
-					</div>
-					
-				</div>
-				<div class="row">
-					<h4>Video</h4>
-					<div class="col-xs-12 col-sm-12 col-md-11 col-lg-11 wrapper wrapper-iframe">
-						<iframe class="wrapper-item wrapper-video" src="" frameborder="0" allowfullscreen></iframe>
-					</div>
-				</div>	
-			</div> <!-- End left column -->
-			
-			<!-- Right column at md and lg -->
-			<div class="col-xs-12 col-sm-12 col-md-5 col-lg-5"> 
-				
-				<div class="row">
-					<div class="col-xs-7 col-sm-7 col-md-7 col-lg-7">
-						<h4>Phạm vi đi lại</h4>
-					</div>
-					<div class="col-xs-5 col-sm-5 col-md-5 col-lg-5 text-right">
-						<p>10km</p>
-					</div>
-				</div>
-				<div class="row">
-					<h4>Học phí</h4>
-					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
-						<p>Tại nhà</p>
-					</div>
-					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 text-right">
-						<p>180.000 VNĐ/60 phút</p>
-					</div>
-					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
-						<p>Tại lớp</p>
-					</div>
-					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 text-right">
-						<p>150.000 VNĐ/60 phút</p>
-					</div>
-				</div>
-				<div class="row">
-					<h4>Lịch giảng dạy của giáo viên</h4>
-					<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
-						<table class="table table-bordered">
-			<thead>
-			 <tr>
-				<th></th>
-				<th>T2</th>
-				<th>T3</th>
-				<th>T4</th>
-				<th>T5</th>
-				<th>T6</th>
-				<th>T7</th>
-				<th>CN</th>
-			 </tr>
-			</thead>
-			<tbody>
-			 <tr>
-				<th>Sáng</th>
-				<td class="busy"></td>
-				<td></td>
-				<td class="busy"></td>
-				<td></td>
-				<td class="busy"></td>
-				<td></td>
-				<td></td>
-			 </tr>
-			 <tr>
-				<th>Chiều</th>
-				<td class="busy"></td>
-				<td></td>
-				<td></td>
-				<td></td>
-				<td></td>
-				<td class="busy"></td>
-				<td class="busy"></td>
-			 </tr>
-			 <tr>
-				<th>Tối</th>
-				<td class="busy"></td>
-				<td class="busy"></td>
-				<td></td>
-				<td></td>
-				<td></td>
-				<td></td>
-				<td class="busy"></td>
-			 </tr>
-			</tbody>
-		 </table>
- 
- 
- 
-					<span class="legend"></span> : Những buổi giáo viên có thể giảng dạy 	
-					</div>
-				</div>
-				<div class="row sign-up">
-					<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
-						<button class="btn btn-info btn-lg btn-sign-up center-block dang-ky-ngay" data-toggle="modal" data-target="#myModal" rel="vuongtrithien">Đăng ký ngay</button>
-					</div>
-				</div>
-			</div>
-		</div> <!-- End Profile detail -->
-	</div> <!-- End Profile box --> 
-	<!-- Profile row: Đỗ Đức Nhàn-->
-	<!-- Profile box -->
-	<div class="container-fluid hgd-profile-box hanoi" data-price="150">
-		<div class="row hgd-profile ">
-			<div class="d-flex align-self-stretch profile-column">
-				<div class="col-xs-4 col-sm-3 col-md-2 col-lg-2 hgd-profile-info hgd-avatar">
-					<img class="img-circle img-responsive center-block hgd-profile-avatar" src="https://www.hocgiday.com/wp-content/uploads/2017/06/2-HN-DoDucNhan.jpg" alt="teacher">
-				</div>
-			</div>
-			<div class="d-flex align-self-stretch profile-column">
-				<div class="col-xs-4 col-sm-6 col-md-6 col-lg-6 hgd-profile-info ">
-				<h3 id="doducnhan">Đỗ Đức Nhàn</h3>
-				<p>Địa chỉ: Nguyễn Trãi, Khương Trung, Thanh Xuân, Hà Nội</p>
-				</div>
-			</div>
-			<div class="d-flex align-self-stretch profile-column">
-				<div class="col-xs-4 col-sm-3 col-md-2 col-lg-2 hgd-profile-info ">
-					<h3 id="unit-price">Học phí</h3>
-					<p class="unit-price">150.000 VNĐ/60 phút</p>
-					<h3 id="rating">Đánh Giá</h3>
-					<div class="rating-star-box">
-						<span><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i></span>
-						<span class="num-of-rates">10</span>
-					</div>
-				</div>
-			</div>
-			<div class="d-flex align-self-stretch profile-column">
-				<div class="col-xs-12 col-sm-12 col-md-2 col-lg-2 hgd-read-more doducnhan">
-					<span class="read-more doducnhan">&gt;&gt; Tìm hiểu thêm</span>
-				</div>
-			</div>
-		</div> <!-- End Profile row -->
-
-		<!-- Profile Detail -->
-		<div class="row hgd-profile-detail">
-			<div class="row">
-				<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
-					<p><span class="t-heading">Cấp độ giảng dạy</span></p>
-				</div>
-				<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 text-right">
-					<p>Cơ bản, Nâng cao</p>
-				</div>
-			</div>
-			<!-- Description -->
-			<div class="row">
-				<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
-					<h4>Vài nét về giáo viên</h4>
-					<p>Thật ra nếu như bạn thích, và chăm chỉ thì đàn guitar hay các loại nhạc cụ cũng không quá thách thức với bất cứ ai. Mình tin là giờ học nhạc sẽ khác và thú vị hơn nhiều so với học văn hóa. Đặc biệt là với những bạn nhỏ tuổi thì học nhạc là cách khá hữu hiệu giúp các em bớt căng thẳng với việc học trên lớp. Mình nhận thấy các em bộc lộ khá nhiều, rất dễ thương, khác so với bình thường. Chúng ta sẽ làm việc trên tinh thần thoải mái nhất có thể. Mong rằng mình có thể là người đem đến nhiều điều thú vị, và cùng đồng hành với các bạn. Chúc các bạn thành công, và hẹn gặp lại!					</p>
-				</div>
-			</div>
-
-			<!-- End description -->
-			<!-- Left column at md and lg -->
-			<div class="col-xs-12 col-sm-12 col-md-7 col-lg-7"> 
-				<div class="row">
-					<h4>Học vấn</h4>
-					<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">	
-						<p>Tốt nghiệp Đại học Sư phạm Nghệ thuật Trung ương</p>
-					</div>
-					
-				</div>
-				<div class="row">
-					<h4>Video</h4>
-					<div class="col-xs-12 col-sm-12 col-md-11 col-lg-11 wrapper wrapper-iframe">
-						<iframe class="wrapper-item wrapper-video" src="" frameborder="0" allowfullscreen></iframe>
-					</div>
-				</div>	
-			</div> <!-- End left column -->
-			
-			<!-- Right column at md and lg -->
-			<div class="col-xs-12 col-sm-12 col-md-5 col-lg-5"> 
-				
-				<div class="row">
-					<div class="col-xs-7 col-sm-7 col-md-7 col-lg-7">
-						<h4>Phạm vi đi lại</h4>
-					</div>
-					<div class="col-xs-5 col-sm-5 col-md-5 col-lg-5 text-right">
-						<p>5km</p>
-					</div>
-				</div>
-				<div class="row">
-					<h4>Học phí</h4>
-					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
-						<p>Tại nhà</p>
-					</div>
-					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 text-right">
-						<p>150.000 VNĐ/60 phút</p>
-					</div>
-					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
-						<p>Tại lớp</p>
-					</div>
-					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 text-right">
-						<p>150.000 VNĐ/60 phút</p>
-					</div>
-				</div>
-				<div class="row">
-					<h4>Lịch giảng dạy của giáo viên</h4>
-					<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
-						<table class="table table-bordered">
-			<thead>
-			 <tr>
-				<th></th>
-				<th>T2</th>
-				<th>T3</th>
-				<th>T4</th>
-				<th>T5</th>
-				<th>T6</th>
-				<th>T7</th>
-				<th>CN</th>
-			 </tr>
-			</thead>
-			<tbody>
-			 <tr>
-				<th>Sáng</th>
-				<td></td>
-				<td class="busy"></td>
-				<td></td>
-				<td class="busy"></td>
-				<td class="busy"></td>
-				<td></td>
-				<td></td>
-			 </tr>
-			 <tr>
-				<th>Chiều</th>
-				<td></td>
-				<td class="busy"></td>
-				<td></td>
-				<td class="busy"></td>
-				<td class="busy"></td>
-				<td></td>
-				<td></td>
-			 </tr>
-			 <tr>
-				<th>Tối</th>
-				<td></td>
-				<td></td>
-				<td></td>
-				<td class="busy"></td>
-				<td class="busy"></td>
-				<td class="busy"></td>
-				<td></td>
-			 </tr>
-			</tbody>
-		 </table>
- 
- 
- 
-					<span class="legend"></span> : Những buổi giáo viên có thể giảng dạy 	
-					</div>
-				</div>
-				<div class="row sign-up">
-					<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
-						<button class="btn btn-info btn-lg btn-sign-up center-block dang-ky-ngay" data-toggle="modal" data-target="#myModal" rel="doducnhan">Đăng ký ngay</button>
-					</div>
-				</div>
-			</div>
-		</div> <!-- End Profile detail -->
-	</div> <!-- End Profile box --> 
-	<!-- Profile row: Hà Thị Xuân-->
-	<!-- Profile box -->
-	<div class="container-fluid hgd-profile-box hanoi" data-price="150">
-		<div class="row hgd-profile ">
-			<div class="d-flex align-self-stretch profile-column">
-				<div class="col-xs-4 col-sm-3 col-md-2 col-lg-2 hgd-profile-info hgd-avatar">
-					<img class="img-circle img-responsive center-block hgd-profile-avatar" src="https://www.hocgiday.com/wp-content/uploads/2017/06/4-HN-Nguyen-Thi-Tho.jpg" alt="teacher">
-				</div>
-			</div>
-			<div class="d-flex align-self-stretch profile-column">
-				<div class="col-xs-4 col-sm-6 col-md-6 col-lg-6 hgd-profile-info ">
-				<h3 id="hathixuan">Hà Thị Xuân</h3>
-				<p>Địa chỉ: ngõ 411 Lĩnh Nam, quận Hoàng Mai, thành phố Hà Nội</p>
-				</div>
-			</div>
-			<div class="d-flex align-self-stretch profile-column">
-				<div class="col-xs-4 col-sm-3 col-md-2 col-lg-2 hgd-profile-info ">
-					<h3 id="unit-price">Học phí</h3>
-					<p class="unit-price">150.000 VNĐ/60 phút</p>
-					<h3 id="rating">Đánh Giá</h3>
-					<div class="rating-star-box">
-						<span><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star-o" aria-hidden="true"></i><i class="fa fa-star-o" aria-hidden="true"></i><i class="fa fa-star-o" aria-hidden="true"></i></span>
-						<span class="num-of-rates">4</span>
-					</div>
-				</div>
-			</div>
-			<div class="d-flex align-self-stretch profile-column">
-				<div class="col-xs-12 col-sm-12 col-md-2 col-lg-2 hgd-read-more hathixuan">
-					<span class="read-more hathixuan">&gt;&gt; Tìm hiểu thêm</span>
-				</div>
-			</div>
-		</div> <!-- End Profile row -->
-
-		<!-- Profile Detail -->
-		<div class="row hgd-profile-detail">
-			<div class="row">
-				<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
-					<p><span class="t-heading">Cấp độ giảng dạy</span></p>
-				</div>
-				<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 text-right">
-					<p>Cơ bản</p>
-				</div>
-			</div>
-			<!-- Description -->
-			<div class="row">
-				<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
-					<h4>Vài nét về giáo viên</h4>
-					<p>Là một trong những giảng viên sở hữu bộ hồ sơ thành tích xuất sắc tại Học Gì Đây?, thông minh, nhạy bén và yêu nghệ thuật sâu sắc, từ rất lâu Hà Thị Xuân đã xác định cho mình phương pháp tìm hiểu, học tập, khám phá và theo đuổi đam mê một cách nghiêm túc nhưng vẫn hết sức mới mẻ, hiện đại.
-Sinh viên năm 3 Cao đẳng nghệ thuật Hà Nội, cùng với những gì mà cô giáo thể hiện, có thể nói Hà Thị Xuân là một nhân tài được ưu ái cho tài năng thiên bẩm hơn người, coi đàn là bạn, chơi đàn bằng đôi tai cảm thụ nhạy bén, bằng tình yêu guitar chân thành, bằng trải nghiệm bản thân trong những lần va chạm thực tiễn.
-Hơn 16 năm gắn bó với cây đàn guitar rèn luyện cho cô giáo một đôi tay linh hoạt và uyển chuyển. Cùng với đó là 5 năm kinh nghiệm biểu diễn tại vô số những sự kiện, khách sạn lớn trong và ngoài nước, sự từng trải của Hà Thị Xuân với Piano đủ để có thể nắm bắt và truyền giảng cho bất kỳ học viên nào.
-Một vài hoạt động và thành tích nổi bật của Hà Thị Xuân:
-• Giải Tài năng trẻ trường Cao đẳng Nghệ thuật Hà Nội.
-• Giải Band nhạc triển vọng trường Cao đẳng Nghệ thuật Hà Nội.
-• Tổ chức và biểu diễn show Âm nhạc đương đại Travelling Notes.
-• Tham gia các worlshop âm nhạc tại Singapore, Thailand.
-Theo đuổi phương pháp giảng dạy Dalcroze Eurhythmics (tiếp cận âm nhạc bằng ngôn ngữ cơ thể và ngẫu hứng), Hà Thị Xuân đã tham gia các khóa đào tạo tại Singapore dưới sự hướng dẫn của các giáo viên đầu ngành về Dalcroze tại Nhạc viên Geneva (Thụy Sỹ) và Học viện Dalcroze Australia.
-Trở về Việt Nam, quyết định không đi theo những lối cũ truyền thống, Hà Thị Xuân muốn truyền tải những gì mới mẻ mình đã tìm hiểu và học hỏi được, phát triển rộng rãi mô hình giảng dạy mới.
-					</p>
-				</div>
-			</div>
-
-			<!-- End description -->
-			<!-- Left column at md and lg -->
-			<div class="col-xs-12 col-sm-12 col-md-7 col-lg-7"> 
-				<div class="row">
-					<h4>Học vấn</h4>
-					<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">	
-						<p>Sinh viên năm 3 Cao đẳng nghệ thuật Hà Nội</p>
-					</div>
-					
-				</div>
-				<div class="row">
-					<h4>Video</h4>
-					<div class="col-xs-12 col-sm-12 col-md-11 col-lg-11 wrapper wrapper-iframe">
-						<iframe class="wrapper-item wrapper-video" src="" frameborder="0" allowfullscreen></iframe>
-					</div>
-				</div>	
-			</div> <!-- End left column -->
-			
-			<!-- Right column at md and lg -->
-			<div class="col-xs-12 col-sm-12 col-md-5 col-lg-5"> 
-				
-				<div class="row">
-					<div class="col-xs-7 col-sm-7 col-md-7 col-lg-7">
-						<h4>Phạm vi đi lại</h4>
-					</div>
-					<div class="col-xs-5 col-sm-5 col-md-5 col-lg-5 text-right">
-						<p>0km</p>
-					</div>
-				</div>
-				<div class="row">
-					<h4>Học phí</h4>
-					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
-						<p>Tại nhà</p>
-					</div>
-					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 text-right">
-						<p>150.000 VNĐ/60 phút</p>
-					</div>
-					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
-						<p>Tại lớp</p>
-					</div>
-					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 text-right">
-						<p>120.000 VNĐ/60 phút</p>
-					</div>
-				</div>
-				<div class="row">
-					<h4>Lịch giảng dạy của giáo viên</h4>
-					<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
-						<table class="table table-bordered">
-			<thead>
-			 <tr>
-				<th></th>
-				<th>T2</th>
-				<th>T3</th>
-				<th>T4</th>
-				<th>T5</th>
-				<th>T6</th>
-				<th>T7</th>
-				<th>CN</th>
-			 </tr>
-			</thead>
-			<tbody>
-			 <tr>
-				<th>Sáng</th>
-				<td></td>
-				<td class="busy"></td>
-				<td class="busy"></td>
-				<td></td>
-				<td></td>
-				<td class="busy"></td>
-				<td></td>
-			 </tr>
-			 <tr>
-				<th>Chiều</th>
-				<td class="busy"></td>
-				<td></td>
-				<td></td>
-				<td class="busy"></td>
-				<td class="busy"></td>
-				<td></td>
-				<td></td>
-			 </tr>
-			 <tr>
-				<th>Tối</th>
-				<td></td>
-				<td></td>
-				<td class="busy"></td>
-				<td></td>
-				<td></td>
-				<td class="busy"></td>
-				<td class="busy"></td>
-			 </tr>
-			</tbody>
-		 </table>
- 
- 
-					<span class="legend"></span> : Những buổi giáo viên có thể giảng dạy 	
-					</div>
-				</div>
-				<div class="row sign-up">
-					<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
-						<button class="btn btn-info btn-lg btn-sign-up center-block dang-ky-ngay" data-toggle="modal" data-target="#myModal" rel="hathixuan">Đăng ký ngay</button>
-					</div>
-				</div>
-			</div>
-		</div> <!-- End Profile detail -->
-	</div> <!-- End Profile box --> 
-	<!-- Profile row: Mai Kim Thảo-->
-	<!-- Profile box -->
-	<div class="container-fluid hgd-profile-box hanoi" data-price="180">
-		<div class="row hgd-profile ">
-			<div class="d-flex align-self-stretch profile-column">
-				<div class="col-xs-4 col-sm-3 col-md-2 col-lg-2 hgd-profile-info hgd-avatar">
-					<img class="img-circle img-responsive center-block hgd-profile-avatar" src="https://www.hocgiday.com/wp-content/uploads/2017/06/7-HN-PhuongThiHue.jpg" alt="teacher">
-				</div>
-			</div>
-			<div class="d-flex align-self-stretch profile-column">
-				<div class="col-xs-4 col-sm-6 col-md-6 col-lg-6 hgd-profile-info ">
-				<h3 id="maikimthao">Mai Kim Thảo</h3>
-				<p>Địa chỉ: số 6 Nguyễn Duy Trinh, Linh Đàm, quận Hoàng Mai, thành phố Hà Nội</p>
-				</div>
-			</div>
-			<div class="d-flex align-self-stretch profile-column">
-				<div class="col-xs-4 col-sm-3 col-md-2 col-lg-2 hgd-profile-info ">
-					<h3 id="unit-price">Học phí</h3>
-					<p class="unit-price">180.000 VNĐ/60 phút</p>
-					<h3 id="rating">Đánh Giá</h3>
-					<div class="rating-star-box">
-						<span><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i></span>
-						<span class="num-of-rates">7</span>
-					</div>
-				</div>
-			</div>
-			<div class="d-flex align-self-stretch profile-column">
-				<div class="col-xs-12 col-sm-12 col-md-2 col-lg-2 hgd-read-more maikimthao">
-					<span class="read-more maikimthao">&gt;&gt; Tìm hiểu thêm</span>
-				</div>
-			</div>
-		</div> <!-- End Profile row -->
-
-		<!-- Profile Detail -->
-		<div class="row hgd-profile-detail">
-			<div class="row">
-				<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
-					<p><span class="t-heading">Cấp độ giảng dạy</span></p>
-				</div>
-				<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 text-right">
-					<p>Cơ bản, Nâng cao, Chuyên sâu</p>
-				</div>
-			</div>
-			<!-- Description -->
-			<div class="row">
-				<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
-					<h4>Vài nét về giáo viên</h4>
-					<p>Được mệnh danh là Nhạc sĩ lãng mạn bởi những ca khúc rất tình rất đượm lòng người, Mai Kim Thảo bắt đầu con đường nghệ thuật từ việc học guitar tại Cao đẳng Nghệ thuật Hà Nội sau đó cô tiếp tục theo học chuyên ngành và Tốt nghiệp Đại Học Văn Hóa nghệ thuật quân đội
-Quá trình hoạt động nghệ thuật thầy đã có nhiều gắn bó nổi bật và những cống hiến đáng ghi nhớ cho nền âm nhạc Việt Nam:
-Tham gia ban nhạc Đồng hồ báo thức Năm 1999 – nay với vai trò (trưởng nhóm nhạc cụ)
-Hội viên hội âm nhạc Hà nội, năm 2007
-Hội viên hội nhạc sĩ Việt nam, năm 2013
-Ngoài giảng dạy piano thầy còn dạy sáng tác 
-Các tác phẩm tiêu biểu:
-Tác phẩm khí nhạc “vó ngựa trên sa mạc” Khoa dây học viện quốc gia công diễn năm 2012
-Tác phẩm “Tiều phu” tác phẩm tiêu biểu của hội âm nhạc Hà nội năm 2013
-Tác phẩm “NGÀY GẶP GỠ” – NHẠC: ĐỖ HOÀNG LINH
-LỜI: THƠ TRẦN TUẤN ANH
-GIẢI THƯỞNG VĂN HỌC NGHỆ THUẬT THỦ ĐÔ NĂM 2014
-TÁC PHẨM: CUỘC ĐỜI TỪNG PHÚT MONG ĐỢI TA
-GIẢI 3 CHUNG KHẢO CUỘC VẬN DỘNG SÁNG TÁC ÂM NHẠC VỀ ĐỀ TÀI CÔNG AN NHÂN DÂN, GIAI ĐOẠN 2011 – 2015.
-Những ca khúc được nhiều người yêu thích và biểu diễn:
-Ca khúc:”Trái bóng – Trái tim” bài hát cổ vũ đội tuyển bóng đá.
-Chiều hà nội, em đang tỏa nắng, đùa chơi mùa xuân đến..
-Với tâm hồn của một người nghệ sĩ Kim Thảo luôn mang lại cho các học viên của mình những giờ học thú vị không đơn thuần chỉ là chơi piano mà là cả nghệ thuật chơi của bộ môn học
-					</p>
-				</div>
-			</div>
-
-			<!-- End description -->
-			<!-- Left column at md and lg -->
-			<div class="col-xs-12 col-sm-12 col-md-7 col-lg-7"> 
-				<div class="row">
-					<h4>Học vấn</h4>
-					<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">	
-						<p>Tốt nghiệp Đại Học Văn Hóa nghệ thuật quân đội</p>
-					</div>
-					
-				</div>
-				<div class="row">
-					<h4>Video</h4>
-					<div class="col-xs-12 col-sm-12 col-md-11 col-lg-11 wrapper wrapper-iframe">
-						<iframe class="wrapper-item wrapper-video" src="" frameborder="0" allowfullscreen></iframe>
-					</div>
-				</div>	
-			</div> <!-- End left column -->
-			
-			<!-- Right column at md and lg -->
-			<div class="col-xs-12 col-sm-12 col-md-5 col-lg-5"> 
-				
-				<div class="row">
-					<div class="col-xs-7 col-sm-7 col-md-7 col-lg-7">
-						<h4>Phạm vi đi lại</h4>
-					</div>
-					<div class="col-xs-5 col-sm-5 col-md-5 col-lg-5 text-right">
-						<p>5km</p>
-					</div>
-				</div>
-				<div class="row">
-					<h4>Học phí</h4>
-					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
-						<p>Tại nhà</p>
-					</div>
-					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 text-right">
-						<p>180.000 VNĐ/60 phút</p>
-					</div>
-					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
-						<p>Tại lớp</p>
-					</div>
-					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 text-right">
-						<p>150.000 VNĐ/60 phút</p>
+						<p>150.000 VNĐ/h</p>
 					</div>
 				</div>
 				<div class="row">
@@ -3242,673 +1977,17 @@ Với tâm hồn của một người nghệ sĩ Kim Thảo luôn mang lại cho
 				<td class="busy"></td>
 				<td class="busy"></td>
 				<td class="busy"></td>
-				<td></td>
-				<td></td>
-				<td></td>
-				<td></td>
-			 </tr>
-			 <tr>
-				<th>Chiều</th>
-				<td></td>
-				<td></td>
-				<td></td>
-				<td class="busy"></td>
-				<td class="busy"></td>
-				<td></td>
-				<td class="busy"></td>
-			 </tr>
-			 <tr>
-				<th>Tối</th>
-				<td></td>
-				<td class="busy"></td>
-				<td></td>
-				<td class="busy"></td>
-				<td></td>
-				<td></td>
-				<td class="busy"></td>
-			 </tr>
-			</tbody>
-		 </table>
- 
- 
-					<span class="legend"></span> : Những buổi giáo viên có thể giảng dạy 	
-					</div>
-				</div>
-				<div class="row sign-up">
-					<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
-						<button class="btn btn-info btn-lg btn-sign-up center-block dang-ky-ngay" data-toggle="modal" data-target="#myModal" rel="maikimthao">Đăng ký ngay</button>
-					</div>
-				</div>
-			</div>
-		</div> <!-- End Profile detail -->
-	</div> <!-- End Profile box --> 
-	<!-- Profile row: Phạm Thành Thắng-->
-	<!-- Profile box -->
-	<div class="container-fluid hgd-profile-box hanoi" data-price="250">
-		<div class="row hgd-profile ">
-			<div class="d-flex align-self-stretch profile-column">
-				<div class="col-xs-4 col-sm-3 col-md-2 col-lg-2 hgd-profile-info hgd-avatar">
-					<img class="img-circle img-responsive center-block hgd-profile-avatar" src="https://www.hocgiday.com/wp-content/uploads/2017/06/5-HN-TranThanhTrung.jpg" alt="teacher">
-				</div>
-			</div>
-			<div class="d-flex align-self-stretch profile-column">
-				<div class="col-xs-4 col-sm-6 col-md-6 col-lg-6 hgd-profile-info ">
-				<h3 id="phamthanhthang">Phạm Thành Thắng</h3>
-				<p>Địa chỉ: ngõ 105 Doãn Kế Thiện, quận Cầu Giấy, thành phố Hà Nội</p>
-				</div>
-			</div>
-			<div class="d-flex align-self-stretch profile-column">
-				<div class="col-xs-4 col-sm-3 col-md-2 col-lg-2 hgd-profile-info ">
-					<h3 id="unit-price">Học phí</h3>
-					<p class="unit-price">250.000 VNĐ/60 phút</p>
-					<h3 id="rating">Đánh Giá</h3>
-					<div class="rating-star-box">
-						<span><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star-o" aria-hidden="true"></i><i class="fa fa-star-o" aria-hidden="true"></i></span>
-						<span class="num-of-rates">3</span>
-					</div>
-				</div>
-			</div>
-			<div class="d-flex align-self-stretch profile-column">
-				<div class="col-xs-12 col-sm-12 col-md-2 col-lg-2 hgd-read-more phamthanhthang">
-					<span class="read-more phamthanhthang">&gt;&gt; Tìm hiểu thêm</span>
-				</div>
-			</div>
-		</div> <!-- End Profile row -->
-
-		<!-- Profile Detail -->
-		<div class="row hgd-profile-detail">
-			<div class="row">
-				<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
-					<p><span class="t-heading">Cấp độ giảng dạy</span></p>
-				</div>
-				<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 text-right">
-					<p>Cơ bản, Nâng cao</p>
-				</div>
-			</div>
-			<!-- Description -->
-			<div class="row">
-				<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
-					<h4>Vài nét về giáo viên</h4>
-					<p>Chào các bạn, mình là Phạm Thành Thắng. Mình tiếp xúc với Guitar từ 2004, Piano và thanh nhạc từ 2006. Dòng nhạc ưa thích của mình là nhạc nhẹ và nhạc thính phòng. Phạm Thành Thắng sẽ dạy các bạn từ trình độ cơ bản, và có thể từ trình độ bạn đã biết. Mình sẽ dạy lý thuyết song song thực hành luôn trong mỗi buổi dạy, mỗi buổi sẽ thêm một chút để bạn dần mở rộng ra khả năng của mình. 
-Với học sinh học nhạc cụ: các bạn sẽ được học về đọc nốt nhạc, đọc tiết tấu, học qua các bài tập luyện ngón để giúp ngón vững hơn và âm thanh được tròn trịa, tiếp xúc luôn với các tác phẩm từ mức dễ đến khó. Với học sinh học đệm hát các nhạc cụ: cấu tạo hợp âm, các gam, các giọng, các âm hình đệm cơ bản, và nâng cao với những học sinh có khả năng. Với học sinh học thanh nhạc: bạn sẽ được học về kiểm soát hơi thở, đặt vị trí âm thanh, xử lý bài, tiết chế cảm xúc, áp dụng vào bài hát. 
-Các giáo trình có thể được sử dụng trong quá trình giảng dạy: 
-Method Rose - Ernest Van de Velde
-Phương pháp học guitar lý thuyết&thực hành - Lê Đức Sơn
-					</p>
-				</div>
-			</div>
-
-			<!-- End description -->
-			<!-- Left column at md and lg -->
-			<div class="col-xs-12 col-sm-12 col-md-7 col-lg-7"> 
-				<div class="row">
-					<h4>Học vấn</h4>
-					<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">	
-						<p>Tốt nghiệp học viện âm nhạc quốc gia năm 2013</p>
-					</div>
-					
-				</div>
-				<div class="row">
-					<h4>Video</h4>
-					<div class="col-xs-12 col-sm-12 col-md-11 col-lg-11 wrapper wrapper-iframe">
-						<iframe class="wrapper-item wrapper-video" src="" frameborder="0" allowfullscreen></iframe>
-					</div>
-				</div>	
-			</div> <!-- End left column -->
-			
-			<!-- Right column at md and lg -->
-			<div class="col-xs-12 col-sm-12 col-md-5 col-lg-5"> 
-				
-				<div class="row">
-					<div class="col-xs-7 col-sm-7 col-md-7 col-lg-7">
-						<h4>Phạm vi đi lại</h4>
-					</div>
-					<div class="col-xs-5 col-sm-5 col-md-5 col-lg-5 text-right">
-						<p>2km</p>
-					</div>
-				</div>
-				<div class="row">
-					<h4>Học phí</h4>
-					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
-						<p>Tại nhà</p>
-					</div>
-					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 text-right">
-						<p>250.000 VNĐ/60 phút</p>
-					</div>
-					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
-						<p>Tại lớp</p>
-					</div>
-					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 text-right">
-						<p>200.000 VNĐ/60 phút</p>
-					</div>
-				</div>
-				<div class="row">
-					<h4>Lịch giảng dạy của giáo viên</h4>
-					<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
-						<table class="table table-bordered">
-			<thead>
-			 <tr>
-				<th></th>
-				<th>T2</th>
-				<th>T3</th>
-				<th>T4</th>
-				<th>T5</th>
-				<th>T6</th>
-				<th>T7</th>
-				<th>CN</th>
-			 </tr>
-			</thead>
-			<tbody>
-			 <tr>
-				<th>Sáng</th>
-				<td></td>
-				<td class="busy"></td>
-				<td></td>
-				<td class="busy"></td>
-				<td class="busy"></td>
-				<td></td>
-				<td></td>
-			 </tr>
-			 <tr>
-				<th>Chiều</th>
-				<td></td>
-				<td class="busy"></td>
-				<td></td>
-				<td class="busy"></td>
-				<td class="busy"></td>
-				<td></td>
-				<td></td>
-			 </tr>
-			 <tr>
-				<th>Tối</th>
-				<td></td>
-				<td></td>
-				<td></td>
 				<td class="busy"></td>
 				<td class="busy"></td>
 				<td class="busy"></td>
-				<td></td>
-			 </tr>
-			</tbody>
-		 </table>
- 
- 
- 
-					<span class="legend"></span> : Những buổi giáo viên có thể giảng dạy 	
-					</div>
-				</div>
-				<div class="row sign-up">
-					<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
-						<button class="btn btn-info btn-lg btn-sign-up center-block dang-ky-ngay" data-toggle="modal" data-target="#myModal" rel="phamthanhthang">Đăng ký ngay</button>
-					</div>
-				</div>
-			</div>
-		</div> <!-- End Profile detail -->
-	</div> <!-- End Profile box --> 
-	<!-- Profile row: Đặng Lê Thái-->
-	<!-- Profile box -->
-	<div class="container-fluid hgd-profile-box hanoi" data-price="150">
-		<div class="row hgd-profile ">
-			<div class="d-flex align-self-stretch profile-column">
-				<div class="col-xs-4 col-sm-3 col-md-2 col-lg-2 hgd-profile-info hgd-avatar">
-					<img class="img-circle img-responsive center-block hgd-profile-avatar" src="https://www.hocgiday.com/wp-content/uploads/2017/06/6-HN-LuongVanTuy.jpg" alt="teacher">
-				</div>
-			</div>
-			<div class="d-flex align-self-stretch profile-column">
-				<div class="col-xs-4 col-sm-6 col-md-6 col-lg-6 hgd-profile-info ">
-				<h3 id="danglethai">Đặng Lê Thái</h3>
-				<p>Địa chỉ: số 6, ngõ 24 Hoàng Quốc Việt, quận Cầu Giấy thành phố Hà Nội</p>
-				</div>
-			</div>
-			<div class="d-flex align-self-stretch profile-column">
-				<div class="col-xs-4 col-sm-3 col-md-2 col-lg-2 hgd-profile-info ">
-					<h3 id="unit-price">Học phí</h3>
-					<p class="unit-price">150.000 VNĐ/60 phút</p>
-					<h3 id="rating">Đánh Giá</h3>
-					<div class="rating-star-box">
-						<span><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star-o" aria-hidden="true"></i><i class="fa fa-star-o" aria-hidden="true"></i></span>
-						<span class="num-of-rates">2</span>
-					</div>
-				</div>
-			</div>
-			<div class="d-flex align-self-stretch profile-column">
-				<div class="col-xs-12 col-sm-12 col-md-2 col-lg-2 hgd-read-more danglethai">
-					<span class="read-more danglethai">&gt;&gt; Tìm hiểu thêm</span>
-				</div>
-			</div>
-		</div> <!-- End Profile row -->
-
-		<!-- Profile Detail -->
-		<div class="row hgd-profile-detail">
-			<div class="row">
-				<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
-					<p><span class="t-heading">Cấp độ giảng dạy</span></p>
-				</div>
-				<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 text-right">
-					<p>Cơ bản, Nâng cao</p>
-				</div>
-			</div>
-			<!-- Description -->
-			<div class="row">
-				<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
-					<h4>Vài nét về giáo viên</h4>
-					<p>Là một giảng viên đa tài, lại được trời ưu ái hơn người cho cái duyên giảng dạy, Đặng Lê Thái đã để lại rất nhiều ấn tượng sâu đậm với nhiều lớp học trò đã từng theo học.
-Tốt nghiệp Cao Đẳng Nghệ thuật Hà Nội khoa Nhạc năm 2014, được trải qua một thời gian đào tạo chuyên nghiệp, nắm trong tay nhiều thành tích nổi bật, Đặng Lê Thái sở hữu một nền tảng chuyên môn vững chắc và bài bản. Yêu và gắn bó với cây đàn Piano từ 8 năm trước, với tất cả những gì mình có, và bằng niềm đam mê chân thành, Đặng Lê Thái quyết tâm theo đuổi con đường mình lựa chọn.
-Với 2 năm dạy tại trường cấp 1
-2 năm dạy tại nhà, vốn kinh nghiệm tích lũy theo đó cũng lớn dần theo thời gian và xuyên suốt những bài giảng. Các tiết học với Lương Văn Tụy luôn được đánh giá cao về mặt chất lượng, đồng thời cũng rất dễ tiếp thu. Thầy là người rất biết truyền cảm hứng cho học viên và có khả năng tạo ra những không gian buổi học thú vị. Học viên của thầy cũng hết sức đa dạng ở nhiều lứa tuổi, nhiều trình độ và nhiều mục đích khác nhau.
-Một vài thành tích nổi bật của giảng viên Piano Lương Văn Tụy:
-• Tham gia biểu diễn các chương trình Nghệ thuật âm nhạc sinh viên.
-• Giải nhất cuộc thi Sinh viên âm nhạc, biểu diễn hòa tấu đàn Organ.
-• Tham gia đội hợp xướng của trường Sư phạm Nghệ thuật Trung Ương.
-Có thể nói, ở Lương Văn Tụy, tình yêu của thầy với những phím đàn đen trắng chắc chắn không thua kém bất kỳ người nghệ sĩ chuyên nghiệp nào. Ngoài ra, thầy còn là một con người hết sức đa tài, với khả năng chơi nhiều loại nhạc cụ khác ngoài Piano/Organ như Guitar, Sáo trúc, Đàn bầu, Hamornica, Ukulele…
-					</p>
-				</div>
-			</div>
-
-			<!-- End description -->
-			<!-- Left column at md and lg -->
-			<div class="col-xs-12 col-sm-12 col-md-7 col-lg-7"> 
-				<div class="row">
-					<h4>Học vấn</h4>
-					<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">	
-						<p>Tốt nghiệp Cao Đẳng Nghệ thuật Hà Nội khoa Nhạc năm 2014</p>
-					</div>
-					
-				</div>
-				<div class="row">
-					<h4>Video</h4>
-					<div class="col-xs-12 col-sm-12 col-md-11 col-lg-11 wrapper wrapper-iframe">
-						<iframe class="wrapper-item wrapper-video" src="" frameborder="0" allowfullscreen></iframe>
-					</div>
-				</div>	
-			</div> <!-- End left column -->
-			
-			<!-- Right column at md and lg -->
-			<div class="col-xs-12 col-sm-12 col-md-5 col-lg-5"> 
-				
-				<div class="row">
-					<div class="col-xs-7 col-sm-7 col-md-7 col-lg-7">
-						<h4>Phạm vi đi lại</h4>
-					</div>
-					<div class="col-xs-5 col-sm-5 col-md-5 col-lg-5 text-right">
-						<p>5km</p>
-					</div>
-				</div>
-				<div class="row">
-					<h4>Học phí</h4>
-					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
-						<p>Tại nhà</p>
-					</div>
-					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 text-right">
-						<p>150.000 VNĐ/60 phút</p>
-					</div>
-					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
-						<p>Tại lớp</p>
-					</div>
-					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 text-right">
-						<p>120.000 VNĐ/60 phút</p>
-					</div>
-				</div>
-				<div class="row">
-					<h4>Lịch giảng dạy của giáo viên</h4>
-					<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
-						<table class="table table-bordered">
-			<thead>
-			 <tr>
-				<th></th>
-				<th>T2</th>
-				<th>T3</th>
-				<th>T4</th>
-				<th>T5</th>
-				<th>T6</th>
-				<th>T7</th>
-				<th>CN</th>
-			 </tr>
-			</thead>
-			<tbody>
-			 <tr>
-				<th>Sáng</th>
-				<td></td>
-				<td></td>
-				<td></td>
 				<td class="busy"></td>
-				<td class="busy"></td>
-				<td class="busy"></td>
-				<td></td>
 			 </tr>
 			 <tr>
 				<th>Chiều</th>
 				<td class="busy"></td>
 				<td></td>
-				<td></td>
-				<td></td>
 				<td class="busy"></td>
 				<td class="busy"></td>
-				<td></td>
-			 </tr>
-			 <tr>
-				<th>Tối</th>
-				<td></td>
-				<td></td>
-				<td></td>
-				<td></td>
-				<td></td>
-				<td></td>
-				<td></td>
-			 </tr>
-			</tbody>
-		 </table>
- 
- 
-					<span class="legend"></span> : Những buổi giáo viên có thể giảng dạy 	
-					</div>
-				</div>
-				<div class="row sign-up">
-					<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
-						<button class="btn btn-info btn-lg btn-sign-up center-block dang-ky-ngay" data-toggle="modal" data-target="#myModal" rel="danglethai">Đăng ký ngay</button>
-					</div>
-				</div>
-			</div>
-		</div> <!-- End Profile detail -->
-	</div> <!-- End Profile box --> 
-	<!-- Profile row: Hoàng Trung-->
-	<!-- Profile box -->
-	<div class="container-fluid hgd-profile-box hanoi" data-price="200">
-		<div class="row hgd-profile ">
-			<div class="d-flex align-self-stretch profile-column">
-				<div class="col-xs-4 col-sm-3 col-md-2 col-lg-2 hgd-profile-info hgd-avatar">
-					<img class="img-circle img-responsive center-block hgd-profile-avatar" src="https://www.hocgiday.com/wp-content/uploads/2017/06/13-HN-HoangTrung.jpg" alt="teacher">
-				</div>
-			</div>
-			<div class="d-flex align-self-stretch profile-column">
-				<div class="col-xs-4 col-sm-6 col-md-6 col-lg-6 hgd-profile-info ">
-				<h3 id="hoangtrung">Hoàng Trung</h3>
-				<p>Địa chỉ: phố Trung Tựu, Bắc Từ Liêm, Hà Nội</p>
-				</div>
-			</div>
-			<div class="d-flex align-self-stretch profile-column">
-				<div class="col-xs-4 col-sm-3 col-md-2 col-lg-2 hgd-profile-info ">
-					<h3 id="unit-price">Học phí</h3>
-					<p class="unit-price">200.000 VNĐ/60 phút</p>
-					<h3 id="rating">Đánh Giá</h3>
-					<div class="rating-star-box">
-						<span><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star-o" aria-hidden="true"></i><i class="fa fa-star-o" aria-hidden="true"></i></span>
-						<span class="num-of-rates">7</span>
-					</div>
-				</div>
-			</div>
-			<div class="d-flex align-self-stretch profile-column">
-				<div class="col-xs-12 col-sm-12 col-md-2 col-lg-2 hgd-read-more hoangtrung">
-					<span class="read-more hoangtrung">&gt;&gt; Tìm hiểu thêm</span>
-				</div>
-			</div>
-		</div> <!-- End Profile row -->
-
-		<!-- Profile Detail -->
-		<div class="row hgd-profile-detail">
-			<div class="row">
-				<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
-					<p><span class="t-heading">Cấp độ giảng dạy</span></p>
-				</div>
-				<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 text-right">
-					<p>Cơ bản, Nâng cao</p>
-				</div>
-			</div>
-			<!-- Description -->
-			<div class="row">
-				<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
-					<h4>Vài nét về giáo viên</h4>
-					<p>Là một giảng viên đa tài, lại được trời ưu ái hơn người cho cái duyên giảng dạy, Hoàng Trung đã để lại rất nhiều ấn tượng sâu đậm với nhiều lớp học trò đã từng theo học.
-Sinh viên năm 4 Học viện âm nhạc quốc gia, được trải qua một thời gian đào tạo chuyên nghiệp, nắm trong tay nhiều thành tích nổi bật, Hoàng Trung sở hữu một nền tảng chuyên môn vững chắc và bài bản. Yêu và gắn bó với cây đàn guitar từ 8 năm trước, với tất cả những gì mình có, và bằng niềm đam mê chân thành, Hoàng Trung quyết tâm theo đuổi con đường mình lựa chọn.
-Với 3 năm dạy tại nhà, vốn kinh nghiệm tích lũy theo đó cũng lớn dần theo thời gian và xuyên suốt những bài giảng. Các tiết học với Hoàng Trung luôn được đánh giá cao về mặt chất lượng, đồng thời cũng rất dễ tiếp thu. Thầy là người rất biết truyền cảm hứng cho học viên và có khả năng tạo ra những không gian buổi học thú vị. Học viên của thầy cũng hết sức đa dạng ở nhiều lứa tuổi, nhiều trình độ và nhiều mục đích khác nhau.
-Một vài thành tích nổi bật của giảng viên Piano Hoàng Trung:
-• Tham gia biểu diễn các chương trình Nghệ thuật âm nhạc sinh viên.
-• Giải nhất cuộc thi Sinh viên âm nhạc, biểu diễn hòa tấu đàn Organ.
-• Tham gia đội hợp xướng của trường Sư phạm Nghệ thuật Trung Ương.
-Có thể nói, ở Hoàng Trung, tình yêu của thầy với những phím đàn đen trắng chắc chắn không thua kém bất kỳ người nghệ sĩ chuyên nghiệp nào. Ngoài ra, thầy còn là một con người hết sức đa tài, với khả năng chơi nhiều loại nhạc cụ khác ngoài Piano/Organ như Guitar, Sáo trúc, Đàn bầu, Hamornica, Ukulele…
-					</p>
-				</div>
-			</div>
-
-			<!-- End description -->
-			<!-- Left column at md and lg -->
-			<div class="col-xs-12 col-sm-12 col-md-7 col-lg-7"> 
-				<div class="row">
-					<h4>Học vấn</h4>
-					<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">	
-						<p>Sinh viên năm 4 Học viện âm nhạc quốc gia</p>
-					</div>
-					
-				</div>
-				<div class="row">
-					<h4>Video</h4>
-					<div class="col-xs-12 col-sm-12 col-md-11 col-lg-11 wrapper wrapper-iframe">
-						<iframe class="wrapper-item wrapper-video" src="" frameborder="0" allowfullscreen></iframe>
-					</div>
-				</div>	
-			</div> <!-- End left column -->
-			
-			<!-- Right column at md and lg -->
-			<div class="col-xs-12 col-sm-12 col-md-5 col-lg-5"> 
-				
-				<div class="row">
-					<div class="col-xs-7 col-sm-7 col-md-7 col-lg-7">
-						<h4>Phạm vi đi lại</h4>
-					</div>
-					<div class="col-xs-5 col-sm-5 col-md-5 col-lg-5 text-right">
-						<p>5km</p>
-					</div>
-				</div>
-				<div class="row">
-					<h4>Học phí</h4>
-					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
-						<p>Tại nhà</p>
-					</div>
-					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 text-right">
-						<p>200.000 VNĐ/60 phút</p>
-					</div>
-					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
-						<p>Tại lớp</p>
-					</div>
-					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 text-right">
-						<p>160.000 VNĐ/60 phút</p>
-					</div>
-				</div>
-				<div class="row">
-					<h4>Lịch giảng dạy của giáo viên</h4>
-					<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
-						<table class="table table-bordered">
-			<thead>
-			 <tr>
-				<th></th>
-				<th>T2</th>
-				<th>T3</th>
-				<th>T4</th>
-				<th>T5</th>
-				<th>T6</th>
-				<th>T7</th>
-				<th>CN</th>
-			 </tr>
-			</thead>
-			<tbody>
-			 <tr>
-				<th>Sáng</th>
-				<td></td>
-				<td class="busy"></td>
-				<td class="busy"></td>
-				<td></td>
-				<td></td>
-				<td class="busy"></td>
-				<td></td>
-			 </tr>
-			 <tr>
-				<th>Chiều</th>
-				<td class="busy"></td>
-				<td></td>
-				<td></td>
-				<td class="busy"></td>
-				<td class="busy"></td>
-				<td></td>
-				<td></td>
-			 </tr>
-			 <tr>
-				<th>Tối</th>
-				<td></td>
-				<td></td>
-				<td class="busy"></td>
-				<td></td>
-				<td></td>
-				<td class="busy"></td>
-				<td class="busy"></td>
-			 </tr>
-			</tbody>
-		 </table>
- 
- 
-					<span class="legend"></span> : Những buổi giáo viên có thể giảng dạy 	
-					</div>
-				</div>
-				<div class="row sign-up">
-					<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
-						<button class="btn btn-info btn-lg btn-sign-up center-block dang-ky-ngay" data-toggle="modal" data-target="#myModal" rel="hoangtrung">Đăng ký ngay</button>
-					</div>
-				</div>
-			</div>
-		</div> <!-- End Profile detail -->
-	</div> <!-- End Profile box --> 
-	<!-- Profile row: Nguyên Thắng-->
-	<!-- Profile box -->
-	<div class="container-fluid hgd-profile-box hanoi" data-price="180">
-		<div class="row hgd-profile ">
-			<div class="d-flex align-self-stretch profile-column">
-				<div class="col-xs-4 col-sm-3 col-md-2 col-lg-2 hgd-profile-info hgd-avatar">
-					<img class="img-circle img-responsive center-block hgd-profile-avatar" src="https://www.hocgiday.com/wp-content/uploads/2017/06/DN-8-Hoang-Thai-Hoa.jpg" alt="teacher">
-				</div>
-			</div>
-			<div class="d-flex align-self-stretch profile-column">
-				<div class="col-xs-4 col-sm-6 col-md-6 col-lg-6 hgd-profile-info ">
-				<h3 id="nguyenthang">Nguyên Thắng</h3>
-				<p>Địa chỉ: phố Nguyễn Trãi, phường Trung Văn, quận Thanh Xuân, thành phố Hà Nội</p>
-				</div>
-			</div>
-			<div class="d-flex align-self-stretch profile-column">
-				<div class="col-xs-4 col-sm-3 col-md-2 col-lg-2 hgd-profile-info ">
-					<h3 id="unit-price">Học phí</h3>
-					<p class="unit-price">180.000 VNĐ/60 phút</p>
-					<h3 id="rating">Đánh Giá</h3>
-					<div class="rating-star-box">
-						<span><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star-o" aria-hidden="true"></i><i class="fa fa-star-o" aria-hidden="true"></i></span>
-						<span class="num-of-rates">12</span>
-					</div>
-				</div>
-			</div>
-			<div class="d-flex align-self-stretch profile-column">
-				<div class="col-xs-12 col-sm-12 col-md-2 col-lg-2 hgd-read-more nguyenthang">
-					<span class="read-more nguyenthang">&gt;&gt; Tìm hiểu thêm</span>
-				</div>
-			</div>
-		</div> <!-- End Profile row -->
-
-		<!-- Profile Detail -->
-		<div class="row hgd-profile-detail">
-			<div class="row">
-				<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
-					<p><span class="t-heading">Cấp độ giảng dạy</span></p>
-				</div>
-				<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 text-right">
-					<p>Cơ bản</p>
-				</div>
-			</div>
-			<!-- Description -->
-			<div class="row">
-				<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
-					<h4>Vài nét về giáo viên</h4>
-					<p>Chào các bạn, mình là Nguyên Thắng. Mình tiếp xúc với Guitar từ 2004, Piano và thanh nhạc từ 2006. Dòng nhạc ưa thích của mình là nhạc nhẹ và nhạc thính phòng. Nguyên Thắng sẽ dạy các bạn từ trình độ cơ bản, và có thể từ trình độ bạn đã biết. Mình sẽ dạy lý thuyết song song thực hành luôn trong mỗi buổi dạy, mỗi buổi sẽ thêm một chút để bạn dần mở rộng ra khả năng của mình. 
-Với học sinh học cổ điển nhạc cụ: các bạn sẽ được học về đọc nốt nhạc, đọc tiết tấu, học qua các bài tập luyện ngón để giúp ngón vững hơn và âm thanh được tròn trịa, tiếp xúc luôn với các tác phẩm từ mức dễ đến khó. Với học sinh học đệm hát các nhạc cụ: cấu tạo hợp âm, các gam, các giọng, các âm hình đệm cơ bản, và nâng cao với những học sinh có khả năng. Với học sinh học thanh nhạc: bạn sẽ được học về kiểm soát hơi thở, đặt vị trí âm thanh, xử lý bài, tiết chế cảm xúc, áp dụng vào bài hát. 
-Các giáo trình có thể được sử dụng trong quá trình giảng dạy: 
-Method Rose - Ernest Van de Velde
-Phương pháp học guitar lý thuyết&thực hành - Lê Đức Sơn
-					</p>
-				</div>
-			</div>
-
-			<!-- End description -->
-			<!-- Left column at md and lg -->
-			<div class="col-xs-12 col-sm-12 col-md-7 col-lg-7"> 
-				<div class="row">
-					<h4>Học vấn</h4>
-					<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">	
-						<p>Sinh viên năm 3 Đại học sư phạm nghệ thuật trung ương</p>
-					</div>
-					
-				</div>
-				<div class="row">
-					<h4>Video</h4>
-					<div class="col-xs-12 col-sm-12 col-md-11 col-lg-11 wrapper wrapper-iframe">
-						<iframe class="wrapper-item wrapper-video" src="" frameborder="0" allowfullscreen></iframe>
-					</div>
-				</div>	
-			</div> <!-- End left column -->
-			
-			<!-- Right column at md and lg -->
-			<div class="col-xs-12 col-sm-12 col-md-5 col-lg-5"> 
-				
-				<div class="row">
-					<div class="col-xs-7 col-sm-7 col-md-7 col-lg-7">
-						<h4>Phạm vi đi lại</h4>
-					</div>
-					<div class="col-xs-5 col-sm-5 col-md-5 col-lg-5 text-right">
-						<p>10km</p>
-					</div>
-				</div>
-				<div class="row">
-					<h4>Học phí</h4>
-					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
-						<p>Tại nhà</p>
-					</div>
-					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 text-right">
-						<p>180.000 VNĐ/60 phút</p>
-					</div>
-					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
-						<p>Tại lớp</p>
-					</div>
-					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 text-right">
-						<p>150.000 VNĐ/60 phút</p>
-					</div>
-				</div>
-				<div class="row">
-					<h4>Lịch giảng dạy của giáo viên</h4>
-					<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
-						<table class="table table-bordered">
-			<thead>
-			 <tr>
-				<th></th>
-				<th>T2</th>
-				<th>T3</th>
-				<th>T4</th>
-				<th>T5</th>
-				<th>T6</th>
-				<th>T7</th>
-				<th>CN</th>
-			 </tr>
-			</thead>
-			<tbody>
-			 <tr>
-				<th>Sáng</th>
-				<td class="busy"></td>
-				<td></td>
-				<td class="busy"></td>
-				<td></td>
-				<td class="busy"></td>
-				<td></td>
-				<td></td>
-			 </tr>
-			 <tr>
-				<th>Chiều</th>
-				<td class="busy"></td>
-				<td></td>
-				<td></td>
-				<td></td>
 				<td></td>
 				<td class="busy"></td>
 				<td class="busy"></td>
@@ -3917,47 +1996,45 @@ Phương pháp học guitar lý thuyết&thực hành - Lê Đức Sơn
 				<th>Tối</th>
 				<td class="busy"></td>
 				<td class="busy"></td>
-				<td></td>
-				<td></td>
-				<td></td>
-				<td></td>
+				<td class="busy"></td>
+				<td class="busy"></td>
+				<td class="busy"></td>
+				<td class="busy"></td>
 				<td class="busy"></td>
 			 </tr>
 			</tbody>
-		 </table>
- 
- 
+		 </table> 
  
 					<span class="legend"></span> : Những buổi giáo viên có thể giảng dạy 	
 					</div>
 				</div>
 				<div class="row sign-up">
 					<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
-						<button class="btn btn-info btn-lg btn-sign-up center-block dang-ky-ngay" data-toggle="modal" data-target="#myModal" rel="nguyenthang">Đăng ký ngay</button>
+						<button class="btn btn-info btn-lg btn-sign-up center-block dang-ky-ngay" data-toggle="modal" data-target="#myModal" rel="duongthitam">Đăng ký ngay</button>
 					</div>
 				</div>
 			</div>
 		</div> <!-- End Profile detail -->
 	</div> <!-- End Profile box --> 
-	<!-- Profile row: Trần đạt-->
+	<!-- Profile row: Lê Thị Yến Linh-->
 	<!-- Profile box -->
-	<div class="container-fluid hgd-profile-box hanoi" data-price="300">
+	<div class="container-fluid hgd-profile-box hanoi" data-price="220">
 		<div class="row hgd-profile ">
 			<div class="d-flex align-self-stretch profile-column">
 				<div class="col-xs-4 col-sm-3 col-md-2 col-lg-2 hgd-profile-info hgd-avatar">
-					<img class="img-circle img-responsive center-block hgd-profile-avatar" src="https://www.hocgiday.com/wp-content/uploads/2017/06/14-SG-TrinhTanSang.jpg" alt="teacher">
+					<img class="img-circle img-responsive center-block hgd-profile-avatar" src="https://www.hocgiday.com/wp-content/uploads/2017/07/Yen-Linh-2.jpg" alt="teacher">
 				</div>
 			</div>
 			<div class="d-flex align-self-stretch profile-column">
 				<div class="col-xs-4 col-sm-6 col-md-6 col-lg-6 hgd-profile-info ">
-				<h3 id="trandat">Trần đạt</h3>
-				<p>Địa chỉ: phố Nhân Hòa, phường Nhân Chính, quận Thanh Xuân, thành phố Hà Nội</p>
+				<h3 id="lethiyenlinh">Lê Thị Yến Linh</h3>
+				<p>Địa chỉ: Nguyễn Quý Đức, Thanh Xuân, Hà Nội</p>
 				</div>
 			</div>
 			<div class="d-flex align-self-stretch profile-column">
 				<div class="col-xs-4 col-sm-3 col-md-2 col-lg-2 hgd-profile-info ">
 					<h3 id="unit-price">Học phí</h3>
-					<p class="unit-price">300.000 VNĐ/60 phút</p>
+					<p class="unit-price">220.000 VNĐ/h</p>
 					<h3 id="rating">Đánh Giá</h3>
 					<div class="rating-star-box">
 						<span><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star-o" aria-hidden="true"></i></span>
@@ -3966,8 +2043,8 @@ Phương pháp học guitar lý thuyết&thực hành - Lê Đức Sơn
 				</div>
 			</div>
 			<div class="d-flex align-self-stretch profile-column">
-				<div class="col-xs-12 col-sm-12 col-md-2 col-lg-2 hgd-read-more trandat">
-					<span class="read-more trandat">&gt;&gt; Tìm hiểu thêm</span>
+				<div class="col-xs-12 col-sm-12 col-md-2 col-lg-2 hgd-read-more lethiyenlinh">
+					<span class="read-more lethiyenlinh">&gt;&gt; Tìm hiểu thêm</span>
 				</div>
 			</div>
 		</div> <!-- End Profile row -->
@@ -3979,17 +2056,16 @@ Phương pháp học guitar lý thuyết&thực hành - Lê Đức Sơn
 					<p><span class="t-heading">Cấp độ giảng dạy</span></p>
 				</div>
 				<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 text-right">
-					<p>Cơ bản, Nâng cao</p>
+					<p>Cơ bản - Nâng cao</p>
 				</div>
 			</div>
 			<!-- Description -->
 			<div class="row">
 				<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
 					<h4>Vài nét về giáo viên</h4>
-					<p>Giống như một nghệ sỹ lãng du, từ ngoại hình đến phong cách trình diễn, ở Trần đạt luôn toát lên một chất vị riêng có rất đặc biệt. Một con người có vẻ bề ngoài đơn giản nhưng tài năng lại không hề giản đơn chút nào. Tốt nghiệp Học viện âm nhạc Quốc gia 2008 và Đại học Văn Hóa nghệ thuật trung ương 2013, Trần đạt đã trải qua một quá trình đào tạo và rèn luyện hết sức chuyên nghiệp và bài bản từ một trong những trường nghệ thuật lớn nhất cả nước. Tài năng giống như một viên ngọc thô, nếu cứ để mãi trong tự nhiên, bào mòn bởi gió cát, sẽ không thể trở nên long lanh và tinh tế được. Nhưng nếu qua tay những người thợ chuyên nghiệp, nó sẽ trở nên vô cùng giá trị.
-Hơn nữa, bắt đầu sự nghiệp âm nhạc nghệ thuật từ mãi những năm 2000-2001, Trần đạt gắn bó với những phím đàn như một người bạn đồng hành thân thiết, trải qua rất nhiều những sự kiện, tích lũy vô vàn những trải nghiệm bản thân. Cùng với hơn 2 năm kinh nghiệm giảng dạy bộ môn chuyên ngành, thầy cũng có được một số vốn kỹ năng sư phạm tốt để truyền tải kiến thức và cảm hứng cho các học viên.
-Trong thời gian hoạt động nghệ thuật lâu dài của mình, Trần đạt từng là thành viên cốt cán của band nhạc New Song đình đám một thời. Ngoài ra, thầy cũng thường xuyên nhận được những lời mời biểu diễn tại những Nhà hàng, Khách sạn lớn, Rạp xiếc Trung ương, Triển lãm Giảng Võ, các chương trình, sự kiện trong Sài Gòn và nhiều tỉnh khác…
-Những học viên từng được Trần đạt dẫn dắt đa số tìm đến Piano như một niềm đam mê sẵn có, thầy giáo cũng chia sẻ thầy rất thích giảng dạy những học sinh như vậy, không gượng ép, không khô cứng, cả thầy và trò cùng hòa hợp chia sẻ một sở thích chung.
+					<p>Chào các bạn, mình là Yến Linh. Mình có thể giảng dạy piano ở nhà mình hoặc ngay tại nhà học viên. Các bài học sẽ hoàn toàn tập trung vào sở thích và mục tiêu của học viên. Mình đã có kinh nghiệm 3 năm dạy nhạc với mọi lứa tuổi, từ các bạn nhỏ đang học tiểu học đến người đã đi làm. 
+Mình tiếp xúc với âm nhạc khi còn nhỏ, từ lúc học cấp 1 mình đã luôn yêu thích nhạc không lời, bán cổ điển và những bài thánh ca. Mình rất hứng thú trong việc giúp đỡ mọi người khai phá khả năng âm nhạc tiềm ẩn của họ, hoặc mang đến cho những người yêu nhạc một môi trường vui vẻ, sáng tạo để trải nghiệm cùng với nhạc cụ họ thích.
+Hi vọng sẽ được gặp các bạn trong thời gian sớm nhất!
 					</p>
 				</div>
 			</div>
@@ -4000,7 +2076,7 @@ Những học viên từng được Trần đạt dẫn dắt đa số tìm đ�
 				<div class="row">
 					<h4>Học vấn</h4>
 					<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">	
-						<p>Tốt nghiệp Học viện âm nhạc Quốc gia 2008 và Đại học Văn Hóa nghệ thuật trung ương 2013</p>
+						<p>Sinh viên năm 3 Đại học Sư phạm nghệ thuật trung ương</p>
 					</div>
 					
 				</div>
@@ -4020,7 +2096,7 @@ Những học viên từng được Trần đạt dẫn dắt đa số tìm đ�
 						<h4>Phạm vi đi lại</h4>
 					</div>
 					<div class="col-xs-5 col-sm-5 col-md-5 col-lg-5 text-right">
-						<p>8km</p>
+						<p>10km</p>
 					</div>
 				</div>
 				<div class="row">
@@ -4029,13 +2105,13 @@ Những học viên từng được Trần đạt dẫn dắt đa số tìm đ�
 						<p>Tại nhà</p>
 					</div>
 					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 text-right">
-						<p>300.000 VNĐ/60 phút</p>
+						<p>220.000 VNĐ/h</p>
 					</div>
 					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
 						<p>Tại lớp</p>
 					</div>
 					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 text-right">
-						<p>240.000 VNĐ/60 phút</p>
+						<p>180.000 VNĐ/h</p>
 					</div>
 				</div>
 				<div class="row">
@@ -4057,9 +2133,9 @@ Những học viên từng được Trần đạt dẫn dắt đa số tìm đ�
 			<tbody>
 			 <tr>
 				<th>Sáng</th>
-				<td class="busy"></td>
-				<td class="busy"></td>
-				<td class="busy"></td>
+				<td></td>
+				<td></td>
+				<td></td>
 				<td></td>
 				<td></td>
 				<td></td>
@@ -4067,68 +2143,67 @@ Những học viên từng được Trần đạt dẫn dắt đa số tìm đ�
 			 </tr>
 			 <tr>
 				<th>Chiều</th>
-				<td></td>
-				<td></td>
-				<td></td>
 				<td class="busy"></td>
 				<td class="busy"></td>
-				<td></td>
 				<td class="busy"></td>
+				<td class="busy"></td>
+				<td class="busy"></td>
+				<td></td>
+				<td></td>
 			 </tr>
 			 <tr>
 				<th>Tối</th>
 				<td></td>
-				<td class="busy"></td>
-				<td></td>
-				<td class="busy"></td>
 				<td></td>
 				<td></td>
 				<td class="busy"></td>
+				<td class="busy"></td>
+				<td></td>
+				<td></td>
 			 </tr>
 			</tbody>
-		 </table>
- 
+		 </table> 
  
 					<span class="legend"></span> : Những buổi giáo viên có thể giảng dạy 	
 					</div>
 				</div>
 				<div class="row sign-up">
 					<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
-						<button class="btn btn-info btn-lg btn-sign-up center-block dang-ky-ngay" data-toggle="modal" data-target="#myModal" rel="trandat">Đăng ký ngay</button>
+						<button class="btn btn-info btn-lg btn-sign-up center-block dang-ky-ngay" data-toggle="modal" data-target="#myModal" rel="lethiyenlinh">Đăng ký ngay</button>
 					</div>
 				</div>
 			</div>
 		</div> <!-- End Profile detail -->
 	</div> <!-- End Profile box --> 
-	<!-- Profile row: Chương Quốc Bảo-->
+	<!-- Profile row: Phương Thị Huệ-->
 	<!-- Profile box -->
-	<div class="container-fluid hgd-profile-box hanoi" data-price="350">
+	<div class="container-fluid hgd-profile-box hanoi" data-price="500">
 		<div class="row hgd-profile ">
 			<div class="d-flex align-self-stretch profile-column">
 				<div class="col-xs-4 col-sm-3 col-md-2 col-lg-2 hgd-profile-info hgd-avatar">
-					<img class="img-circle img-responsive center-block hgd-profile-avatar" src="https://www.hocgiday.com/wp-content/uploads/2017/06/34-HN-ChuongQuocBao.jpg" alt="teacher">
+					<img class="img-circle img-responsive center-block hgd-profile-avatar" src="https://www.hocgiday.com/wp-content/uploads/2017/07/7-HN-PhuongThiHue-2.jpg" alt="teacher">
 				</div>
 			</div>
 			<div class="d-flex align-self-stretch profile-column">
 				<div class="col-xs-4 col-sm-6 col-md-6 col-lg-6 hgd-profile-info ">
-				<h3 id="chuongquocbao">Chương Quốc Bảo</h3>
-				<p>Địa chỉ: số 40 Ngô Quyền, quận Hoàn Kiếm</p>
+				<h3 id="phuongthihue">Phương Thị Huệ</h3>
+				<p>Địa chỉ: Dịch Vọng, Cầu Giấy, Hà Nội</p>
 				</div>
 			</div>
 			<div class="d-flex align-self-stretch profile-column">
 				<div class="col-xs-4 col-sm-3 col-md-2 col-lg-2 hgd-profile-info ">
 					<h3 id="unit-price">Học phí</h3>
-					<p class="unit-price">350.000 VNĐ/60 phút</p>
+					<p class="unit-price">500.000 VNĐ/h</p>
 					<h3 id="rating">Đánh Giá</h3>
 					<div class="rating-star-box">
-						<span><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i></span>
-						<span class="num-of-rates">9</span>
+						<span><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star-o" aria-hidden="true"></i><i class="fa fa-star-o" aria-hidden="true"></i></span>
+						<span class="num-of-rates">1</span>
 					</div>
 				</div>
 			</div>
 			<div class="d-flex align-self-stretch profile-column">
-				<div class="col-xs-12 col-sm-12 col-md-2 col-lg-2 hgd-read-more chuongquocbao">
-					<span class="read-more chuongquocbao">&gt;&gt; Tìm hiểu thêm</span>
+				<div class="col-xs-12 col-sm-12 col-md-2 col-lg-2 hgd-read-more phuongthihue">
+					<span class="read-more phuongthihue">&gt;&gt; Tìm hiểu thêm</span>
 				</div>
 			</div>
 		</div> <!-- End Profile row -->
@@ -4140,18 +2215,16 @@ Những học viên từng được Trần đạt dẫn dắt đa số tìm đ�
 					<p><span class="t-heading">Cấp độ giảng dạy</span></p>
 				</div>
 				<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 text-right">
-					<p>Cơ bản, Nâng cao, Chuyên sâu</p>
+					<p>Cơ bản - Nâng cao - Chuyên sâu</p>
 				</div>
 			</div>
 			<!-- Description -->
 			<div class="row">
 				<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
 					<h4>Vài nét về giáo viên</h4>
-					<p>Được mệnh danh là Nhạc sĩ lãng mạn bởi những ca khúc rất tình rất đượm lòng người, Chương Quốc Bảo bắt đầu con đường nghệ thuật từ việc học guitar tại Cao đẳng Nghệ thuật Hà Nội sau đó thầy tiếp tục theo học chuyên ngành và Tốt nghiệp thạc sĩ ĐH văn hóa nghệ thuật quân đội
-Quá trình hoạt động nghệ thuật thầy đã có nhiều gắn bó nổi bật và những cống hiến đáng ghi nhớ cho nền âm nhạc Việt Nam:
-Tham gia ban nhạc Đồng hồ báo thức Năm 1999 – nay với vai trò (trưởng nhóm nhạc cụ)
-Hội viên hội âm nhạc Hà nội, năm 2007
-Hội viên hội nhạc sĩ Việt nam, năm 2013					</p>
+					<p>Piano luôn chiếm trọn tâm trí của tôi từ khi lên 6, vì vậy tôi coi mình là một người giàu kinh nghiệm trong lĩnh vực âm nhạc. Tôi thực sự thích làm việc với các sinh viên có năng lực và chào đón các lứa tuổi và trình độ khác nhau. Tôi đã làm việc cả với các nhạc sĩ chuyên nghiệp và những người đam mê âm nhạc bậc cao.
+Quãng thời gian giảng dạy của tôi đã cho những kết quả tuyệt vời, và tôi tự hào về những học viên của mình đã giành được giải thưởng cao trong các cuộc thi trong nước.
+Phương pháp giảng dạy được xây dựng kĩ lưỡng của tôi dựa trên sự kết hợp tốt nhất của truyền thống Nga và châu Âu trong giáo dục âm nhạc. Nó nhằm mục đích xây dựng và nâng cao kỹ năng đọc, kỹ thuật và lý thuyết âm nhạc bằng cách khám phá các tác phẩm đa dạng về phong cách.					</p>
 				</div>
 			</div>
 
@@ -4161,7 +2234,7 @@ Hội viên hội nhạc sĩ Việt nam, năm 2013					</p>
 				<div class="row">
 					<h4>Học vấn</h4>
 					<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">	
-						<p>Tốt nghiệp thạc sĩ ĐH văn hóa nghệ thuật quân đội</p>
+						<p>Tốt nghiệp thạc sĩ Đại học sư phạm nghệ thuật trung ương</p>
 					</div>
 					
 				</div>
@@ -4190,13 +2263,13 @@ Hội viên hội nhạc sĩ Việt nam, năm 2013					</p>
 						<p>Tại nhà</p>
 					</div>
 					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 text-right">
-						<p>350.000 VNĐ/60 phút</p>
+						<p>500.000 VNĐ/h</p>
 					</div>
 					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
 						<p>Tại lớp</p>
 					</div>
 					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 text-right">
-						<p>300.000 VNĐ/60 phút</p>
+						<p>400.000 VNĐ/h</p>
 					</div>
 				</div>
 				<div class="row">
@@ -4218,36 +2291,37 @@ Hội viên hội nhạc sĩ Việt nam, năm 2013					</p>
 			<tbody>
 			 <tr>
 				<th>Sáng</th>
-				<td></td>
 				<td class="busy"></td>
 				<td class="busy"></td>
-				<td></td>
-				<td></td>
 				<td class="busy"></td>
+				<td></td>
+				<td></td>
+				<td></td>
 				<td></td>
 			 </tr>
 			 <tr>
 				<th>Chiều</th>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td class="busy"></td>
 				<td class="busy"></td>
 				<td></td>
-				<td></td>
 				<td class="busy"></td>
-				<td class="busy"></td>
-				<td></td>
-				<td></td>
 			 </tr>
 			 <tr>
 				<th>Tối</th>
 				<td></td>
+				<td class="busy"></td>
 				<td></td>
 				<td class="busy"></td>
 				<td></td>
 				<td></td>
-				<td class="busy"></td>
 				<td class="busy"></td>
 			 </tr>
 			</tbody>
 		 </table>
+ 
  
  
 					<span class="legend"></span> : Những buổi giáo viên có thể giảng dạy 	
@@ -4255,41 +2329,41 @@ Hội viên hội nhạc sĩ Việt nam, năm 2013					</p>
 				</div>
 				<div class="row sign-up">
 					<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
-						<button class="btn btn-info btn-lg btn-sign-up center-block dang-ky-ngay" data-toggle="modal" data-target="#myModal" rel="chuongquocbao">Đăng ký ngay</button>
+						<button class="btn btn-info btn-lg btn-sign-up center-block dang-ky-ngay" data-toggle="modal" data-target="#myModal" rel="phuongthihue">Đăng ký ngay</button>
 					</div>
 				</div>
 			</div>
 		</div> <!-- End Profile detail -->
 	</div> <!-- End Profile box --> 
-	<!-- Profile row: Bùi Quang Việt-->
+	<!-- Profile row: Lê Khánh Linh-->
 	<!-- Profile box -->
 	<div class="container-fluid hgd-profile-box hanoi" data-price="200">
 		<div class="row hgd-profile ">
 			<div class="d-flex align-self-stretch profile-column">
 				<div class="col-xs-4 col-sm-3 col-md-2 col-lg-2 hgd-profile-info hgd-avatar">
-					<img class="img-circle img-responsive center-block hgd-profile-avatar" src="https://www.hocgiday.com/wp-content/uploads/2017/06/11-HN-BuiQuangViet.jpg" alt="teacher">
+					<img class="img-circle img-responsive center-block hgd-profile-avatar" src="https://www.hocgiday.com/wp-content/uploads/2017/07/Khanh-Linh-2.jpg" alt="teacher">
 				</div>
 			</div>
 			<div class="d-flex align-self-stretch profile-column">
 				<div class="col-xs-4 col-sm-6 col-md-6 col-lg-6 hgd-profile-info ">
-				<h3 id="buiquangviet">Bùi Quang Việt</h3>
-				<p>Địa chỉ: Định Công Hạ, Định Công, Hoàng Mai, Hà Nội</p>
+				<h3 id="lekhanhlinh">Lê Khánh Linh</h3>
+				<p>Địa chỉ: Thanh Trì, Hà Đông, Hà Nội</p>
 				</div>
 			</div>
 			<div class="d-flex align-self-stretch profile-column">
 				<div class="col-xs-4 col-sm-3 col-md-2 col-lg-2 hgd-profile-info ">
 					<h3 id="unit-price">Học phí</h3>
-					<p class="unit-price">200.000 VNĐ/60 phút</p>
+					<p class="unit-price">200.000 VNĐ/h</p>
 					<h3 id="rating">Đánh Giá</h3>
 					<div class="rating-star-box">
-						<span><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star-o" aria-hidden="true"></i><i class="fa fa-star-o" aria-hidden="true"></i><i class="fa fa-star-o" aria-hidden="true"></i><i class="fa fa-star-o" aria-hidden="true"></i></span>
+						<span><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star-o" aria-hidden="true"></i></span>
 						<span class="num-of-rates">2</span>
 					</div>
 				</div>
 			</div>
 			<div class="d-flex align-self-stretch profile-column">
-				<div class="col-xs-12 col-sm-12 col-md-2 col-lg-2 hgd-read-more buiquangviet">
-					<span class="read-more buiquangviet">&gt;&gt; Tìm hiểu thêm</span>
+				<div class="col-xs-12 col-sm-12 col-md-2 col-lg-2 hgd-read-more lekhanhlinh">
+					<span class="read-more lekhanhlinh">&gt;&gt; Tìm hiểu thêm</span>
 				</div>
 			</div>
 		</div> <!-- End Profile row -->
@@ -4301,15 +2375,16 @@ Hội viên hội nhạc sĩ Việt nam, năm 2013					</p>
 					<p><span class="t-heading">Cấp độ giảng dạy</span></p>
 				</div>
 				<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 text-right">
-					<p>Cơ bản, Nâng cao</p>
+					<p>Cơ bản - Nâng cao</p>
 				</div>
 			</div>
 			<!-- Description -->
 			<div class="row">
 				<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
 					<h4>Vài nét về giáo viên</h4>
-					<p>Chào các bạn, mình tiếp xúc với Guitar từ 2008, Piano và thanh nhạc từ 2010. Dòng nhạc ưa thích của mình là nhạc nhẹ và nhạc thính phòng. Mình sẽ dạy các bạn từ trình độ cơ bản, và có thể từ trình độ bạn đã biết. Mình sẽ dạy lý thuyết song song thực hành luôn trong mỗi buổi dạy, mỗi buổi sẽ thêm một chút để bạn dần mở rộng ra khả năng của mình. 
-Với học sinh học cổ nhạc cụ: các bạn sẽ được học về đọc nốt nhạc, đọc tiết tấu, học qua các bài tập luyện ngón để giúp ngón vững hơn và âm thanh được tròn trịa, tiếp xúc luôn với các tác phẩm từ mức dễ đến khó. Với học sinh học đệm hát các nhạc cụ: cấu tạo hợp âm, các gam, các giọng, các âm hình đệm cơ bản, và nâng cao với những học sinh có khả năng. Với học sinh học thanh nhạc: bạn sẽ được học về kiểm soát hơi thở, đặt vị trí âm thanh, xử lý bài, tiết chế cảm xúc, áp dụng vào bài hát. 
+					<p>Mình đã chơi piano từ nhỏ và có kinh nghiệm giảng dạy được 3 năm. Mình có thể giảng dạy nhiều phong cách và mình thích làm việc với những người mới tập chơi.
+Mình có thể là cô giáo kiên nhẫn nhất mà bạn đã từng gặp! Năm nay đã là năm thứ 7 mình học ở nhạc viện, cùng với kinh nghiệm 3 năm đi dạy, mình tự tin có thể hướng dẫn cho các bạn mới tập chơi, và cả những bạn đã chơi piano được 2 - 3 năm tiến bộ nhanh chóng trong việc tập luyện và biểu diễn.
+Rất mong sẽ có cơ hội được làm việc với các bạn!
 					</p>
 				</div>
 			</div>
@@ -4320,7 +2395,7 @@ Với học sinh học cổ nhạc cụ: các bạn sẽ được học về đ�
 				<div class="row">
 					<h4>Học vấn</h4>
 					<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">	
-						<p>Tốt nghiệp Đại học Sư phạm Nghệ thuật Trung ương</p>
+						<p>Sinh viên năm 3 hệ đại học Học viện âm nhạc Quốc gia Việt Nam</p>
 					</div>
 					
 				</div>
@@ -4340,7 +2415,7 @@ Với học sinh học cổ nhạc cụ: các bạn sẽ được học về đ�
 						<h4>Phạm vi đi lại</h4>
 					</div>
 					<div class="col-xs-5 col-sm-5 col-md-5 col-lg-5 text-right">
-						<p>5km</p>
+						<p>4km</p>
 					</div>
 				</div>
 				<div class="row">
@@ -4349,13 +2424,13 @@ Với học sinh học cổ nhạc cụ: các bạn sẽ được học về đ�
 						<p>Tại nhà</p>
 					</div>
 					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 text-right">
-						<p>200.000 VNĐ/60 phút</p>
+						<p>200.000 VNĐ/h</p>
 					</div>
 					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
 						<p>Tại lớp</p>
 					</div>
 					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 text-right">
-						<p>180.000 VNĐ/60 phút</p>
+						<p></p>
 					</div>
 				</div>
 				<div class="row">
@@ -4380,19 +2455,19 @@ Với học sinh học cổ nhạc cụ: các bạn sẽ được học về đ�
 				<td></td>
 				<td></td>
 				<td></td>
-				<td class="busy"></td>
-				<td class="busy"></td>
-				<td class="busy"></td>
+				<td></td>
+				<td></td>
+				<td></td>
 				<td></td>
 			 </tr>
 			 <tr>
 				<th>Chiều</th>
 				<td class="busy"></td>
-				<td></td>
-				<td></td>
-				<td></td>
 				<td class="busy"></td>
 				<td class="busy"></td>
+				<td></td>
+				<td class="busy"></td>
+				<td></td>
 				<td></td>
 			 </tr>
 			 <tr>
@@ -4406,7 +2481,327 @@ Với học sinh học cổ nhạc cụ: các bạn sẽ được học về đ�
 				<td></td>
 			 </tr>
 			</tbody>
+		 </table> 
+ 
+					<span class="legend"></span> : Những buổi giáo viên có thể giảng dạy 	
+					</div>
+				</div>
+				<div class="row sign-up">
+					<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+						<button class="btn btn-info btn-lg btn-sign-up center-block dang-ky-ngay" data-toggle="modal" data-target="#myModal" rel="lekhanhlinh">Đăng ký ngay</button>
+					</div>
+				</div>
+			</div>
+		</div> <!-- End Profile detail -->
+	</div> <!-- End Profile box --> 
+	<!-- Profile row: Kiều Văn Nhân-->
+	<!-- Profile box -->
+	<div class="container-fluid hgd-profile-box hanoi" data-price="200">
+		<div class="row hgd-profile ">
+			<div class="d-flex align-self-stretch profile-column">
+				<div class="col-xs-4 col-sm-3 col-md-2 col-lg-2 hgd-profile-info hgd-avatar">
+					<img class="img-circle img-responsive center-block hgd-profile-avatar" src="https://www.hocgiday.com/wp-content/uploads/2017/07/Van-Nhan-2.jpg" alt="teacher">
+				</div>
+			</div>
+			<div class="d-flex align-self-stretch profile-column">
+				<div class="col-xs-4 col-sm-6 col-md-6 col-lg-6 hgd-profile-info ">
+				<h3 id="kieuvannhan">Kiều Văn Nhân</h3>
+				<p>Địa chỉ: ngõ 256 Bạch Đằng, Hai Bà Trưng, thành phố Hà Nội</p>
+				</div>
+			</div>
+			<div class="d-flex align-self-stretch profile-column">
+				<div class="col-xs-4 col-sm-3 col-md-2 col-lg-2 hgd-profile-info ">
+					<h3 id="unit-price">Học phí</h3>
+					<p class="unit-price">200.000 VNĐ/h</p>
+					<h3 id="rating">Đánh Giá</h3>
+					<div class="rating-star-box">
+						<span><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i></span>
+						<span class="num-of-rates">1</span>
+					</div>
+				</div>
+			</div>
+			<div class="d-flex align-self-stretch profile-column">
+				<div class="col-xs-12 col-sm-12 col-md-2 col-lg-2 hgd-read-more kieuvannhan">
+					<span class="read-more kieuvannhan">&gt;&gt; Tìm hiểu thêm</span>
+				</div>
+			</div>
+		</div> <!-- End Profile row -->
+
+		<!-- Profile Detail -->
+		<div class="row hgd-profile-detail">
+			<div class="row">
+				<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
+					<p><span class="t-heading">Cấp độ giảng dạy</span></p>
+				</div>
+				<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 text-right">
+					<p>Cơ bản - Nâng cao</p>
+				</div>
+			</div>
+			<!-- Description -->
+			<div class="row">
+				<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+					<h4>Vài nét về giáo viên</h4>
+					<p>Chào mọi người, tôi là Kiều Văn Nhân. Tôi bắt đầu học nhạc từ năm 12 tuổi và đi dạy từ năm 2012. Tôi thích nhạc cổ điển, và thần tượng Mozart, Beethoven và Richard Clayderman.
+Tôi thích giảng dạy ở mọi lứa tuổi và khả năng, từ những bé 6 tuổi mới bắt đầu đến học viên cao tuổi nhất là một bác đã 70 tuổi. Tôi có cách tiếp cận thư giãn và thoải mái khi khuyến khích bạn khai phá tiềm năng của học viên, tuy vậy, tôi cũng là một giáo viên nghiêm khắc khi thấy cần thiết. 
+Cho dù bạn là người mới bắt đầu hay đã có kinh nghiệm, tôi sẽ đánh giá cẩn thận những điểm mạnh và điểm yếu của bạn và tạo ra một lộ trình học phù hợp với phong cách, sở thích và nhu cầu của từng cá nhân. Tôi sẽ thảo luận về mục tiêu của bạn với âm nhạc và tôi sẽ giúp bạn đạt được điều đó! 
+					</p>
+				</div>
+			</div>
+
+			<!-- End description -->
+			<!-- Left column at md and lg -->
+			<div class="col-xs-12 col-sm-12 col-md-7 col-lg-7"> 
+				<div class="row">
+					<h4>Học vấn</h4>
+					<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">	
+						<p>Tốt nghiệp Cao đẳng nghệ thuật Hà Nội</p>
+					</div>
+					
+				</div>
+				<div class="row">
+					<h4>Video</h4>
+					<div class="col-xs-12 col-sm-12 col-md-11 col-lg-11 wrapper wrapper-iframe">
+						<iframe class="wrapper-item wrapper-video" src="" frameborder="0" allowfullscreen></iframe>
+					</div>
+				</div>	
+			</div> <!-- End left column -->
+			
+			<!-- Right column at md and lg -->
+			<div class="col-xs-12 col-sm-12 col-md-5 col-lg-5"> 
+				
+				<div class="row">
+					<div class="col-xs-7 col-sm-7 col-md-7 col-lg-7">
+						<h4>Phạm vi đi lại</h4>
+					</div>
+					<div class="col-xs-5 col-sm-5 col-md-5 col-lg-5 text-right">
+						<p>15km</p>
+					</div>
+				</div>
+				<div class="row">
+					<h4>Học phí</h4>
+					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
+						<p>Tại nhà</p>
+					</div>
+					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 text-right">
+						<p>200.000 VNĐ/h</p>
+					</div>
+					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
+						<p>Tại lớp</p>
+					</div>
+					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 text-right">
+						<p>180.000 VNĐ/h</p>
+					</div>
+				</div>
+				<div class="row">
+					<h4>Lịch giảng dạy của giáo viên</h4>
+					<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+						<table class="table table-bordered">
+			<thead>
+			 <tr>
+				<th></th>
+				<th>T2</th>
+				<th>T3</th>
+				<th>T4</th>
+				<th>T5</th>
+				<th>T6</th>
+				<th>T7</th>
+				<th>CN</th>
+			 </tr>
+			</thead>
+			<tbody>
+			 <tr>
+				<th>Sáng</th>
+				<td class="busy"></td>
+				<td class="busy"></td>
+				<td class="busy"></td>
+				<td class="busy"></td>
+				<td class="busy"></td>
+				<td></td>
+				<td></td>
+			 </tr>
+			 <tr>
+				<th>Chiều</th>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+			 </tr>
+			 <tr>
+				<th>Tối</th>
+				<td class="busy"></td>
+				<td class="busy"></td>
+				<td class="busy"></td>
+				<td class="busy"></td>
+				<td class="busy"></td>
+				<td></td>
+				<td></td>
+			 </tr>
+			</tbody>
+		 </table> 
+ 
+					<span class="legend"></span> : Những buổi giáo viên có thể giảng dạy 	
+					</div>
+				</div>
+				<div class="row sign-up">
+					<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+						<button class="btn btn-info btn-lg btn-sign-up center-block dang-ky-ngay" data-toggle="modal" data-target="#myModal" rel="kieuvannhan">Đăng ký ngay</button>
+					</div>
+				</div>
+			</div>
+		</div> <!-- End Profile detail -->
+	</div> <!-- End Profile box --> 
+	<!-- Profile row: Hoàng Phương-->
+	<!-- Profile box -->
+	<div class="container-fluid hgd-profile-box hanoi" data-price="450">
+		<div class="row hgd-profile ">
+			<div class="d-flex align-self-stretch profile-column">
+				<div class="col-xs-4 col-sm-3 col-md-2 col-lg-2 hgd-profile-info hgd-avatar">
+					<img class="img-circle img-responsive center-block hgd-profile-avatar" src="https://www.hocgiday.com/wp-content/uploads/2017/07/11-HN-HoangPhuong-2.jpg" alt="teacher">
+				</div>
+			</div>
+			<div class="d-flex align-self-stretch profile-column">
+				<div class="col-xs-4 col-sm-6 col-md-6 col-lg-6 hgd-profile-info ">
+				<h3 id="hoangphuong">Hoàng Phương</h3>
+				<p>Địa chỉ: ngõ Văn Chương, Tôn Đức Thắng, Đống Đa, thành phố Hà Nội</p>
+				</div>
+			</div>
+			<div class="d-flex align-self-stretch profile-column">
+				<div class="col-xs-4 col-sm-3 col-md-2 col-lg-2 hgd-profile-info ">
+					<h3 id="unit-price">Học phí</h3>
+					<p class="unit-price">450.000 VNĐ/h</p>
+					<h3 id="rating">Đánh Giá</h3>
+					<div class="rating-star-box">
+						<span><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star-o" aria-hidden="true"></i></span>
+						<span class="num-of-rates">4</span>
+					</div>
+				</div>
+			</div>
+			<div class="d-flex align-self-stretch profile-column">
+				<div class="col-xs-12 col-sm-12 col-md-2 col-lg-2 hgd-read-more hoangphuong">
+					<span class="read-more hoangphuong">&gt;&gt; Tìm hiểu thêm</span>
+				</div>
+			</div>
+		</div> <!-- End Profile row -->
+
+		<!-- Profile Detail -->
+		<div class="row hgd-profile-detail">
+			<div class="row">
+				<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
+					<p><span class="t-heading">Cấp độ giảng dạy</span></p>
+				</div>
+				<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 text-right">
+					<p>Cơ bản - Nâng cao - Chuyên sâu</p>
+				</div>
+			</div>
+			<!-- Description -->
+			<div class="row">
+				<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+					<h4>Vài nét về giáo viên</h4>
+					<p>Giống như một nghệ sỹ lãng du, từ ngoại hình đến phong cách trình diễn, ở Hoàng Phương luôn toát lên một chất vị riêng có rất đặc biệt. Một con người có vẻ bề ngoài đơn giản nhưng tài năng lại không hề giản đơn chút nào. Tốt nghiệp thạc sĩ học viện âm nhạc quốc gia năm 2015, Hoàng Phương đã trải qua một quá trình đào tạo và rèn luyện hết sức chuyên nghiệp và bài bản từ một trong những trường nghệ thuật lớn nhất cả nước. Tài năng giống như một viên ngọc thô, nếu cứ để mãi trong tự nhiên, bào mòn bởi gió cát, sẽ không thể trở nên long lanh và tinh tế được. Nhưng nếu qua tay những người thợ chuyên nghiệp, nó sẽ trở nên vô cùng giá trị.
+Hơn nữa, bắt đầu sự nghiệp âm nhạc nghệ thuật từ mãi những năm 2004-2005, Hoàng Phương gắn bó với những phím đàn như một người bạn đồng hành thân thiết, trải qua rất nhiều những sự kiện, tích lũy vô vàn những trải nghiệm bản thân. Cùng với hơn 2 năm kinh nghiệm giảng dạy bộ môn chuyên ngành, thầy cũng có được một số vốn kỹ năng sư phạm tốt để truyền tải kiến thức và cảm hứng cho các học viên.
+Trong thời gian hoạt động nghệ thuật lâu dài của mình, Hoàng Phương từng là thành viên cốt cán của band nhạc New Song đình đám một thời. Ngoài ra, thầy cũng thường xuyên nhận được những lời mời biểu diễn tại những Nhà hàng, Khách sạn lớn, các chương trình, sự kiện trong Sài Gòn và nhiều tỉnh khác…
+Những học viên từng được Hoàng Phương dẫn dắt đa số tìm đến Piano như một niềm đam mê sẵn có, thầy giáo cũng chia sẻ thầy rất thích giảng dạy những học sinh như vậy, không gượng ép, không khô cứng, cả thầy và trò cùng hòa hợp chia sẻ một sở thích chung.
+					</p>
+				</div>
+			</div>
+
+			<!-- End description -->
+			<!-- Left column at md and lg -->
+			<div class="col-xs-12 col-sm-12 col-md-7 col-lg-7"> 
+				<div class="row">
+					<h4>Học vấn</h4>
+					<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">	
+						<p>Tốt nghiệp thạc sĩ học viện âm nhạc quốc gia năm 2015</p>
+					</div>
+					
+				</div>
+				<div class="row">
+					<h4>Video</h4>
+					<div class="col-xs-12 col-sm-12 col-md-11 col-lg-11 wrapper wrapper-iframe">
+						<iframe class="wrapper-item wrapper-video" src="" frameborder="0" allowfullscreen></iframe>
+					</div>
+				</div>	
+			</div> <!-- End left column -->
+			
+			<!-- Right column at md and lg -->
+			<div class="col-xs-12 col-sm-12 col-md-5 col-lg-5"> 
+				
+				<div class="row">
+					<div class="col-xs-7 col-sm-7 col-md-7 col-lg-7">
+						<h4>Phạm vi đi lại</h4>
+					</div>
+					<div class="col-xs-5 col-sm-5 col-md-5 col-lg-5 text-right">
+						<p>3km</p>
+					</div>
+				</div>
+				<div class="row">
+					<h4>Học phí</h4>
+					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
+						<p>Tại nhà</p>
+					</div>
+					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 text-right">
+						<p>450.000 VNĐ/h</p>
+					</div>
+					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
+						<p>Tại lớp</p>
+					</div>
+					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 text-right">
+						<p>360.000 VNĐ/h</p>
+					</div>
+				</div>
+				<div class="row">
+					<h4>Lịch giảng dạy của giáo viên</h4>
+					<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+						<table class="table table-bordered">
+			<thead>
+			 <tr>
+				<th></th>
+				<th>T2</th>
+				<th>T3</th>
+				<th>T4</th>
+				<th>T5</th>
+				<th>T6</th>
+				<th>T7</th>
+				<th>CN</th>
+			 </tr>
+			</thead>
+			<tbody>
+			 <tr>
+				<th>Sáng</th>
+				<td class="busy"></td>
+				<td></td>
+				<td class="busy"></td>
+				<td></td>
+				<td class="busy"></td>
+				<td></td>
+				<td></td>
+			 </tr>
+			 <tr>
+				<th>Chiều</th>
+				<td class="busy"></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td class="busy"></td>
+				<td class="busy"></td>
+			 </tr>
+			 <tr>
+				<th>Tối</th>
+				<td class="busy"></td>
+				<td class="busy"></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td class="busy"></td>
+			 </tr>
+			</tbody>
 		 </table>
+ 
  
  
 					<span class="legend"></span> : Những buổi giáo viên có thể giảng dạy 	
@@ -4414,7 +2809,7 @@ Với học sinh học cổ nhạc cụ: các bạn sẽ được học về đ�
 				</div>
 				<div class="row sign-up">
 					<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
-						<button class="btn btn-info btn-lg btn-sign-up center-block dang-ky-ngay" data-toggle="modal" data-target="#myModal" rel="buiquangviet">Đăng ký ngay</button>
+						<button class="btn btn-info btn-lg btn-sign-up center-block dang-ky-ngay" data-toggle="modal" data-target="#myModal" rel="hoangphuong">Đăng ký ngay</button>
 					</div>
 				</div>
 			</div>
@@ -4426,19 +2821,19 @@ Với học sinh học cổ nhạc cụ: các bạn sẽ được học về đ�
 		<div class="row hgd-profile ">
 			<div class="d-flex align-self-stretch profile-column">
 				<div class="col-xs-4 col-sm-3 col-md-2 col-lg-2 hgd-profile-info hgd-avatar">
-					<img class="img-circle img-responsive center-block hgd-profile-avatar" src="https://www.hocgiday.com/wp-content/uploads/2017/06/12-HN-PhamThe.jpg" alt="teacher">
+					<img class="img-circle img-responsive center-block hgd-profile-avatar" src="https://www.hocgiday.com/wp-content/uploads/2017/07/profile_photo-190-1-2.jpg" alt="teacher">
 				</div>
 			</div>
 			<div class="d-flex align-self-stretch profile-column">
 				<div class="col-xs-4 col-sm-6 col-md-6 col-lg-6 hgd-profile-info ">
 				<h3 id="phamthe">Phạm Thế</h3>
-				<p>Địa chỉ: Ngách 37 Ngõ 166 Miếu Đầm - Mễ Trì Thượng - quận Nam Từ Liêm</p>
+				<p>Địa chỉ: ngõ 166 Miếu Đầm, Mễ Trì Thượng, Nam Từ Liêm, Hà Nội</p>
 				</div>
 			</div>
 			<div class="d-flex align-self-stretch profile-column">
 				<div class="col-xs-4 col-sm-3 col-md-2 col-lg-2 hgd-profile-info ">
 					<h3 id="unit-price">Học phí</h3>
-					<p class="unit-price">280.000 VNĐ/60 phút</p>
+					<p class="unit-price">280.000 VNĐ/h</p>
 					<h3 id="rating">Đánh Giá</h3>
 					<div class="rating-star-box">
 						<span><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star-o" aria-hidden="true"></i></span>
@@ -4460,14 +2855,17 @@ Với học sinh học cổ nhạc cụ: các bạn sẽ được học về đ�
 					<p><span class="t-heading">Cấp độ giảng dạy</span></p>
 				</div>
 				<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 text-right">
-					<p>Cơ bản, Nâng cao</p>
+					<p>Cơ bản - Nâng cao</p>
 				</div>
 			</div>
 			<!-- Description -->
 			<div class="row">
 				<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
 					<h4>Vài nét về giáo viên</h4>
-					<p>Chào tất cả các bạn! Mình là Phạm Thế, rất vui được làm quen với các bạn trên Hocgiday.com. Nhạc là ngôn ngữ chung của nhân loại, là con đường gắn kết mọi người lại với nhau.Thiếu âm nhạc thì chúng ta sẽ mất đi một phần thú vị của cuộc sống. Mình rất yêu thích những tác phẩm cổ điển với các nhạc sĩ Mozart, Chopin, Bach, Beethoven, Kuhlau…; tác phẩm trữ tình lãng mạn của nhạc sĩ Richard Clayderman, Yiruma.
+					<p>Chào tất cả các bạn! Mình là Phạm Thế, rất vui được làm quen với các bạn trên Hocgiday.com.
+Âm nhạc là ngôn ngữ chung của nhân loại, là con đường gắn kết mọi người lại với nhau. Thiếu âm nhạc thì chúng ta sẽ mất đi một phần thú vị của cuộc sống. Mình rất yêu thích những tác phẩm cổ điển với các nhạc sĩ Mozart, Chopin, Bach, Beethoven, Kuhlau…; tác phẩm trữ tình lãng mạn của nhạc sĩ Richard Clayderman, Yiruma.
+Với gần 8 năm học piano và 2 năm kinh nghiệm giảng dạy, học piano với Phạm Thế các bạn sẽ được đào tạo piano một cách bài bản, từ cơ bản đến nâng cao, từ dễ đến khó và có một nền tảng về âm nhạc vững chắc. Mục tiêu khi học piano với Phạm Thế là các bạn sẽ chơi được những tác phẩm piano và đệm hát được tác phẩm mà các bạn yêu thích.
+Học piano với mình các bạn sẽ không thấy sự áp lực mà chúng ta sẽ học trên phương châm cùng trao đổi, cùng luyện tập và cùng tiến bộ. Với phương pháp giảng dạy dể hiểu, cô đọng kết hợp với sự nhiệt tình chắc chắn Phạm Thế sẽ mang lại cho các bạn những giờ học piano chất lượng ,đầy thù vị và bổ ích.
 					</p>
 				</div>
 			</div>
@@ -4507,13 +2905,172 @@ Với học sinh học cổ nhạc cụ: các bạn sẽ được học về đ�
 						<p>Tại nhà</p>
 					</div>
 					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 text-right">
-						<p>280.000 VNĐ/60 phút</p>
+						<p>280.000 VNĐ/h</p>
 					</div>
 					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
 						<p>Tại lớp</p>
 					</div>
 					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 text-right">
-						<p>220.000 VNĐ/60 phút</p>
+						<p>224.000 VNĐ/h</p>
+					</div>
+				</div>
+				<div class="row">
+					<h4>Lịch giảng dạy của giáo viên</h4>
+					<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+						<table class="table table-bordered">
+			<thead>
+			 <tr>
+				<th></th>
+				<th>T2</th>
+				<th>T3</th>
+				<th>T4</th>
+				<th>T5</th>
+				<th>T6</th>
+				<th>T7</th>
+				<th>CN</th>
+			 </tr>
+			</thead>
+			<tbody>
+			 <tr>
+				<th>Sáng</th>
+				<td class="busy"></td>
+				<td class="busy"></td>
+				<td class="busy"></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+			 </tr>
+			 <tr>
+				<th>Chiều</th>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td class="busy"></td>
+				<td class="busy"></td>
+				<td></td>
+				<td class="busy"></td>
+			 </tr>
+			 <tr>
+				<th>Tối</th>
+				<td></td>
+				<td class="busy"></td>
+				<td></td>
+				<td class="busy"></td>
+				<td></td>
+				<td></td>
+				<td class="busy"></td>
+			 </tr>
+			</tbody>
+		 </table>
+ 
+ 
+ 
+					<span class="legend"></span> : Những buổi giáo viên có thể giảng dạy 	
+					</div>
+				</div>
+				<div class="row sign-up">
+					<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+						<button class="btn btn-info btn-lg btn-sign-up center-block dang-ky-ngay" data-toggle="modal" data-target="#myModal" rel="phamthe">Đăng ký ngay</button>
+					</div>
+				</div>
+			</div>
+		</div> <!-- End Profile detail -->
+	</div> <!-- End Profile box --> 
+	<!-- Profile row: Hoàng Trung-->
+	<!-- Profile box -->
+	<div class="container-fluid hgd-profile-box hanoi" data-price="300">
+		<div class="row hgd-profile ">
+			<div class="d-flex align-self-stretch profile-column">
+				<div class="col-xs-4 col-sm-3 col-md-2 col-lg-2 hgd-profile-info hgd-avatar">
+					<img class="img-circle img-responsive center-block hgd-profile-avatar" src="https://www.hocgiday.com/wp-content/uploads/2017/07/13-HN-HoangTrung-2.jpg" alt="teacher">
+				</div>
+			</div>
+			<div class="d-flex align-self-stretch profile-column">
+				<div class="col-xs-4 col-sm-6 col-md-6 col-lg-6 hgd-profile-info ">
+				<h3 id="hoangtrung">Hoàng Trung</h3>
+				<p>Địa chỉ: phố Trung Tựu, Bắc Từ Liêm, Hà Nội</p>
+				</div>
+			</div>
+			<div class="d-flex align-self-stretch profile-column">
+				<div class="col-xs-4 col-sm-3 col-md-2 col-lg-2 hgd-profile-info ">
+					<h3 id="unit-price">Học phí</h3>
+					<p class="unit-price">300.000 VNĐ/h</p>
+					<h3 id="rating">Đánh Giá</h3>
+					<div class="rating-star-box">
+						<span><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star-o" aria-hidden="true"></i><i class="fa fa-star-o" aria-hidden="true"></i></span>
+						<span class="num-of-rates">7</span>
+					</div>
+				</div>
+			</div>
+			<div class="d-flex align-self-stretch profile-column">
+				<div class="col-xs-12 col-sm-12 col-md-2 col-lg-2 hgd-read-more hoangtrung">
+					<span class="read-more hoangtrung">&gt;&gt; Tìm hiểu thêm</span>
+				</div>
+			</div>
+		</div> <!-- End Profile row -->
+
+		<!-- Profile Detail -->
+		<div class="row hgd-profile-detail">
+			<div class="row">
+				<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
+					<p><span class="t-heading">Cấp độ giảng dạy</span></p>
+				</div>
+				<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 text-right">
+					<p>Cơ bản - Nâng cao</p>
+				</div>
+			</div>
+			<!-- Description -->
+			<div class="row">
+				<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+					<h4>Vài nét về giáo viên</h4>
+					<p>Nếu bạn muốn học cách bắt đầu chơi piano, tôi là lựa chọn tốt của bạn. Tôi tập trung vào âm giai và nhịp phách để giúp bạn tìm hiểu điểm bắt đầu của việc chơi piano. Tôi có thể đưa bạn qua bốn giai điệu đơn giản với bàn đạp, chơi từ một bản nhạc chính, và thậm chí một chút về chuyển giọng. Một lượng nhỏ lý thuyết âm nhạc sẽ được thêm vào bài học của bạn.
+Tôi có thể cho bạn thấy những cách để trau dồi kỹ năng thông qua các chiến lược luyện tập. Ngoài ra, tôi có thể dạy cho bạn cách giữ cho nhạc cụ của mình hoạt động tốt nhất. Tôi muốn dạy cho bạn những gì bạn muốn biết và thêm một chút để mở rộng khả năng của bạn. Tôi mong sẽ nhận được hồi âm sớm từ các bạn.					</p>
+				</div>
+			</div>
+
+			<!-- End description -->
+			<!-- Left column at md and lg -->
+			<div class="col-xs-12 col-sm-12 col-md-7 col-lg-7"> 
+				<div class="row">
+					<h4>Học vấn</h4>
+					<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">	
+						<p>Sinh viên năm 4 Học viện âm nhạc quốc gia</p>
+					</div>
+					
+				</div>
+				<div class="row">
+					<h4>Video</h4>
+					<div class="col-xs-12 col-sm-12 col-md-11 col-lg-11 wrapper wrapper-iframe">
+						<iframe class="wrapper-item wrapper-video" src="" frameborder="0" allowfullscreen></iframe>
+					</div>
+				</div>	
+			</div> <!-- End left column -->
+			
+			<!-- Right column at md and lg -->
+			<div class="col-xs-12 col-sm-12 col-md-5 col-lg-5"> 
+				
+				<div class="row">
+					<div class="col-xs-7 col-sm-7 col-md-7 col-lg-7">
+						<h4>Phạm vi đi lại</h4>
+					</div>
+					<div class="col-xs-5 col-sm-5 col-md-5 col-lg-5 text-right">
+						<p>5km</p>
+					</div>
+				</div>
+				<div class="row">
+					<h4>Học phí</h4>
+					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
+						<p>Tại nhà</p>
+					</div>
+					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 text-right">
+						<p>300.000 VNĐ/h</p>
+					</div>
+					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
+						<p>Tại lớp</p>
+					</div>
+					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 text-right">
+						<p>240.000 VNĐ/h</p>
 					</div>
 				</div>
 				<div class="row">
@@ -4567,12 +3124,13 @@ Với học sinh học cổ nhạc cụ: các bạn sẽ được học về đ�
 		 </table>
  
  
+ 
 					<span class="legend"></span> : Những buổi giáo viên có thể giảng dạy 	
 					</div>
 				</div>
 				<div class="row sign-up">
 					<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
-						<button class="btn btn-info btn-lg btn-sign-up center-block dang-ky-ngay" data-toggle="modal" data-target="#myModal" rel="phamthe">Đăng ký ngay</button>
+						<button class="btn btn-info btn-lg btn-sign-up center-block dang-ky-ngay" data-toggle="modal" data-target="#myModal" rel="hoangtrung">Đăng ký ngay</button>
 					</div>
 				</div>
 			</div>
@@ -4580,23 +3138,23 @@ Với học sinh học cổ nhạc cụ: các bạn sẽ được học về đ�
 	</div> <!-- End Profile box --> 
 	<!-- Profile row: Vũ Nam-->
 	<!-- Profile box -->
-	<div class="container-fluid hgd-profile-box hanoi" data-price="160">
+	<div class="container-fluid hgd-profile-box hanoi" data-price="250">
 		<div class="row hgd-profile ">
 			<div class="d-flex align-self-stretch profile-column">
 				<div class="col-xs-4 col-sm-3 col-md-2 col-lg-2 hgd-profile-info hgd-avatar">
-					<img class="img-circle img-responsive center-block hgd-profile-avatar" src="https://www.hocgiday.com/wp-content/uploads/2017/06/13-HN-VuNam.jpg" alt="teacher">
+					<img class="img-circle img-responsive center-block hgd-profile-avatar" src="https://www.hocgiday.com/wp-content/uploads/2017/07/15-HN-VuNam-2.jpg" alt="teacher">
 				</div>
 			</div>
 			<div class="d-flex align-self-stretch profile-column">
 				<div class="col-xs-4 col-sm-6 col-md-6 col-lg-6 hgd-profile-info ">
 				<h3 id="vunam">Vũ Nam</h3>
-				<p>Địa chỉ: phố Đình Quán, phường Phú Diễn, quận Bắc Từ Liêm, thành phố Hà Nội</p>
+				<p>Địa chỉ: Đình Quán, Bắc Từ Liêm, Hà Nội</p>
 				</div>
 			</div>
 			<div class="d-flex align-self-stretch profile-column">
 				<div class="col-xs-4 col-sm-3 col-md-2 col-lg-2 hgd-profile-info ">
 					<h3 id="unit-price">Học phí</h3>
-					<p class="unit-price">160.000 VNĐ/60 phút</p>
+					<p class="unit-price">250.000 VNĐ/h</p>
 					<h3 id="rating">Đánh Giá</h3>
 					<div class="rating-star-box">
 						<span><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i></span>
@@ -4625,7 +3183,8 @@ Với học sinh học cổ nhạc cụ: các bạn sẽ được học về đ�
 			<div class="row">
 				<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
 					<h4>Vài nét về giáo viên</h4>
-					<p>Xin chào tất cả các bạn! Mình là Vũ Văn Nam. Nhà soạn nhạc thiên tài người Đức Ludwig van Beethoven đã nói:” âm nhạc làm trái tim của người nam sôi sục và khóe mắt của người nữ đẫm lệ”, đối với mình âm nhạc chính là tâm hồn, là cảm xúc, là tình yêu, là ước mơ và đã trở thành một phần của cuộc sống. Mình đặc biệt yêu thích bộ môn piano. Vì cây đàn guitar có khả năng diễn tả rất phong phú sự chuẩn xác về cao độ, vẻ đẹp của âm thanh biểu hiện được nhiều loại sắc thái, sự tinh tế của phím đàn, sự thuận lợi trong việc kết hợp các chồng âm cùng lúc tạo nên màu sắc hòa âm có thể thay thế dàn nhạc. Thần tượng âm nhạc của mình là Eric Clapton bởi âm nhạc của ông khiến mình cảm nhận được tất cả những tình cảm đẹp đẽ, tinh tế nhất. Điều hạnh phúc lớn nhất trên con đường giảng dạy âm nhạc của mình là truyền cho học sinh cảm hứng và tình yêu cũng như khơi dậy trong học sinh niềm đam mê đối với âm nhạc. Có câu nói:”Hãy mang lại cho bé niềm yêu thương ngọt ngào từ những giai điệu bất hủ, biết đâu bạn sẽ có một thiên tài âm nhạc trong tương lai. Trong mỗi một giờ học, học sinh sẽ được học trong một không khí vui vẻ, thoải mái giống như một buổi chia sẻ, bày tỏ cảm xúc giữa mình với học sinh. Mình đặc biệt yêu thích các bạn nhỏ. Có những bạn rụt rè, nhút nhát nhưng sau một số buổi học sức mạnh của âm nhạc đã giúp các bạn đó cởi mở, gần gũi với mọi người hơn. Hình ảnh các bạn nhỏ say sưa bên phím đàn đã trở thành nguồn động lực to lớn đối với mình. Trong quá trình giảng dạy chính các bạn, những học sinh yêu quý, các bạn nhỏ đã dạy mình cách để trở thành một giáo viên hoàn thiện hơn. Vì thế hãy cho mình cơ hội giúp các bạn khám phá thế giới âm nhạc rộng lớn, mới lạ và thú vị nhé!
+					<p>Xin chào tất cả các bạn!
+Mình là Vũ Văn Nam. Nhà soạn nhạc thiên tài người Đức Ludwig van Beethoven đã nói:” m nhạc làm trái tim của người nam sôi sục và khóe mắt của người nữ đẫm lệ”, đối với mình âm nhạc chính là tâm hồn, là cảm xúc, là tình yêu, là ước mơ và đã trở thành một phần của cuộc sống. Mình đặc biệt yêu thích bộ môn piano. Vì cây đàn piano có khả năng diễn tả rất phong phú sự chuẩn xác về cao độ, vẻ đẹp của âm thanh biểu hiện được nhiều loại sắc thái, sự tinh tế của phím đàn, sự thuận lợi trong việc kết hợp các chồng âm cùng lúc tạo nên màu sắc hòa âm có thể thay thế dàn nhạc. Thần tượng âm nhạc của mình là Mozart bởi âm nhạc của ông khiến mình cảm nhận được tất cả những tình cảm đẹp đẽ, tinh tế nhất. Điều hạnh phúc lớn nhất trên con đường giảng dạy âm nhạc của mình là truyền cho học sinh cảm hứng và tình yêu cũng như khơi dậy trong học sinh niềm đam mê đối với âm nhạc. Có câu nói:”Hãy mang lại cho bé niềm yêu thương ngọt ngào từ những giai điệu bất hủ, biết đâu bạn sẽ có một thiên tài âm nhạc trong tương lai. Trong mỗi một giờ học, học sinh sẽ được học trong một không khí vui vẻ, thoải mái giống như một buổi chia sẻ, bày tỏ cảm xúc giữa mình với học sinh. Mình đặc biệt yêu thích các bạn nhỏ. Có những bạn rụt rè, nhút nhát nhưng sau một số buổi học sức mạnh của âm nhạc đã giúp các bạn đó cởi mở, gần gũi với mọi người hơn. Hình ảnh các bạn nhỏ say sưa bên phím đàn đã trở thành nguồn động lực to lớn đối với mình. Trong quá trình giảng dạy chính các bạn, những học sinh yêu quý, các bạn nhỏ đã dạy mình cách để trở thành một giáo viên hoàn thiện hơn. Vì thế hãy cho mình cơ hội giúp các bạn khám phá thế giới âm nhạc rộng lớn, mới lạ và thú vị nhé!
 					</p>
 				</div>
 			</div>
@@ -4665,13 +3224,13 @@ Với học sinh học cổ nhạc cụ: các bạn sẽ được học về đ�
 						<p>Tại nhà</p>
 					</div>
 					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 text-right">
-						<p>160.000 VNĐ/60 phút</p>
+						<p>250.000 VNĐ/h</p>
 					</div>
 					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
 						<p>Tại lớp</p>
 					</div>
 					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 text-right">
-						<p>120.000 VNĐ/60 phút</p>
+						<p></p>
 					</div>
 				</div>
 				<div class="row">
@@ -4696,34 +3255,33 @@ Với học sinh học cổ nhạc cụ: các bạn sẽ được học về đ�
 				<td class="busy"></td>
 				<td class="busy"></td>
 				<td class="busy"></td>
-				<td></td>
-				<td></td>
-				<td></td>
-				<td></td>
+				<td class="busy"></td>
+				<td class="busy"></td>
+				<td class="busy"></td>
+				<td class="busy"></td>
 			 </tr>
 			 <tr>
 				<th>Chiều</th>
-				<td></td>
-				<td></td>
-				<td></td>
 				<td class="busy"></td>
 				<td class="busy"></td>
-				<td></td>
+				<td class="busy"></td>
+				<td class="busy"></td>
+				<td class="busy"></td>
+				<td class="busy"></td>
 				<td class="busy"></td>
 			 </tr>
 			 <tr>
 				<th>Tối</th>
 				<td></td>
-				<td class="busy"></td>
-				<td></td>
-				<td class="busy"></td>
 				<td></td>
 				<td></td>
-				<td class="busy"></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
 			 </tr>
 			</tbody>
-		 </table>
- 
+		 </table> 
  
 					<span class="legend"></span> : Những buổi giáo viên có thể giảng dạy 	
 					</div>
@@ -4742,23 +3300,23 @@ Với học sinh học cổ nhạc cụ: các bạn sẽ được học về đ�
 		<div class="row hgd-profile ">
 			<div class="d-flex align-self-stretch profile-column">
 				<div class="col-xs-4 col-sm-3 col-md-2 col-lg-2 hgd-profile-info hgd-avatar">
-					<img class="img-circle img-responsive center-block hgd-profile-avatar" src="https://www.hocgiday.com/wp-content/uploads/2017/06/20-SG-NgoQuangDao.jpg" alt="teacher">
+					<img class="img-circle img-responsive center-block hgd-profile-avatar" src="https://www.hocgiday.com/wp-content/uploads/2017/07/6-HN-LuongVanTuy-2.jpg" alt="teacher">
 				</div>
 			</div>
 			<div class="d-flex align-self-stretch profile-column">
 				<div class="col-xs-4 col-sm-6 col-md-6 col-lg-6 hgd-profile-info ">
 				<h3 id="phamduy">Phạm Duy</h3>
-				<p>Địa chỉ: phố An Hòa, phường Mỗ Lão, quận Hà Đông, thành phố Hà Nội</p>
+				<p>Địa chỉ: An Hòa, Hà Đông, Hà Nội</p>
 				</div>
 			</div>
 			<div class="d-flex align-self-stretch profile-column">
 				<div class="col-xs-4 col-sm-3 col-md-2 col-lg-2 hgd-profile-info ">
 					<h3 id="unit-price">Học phí</h3>
-					<p class="unit-price">300.000 VNĐ/60 phút</p>
+					<p class="unit-price">300.000 VNĐ/h</p>
 					<h3 id="rating">Đánh Giá</h3>
 					<div class="rating-star-box">
-						<span><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i></span>
-						<span class="num-of-rates">13</span>
+						<span><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star-o" aria-hidden="true"></i><i class="fa fa-star-o" aria-hidden="true"></i></span>
+						<span class="num-of-rates">3</span>
 					</div>
 				</div>
 			</div>
@@ -4823,13 +3381,810 @@ Với học sinh học cổ nhạc cụ: các bạn sẽ được học về đ�
 						<p>Tại nhà</p>
 					</div>
 					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 text-right">
-						<p>300.000 VNĐ/60 phút</p>
+						<p>300.000 VNĐ/h</p>
 					</div>
 					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
 						<p>Tại lớp</p>
 					</div>
 					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 text-right">
-						<p>240.000 VNĐ/60 phút</p>
+						<p>240.000 VNĐ/h</p>
+					</div>
+				</div>
+				<div class="row">
+					<h4>Lịch giảng dạy của giáo viên</h4>
+					<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+						<table class="table table-bordered">
+			<thead>
+			 <tr>
+				<th></th>
+				<th>T2</th>
+				<th>T3</th>
+				<th>T4</th>
+				<th>T5</th>
+				<th>T6</th>
+				<th>T7</th>
+				<th>CN</th>
+			 </tr>
+			</thead>
+			<tbody>
+			 <tr>
+				<th>Sáng</th>
+				<td class="busy"></td>
+				<td class="busy"></td>
+				<td class="busy"></td>
+				<td class="busy"></td>
+				<td class="busy"></td>
+				<td></td>
+				<td></td>
+			 </tr>
+			 <tr>
+				<th>Chiều</th>
+				<td class="busy"></td>
+				<td class="busy"></td>
+				<td class="busy"></td>
+				<td class="busy"></td>
+				<td class="busy"></td>
+				<td></td>
+				<td></td>
+			 </tr>
+			 <tr>
+				<th>Tối</th>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td class="busy"></td>
+				<td class="busy"></td>
+			 </tr>
+			</tbody>
+		 </table> 
+ 
+					<span class="legend"></span> : Những buổi giáo viên có thể giảng dạy 	
+					</div>
+				</div>
+				<div class="row sign-up">
+					<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+						<button class="btn btn-info btn-lg btn-sign-up center-block dang-ky-ngay" data-toggle="modal" data-target="#myModal" rel="phamduy">Đăng ký ngay</button>
+					</div>
+				</div>
+			</div>
+		</div> <!-- End Profile detail -->
+	</div> <!-- End Profile box --> 
+	<!-- Profile row: Nguyễn Hưng-->
+	<!-- Profile box -->
+	<div class="container-fluid hgd-profile-box hanoi" data-price="">
+		<div class="row hgd-profile ">
+			<div class="d-flex align-self-stretch profile-column">
+				<div class="col-xs-4 col-sm-3 col-md-2 col-lg-2 hgd-profile-info hgd-avatar">
+					<img class="img-circle img-responsive center-block hgd-profile-avatar" src="https://www.hocgiday.com/wp-content/uploads/2017/07/Duc-Hung-2.jpg" alt="teacher">
+				</div>
+			</div>
+			<div class="d-flex align-self-stretch profile-column">
+				<div class="col-xs-4 col-sm-6 col-md-6 col-lg-6 hgd-profile-info ">
+				<h3 id="nguyenhung">Nguyễn Hưng</h3>
+				<p>Địa chỉ: Huỳnh Thúc Kháng, Hà Đông, Hà Nội</p>
+				</div>
+			</div>
+			<div class="d-flex align-self-stretch profile-column">
+				<div class="col-xs-4 col-sm-3 col-md-2 col-lg-2 hgd-profile-info ">
+					<h3 id="unit-price">Học phí</h3>
+					<p class="unit-price"></p>
+					<h3 id="rating">Đánh Giá</h3>
+					<div class="rating-star-box">
+						<span><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star-o" aria-hidden="true"></i></span>
+						<span class="num-of-rates">5</span>
+					</div>
+				</div>
+			</div>
+			<div class="d-flex align-self-stretch profile-column">
+				<div class="col-xs-12 col-sm-12 col-md-2 col-lg-2 hgd-read-more nguyenhung">
+					<span class="read-more nguyenhung">&gt;&gt; Tìm hiểu thêm</span>
+				</div>
+			</div>
+		</div> <!-- End Profile row -->
+
+		<!-- Profile Detail -->
+		<div class="row hgd-profile-detail">
+			<div class="row">
+				<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
+					<p><span class="t-heading">Cấp độ giảng dạy</span></p>
+				</div>
+				<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 text-right">
+					<p>Cơ bản</p>
+				</div>
+			</div>
+			<!-- Description -->
+			<div class="row">
+				<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+					<h4>Vài nét về giáo viên</h4>
+					<p>Nguyễn Đức Hưng học ở Đại Học VHNT Quân Đội, có kinh nghiệm giảng dạy trên 2 năm và đã từng đi thi các cuộc thi lớn nhỏ. Dòng nhạc sở trường của Hưng là thính phòng, trữ tình.
+Hưng nhận dạy thanh nhạc cho các bạn đam mê ca hát. Trình độ dạy từ cơ bản đến nâng cao theo phuơng pháp hiện đại được đúc kết từ cổ điển. Học sinh đến với lớp học của Hưng sẽ được điều chỉnh cách phát âm, nhấn nhá, luyến láy sao cho truyền tải cảm xúc bài hát một cách trọn vẹn nhất.
+Các phương pháp tập chủ đạo trong cách dạy của Hưng
+1 / điều chỉnh làn hơi , tập thở bụng và dùng hơi bụng áp dụng vào ca hát
+2 / khẩu hình miệng phù hợp với các âm tự a, u, i, ê, ơ, o...
+3 / điều chỉnh vị trí âm thanh đạt hiệu suất cao nhất
+4 / tập điều khiển âm lượng giọng, phóng to, thu nhỏ, độ vang, phóng âm, nảy âm, rung...
+5 / hướng dẫn tập giọng pha, phá quãng để hát những nốt cao hơn với sự cố gắng ít hơn.
+					</p>
+				</div>
+			</div>
+
+			<!-- End description -->
+			<!-- Left column at md and lg -->
+			<div class="col-xs-12 col-sm-12 col-md-7 col-lg-7"> 
+				<div class="row">
+					<h4>Học vấn</h4>
+					<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">	
+						<p>Sinh viên năm 2 Đại Học Văn Hóa nghệ thuật quân đội</p>
+					</div>
+					
+				</div>
+				<div class="row">
+					<h4>Video</h4>
+					<div class="col-xs-12 col-sm-12 col-md-11 col-lg-11 wrapper wrapper-iframe">
+						<iframe class="wrapper-item wrapper-video" src="" frameborder="0" allowfullscreen></iframe>
+					</div>
+				</div>	
+			</div> <!-- End left column -->
+			
+			<!-- Right column at md and lg -->
+			<div class="col-xs-12 col-sm-12 col-md-5 col-lg-5"> 
+				
+				<div class="row">
+					<div class="col-xs-7 col-sm-7 col-md-7 col-lg-7">
+						<h4>Phạm vi đi lại</h4>
+					</div>
+					<div class="col-xs-5 col-sm-5 col-md-5 col-lg-5 text-right">
+						<p>0km</p>
+					</div>
+				</div>
+				<div class="row">
+					<h4>Học phí</h4>
+					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
+						<p>Tại nhà</p>
+					</div>
+					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 text-right">
+						<p></p>
+					</div>
+					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
+						<p>Tại lớp</p>
+					</div>
+					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 text-right">
+						<p>150.000 VNĐ/h</p>
+					</div>
+				</div>
+				<div class="row">
+					<h4>Lịch giảng dạy của giáo viên</h4>
+					<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+						<table class="table table-bordered">
+			<thead>
+			 <tr>
+				<th></th>
+				<th>T2</th>
+				<th>T3</th>
+				<th>T4</th>
+				<th>T5</th>
+				<th>T6</th>
+				<th>T7</th>
+				<th>CN</th>
+			 </tr>
+			</thead>
+			<tbody>
+			 <tr>
+				<th>Sáng</th>
+				<td class="busy"></td>
+				<td class="busy"></td>
+				<td class="busy"></td>
+				<td class="busy"></td>
+				<td class="busy"></td>
+				<td></td>
+				<td></td>
+			 </tr>
+			 <tr>
+				<th>Chiều</th>
+				<td class="busy"></td>
+				<td class="busy"></td>
+				<td class="busy"></td>
+				<td class="busy"></td>
+				<td class="busy"></td>
+				<td></td>
+				<td></td>
+			 </tr>
+			 <tr>
+				<th>Tối</th>
+				<td class="busy"></td>
+				<td></td>
+				<td class="busy"></td>
+				<td class="busy"></td>
+				<td class="busy"></td>
+				<td></td>
+				<td></td>
+			 </tr>
+			</tbody>
+		 </table> 
+ 
+					<span class="legend"></span> : Những buổi giáo viên có thể giảng dạy 	
+					</div>
+				</div>
+				<div class="row sign-up">
+					<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+						<button class="btn btn-info btn-lg btn-sign-up center-block dang-ky-ngay" data-toggle="modal" data-target="#myModal" rel="nguyenhung">Đăng ký ngay</button>
+					</div>
+				</div>
+			</div>
+		</div> <!-- End Profile detail -->
+	</div> <!-- End Profile box --> 
+	<!-- Profile row: Nguyễn Phương-->
+	<!-- Profile box -->
+	<div class="container-fluid hgd-profile-box hanoi" data-price="300">
+		<div class="row hgd-profile ">
+			<div class="d-flex align-self-stretch profile-column">
+				<div class="col-xs-4 col-sm-3 col-md-2 col-lg-2 hgd-profile-info hgd-avatar">
+					<img class="img-circle img-responsive center-block hgd-profile-avatar" src="https://www.hocgiday.com/wp-content/uploads/2017/07/3-HN-NgoTuanTu-2.jpg" alt="teacher">
+				</div>
+			</div>
+			<div class="d-flex align-self-stretch profile-column">
+				<div class="col-xs-4 col-sm-6 col-md-6 col-lg-6 hgd-profile-info ">
+				<h3 id="nguyenphuong">Nguyễn Phương</h3>
+				<p>Địa chỉ: Ngã Tư Sở, Thanh Xuân, Hà Nội</p>
+				</div>
+			</div>
+			<div class="d-flex align-self-stretch profile-column">
+				<div class="col-xs-4 col-sm-3 col-md-2 col-lg-2 hgd-profile-info ">
+					<h3 id="unit-price">Học phí</h3>
+					<p class="unit-price">300.000 VNĐ/h</p>
+					<h3 id="rating">Đánh Giá</h3>
+					<div class="rating-star-box">
+						<span><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star-o" aria-hidden="true"></i><i class="fa fa-star-o" aria-hidden="true"></i></span>
+						<span class="num-of-rates">8</span>
+					</div>
+				</div>
+			</div>
+			<div class="d-flex align-self-stretch profile-column">
+				<div class="col-xs-12 col-sm-12 col-md-2 col-lg-2 hgd-read-more nguyenphuong">
+					<span class="read-more nguyenphuong">&gt;&gt; Tìm hiểu thêm</span>
+				</div>
+			</div>
+		</div> <!-- End Profile row -->
+
+		<!-- Profile Detail -->
+		<div class="row hgd-profile-detail">
+			<div class="row">
+				<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
+					<p><span class="t-heading">Cấp độ giảng dạy</span></p>
+				</div>
+				<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 text-right">
+					<p>Cơ bản - Nâng cao - Chuyên sâu</p>
+				</div>
+			</div>
+			<!-- Description -->
+			<div class="row">
+				<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+					<h4>Vài nét về giáo viên</h4>
+					<p>Với 5 năm kinh nghiệm giảng dạy âm nhạc tuyệt vời, tôi chia sẻ những món quà và tài năng của tôi với những người cũng muốn thể hiện mình qua âm nhạc. Tôi tin rằng âm nhạc là ngôn ngữ trên toàn thế giới và do đó không có ý định để dập tắt bất kỳ học sinh theo phong cách riêng biệt nào. Thay vào đó tôi cho phép học sinh học từ những bài học và kỹ thuật đã học và cùng nhau tìm ra cách để thích ứng với phong cách đó để nghe được âm thanh 'bức tranh âm nhạc' tốt nhất của họ.
+Tôi mong muốn học viên thực hành bên ngoài lớp học để mỗi bài học là một quá trình xây dựng. Tôi khá thoải mái nhưng nghiêm túc về tiến độ. Tôi thích tận hưởng các bài học với bạn và xem bạn phát triển. Sau 3 hoặc 6 tháng học viên sẽ biết cách thở đúng cách và hiệu quả. Học sinh sẽ biết cách kiểm soát và sử dụng giọng điệu/cây đàn của họ - hiểu được các cấp độ khác nhau của tiếng nói, giọng nói...
+Tôi thích làm việc với các học viên trẻ hơn ở trình độ bắt đầu hoặc trung cấp, hơn là học viên có chuyên môn cao.					</p>
+				</div>
+			</div>
+
+			<!-- End description -->
+			<!-- Left column at md and lg -->
+			<div class="col-xs-12 col-sm-12 col-md-7 col-lg-7"> 
+				<div class="row">
+					<h4>Học vấn</h4>
+					<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">	
+						<p>Tốt nghiệp Đại học sư phạm nghệ thuật trung ương</p>
+					</div>
+					
+				</div>
+				<div class="row">
+					<h4>Video</h4>
+					<div class="col-xs-12 col-sm-12 col-md-11 col-lg-11 wrapper wrapper-iframe">
+						<iframe class="wrapper-item wrapper-video" src="" frameborder="0" allowfullscreen></iframe>
+					</div>
+				</div>	
+			</div> <!-- End left column -->
+			
+			<!-- Right column at md and lg -->
+			<div class="col-xs-12 col-sm-12 col-md-5 col-lg-5"> 
+				
+				<div class="row">
+					<div class="col-xs-7 col-sm-7 col-md-7 col-lg-7">
+						<h4>Phạm vi đi lại</h4>
+					</div>
+					<div class="col-xs-5 col-sm-5 col-md-5 col-lg-5 text-right">
+						<p>10km</p>
+					</div>
+				</div>
+				<div class="row">
+					<h4>Học phí</h4>
+					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
+						<p>Tại nhà</p>
+					</div>
+					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 text-right">
+						<p>300.000 VNĐ/h</p>
+					</div>
+					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
+						<p>Tại lớp</p>
+					</div>
+					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 text-right">
+						<p>240.000 VNĐ/h</p>
+					</div>
+				</div>
+				<div class="row">
+					<h4>Lịch giảng dạy của giáo viên</h4>
+					<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+						<table class="table table-bordered">
+			<thead>
+			 <tr>
+				<th></th>
+				<th>T2</th>
+				<th>T3</th>
+				<th>T4</th>
+				<th>T5</th>
+				<th>T6</th>
+				<th>T7</th>
+				<th>CN</th>
+			 </tr>
+			</thead>
+			<tbody>
+			 <tr>
+				<th>Sáng</th>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td class="busy"></td>
+				<td class="busy"></td>
+				<td class="busy"></td>
+				<td></td>
+			 </tr>
+			 <tr>
+				<th>Chiều</th>
+				<td class="busy"></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td class="busy"></td>
+				<td class="busy"></td>
+				<td></td>
+			 </tr>
+			 <tr>
+				<th>Tối</th>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+			 </tr>
+			</tbody>
+		 </table>
+ 
+ 
+					<span class="legend"></span> : Những buổi giáo viên có thể giảng dạy 	
+					</div>
+				</div>
+				<div class="row sign-up">
+					<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+						<button class="btn btn-info btn-lg btn-sign-up center-block dang-ky-ngay" data-toggle="modal" data-target="#myModal" rel="nguyenphuong">Đăng ký ngay</button>
+					</div>
+				</div>
+			</div>
+		</div> <!-- End Profile detail -->
+	</div> <!-- End Profile box --> 
+	<!-- Profile row: Nguyên Thắng-->
+	<!-- Profile box -->
+	<div class="container-fluid hgd-profile-box hanoi" data-price="200">
+		<div class="row hgd-profile ">
+			<div class="d-flex align-self-stretch profile-column">
+				<div class="col-xs-4 col-sm-3 col-md-2 col-lg-2 hgd-profile-info hgd-avatar">
+					<img class="img-circle img-responsive center-block hgd-profile-avatar" src="https://www.hocgiday.com/wp-content/uploads/2017/07/Nguyen-Thang-2.jpg" alt="teacher">
+				</div>
+			</div>
+			<div class="d-flex align-self-stretch profile-column">
+				<div class="col-xs-4 col-sm-6 col-md-6 col-lg-6 hgd-profile-info ">
+				<h3 id="nguyenthang">Nguyên Thắng</h3>
+				<p>Địa chỉ: Nguyễn Trãi, Thanh Xuân, Hà Nội</p>
+				</div>
+			</div>
+			<div class="d-flex align-self-stretch profile-column">
+				<div class="col-xs-4 col-sm-3 col-md-2 col-lg-2 hgd-profile-info ">
+					<h3 id="unit-price">Học phí</h3>
+					<p class="unit-price">200.000 VNĐ/h</p>
+					<h3 id="rating">Đánh Giá</h3>
+					<div class="rating-star-box">
+						<span><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star-o" aria-hidden="true"></i></span>
+						<span class="num-of-rates">6</span>
+					</div>
+				</div>
+			</div>
+			<div class="d-flex align-self-stretch profile-column">
+				<div class="col-xs-12 col-sm-12 col-md-2 col-lg-2 hgd-read-more nguyenthang">
+					<span class="read-more nguyenthang">&gt;&gt; Tìm hiểu thêm</span>
+				</div>
+			</div>
+		</div> <!-- End Profile row -->
+
+		<!-- Profile Detail -->
+		<div class="row hgd-profile-detail">
+			<div class="row">
+				<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
+					<p><span class="t-heading">Cấp độ giảng dạy</span></p>
+				</div>
+				<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 text-right">
+					<p>Cơ bản</p>
+				</div>
+			</div>
+			<!-- Description -->
+			<div class="row">
+				<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+					<h4>Vài nét về giáo viên</h4>
+					<p>Chào các bạn, mình là Nguyên Thắng. Mình tiếp xúc với Piano và thanh nhạc từ năm 2005. Các bài học của mình sẽ mang tính khuyến khích và hiệu quả. Chúng ta sẽ làm việc cùng nhau để giúp bạn đạt được mục tiêu và tiếp cận giáo dục âm nhạc trọn vẹn, bất kể tuổi tác hay nền tảng nhạc. 
+Học sinh học piano với mình sẽ không chỉ học những bài hát mà họ thích chơi, mà còn học kỹ thuật thích hợp, đọc sách vở, lý thuyết âm nhạc, và đào tạo tai nghe nhạc. Mình chỉnh sửa từng bài học dựa trên sở thích và mục tiêu âm nhạc của học sinh. Mình muốn cung cấp cho học sinh một nền tảng vững chắc về kỹ thuật và lý thuyết để giúp học sinh cảm thấy thoải mái khi chơi piano và tiến bộ với tốc độ ổn định.					</p>
+				</div>
+			</div>
+
+			<!-- End description -->
+			<!-- Left column at md and lg -->
+			<div class="col-xs-12 col-sm-12 col-md-7 col-lg-7"> 
+				<div class="row">
+					<h4>Học vấn</h4>
+					<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">	
+						<p>Sinh viên năm 3 Đại học sư phạm nghệ thuật trung ương</p>
+					</div>
+					
+				</div>
+				<div class="row">
+					<h4>Video</h4>
+					<div class="col-xs-12 col-sm-12 col-md-11 col-lg-11 wrapper wrapper-iframe">
+						<iframe class="wrapper-item wrapper-video" src="" frameborder="0" allowfullscreen></iframe>
+					</div>
+				</div>	
+			</div> <!-- End left column -->
+			
+			<!-- Right column at md and lg -->
+			<div class="col-xs-12 col-sm-12 col-md-5 col-lg-5"> 
+				
+				<div class="row">
+					<div class="col-xs-7 col-sm-7 col-md-7 col-lg-7">
+						<h4>Phạm vi đi lại</h4>
+					</div>
+					<div class="col-xs-5 col-sm-5 col-md-5 col-lg-5 text-right">
+						<p>10km</p>
+					</div>
+				</div>
+				<div class="row">
+					<h4>Học phí</h4>
+					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
+						<p>Tại nhà</p>
+					</div>
+					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 text-right">
+						<p>200.000 VNĐ/h</p>
+					</div>
+					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
+						<p>Tại lớp</p>
+					</div>
+					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 text-right">
+						<p>160.000 VNĐ/h</p>
+					</div>
+				</div>
+				<div class="row">
+					<h4>Lịch giảng dạy của giáo viên</h4>
+					<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+						<table class="table table-bordered">
+			<thead>
+			 <tr>
+				<th></th>
+				<th>T2</th>
+				<th>T3</th>
+				<th>T4</th>
+				<th>T5</th>
+				<th>T6</th>
+				<th>T7</th>
+				<th>CN</th>
+			 </tr>
+			</thead>
+			<tbody>
+			 <tr>
+				<th>Sáng</th>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td class="busy"></td>
+				<td class="busy"></td>
+			 </tr>
+			 <tr>
+				<th>Chiều</th>
+				<td class="busy"></td>
+				<td></td>
+				<td class="busy"></td>
+				<td class="busy"></td>
+				<td class="busy"></td>
+				<td class="busy"></td>
+				<td class="busy"></td>
+			 </tr>
+			 <tr>
+				<th>Tối</th>
+				<td class="busy"></td>
+				<td></td>
+				<td class="busy"></td>
+				<td class="busy"></td>
+				<td class="busy"></td>
+				<td class="busy"></td>
+				<td class="busy"></td>
+			 </tr>
+			</tbody>
+		 </table> 
+ 
+					<span class="legend"></span> : Những buổi giáo viên có thể giảng dạy 	
+					</div>
+				</div>
+				<div class="row sign-up">
+					<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+						<button class="btn btn-info btn-lg btn-sign-up center-block dang-ky-ngay" data-toggle="modal" data-target="#myModal" rel="nguyenthang">Đăng ký ngay</button>
+					</div>
+				</div>
+			</div>
+		</div> <!-- End Profile detail -->
+	</div> <!-- End Profile box --> 
+	<!-- Profile row: Trần Đạt-->
+	<!-- Profile box -->
+	<div class="container-fluid hgd-profile-box hanoi" data-price="300">
+		<div class="row hgd-profile ">
+			<div class="d-flex align-self-stretch profile-column">
+				<div class="col-xs-4 col-sm-3 col-md-2 col-lg-2 hgd-profile-info hgd-avatar">
+					<img class="img-circle img-responsive center-block hgd-profile-avatar" src="https://www.hocgiday.com/wp-content/uploads/2017/07/profile_photo-190-2-2.jpg" alt="teacher">
+				</div>
+			</div>
+			<div class="d-flex align-self-stretch profile-column">
+				<div class="col-xs-4 col-sm-6 col-md-6 col-lg-6 hgd-profile-info ">
+				<h3 id="trandat">Trần Đạt</h3>
+				<p>Địa chỉ: Nhân Hòa, Thanh Xuân, Hà Nội</p>
+				</div>
+			</div>
+			<div class="d-flex align-self-stretch profile-column">
+				<div class="col-xs-4 col-sm-3 col-md-2 col-lg-2 hgd-profile-info ">
+					<h3 id="unit-price">Học phí</h3>
+					<p class="unit-price">300.000 VNĐ/h</p>
+					<h3 id="rating">Đánh Giá</h3>
+					<div class="rating-star-box">
+						<span><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star-o" aria-hidden="true"></i><i class="fa fa-star-o" aria-hidden="true"></i></span>
+						<span class="num-of-rates">5</span>
+					</div>
+				</div>
+			</div>
+			<div class="d-flex align-self-stretch profile-column">
+				<div class="col-xs-12 col-sm-12 col-md-2 col-lg-2 hgd-read-more trandat">
+					<span class="read-more trandat">&gt;&gt; Tìm hiểu thêm</span>
+				</div>
+			</div>
+		</div> <!-- End Profile row -->
+
+		<!-- Profile Detail -->
+		<div class="row hgd-profile-detail">
+			<div class="row">
+				<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
+					<p><span class="t-heading">Cấp độ giảng dạy</span></p>
+				</div>
+				<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 text-right">
+					<p>Cơ bản - Nâng cao</p>
+				</div>
+			</div>
+			<!-- Description -->
+			<div class="row">
+				<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+					<h4>Vài nét về giáo viên</h4>
+					<p>Tôi có đam mê chia sẻ kiến thức âm nhạc với người khác và tin rằng khía cạnh quan trọng nhất của việc dạy nhạc là tạo ra một môi trường khuyến khích, vui vẻ, và cá nhân hoá cho mỗi học sinh. Tôi có hơn 4 năm kinh nghiệm giảng dạy piano và thanh nhạc cho học sinh ở mọi lứa tuổi và nền nhạc.
+Trên hết, bài học của chúng ta sẽ là về việc học những gì bạn muốn học, bất kể thể loại nào. Chương trình giảng dạy cho các bài học của chúng ta sẽ đúc kết từ nhiều phương pháp. Chúng bao gồm lý thuyết âm nhạc, đào tạo tai, bài tập đọc ký xướng âm, kỹ thuật, kỹ năng ứng tác và sáng tác.
+Hãy gửi cho tôi một tin nhắn nếu bạn có bất kỳ câu hỏi nào hoặc nếu bạn không thấy một lịch học phù hợp với bạn! Lịch làm việc của tôi thay đổi thường xuyên và thường linh hoạt, vì vậy chúng ta có thể cùng nhau thống nhất.					</p>
+				</div>
+			</div>
+
+			<!-- End description -->
+			<!-- Left column at md and lg -->
+			<div class="col-xs-12 col-sm-12 col-md-7 col-lg-7"> 
+				<div class="row">
+					<h4>Học vấn</h4>
+					<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">	
+						<p>Tốt nghiệp Học viện âm nhạc Quốc gia 2008 và Đại học Văn Hóa nghệ thuật trung ương 2013</p>
+					</div>
+					
+				</div>
+				<div class="row">
+					<h4>Video</h4>
+					<div class="col-xs-12 col-sm-12 col-md-11 col-lg-11 wrapper wrapper-iframe">
+						<iframe class="wrapper-item wrapper-video" src="" frameborder="0" allowfullscreen></iframe>
+					</div>
+				</div>	
+			</div> <!-- End left column -->
+			
+			<!-- Right column at md and lg -->
+			<div class="col-xs-12 col-sm-12 col-md-5 col-lg-5"> 
+				
+				<div class="row">
+					<div class="col-xs-7 col-sm-7 col-md-7 col-lg-7">
+						<h4>Phạm vi đi lại</h4>
+					</div>
+					<div class="col-xs-5 col-sm-5 col-md-5 col-lg-5 text-right">
+						<p>8km</p>
+					</div>
+				</div>
+				<div class="row">
+					<h4>Học phí</h4>
+					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
+						<p>Tại nhà</p>
+					</div>
+					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 text-right">
+						<p>300.000 VNĐ/h</p>
+					</div>
+					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
+						<p>Tại lớp</p>
+					</div>
+					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 text-right">
+						<p>240.000 VNĐ/h</p>
+					</div>
+				</div>
+				<div class="row">
+					<h4>Lịch giảng dạy của giáo viên</h4>
+					<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+						<table class="table table-bordered">
+			<thead>
+			 <tr>
+				<th></th>
+				<th>T2</th>
+				<th>T3</th>
+				<th>T4</th>
+				<th>T5</th>
+				<th>T6</th>
+				<th>T7</th>
+				<th>CN</th>
+			 </tr>
+			</thead>
+			<tbody>
+			 <tr>
+				<th>Sáng</th>
+				<td class="busy"></td>
+				<td class="busy"></td>
+				<td class="busy"></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+			 </tr>
+			 <tr>
+				<th>Chiều</th>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td class="busy"></td>
+				<td class="busy"></td>
+				<td></td>
+				<td class="busy"></td>
+			 </tr>
+			 <tr>
+				<th>Tối</th>
+				<td></td>
+				<td class="busy"></td>
+				<td></td>
+				<td class="busy"></td>
+				<td></td>
+				<td></td>
+				<td class="busy"></td>
+			 </tr>
+			</tbody>
+		 </table>
+ 
+ 
+ 
+					<span class="legend"></span> : Những buổi giáo viên có thể giảng dạy 	
+					</div>
+				</div>
+				<div class="row sign-up">
+					<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+						<button class="btn btn-info btn-lg btn-sign-up center-block dang-ky-ngay" data-toggle="modal" data-target="#myModal" rel="trandat">Đăng ký ngay</button>
+					</div>
+				</div>
+			</div>
+		</div> <!-- End Profile detail -->
+	</div> <!-- End Profile box --> 
+	<!-- Profile row: Nguyễn Huế-->
+	<!-- Profile box -->
+	<div class="container-fluid hgd-profile-box hanoi" data-price="250">
+		<div class="row hgd-profile ">
+			<div class="d-flex align-self-stretch profile-column">
+				<div class="col-xs-4 col-sm-3 col-md-2 col-lg-2 hgd-profile-info hgd-avatar">
+					<img class="img-circle img-responsive center-block hgd-profile-avatar" src="https://www.hocgiday.com/wp-content/uploads/2017/07/7-HN-PhuongThiHue-2.jpg" alt="teacher">
+				</div>
+			</div>
+			<div class="d-flex align-self-stretch profile-column">
+				<div class="col-xs-4 col-sm-6 col-md-6 col-lg-6 hgd-profile-info ">
+				<h3 id="nguyenhue">Nguyễn Huế</h3>
+				<p>Địa chỉ: ngõ 192 Lê Trọng Tấn, Thanh Xuân, Hà Nội</p>
+				</div>
+			</div>
+			<div class="d-flex align-self-stretch profile-column">
+				<div class="col-xs-4 col-sm-3 col-md-2 col-lg-2 hgd-profile-info ">
+					<h3 id="unit-price">Học phí</h3>
+					<p class="unit-price">250.000 VNĐ/h</p>
+					<h3 id="rating">Đánh Giá</h3>
+					<div class="rating-star-box">
+						<span><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star-o" aria-hidden="true"></i></span>
+						<span class="num-of-rates">7</span>
+					</div>
+				</div>
+			</div>
+			<div class="d-flex align-self-stretch profile-column">
+				<div class="col-xs-12 col-sm-12 col-md-2 col-lg-2 hgd-read-more nguyenhue">
+					<span class="read-more nguyenhue">&gt;&gt; Tìm hiểu thêm</span>
+				</div>
+			</div>
+		</div> <!-- End Profile row -->
+
+		<!-- Profile Detail -->
+		<div class="row hgd-profile-detail">
+			<div class="row">
+				<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
+					<p><span class="t-heading">Cấp độ giảng dạy</span></p>
+				</div>
+				<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 text-right">
+					<p>Cơ bản - Nâng cao</p>
+				</div>
+			</div>
+			<!-- Description -->
+			<div class="row">
+				<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+					<h4>Vài nét về giáo viên</h4>
+					<p>Xin chào, tôi là Nguyễn Huế. Học sinh của tôi có thể mong đợi để nâng cao kỹ năng của mình và bắt đầu thưởng thức âm nhạc nhiều hơn khi chúng tôi làm việc cùng nhau.
+Tôi tin rằng việc học nhạc là một trải nghiệm vui và thú vị. Tuy nhiên bạn cũng cần phải nghiệm túc và tập trung. Tôi có thể chỉ dạy các kỹ thuật, cách diễn đạt khác nhau và sẽ luôn hướng dẫn dựa trên tốc độ tiếp thu của bạn. Tuy nhiên, tôi cảm thấy điều quan trọng là học sinh tư duy một cách phản biện và tự mình thử giải quyết vấn đề trước. Học nhạc là sự hợp tác giữa giáo viên và học sinh. Tôi hy vọng rằng thông qua các bài học của tôi, học sinh sẽ trở nên tự tin hơn với tư cách một nhạc công.					</p>
+				</div>
+			</div>
+
+			<!-- End description -->
+			<!-- Left column at md and lg -->
+			<div class="col-xs-12 col-sm-12 col-md-7 col-lg-7"> 
+				<div class="row">
+					<h4>Học vấn</h4>
+					<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">	
+						<p>Tốt nghiệp Đại học sư phạm nghệ thuật trung ương năm 2011</p>
+					</div>
+					
+				</div>
+				<div class="row">
+					<h4>Video</h4>
+					<div class="col-xs-12 col-sm-12 col-md-11 col-lg-11 wrapper wrapper-iframe">
+						<iframe class="wrapper-item wrapper-video" src="" frameborder="0" allowfullscreen></iframe>
+					</div>
+				</div>	
+			</div> <!-- End left column -->
+			
+			<!-- Right column at md and lg -->
+			<div class="col-xs-12 col-sm-12 col-md-5 col-lg-5"> 
+				
+				<div class="row">
+					<div class="col-xs-7 col-sm-7 col-md-7 col-lg-7">
+						<h4>Phạm vi đi lại</h4>
+					</div>
+					<div class="col-xs-5 col-sm-5 col-md-5 col-lg-5 text-right">
+						<p>7km</p>
+					</div>
+				</div>
+				<div class="row">
+					<h4>Học phí</h4>
+					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
+						<p>Tại nhà</p>
+					</div>
+					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 text-right">
+						<p>250.000 VNĐ/h</p>
+					</div>
+					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
+						<p>Tại lớp</p>
+					</div>
+					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 text-right">
+						<p>200.000 VNĐ/h</p>
 					</div>
 				</div>
 				<div class="row">
@@ -4883,12 +4238,647 @@ Với học sinh học cổ nhạc cụ: các bạn sẽ được học về đ�
 		 </table>
  
  
+ 
 					<span class="legend"></span> : Những buổi giáo viên có thể giảng dạy 	
 					</div>
 				</div>
 				<div class="row sign-up">
 					<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
-						<button class="btn btn-info btn-lg btn-sign-up center-block dang-ky-ngay" data-toggle="modal" data-target="#myModal" rel="phamduy">Đăng ký ngay</button>
+						<button class="btn btn-info btn-lg btn-sign-up center-block dang-ky-ngay" data-toggle="modal" data-target="#myModal" rel="nguyenhue">Đăng ký ngay</button>
+					</div>
+				</div>
+			</div>
+		</div> <!-- End Profile detail -->
+	</div> <!-- End Profile box --> 
+	<!-- Profile row: Vũ Nhàn-->
+	<!-- Profile box -->
+	<div class="container-fluid hgd-profile-box hanoi" data-price="250">
+		<div class="row hgd-profile ">
+			<div class="d-flex align-self-stretch profile-column">
+				<div class="col-xs-4 col-sm-3 col-md-2 col-lg-2 hgd-profile-info hgd-avatar">
+					<img class="img-circle img-responsive center-block hgd-profile-avatar" src="https://www.hocgiday.com/wp-content/uploads/2017/07/24-HN-VuNhan-1-2.jpg" alt="teacher">
+				</div>
+			</div>
+			<div class="d-flex align-self-stretch profile-column">
+				<div class="col-xs-4 col-sm-6 col-md-6 col-lg-6 hgd-profile-info ">
+				<h3 id="vunhan">Vũ Nhàn</h3>
+				<p>Địa chỉ: Thụy Khuê, Tây Hồ, thành phố Hà Nội</p>
+				</div>
+			</div>
+			<div class="d-flex align-self-stretch profile-column">
+				<div class="col-xs-4 col-sm-3 col-md-2 col-lg-2 hgd-profile-info ">
+					<h3 id="unit-price">Học phí</h3>
+					<p class="unit-price">250.000 VNĐ/h</p>
+					<h3 id="rating">Đánh Giá</h3>
+					<div class="rating-star-box">
+						<span><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star-o" aria-hidden="true"></i><i class="fa fa-star-o" aria-hidden="true"></i></span>
+						<span class="num-of-rates">8</span>
+					</div>
+				</div>
+			</div>
+			<div class="d-flex align-self-stretch profile-column">
+				<div class="col-xs-12 col-sm-12 col-md-2 col-lg-2 hgd-read-more vunhan">
+					<span class="read-more vunhan">&gt;&gt; Tìm hiểu thêm</span>
+				</div>
+			</div>
+		</div> <!-- End Profile row -->
+
+		<!-- Profile Detail -->
+		<div class="row hgd-profile-detail">
+			<div class="row">
+				<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
+					<p><span class="t-heading">Cấp độ giảng dạy</span></p>
+				</div>
+				<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 text-right">
+					<p>Cơ bản - Nâng cao</p>
+				</div>
+			</div>
+			<!-- Description -->
+			<div class="row">
+				<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+					<h4>Vài nét về giáo viên</h4>
+					<p>Chào các học viên của Học gì đây! Tên tôi là Vũ Nhàn. Tôi đã dạy piano trong hơn 4 năm. Trong những bài học đầu tiên, bạn sẽ có thể đọc nhạc và chơi các bài hát đơn giản và theo thời gian bạn có thể chơi các bài hát theo bất kỳ thể loại và phong cách nào mà bạn chọn. Tôi chuyên dạy piano cổ điển, thường sử dụng sách Piano Adventures, nhưng tùy thuộc vào độ tuổi và độ khó của các tiết mục mà giáo trình sẽ được điều chỉnh! Tôi thích làm việc với học sinh ở mọi lứa tuổi và trình độ học vấn và tôi không thể đợi để gặp bạn!					</p>
+				</div>
+			</div>
+
+			<!-- End description -->
+			<!-- Left column at md and lg -->
+			<div class="col-xs-12 col-sm-12 col-md-7 col-lg-7"> 
+				<div class="row">
+					<h4>Học vấn</h4>
+					<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">	
+						<p>Sinh viên năm 4 Đại học văn hóa nghệ thuật quân đội</p>
+					</div>
+					
+				</div>
+				<div class="row">
+					<h4>Video</h4>
+					<div class="col-xs-12 col-sm-12 col-md-11 col-lg-11 wrapper wrapper-iframe">
+						<iframe class="wrapper-item wrapper-video" src="" frameborder="0" allowfullscreen></iframe>
+					</div>
+				</div>	
+			</div> <!-- End left column -->
+			
+			<!-- Right column at md and lg -->
+			<div class="col-xs-12 col-sm-12 col-md-5 col-lg-5"> 
+				
+				<div class="row">
+					<div class="col-xs-7 col-sm-7 col-md-7 col-lg-7">
+						<h4>Phạm vi đi lại</h4>
+					</div>
+					<div class="col-xs-5 col-sm-5 col-md-5 col-lg-5 text-right">
+						<p>2km</p>
+					</div>
+				</div>
+				<div class="row">
+					<h4>Học phí</h4>
+					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
+						<p>Tại nhà</p>
+					</div>
+					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 text-right">
+						<p>250.000 VNĐ/h</p>
+					</div>
+					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
+						<p>Tại lớp</p>
+					</div>
+					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 text-right">
+						<p>200.000 VNĐ/h</p>
+					</div>
+				</div>
+				<div class="row">
+					<h4>Lịch giảng dạy của giáo viên</h4>
+					<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+						<table class="table table-bordered">
+			<thead>
+			 <tr>
+				<th></th>
+				<th>T2</th>
+				<th>T3</th>
+				<th>T4</th>
+				<th>T5</th>
+				<th>T6</th>
+				<th>T7</th>
+				<th>CN</th>
+			 </tr>
+			</thead>
+			<tbody>
+			 <tr>
+				<th>Sáng</th>
+				<td></td>
+				<td class="busy"></td>
+				<td class="busy"></td>
+				<td></td>
+				<td></td>
+				<td class="busy"></td>
+				<td></td>
+			 </tr>
+			 <tr>
+				<th>Chiều</th>
+				<td class="busy"></td>
+				<td></td>
+				<td></td>
+				<td class="busy"></td>
+				<td class="busy"></td>
+				<td></td>
+				<td></td>
+			 </tr>
+			 <tr>
+				<th>Tối</th>
+				<td></td>
+				<td></td>
+				<td class="busy"></td>
+				<td></td>
+				<td></td>
+				<td class="busy"></td>
+				<td class="busy"></td>
+			 </tr>
+			</tbody>
+		 </table>
+ 
+ 
+ 
+					<span class="legend"></span> : Những buổi giáo viên có thể giảng dạy 	
+					</div>
+				</div>
+				<div class="row sign-up">
+					<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+						<button class="btn btn-info btn-lg btn-sign-up center-block dang-ky-ngay" data-toggle="modal" data-target="#myModal" rel="vunhan">Đăng ký ngay</button>
+					</div>
+				</div>
+			</div>
+		</div> <!-- End Profile detail -->
+	</div> <!-- End Profile box --> 
+	<!-- Profile row: Nguyễn Thu Phương-->
+	<!-- Profile box -->
+	<div class="container-fluid hgd-profile-box hanoi" data-price="200">
+		<div class="row hgd-profile ">
+			<div class="d-flex align-self-stretch profile-column">
+				<div class="col-xs-4 col-sm-3 col-md-2 col-lg-2 hgd-profile-info hgd-avatar">
+					<img class="img-circle img-responsive center-block hgd-profile-avatar" src="https://www.hocgiday.com/wp-content/uploads/2017/07/25-HN-NguyenThuPhuong-2.jpg" alt="teacher">
+				</div>
+			</div>
+			<div class="d-flex align-self-stretch profile-column">
+				<div class="col-xs-4 col-sm-6 col-md-6 col-lg-6 hgd-profile-info ">
+				<h3 id="nguyenthuphuong">Nguyễn Thu Phương</h3>
+				<p>Địa chỉ: ngõ 108 Nghi Tàm, Tây Hồ, thành phố Hà Nội</p>
+				</div>
+			</div>
+			<div class="d-flex align-self-stretch profile-column">
+				<div class="col-xs-4 col-sm-3 col-md-2 col-lg-2 hgd-profile-info ">
+					<h3 id="unit-price">Học phí</h3>
+					<p class="unit-price">200.000 VNĐ/h</p>
+					<h3 id="rating">Đánh Giá</h3>
+					<div class="rating-star-box">
+						<span><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star-o" aria-hidden="true"></i><i class="fa fa-star-o" aria-hidden="true"></i><i class="fa fa-star-o" aria-hidden="true"></i></span>
+						<span class="num-of-rates">1</span>
+					</div>
+				</div>
+			</div>
+			<div class="d-flex align-self-stretch profile-column">
+				<div class="col-xs-12 col-sm-12 col-md-2 col-lg-2 hgd-read-more nguyenthuphuong">
+					<span class="read-more nguyenthuphuong">&gt;&gt; Tìm hiểu thêm</span>
+				</div>
+			</div>
+		</div> <!-- End Profile row -->
+
+		<!-- Profile Detail -->
+		<div class="row hgd-profile-detail">
+			<div class="row">
+				<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
+					<p><span class="t-heading">Cấp độ giảng dạy</span></p>
+				</div>
+				<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 text-right">
+					<p>Cơ bản</p>
+				</div>
+			</div>
+			<!-- Description -->
+			<div class="row">
+				<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+					<h4>Vài nét về giáo viên</h4>
+					<p>Đến với Thu Phương, học sinh sẽ được cung cấp một nền tảng vững chắc về kỹ thuật piano nhằm hướng tới việc biểu diễn - Tôi có thể chuẩn bị cho các trình độ đơn giản hoặc cho trình độ nâng cao. Học sinh sẽ thấy sự cải thiện kỹ năng và trình diễn âm nhạc rõ ràng với sự hướng dẫn của tôi. Tôi muốn học sinh của tôi có được mọi cơ hội để biểu diễn. Tôi cũng thường tổ chức các buổi biểu diễn và hòa nhạc cho mục đích này.					</p>
+				</div>
+			</div>
+
+			<!-- End description -->
+			<!-- Left column at md and lg -->
+			<div class="col-xs-12 col-sm-12 col-md-7 col-lg-7"> 
+				<div class="row">
+					<h4>Học vấn</h4>
+					<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">	
+						<p>Sinh viên năm 3 Đại học sư phạm nghệ thuật trung ương</p>
+					</div>
+					
+				</div>
+				<div class="row">
+					<h4>Video</h4>
+					<div class="col-xs-12 col-sm-12 col-md-11 col-lg-11 wrapper wrapper-iframe">
+						<iframe class="wrapper-item wrapper-video" src="" frameborder="0" allowfullscreen></iframe>
+					</div>
+				</div>	
+			</div> <!-- End left column -->
+			
+			<!-- Right column at md and lg -->
+			<div class="col-xs-12 col-sm-12 col-md-5 col-lg-5"> 
+				
+				<div class="row">
+					<div class="col-xs-7 col-sm-7 col-md-7 col-lg-7">
+						<h4>Phạm vi đi lại</h4>
+					</div>
+					<div class="col-xs-5 col-sm-5 col-md-5 col-lg-5 text-right">
+						<p>3km</p>
+					</div>
+				</div>
+				<div class="row">
+					<h4>Học phí</h4>
+					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
+						<p>Tại nhà</p>
+					</div>
+					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 text-right">
+						<p>200.000 VNĐ/h</p>
+					</div>
+					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
+						<p>Tại lớp</p>
+					</div>
+					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 text-right">
+						<p>160.000 VNĐ/h</p>
+					</div>
+				</div>
+				<div class="row">
+					<h4>Lịch giảng dạy của giáo viên</h4>
+					<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+						<table class="table table-bordered">
+			<thead>
+			 <tr>
+				<th></th>
+				<th>T2</th>
+				<th>T3</th>
+				<th>T4</th>
+				<th>T5</th>
+				<th>T6</th>
+				<th>T7</th>
+				<th>CN</th>
+			 </tr>
+			</thead>
+			<tbody>
+			 <tr>
+				<th>Sáng</th>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td class="busy"></td>
+				<td class="busy"></td>
+				<td class="busy"></td>
+				<td></td>
+			 </tr>
+			 <tr>
+				<th>Chiều</th>
+				<td class="busy"></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td class="busy"></td>
+				<td class="busy"></td>
+				<td></td>
+			 </tr>
+			 <tr>
+				<th>Tối</th>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+			 </tr>
+			</tbody>
+		 </table>
+ 
+ 
+					<span class="legend"></span> : Những buổi giáo viên có thể giảng dạy 	
+					</div>
+				</div>
+				<div class="row sign-up">
+					<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+						<button class="btn btn-info btn-lg btn-sign-up center-block dang-ky-ngay" data-toggle="modal" data-target="#myModal" rel="nguyenthuphuong">Đăng ký ngay</button>
+					</div>
+				</div>
+			</div>
+		</div> <!-- End Profile detail -->
+	</div> <!-- End Profile box --> 
+	<!-- Profile row: Tạ Thị Anh-->
+	<!-- Profile box -->
+	<div class="container-fluid hgd-profile-box hanoi" data-price="200">
+		<div class="row hgd-profile ">
+			<div class="d-flex align-self-stretch profile-column">
+				<div class="col-xs-4 col-sm-3 col-md-2 col-lg-2 hgd-profile-info hgd-avatar">
+					<img class="img-circle img-responsive center-block hgd-profile-avatar" src="https://www.hocgiday.com/wp-content/uploads/2017/07/28-HN-TaThiAnh-2.jpg" alt="teacher">
+				</div>
+			</div>
+			<div class="d-flex align-self-stretch profile-column">
+				<div class="col-xs-4 col-sm-6 col-md-6 col-lg-6 hgd-profile-info ">
+				<h3 id="tathianh">Tạ Thị Anh</h3>
+				<p>Địa chỉ: Nguyễn Trường Tộ, Ba Đình, thành phố Hà Nội</p>
+				</div>
+			</div>
+			<div class="d-flex align-self-stretch profile-column">
+				<div class="col-xs-4 col-sm-3 col-md-2 col-lg-2 hgd-profile-info ">
+					<h3 id="unit-price">Học phí</h3>
+					<p class="unit-price">200.000 VNĐ/h</p>
+					<h3 id="rating">Đánh Giá</h3>
+					<div class="rating-star-box">
+						<span><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star-o" aria-hidden="true"></i><i class="fa fa-star-o" aria-hidden="true"></i><i class="fa fa-star-o" aria-hidden="true"></i></span>
+						<span class="num-of-rates">3</span>
+					</div>
+				</div>
+			</div>
+			<div class="d-flex align-self-stretch profile-column">
+				<div class="col-xs-12 col-sm-12 col-md-2 col-lg-2 hgd-read-more tathianh">
+					<span class="read-more tathianh">&gt;&gt; Tìm hiểu thêm</span>
+				</div>
+			</div>
+		</div> <!-- End Profile row -->
+
+		<!-- Profile Detail -->
+		<div class="row hgd-profile-detail">
+			<div class="row">
+				<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
+					<p><span class="t-heading">Cấp độ giảng dạy</span></p>
+				</div>
+				<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 text-right">
+					<p>Cơ bản</p>
+				</div>
+			</div>
+			<!-- Description -->
+			<div class="row">
+				<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+					<h4>Vài nét về giáo viên</h4>
+					<p>Tạ Thị Anh, tốt nghiệp Cao đẳng Nghệ thuật Hà Nội khoa Keyboard, sau đó tiếp tục Sinh viên năm 3 Đại học văn hóa nghệ thuật quân đội. Tạ Thị Anh đi vào hoạt động nghệ thuật, gắn bó với cây đàn Piano từ những năm 2007-2008, tìm hiểu, học tập, rèn luyện, biểu diễn thường xuyên để nâng cao năng lực và trình độ. 
+Với 1 năm dạy tại nhà, những học viên của Tạ Thị Anh chủ yếu là những bạn nhỏ lần đầu tiếp xúc với cây đàn, học từ những điều cơ bản, sơ khai nhất. Thầy tỏ ra rất có duyên với những lớp học này, nhận được rất nhiều sự yêu quý của học sinh và phản hồi tích cực từ phụ huynh. Hiện tại, thầy cũng đang là giáo viên sở hữu những học sinh Piano tài năng nhất Học Gì Đây?.
+					</p>
+				</div>
+			</div>
+
+			<!-- End description -->
+			<!-- Left column at md and lg -->
+			<div class="col-xs-12 col-sm-12 col-md-7 col-lg-7"> 
+				<div class="row">
+					<h4>Học vấn</h4>
+					<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">	
+						<p>Sinh viên năm 3 Đại học văn hóa nghệ thuật quân đội</p>
+					</div>
+					
+				</div>
+				<div class="row">
+					<h4>Video</h4>
+					<div class="col-xs-12 col-sm-12 col-md-11 col-lg-11 wrapper wrapper-iframe">
+						<iframe class="wrapper-item wrapper-video" src="" frameborder="0" allowfullscreen></iframe>
+					</div>
+				</div>	
+			</div> <!-- End left column -->
+			
+			<!-- Right column at md and lg -->
+			<div class="col-xs-12 col-sm-12 col-md-5 col-lg-5"> 
+				
+				<div class="row">
+					<div class="col-xs-7 col-sm-7 col-md-7 col-lg-7">
+						<h4>Phạm vi đi lại</h4>
+					</div>
+					<div class="col-xs-5 col-sm-5 col-md-5 col-lg-5 text-right">
+						<p>2km</p>
+					</div>
+				</div>
+				<div class="row">
+					<h4>Học phí</h4>
+					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
+						<p>Tại nhà</p>
+					</div>
+					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 text-right">
+						<p>200.000 VNĐ/h</p>
+					</div>
+					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
+						<p>Tại lớp</p>
+					</div>
+					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 text-right">
+						<p>160.000 VNĐ/h</p>
+					</div>
+				</div>
+				<div class="row">
+					<h4>Lịch giảng dạy của giáo viên</h4>
+					<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+						<table class="table table-bordered">
+			<thead>
+			 <tr>
+				<th></th>
+				<th>T2</th>
+				<th>T3</th>
+				<th>T4</th>
+				<th>T5</th>
+				<th>T6</th>
+				<th>T7</th>
+				<th>CN</th>
+			 </tr>
+			</thead>
+			<tbody>
+			 <tr>
+				<th>Sáng</th>
+				<td></td>
+				<td class="busy"></td>
+				<td></td>
+				<td class="busy"></td>
+				<td class="busy"></td>
+				<td></td>
+				<td></td>
+			 </tr>
+			 <tr>
+				<th>Chiều</th>
+				<td></td>
+				<td class="busy"></td>
+				<td></td>
+				<td class="busy"></td>
+				<td class="busy"></td>
+				<td></td>
+				<td></td>
+			 </tr>
+			 <tr>
+				<th>Tối</th>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td class="busy"></td>
+				<td class="busy"></td>
+				<td class="busy"></td>
+				<td></td>
+			 </tr>
+			</tbody>
+		 </table>
+ 
+ 
+ 
+					<span class="legend"></span> : Những buổi giáo viên có thể giảng dạy 	
+					</div>
+				</div>
+				<div class="row sign-up">
+					<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+						<button class="btn btn-info btn-lg btn-sign-up center-block dang-ky-ngay" data-toggle="modal" data-target="#myModal" rel="tathianh">Đăng ký ngay</button>
+					</div>
+				</div>
+			</div>
+		</div> <!-- End Profile detail -->
+	</div> <!-- End Profile box --> 
+	<!-- Profile row: Ngô Mai Phương-->
+	<!-- Profile box -->
+	<div class="container-fluid hgd-profile-box hanoi" data-price="200">
+		<div class="row hgd-profile ">
+			<div class="d-flex align-self-stretch profile-column">
+				<div class="col-xs-4 col-sm-3 col-md-2 col-lg-2 hgd-profile-info hgd-avatar">
+					<img class="img-circle img-responsive center-block hgd-profile-avatar" src="https://www.hocgiday.com/wp-content/uploads/2017/07/30-HN-NgoMaiPhuong-2.jpg" alt="teacher">
+				</div>
+			</div>
+			<div class="d-flex align-self-stretch profile-column">
+				<div class="col-xs-4 col-sm-6 col-md-6 col-lg-6 hgd-profile-info ">
+				<h3 id="ngomaiphuong">Ngô Mai Phương</h3>
+				<p>Địa chỉ: Kim Ngưu, Hai Bà Trưng, thành phố Hà Nội</p>
+				</div>
+			</div>
+			<div class="d-flex align-self-stretch profile-column">
+				<div class="col-xs-4 col-sm-3 col-md-2 col-lg-2 hgd-profile-info ">
+					<h3 id="unit-price">Học phí</h3>
+					<p class="unit-price">200.000 VNĐ/h</p>
+					<h3 id="rating">Đánh Giá</h3>
+					<div class="rating-star-box">
+						<span><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star-o" aria-hidden="true"></i><i class="fa fa-star-o" aria-hidden="true"></i></span>
+						<span class="num-of-rates">3</span>
+					</div>
+				</div>
+			</div>
+			<div class="d-flex align-self-stretch profile-column">
+				<div class="col-xs-12 col-sm-12 col-md-2 col-lg-2 hgd-read-more ngomaiphuong">
+					<span class="read-more ngomaiphuong">&gt;&gt; Tìm hiểu thêm</span>
+				</div>
+			</div>
+		</div> <!-- End Profile row -->
+
+		<!-- Profile Detail -->
+		<div class="row hgd-profile-detail">
+			<div class="row">
+				<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
+					<p><span class="t-heading">Cấp độ giảng dạy</span></p>
+				</div>
+				<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 text-right">
+					<p>Cơ bản</p>
+				</div>
+			</div>
+			<!-- Description -->
+			<div class="row">
+				<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+					<h4>Vài nét về giáo viên</h4>
+					<p>Ngô Mai Phương, tốt nghiệp Cao đẳng Nghệ thuật Hà Nội khoa Keyboard, sau đó tiếp tục Sinh viên năm 3 Học viện âm nhạc Quốc gia Việt Nam. Ngô Mai Phương đi vào hoạt động nghệ thuật, gắn bó với cây đàn Piano từ những năm 2007-2008, tìm hiểu, học tập, rèn luyện, biểu diễn thường xuyên để nâng cao năng lực và trình độ. 
+Với 2 năm dạy tại nhà, những học viên của Ngô Mai Phương chủ yếu là những bạn nhỏ lần đầu tiếp xúc với cây đàn, học từ những điều cơ bản, sơ khai nhất. Thầy tỏ ra rất có duyên với những lớp học này, nhận được rất nhiều sự yêu quý của học sinh và phản hồi tích cực từ phụ huynh. Hiện tại, thầy cũng đang là giáo viên sở hữu những học sinh Piano tài năng nhất Học Gì Đây?.
+					</p>
+				</div>
+			</div>
+
+			<!-- End description -->
+			<!-- Left column at md and lg -->
+			<div class="col-xs-12 col-sm-12 col-md-7 col-lg-7"> 
+				<div class="row">
+					<h4>Học vấn</h4>
+					<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">	
+						<p>Sinh viên năm 3 Học viện âm nhạc Quốc gia Việt Nam</p>
+					</div>
+					
+				</div>
+				<div class="row">
+					<h4>Video</h4>
+					<div class="col-xs-12 col-sm-12 col-md-11 col-lg-11 wrapper wrapper-iframe">
+						<iframe class="wrapper-item wrapper-video" src="" frameborder="0" allowfullscreen></iframe>
+					</div>
+				</div>	
+			</div> <!-- End left column -->
+			
+			<!-- Right column at md and lg -->
+			<div class="col-xs-12 col-sm-12 col-md-5 col-lg-5"> 
+				
+				<div class="row">
+					<div class="col-xs-7 col-sm-7 col-md-7 col-lg-7">
+						<h4>Phạm vi đi lại</h4>
+					</div>
+					<div class="col-xs-5 col-sm-5 col-md-5 col-lg-5 text-right">
+						<p>4km</p>
+					</div>
+				</div>
+				<div class="row">
+					<h4>Học phí</h4>
+					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
+						<p>Tại nhà</p>
+					</div>
+					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 text-right">
+						<p>200.000 VNĐ/h</p>
+					</div>
+					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
+						<p>Tại lớp</p>
+					</div>
+					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 text-right">
+						<p>160.000 VNĐ/h</p>
+					</div>
+				</div>
+				<div class="row">
+					<h4>Lịch giảng dạy của giáo viên</h4>
+					<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+						<table class="table table-bordered">
+			<thead>
+			 <tr>
+				<th></th>
+				<th>T2</th>
+				<th>T3</th>
+				<th>T4</th>
+				<th>T5</th>
+				<th>T6</th>
+				<th>T7</th>
+				<th>CN</th>
+			 </tr>
+			</thead>
+			<tbody>
+			 <tr>
+				<th>Sáng</th>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td class="busy"></td>
+				<td class="busy"></td>
+				<td class="busy"></td>
+				<td></td>
+			 </tr>
+			 <tr>
+				<th>Chiều</th>
+				<td class="busy"></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td class="busy"></td>
+				<td class="busy"></td>
+				<td></td>
+			 </tr>
+			 <tr>
+				<th>Tối</th>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+			 </tr>
+			</tbody>
+		 </table>
+ 
+ 
+					<span class="legend"></span> : Những buổi giáo viên có thể giảng dạy 	
+					</div>
+				</div>
+				<div class="row sign-up">
+					<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+						<button class="btn btn-info btn-lg btn-sign-up center-block dang-ky-ngay" data-toggle="modal" data-target="#myModal" rel="ngomaiphuong">Đăng ký ngay</button>
 					</div>
 				</div>
 			</div>
@@ -4899,10 +4889,12 @@ Với học sinh học cổ nhạc cụ: các bạn sẽ được học về đ�
 <div class="container">
 	<!-- Modal -->
 	<div class="modal fade" id="myModal" role="dialog">
-		<div class="modal-dialog">		
+		<div class="modal-dialog">
+		
 			<!-- Modal content-->
 			<div class="modal-content">
-				<div class="modal-header">					
+				<div class="modal-header">
+					
 					<h3 class="modal-title" id="tName"></h3> 
 				</div>
 				<div class="modal-body">
@@ -4915,7 +4907,7 @@ Với học sinh học cổ nhạc cụ: các bạn sẽ được học về đ�
 						</div>
 						<div class="form-group">
 							<input type="hidden" name="teacher" id="chosen-teacher" class="form-control">
-							<input type="hidden" name="subject" value="guitar">
+							<input type="hidden" name="subject" value="piano">
 						</div>
 						<div class="modal-footer">
 							<button name="send" type="submit" class="btn btn-primary btn-submit">Gửi đi</button>
@@ -4929,8 +4921,7 @@ Với học sinh học cổ nhạc cụ: các bạn sẽ được học về đ�
 
 
 
-</div> <!-- End Profile list -->
-
+</div> <!-- End container -->
 
 <!-- jQuery -->
 <script
@@ -4939,7 +4930,7 @@ Với học sinh học cổ nhạc cụ: các bạn sẽ được học về đ�
 	crossorigin="anonymous">
 </script>
 <!-- JQuery UI -->
-<script src="dist/js/jquery-ui.smoothness/jquery-ui.js" type="text/javascript" charset="utf-8"></script>	
+<script src="dist/js/jquery-ui.smoothness/jquery-ui.min.js" type="text/javascript" charset="utf-8"></script>	
 <!-- Bootstrap JavaScript -->
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
 
