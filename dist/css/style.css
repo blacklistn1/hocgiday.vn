@@ -47,12 +47,24 @@ h1, h2, h3, h4, h5, h6 {
   content: ' <<';
 }
 
+/********** Header CSS ***********/
 .hgd-header {
   position: relative;
-
-  margin-top: 25pt;
-  margin-bottom: 22.25pt;
+  margin-top: 14pt;
 }
+
+/******* Default logo CSS ********/
+.logo-xs {
+  width: 90px;
+  margin: auto;
+  display: block;
+}
+
+.logo-md {
+  width: 322px;
+  display: none;
+}
+/* End logo CSS */
 
 .header-background {
   width: 99%;
@@ -61,6 +73,7 @@ h1, h2, h3, h4, h5, h6 {
   margin: 0 auto;
 }
 
+/******* Slider filer CSS ********/
 .slider-filter {
   padding: 16pt;
   top: 50pt;
@@ -79,187 +92,17 @@ h1, h2, h3, h4, h5, h6 {
   font-weight: bold;
 }
 
+/********* Profile list CSS ********/
+/********* General Info CSS ********/
 #unit-price {
   display: block;
 }
+
 #rating {
   display: none;
 }
 
-@media screen and (min-width: 320px) {
-  .header-text {
-    top: 5%;
-  }
-  #h1 {
-    font-size: 171%;
-  }
-  #h3 {
-    font-size: 114%;
-    font-style: italic;
-    line-height: 140%;
-  }
-  .slider-filter {
-    top: 66.4pt;
-  }  
-  .slider-amount {
-    width: 45%;
-  }
-}
-
-@media screen and (min-width: 375px) {
-  .slider-filter {
-    top: 57.4pt;
-  }
-}
-
-@media screen and (min-width: 425px) {
-  .header-text {
-    top: 10%;
-  }
-  .slider-amount {
-    width: 38%;
-  }
-}
-
-@media screen and (min-width: 768px) {
-  .header-text {
-    top: 19%;
-  }
-  .hgd-heading-highlight {
-    font-size: 170%;
-  }
-  .hgd-heading-highlight-2 {
-    font-size: 140%;
-  }
-  #h1 {
-    font-size: 171%;
-  }
-  #h3 {
-    font-size: 114%;
-  }
-  #unit-price {
-    display: none;
-  }
-  #rating {
-    display: block;
-  }
-
-  .slider-filter {
-    top: 69.3pt;
-  }
-  .slider-amount {
-    width: 20%;
-  }  
-}
-
-@media screen and (min-width: 1024px) {
-  .header-text {
-    top: 26%;
-  }
-  #h1 {
-    font-size: 200%;
-  }
-  #h3{
-    font-size: 166.67%;
-  }
-  .slider-filter {
-    top: 48.3pt;
-  }
-}
-
-@media screen and (min-width: 1366px) {
-  .header-text {
-    top: 33%;
-  }
-  #h1 {
-    font-size: 36px;
-  }
-  #h3{
-    font-size: 24px;
-  }
-
-}
-
-@media screen and (min-width: 1920px) {
-
-  #h1 {
-    font-size: 45px;
-  }
-  #h3 {
-    font-size: 30px;
-  }
-}
-.checkbox {
-  color: #000;
-  font-size: 62.5%;
-  line-height: 2.0em;
-  text-align: center;
-}
-
-#cities {
-  margin-top: 26.25pt;
-  margin-bottom: 26.25pt;
-}
-.checkboxes, .checkboxes:before, .checkboxes:after {
-  -webkit-box-sizing: border-box;
-  box-sizing: border-box;
-}
-
-input[type=checkbox] {
-  opacity: 0;
-  float:left;
-}
-
-input[type=checkbox] + label {
-  margin: 0 0 0 20px;
-  position: relative;
-  cursor: pointer;
-  font-size: 16px;
-  font-family: 'Open Sans', sans-serif;
-}
-
-input[type=checkbox] + label ~ label {
-  margin: 0 0 0 40px;
-}
-
-input[type=checkbox] + label::before {
-  content: ' ';
-  position: absolute;
-  left: -20px;
-  top: -3px;
-  width: 25px;
-  height: 25px;
-  display: block;
-  background: white;
-  border: 1px solid #A9A9A9;
-}
-
-input[type=checkbox] + label::after {
-  content: ' ';
-  position: absolute;
-  left: -20px;
-  top: -3px;
-  width: 23px;
-  height: 23px;
-  display: block;
-  z-index: 1;
-  background: url('data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjE4MS4yIDI3MyAxNyAxNiIgZW5hYmxlLWJhY2tncm91bmQ9Im5ldyAxODEuMiAyNzMgMTcgMTYiPjxwYXRoIGQ9Ik0tMzA2LjMgNTEuMmwtMTEzLTExM2MtOC42LTguNi0yNC04LjYtMzQuMyAwbC01MDYuOSA1MDYuOS0yMTIuNC0yMTIuNGMtOC42LTguNi0yNC04LjYtMzQuMyAwbC0xMTMgMTEzYy04LjYgOC42LTguNiAyNCAwIDM0LjNsMjMxLjIgMjMxLjIgMTEzIDExM2M4LjYgOC42IDI0IDguNiAzNC4zIDBsMTEzLTExMyA1MjQtNTI0YzctMTAuMyA3LTI1LjctMS42LTM2eiIvPjxwYXRoIGZpbGw9IiMzNzM3MzciIGQ9Ik0xOTcuNiAyNzcuMmwtMS42LTEuNmMtLjEtLjEtLjMtLjEtLjUgMGwtNy40IDcuNC0zLjEtMy4xYy0uMS0uMS0uMy0uMS0uNSAwbC0xLjYgMS42Yy0uMS4xLS4xLjMgMCAuNWwzLjMgMy4zIDEuNiAxLjZjLjEuMS4zLjEuNSAwbDEuNi0xLjYgNy42LTcuNmMuMy0uMS4zLS4zLjEtLjV6Ii8+PHBhdGggZD0iTTExODcuMSAxNDMuN2wtNTYuNS01Ni41Yy01LjEtNS4xLTEyLTUuMS0xNy4xIDBsLTI1My41IDI1My41LTEwNi4yLTEwNi4yYy01LjEtNS4xLTEyLTUuMS0xNy4xIDBsLTU2LjUgNTYuNWMtNS4xIDUuMS01LjEgMTIgMCAxNy4xbDExNC43IDExNC43IDU2LjUgNTYuNWM1LjEgNS4xIDEyIDUuMSAxNy4xIDBsNTYuNS01Ni41IDI2Mi0yNjJjNS4yLTMuNCA1LjItMTIgLjEtMTcuMXpNMTYzNC4xIDE2OS40bC0zNy43LTM3LjdjLTMuNC0zLjQtOC42LTMuNC0xMiAwbC0xNjkuNSAxNjkuNS03MC4yLTcxLjljLTMuNC0zLjQtOC42LTMuNC0xMiAwbC0zNy43IDM3LjdjLTMuNCAzLjQtMy40IDguNiAwIDEybDc3LjEgNzcuMSAzNy43IDM3LjdjMy40IDMuNCA4LjYgMy40IDEyIDBsMzcuNy0zNy43IDE3NC43LTE3Ni40YzEuNi0xLjcgMS42LTYuOS0uMS0xMC4zeiIvPjwvc3ZnPg==') no-repeat center center;
-  -ms-transition: all .2s ease;
-  -webkit-transition: all .2s ease;
-  transition: all .3s ease;
-  -ms-transform: scale(0);
-  -webkit-transform: scale(0);
-  transform: scale(0);
-  opacity: 0;
-}
-
-input[type=checkbox]:checked + label::after {
-  -ms-transform: scale(1);
-  -webkit-transform: scale(1);
-  transform: scale(1);
-  opacity: 1;
-}
-
+/* Profile box CSS */
 .hgd-profile {
   border-width: 0;
   border-style: solid;
@@ -352,6 +195,7 @@ input[type=checkbox]:checked + label::after {
   text-decoration: underline;
 }
 
+/******* Profile Detail CSS *******/
 .hgd-profile-detail {
   border-top: 3px solid black;
   border-bottom: 3px solid black;
@@ -364,7 +208,6 @@ input[type=checkbox]:checked + label::after {
 
 .wrapper-iframe {
   padding-top: 56.25%;
-  /* width: 90%; */
 }
 
 .wrapper-item {
@@ -378,9 +221,18 @@ input[type=checkbox]:checked + label::after {
   height: 100%;
 }
 
-.tab-content {
-  padding: 12pt;
+.busy {
+  background-color: #f87311;
 }
+
+.legend {
+  display: inline-block;
+  width: 25pt;
+  height: 18pt;
+  background-color: #f87311;
+}
+
+/******** Modal box CSS ********/
 .t-heading {
   font-size: 130%;
   font-weight: bold;
@@ -404,18 +256,160 @@ input[type=checkbox]:checked + label::after {
   border-color: orange;
 }
 
-#thank-you {
-  color: red;
-  font-size: 130%;
+
+/****** Scaling for responsive ******/
+@media screen and (min-width: 320px) {
+/*   .hgd-heading-highlight {
+    font-size: 78%;
+  } */
+/*   .hgd-heading-highlight a {
+    font-size: 66%;
+  } */
+  .header-text {
+    top: 5%;
+  }
+  #h1 {
+    font-size: 171%;
+  }
+  #h3 {
+    font-size: 114%;
+    font-style: italic;
+    line-height: 140%;
+  }
+  .slider-filter {
+    top: 66.4pt;
+  }
+  .slider-amount {
+    width: 45%;
+  }
 }
 
-.busy {
-  background-color: #f87311;
+@media screen and (min-width: 361px) {
+/*   .slider-filter {
+    top: 51.4pt;
+  } */
 }
 
-.legend {
-  display: inline-block;
-  width: 25pt;
-  height: 18pt;
-  background-color: #f87311;
+@media screen and (min-width: 375px) {
+/*   .slider-filter {
+    top: 57.4pt;
+  } */
+}
+
+@media screen and (min-width: 425px) {
+  .header-text {
+    top: 10%;
+  }
+  .slider-amount {
+    width: 38%;
+  }
+}
+
+@media screen and (min-width: 453px) {
+/*   .slider-filter {
+    top: 51.4pt;
+  } */
+}
+
+@media screen and (min-width: 468px) {
+/*   .slider-filter {
+    top: 42.4pt;
+  } */
+}
+
+@media screen and (min-width: 768px) {
+  .header-text {
+    top: 19%;
+  }
+  .hgd-header {
+    margin-top: 18pt;
+    margin-bottom: 20pt;
+  }
+  .hgd-heading-highlight {
+    font-size: 170%;
+  }
+  .hgd-heading-highlight-2 {
+    font-size: 140%;
+  }
+  #h1 {
+    font-size: 171%;
+  }
+  #h3 {
+    font-size: 114%;
+  }
+  #unit-price {
+    display: none;
+  }
+  #rating {
+    display: block;
+  }
+  .logo-xs {
+    display: none;
+  }
+  .logo-md {
+    display: block;
+  }
+
+/*   .slider-filter {
+    top: 69.3pt;
+  } */
+  .slider-amount {
+    width: 20%;
+  }  
+}
+
+@media screen and (min-width: 805px) {
+/*   .slider-filter {
+    top: 50.2pt;
+  } */
+}
+
+@media screen and (min-width: 863px) {
+/*   .slider-filter {
+    top: 48.4pt;
+  } */
+}
+
+@media screen and (min-width: 1024px) {
+  .header-text {
+    top: 26%;
+  }
+  #h1 {
+    font-size: 200%;
+  }
+  #h3{
+    font-size: 166.67%;
+  }
+/*   .slider-filter {
+    top: 48.3pt;
+  } */
+}
+
+@media screen and (min-width: 1366px) {
+/*   .header-text {
+    top: 33%;
+  } */
+  #h1 {
+    font-size: 36px;
+  }
+  #h3{
+    font-size: 24px;
+  }
+
+}
+
+@media screen and (min-width: 1920px) {
+
+  #h1 {
+    font-size: 45px;
+  }
+  #h3 {
+    font-size: 30px;
+  }
+}
+.checkbox {
+  color: #000;
+  font-size: 62.5%;
+  line-height: 2.0em;
+  text-align: center;
 }

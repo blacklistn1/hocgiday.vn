@@ -1,23 +1,21 @@
 <?php session_start(); ?>
 <?php require_once 'connect_hostvn.php' ?>
 <?php $_SESSION['subject'] = ''; ?>
-<?php $citytag = 'hanoi'; ?>
+<?php $citytag = 'danang'; ?>
 <!DOCTYPE html>
 <html lang="vi">
 <head>
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<title>Tìm giáo viên Piano tại nhà hoặc tại lớp | Học Gì Đây?</title>
-
+	<title>Tìm giáo viên Guitar tại nhà hoặc tại lớp | Học Gì Đây?</title>
+	
 	<!-- Google Tag Manager -->
-	<script>
-		(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-		new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-		j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-		'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-		})(window,document,'script','dataLayer','GTM-KHS4KLP');
-	</script>
+	<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+	new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+	j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+	'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+	})(window,document,'script','dataLayer','GTM-5SQR968');</script>
 	<!-- End Google Tag Manager -->
 
 	<!-- Font Awesome CDN -->
@@ -28,16 +26,15 @@
 
 	<!-- JQuery UI -->
 	<link rel="stylesheet" type="text/css" href="dist/js/jquery-ui.smoothness/jquery-ui.css">
+
 	<!-- Google Fonts -->
 	<link href="https://fonts.googleapis.com/css?family=Montserrat|Open+Sans" rel="stylesheet">
-
-	<!-- MY style -->
 	<link rel="stylesheet" type="text/css" href="dist/css/style.css">
 
 	<style type="text/css" media="screen">
 
 	</style>
-	<!-- Hotjar Tracking Code for www.hocgiday.com/ -->
+	<!-- Hotjar Tracking Code for https://hocgiday.com -->
 	<script>
 		(function(h,o,t,j,a,r){
 			h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
@@ -50,24 +47,25 @@
 	</script>
 
 
-	<!-- Google Analytics Tracking Code for Piano -->
+	<!-- Google Analytics tracking code -->
 	<script>
 		(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
 		(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
 		m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
 		})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
 
-		ga('create', 'UA-85357957-2', 'auto');
+		ga('create', 'UA-85357957-3', 'auto');
 		ga('send', 'pageview');
+
 	</script>
 		
 </head>
 <body onresize ="fixResponsive()">
 
-	<!-- Google Tag Manager (noscript) -->
-	<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KHS4KLP"
-	height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-	<!-- End Google Tag Manager (noscript) -->
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5SQR968"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
 
 <div class="container-fluid sticky" id="contact">
 	<div class="row">
@@ -78,23 +76,12 @@
 	</div>
 </div>
 
-<div class="container">
-	<div class="row">
-		<img src="img/Logo-Mobile.jpg" alt="hocgiday.vn" class="logo-xs">
-		<img src="img/Logo-Tablet-Desktop.jpg" alt="hocgiday.vn" class="logo-md">
-	</div>
-	<div class="row">
-	</div>
-</div>
-
 <div class="container-fluid hgd-header">
 	<div class="text-center hgd-header">
-		<h1 id="h1">BẠN MUỐN HỌC PIANO?</h1>
-		<h3 id="h3">LỰA CHỌN GIỮA HÀNG CHỤC GIÁO VIÊN PIANO TẠI HÀ NỘI</h3>
+		<h1 id="h1">BẠN MUỐN HỌC GUITAR?</h1>
+		<h3 id="h3">LỰA CHỌN GIỮA HÀNG CHỤC GIÁO VIÊN GUITAR TẠI ĐÀ NẴNG</h3>
 	</div>
 </div>
-
-
 
 <!-- Slider filter -->
 <div class="container-fluid slider-filter sticky">
@@ -105,12 +92,11 @@
 		<label for="price">Khoảng học phí: </label>
 		<input id="amount" type="text" name="price" value="" disabled="disabled" class="slider-amount"> đồng/h
 	</div>
-
 </div>
 
 <!-- Profile List -->
 <div class="container hgd-container">
-<?php $sql = "SELECT * FROM teachers_piano WHERE `citytag` = '{$citytag}' ORDER BY `teachers_piano`.`rating` DESC, `teachers_piano`.`so_nguoi_danh_gia` DESC"; ?>
+<?php $sql = "SELECT * FROM teachers_guitar WHERE `citytag` = '{$citytag}' ORDER BY `teachers_guitar`.`rating` DESC, `teachers_guitar`.`so_nguoi_danh_gia` DESC"; ?>
 <?php $result = mysqli_query($conn,$sql) ?>
 <?php if ($result != NULL) {?>
 	<?php while($rec = mysqli_fetch_assoc($result)) {?>
@@ -263,24 +249,24 @@
 							<input type="text" name="tel" class="form-control mailing-info" placeholder="Số điện thoại" required="required">
 						</div>
 						<div class="form-group">
-							<label>Bạn muốn học tại: </label>
-							<label class="checkbox-inline"><input type="checkbox" name="learn-at[]" class="" checked="checked" value="Tại nhà"> Tại nhà</label>
-							<label class="checkbox-inline"><input type="checkbox" name="learn-at[]" class="" checked="checked" value="Tại lớp"> Tại lớp</label>
+								<label>Bạn muốn học tại: </label>
+								<label class="checkbox-inline"><input type="checkbox" name="learn-at[]" class="" checked="checked" value="Tại nhà"> Tại nhà</label>
+								<label class="checkbox-inline"><input type="checkbox" name="learn-at[]" class="" checked="checked" value="Tại lớp"> Tại lớp</label>
 						</div>
 						<div class="form-group">
-							<label>Vào thời gian: </label><br>
-							<label class="checkbox-inline"><input type="checkbox" name="learn-day[]" class="" checked="checked" value="T2"> T2</label>
-							<label class="checkbox-inline"><input type="checkbox" name="learn-day[]" class="" checked="checked" value="T3"> T3</label>
-							<label class="checkbox-inline"><input type="checkbox" name="learn-day[]" class="" checked="checked" value="T4"> T4</label>
-							<label class="checkbox-inline"><input type="checkbox" name="learn-day[]" class="" checked="checked" value="T5"> T5</label>
-							<label class="checkbox-inline"><input type="checkbox" name="learn-day[]" class="" checked="checked" value="T6"> T6</label>
-							<label class="checkbox-inline"><input type="checkbox" name="learn-day[]" class="" checked="checked" value="T7"> T7</label>
-							<label class="checkbox-inline"><input type="checkbox" name="learn-day[]" class="" checked="checked" value="CN"> CN</label>
+								<label>Vào thời gian: </label><br>
+								<label class="checkbox-inline"><input type="checkbox" name="learn-day[]" class="" checked="checked" value="T2"> T2</label>
+								<label class="checkbox-inline"><input type="checkbox" name="learn-day[]" class="" checked="checked" value="T3"> T3</label>
+								<label class="checkbox-inline"><input type="checkbox" name="learn-day[]" class="" checked="checked" value="T4"> T4</label>
+								<label class="checkbox-inline"><input type="checkbox" name="learn-day[]" class="" checked="checked" value="T5"> T5</label>
+								<label class="checkbox-inline"><input type="checkbox" name="learn-day[]" class="" checked="checked" value="T6"> T6</label>
+								<label class="checkbox-inline"><input type="checkbox" name="learn-day[]" class="" checked="checked" value="T7"> T7</label>
+								<label class="checkbox-inline"><input type="checkbox" name="learn-day[]" class="" checked="checked" value="CN"> CN</label>
 						</div>
 						<div class="form-group">
 							<input type="hidden" name="teacher" id="chosen-teacher" class="form-control">
-							<input type="hidden" name="subject" value="piano">
-							<input type="hidden" name="city" value="Hà Nội">
+							<input type="hidden" name="subject" value="guitar">
+							<input type="hidden" name="city" value="Đà Nẵng">
 						</div>
 						<div class="modal-footer">
 							<button name="send" type="submit" class="btn btn-primary btn-submit">Gửi đi</button>
@@ -308,6 +294,7 @@
 
 </div> <!-- End Profile list -->
 
+
 <!-- jQuery -->
 <script
 	src="https://code.jquery.com/jquery-3.2.1.js"
@@ -321,5 +308,6 @@
 
 <!-- MY script -->
 <script src="dist/js/app.js" type="text/javascript" charset="utf-8"></script>
+
 </body>
 </html>

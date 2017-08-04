@@ -10,6 +10,12 @@ $(document).ready(function() {
 			$("." + $(this).val()).show();
 		});
 	});
+	$("#district :checkbox").click(function() {
+		$(".hgd-profile-box").hide();
+		$("#district :checkbox:checked").each(function() {
+			$("." + $(this).val()).show();
+		});
+	});	
 	$(".btn-sign-up").click(function() {
 		$("#thank-you").hide();
 		var rel = $(this).attr("rel");
@@ -49,6 +55,11 @@ $(document).ready(function() {
 			$("#slider-info *").val(ui.values[0] + " 000 - " + ui.values[1] + " 000");
 		}
 	});
+	$('.p-read-more-content').hide();
+	$('.p-read-more').click(function() {
+		$(this).next("p").slideToggle();
+	});
+	fixResponsive();
 });
 
 function filterSystem(minPrice, maxPrice) {
@@ -56,4 +67,9 @@ function filterSystem(minPrice, maxPrice) {
 		var price = parseInt($(this).data("price"), 10);
 		return price >= minPrice && price <= maxPrice;
 	}).show();
+}
+
+function fixResponsive() {
+	var h = $('#contact').height() - 0.4;
+	$('.slider-filter').css('top',h);
 }

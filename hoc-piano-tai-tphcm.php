@@ -1,7 +1,7 @@
 <?php session_start(); ?>
 <?php require_once 'connect_hostvn.php' ?>
 <?php $_SESSION['subject'] = ''; ?>
-<?php $citytag = 'hanoi'; ?>
+<?php $citytag = 'tphcm'; ?>
 <!DOCTYPE html>
 <html lang="vi">
 <head>
@@ -11,13 +11,11 @@
 	<title>Tìm giáo viên Piano tại nhà hoặc tại lớp | Học Gì Đây?</title>
 
 	<!-- Google Tag Manager -->
-	<script>
-		(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-		new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-		j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-		'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-		})(window,document,'script','dataLayer','GTM-KHS4KLP');
-	</script>
+	<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+	new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+	j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+	'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+	})(window,document,'script','dataLayer','GTM-KHS4KLP');</script>
 	<!-- End Google Tag Manager -->
 
 	<!-- Font Awesome CDN -->
@@ -90,7 +88,7 @@
 <div class="container-fluid hgd-header">
 	<div class="text-center hgd-header">
 		<h1 id="h1">BẠN MUỐN HỌC PIANO?</h1>
-		<h3 id="h3">LỰA CHỌN GIỮA HÀNG CHỤC GIÁO VIÊN PIANO TẠI HÀ NỘI</h3>
+		<h3 id="h3">LỰA CHỌN GIỮA HÀNG CHỤC GIÁO VIÊN PIANO TẠI THÀNH PHỐ HỒ CHÍ MINH</h3>
 	</div>
 </div>
 
@@ -280,7 +278,7 @@
 						<div class="form-group">
 							<input type="hidden" name="teacher" id="chosen-teacher" class="form-control">
 							<input type="hidden" name="subject" value="piano">
-							<input type="hidden" name="city" value="Hà Nội">
+							<input type="hidden" name="city" value="TP. Hồ Chí Minh">
 						</div>
 						<div class="modal-footer">
 							<button name="send" type="submit" class="btn btn-primary btn-submit">Gửi đi</button>

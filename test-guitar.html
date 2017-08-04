@@ -65,18 +65,16 @@
 </div>
 
 
-<div data-role="page" data-theme="a">
-	<div data-role="content" data-theme="a">
-	<!-- Slider filter -->
-	<div data-role="rangeslider">
-		<label for="range-1a">Rangeslider:</label>
-		<input type="range" name="range-1a" id="range-1a" min="1" max="600" value="100" onchange="filterPrice()">
-		<label for="range-1b">Rangeslider:</label>
-		<input type="range" name="range-1b" id="range-1b" min="1" max="600" value="600" onchange="filterPrice()">
+<!-- Slider filter -->
+<div class="container-fluid slider-filter sticky">
+	<div class="row">
+		<div class="slider-container center-block" id="price-slider"></div>
 	</div>
+	<div class="row text-center slider-info">
+		<label for="price">Khoảng học phí: </label>
+		<input id="amount" type="text" name="price" value="" disabled="disabled" class="slider-amount"> đồng/h
 	</div>
 </div>
-
 
 <div class="container hgd-container">
 
@@ -271,17 +269,19 @@
 </div>
 
 
-<!-- MY script -->
-<script type="text/javascript" charset="utf-8" async>
-	function filterPrice() {
-	var min = $("#range-1a").val();
-	var max = $("#range-1b").val();		
-	$(".div-content").hide().filter(function() {
-		var amount = parseInt($(this).data("amount"), 10);
-		return amount >= min && amount <= max;
-	}).show();	
-}
-</script>
+	<!-- jQuery -->
+	<script src="https://code.jquery.com/jquery-1.11.1.min.js"></script>
+	<!-- Bootstrap JavaScript -->
+	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+
+	<!-- JQuery Mobile -->
+	<script src="https://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.js"></script>
+
+	<!-- JQuery UI -->
+	<script src="dist/js/jquery-ui.smoothness/jquery-ui.js" type="text/javascript" charset="utf-8"></script>
+	<!-- MY script -->
+	<script src="dist/js/app.js" type="text/javascript" charset="utf-8"></script>
+
 
 
 
