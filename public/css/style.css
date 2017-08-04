@@ -1,0 +1,268 @@
+button {
+    padding: 10px 90px;
+    background-color: #e6464c;
+    color: white;
+    border-color: transparent;
+    border-radius: 10px;
+}
+/* body{
+    font-family: trade-gothic-no-2-bold-1361519963;
+} */
+
+.header1 img{
+	margin: 15px 0;
+}
+
+.header2 button {
+    margin: 7px 0;
+}
+.header2 .btn{
+    float: right;
+    padding: 6px 0;
+}
+.carousel-inner > .item > a > img, .carousel-inner > .item > img, .img-responsive, .thumbnail a > img, .thumbnail > img {
+    display: block;
+    max-width: 100%;
+    height: auto;
+    width: 100%;
+}
+.bg {
+    position: absolute;
+    background-color: black;
+    width: 100%;
+    height: 100%;
+    bottom: 0;
+    opacity: 0.3;
+}
+
+.hero p{
+    text-align: center;
+    font-size: 55px;
+    color: white;
+    padding-bottom: 30px;
+}
+.hero {
+    position: absolute;
+    bottom: 30px;
+    left: 45px;
+    width: 100%;
+}
+
+.banner {
+    padding-top: 96px;
+}
+
+.btn button p {
+    font-size: 24px;
+    line-height: 22px;
+    margin: 0;
+    font-weight: bold;
+}
+
+.carousel-indicators {
+    left: 120%;
+    width: 80px;
+}
+
+
+.noidung {
+    text-align: center;
+    padding: 70px 0;
+}
+
+.congdong {
+    text-align: center;
+    padding: 30px 0 60px;
+}
+
+.congdong img {
+    padding: 50px 0;
+    width: 100%;
+}
+
+
+.title p {
+    font-size: 30px;
+    margin-bottom: 60px;
+    font-weight: bold;
+}
+
+.border-bt {
+    width: 200px;
+    border: 1px solid black;
+    display: inline-block;
+}
+.nd .p1 {
+    width: 61%;
+    display: inline-block;
+    font-weight: bold;
+    margin: 30px 0;
+}
+.congdong p {
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.nd .p2 {
+    font-weight: bold;
+    font-size: 24px;
+    margin: 50px 0 10px 0;
+}
+
+.footer {
+    background: url('../images/banner-6.png') no-repeat center;
+    padding: 70px 0;
+}
+
+
+.ftp p{
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.ftp{
+    padding-top: 50px;
+}
+.banner-tt{
+    position: absolute;
+    bottom: 200px;
+    text-align: center;
+    width: 100%;
+    display: inline-block;
+}
+
+.banner-tt h1 {
+    font-size: 50px;
+    padding: 25px;
+    border: 4px solid white;
+    border-radius: 10px;
+    color: white;
+    display: inline-block;
+    margin-bottom: 50px;
+    width: 80%;
+}
+
+/* .btn{
+    width: 100%;
+    display: inline-block;
+} */
+.header.navbar-fixed-top {
+    background-color: white;
+    opacity: 0.8;
+}
+
+
+@media screen and (max-width: 1199px) {
+
+}
+
+@media screen and (max-width: 991px) {
+
+    .nd .p2 {
+    font-size: 19px;
+}
+
+.container{
+    width: 100%;
+}
+
+}
+@media screen and (max-width: 767px) {
+    button {
+    padding: 10px 50px;
+}
+.banner-tt {
+    bottom: 90px;
+    }
+
+.banner-tt h1 {
+    font-size: 25px;
+    padding: 25px;
+    margin-bottom: 20px;
+}
+.carousel-indicators {
+    left: 119%;
+    }
+    .title p {
+    font-size: 25px;
+}
+.nd .p1 {
+    width: 88%;
+}
+.border-bt {
+    width: 170px;
+}
+.nd .p2 {
+    font-size: 14px;
+}
+.ftp p {
+    font-size: 16px;
+}
+.congdong p {
+    font-size: 24px;
+}
+
+}
+@media screen and (max-width: 480px) {
+    .congdong p {
+    font-size: 18px;
+}
+.nd {
+    padding: 0 5px;
+}
+.nd .p1 {
+    width: 79%;
+}
+.banner-tt .btn {
+    display: none;
+}
+.banner-tt h1 {
+    font-size: 20px;
+}
+.banner-tt {
+    bottom: 40px;
+}
+
+}
+@media screen and (max-width: 414px) {
+    .congdong p {
+    font-size: 17px;
+}
+.banner-tt .btn {
+    display: none;
+}
+.nd {
+    padding: 0 5px;
+}
+.title p {
+    font-size: 20px;
+}
+
+}
+@media screen and (max-width: 375px) {
+    .title p {
+    font-size: 19px;
+}
+.congdong p {
+    font-size: 15px;
+}
+
+.banner{
+    display: none;
+}
+.banner-tt .btn {
+    display: none;
+}
+.nd {
+    padding: 0 5px;
+}
+.nd .p1 {
+    width: 80%;
+}
+
+}
+@media screen and (max-width: 360px) {
+    .banner-tt .btn {
+    display: none;
+}
+}
